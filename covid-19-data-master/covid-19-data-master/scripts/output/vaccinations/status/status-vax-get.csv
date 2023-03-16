@@ -1,0 +1,275 @@
+module,execution_time (sec),success,timestamp,error,error_short
+cowidev.vax.batch.argentina,14.16,True,2023-03-10T07:00:21,,
+cowidev.vax.batch.australia,0.38,False,2023-03-10T07:03:20,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 46, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/australia.py"", line 244, in main
+    Australia().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/australia.py"", line 216, in export
+    df = self.read().pipe(self.pipeline)  # Use with attach=False
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/australia.py"", line 160, in pipeline
+    .pipe(self.make_monotonic)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/utils/base.py"", line 120, in make_monotonic
+    return mkm(
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/utils.py"", line 23, in make_monotonic
+    return make_monotonic_new(df, column_date, column_metrics, max_removed_rows)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/utils.py"", line 94, in make_monotonic_new
+    raise Exception(
+Exception: 1 chunks of lengths 16 have been NaNed for metric people_vaccinated. That is more than maximum allowed (10) by make_monotonic() - check the data. Check dates ['2023-02-23']
+",1 chunks of lengths 16 have been NaNed for metric people_vaccinated. That is more than maximum allowed (10) by make_monotonic() - check the data. Check dates ['2023-02-23']
+cowidev.vax.batch.austria_old,,,2023-03-10T07:00:06,,
+cowidev.vax.batch.belgium,9.89,True,2023-03-10T07:00:16,,
+cowidev.vax.batch.bolivia,3.93,True,2023-03-10T07:00:10,,
+cowidev.vax.batch.canada,8.87,False,2023-03-10T07:03:29,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 46, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/canada.py"", line 282, in main
+    Canada().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/canada.py"", line 270, in export
+    df = df.pipe(self.pipeline, df_man)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/canada.py"", line 250, in pipeline
+    .pipe(self.pipe_make_monotonic)[
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/canada.py"", line 230, in pipe_make_monotonic
+    df = df.pipe(self.make_monotonic, max_removed_rows=self.max_removed_rows)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/utils/base.py"", line 120, in make_monotonic
+    return mkm(
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/utils.py"", line 23, in make_monotonic
+    return make_monotonic_new(df, column_date, column_metrics, max_removed_rows)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/utils.py"", line 94, in make_monotonic_new
+    raise Exception(
+Exception: 1 chunks of lengths 36 have been NaNed for metric people_vaccinated. That is more than maximum allowed (22) by make_monotonic() - check the data. Check dates ['2023-01-26']
+",1 chunks of lengths 36 have been NaNed for metric people_vaccinated. That is more than maximum allowed (22) by make_monotonic() - check the data. Check dates ['2023-01-26']
+cowidev.vax.batch.chile,1.4,True,2023-03-10T07:00:08,,
+cowidev.vax.batch.czechia,33.28,True,2023-03-10T07:00:40,,
+cowidev.vax.batch.denmark,93.86,True,2023-03-10T07:01:40,,
+cowidev.vax.batch.ecdc,98.37,True,2023-03-10T07:01:45,,
+cowidev.vax.batch.ecuador,,,2023-03-10T07:00:06,,
+cowidev.vax.batch.estonia,0.64,True,2023-03-10T07:00:07,,
+cowidev.vax.batch.france,8.14,True,2023-03-10T07:00:15,,
+cowidev.vax.batch.germany,0.22,True,2023-03-10T07:00:07,,
+cowidev.vax.batch.greece,14.11,True,2023-03-10T07:00:21,,
+cowidev.vax.batch.hong_kong,15.73,True,2023-03-10T07:00:22,,
+cowidev.vax.batch.indonesia,,,2023-03-10T07:00:06,,
+cowidev.vax.batch.ireland,4.87,True,2023-03-10T07:00:11,,
+cowidev.vax.batch.israel,10.08,True,2023-03-10T07:00:17,,
+cowidev.vax.batch.italy,9.23,True,2023-03-10T07:00:16,,
+cowidev.vax.batch.japan,17.18,False,2023-03-10T07:03:46,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 46, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/japan.py"", line 370, in main
+    Japan().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/japan.py"", line 354, in export
+    df = self.read().pipe(self.pipeline_base)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/japan.py"", line 71, in read
+    df_latest = self.read_latest().pipe(self.pipe_read_latest)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/japan.py"", line 100, in read_latest
+    self._read_latest_booster(),
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/japan.py"", line 210, in _read_latest_booster
+    df = self._read_xlsx(
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/japan.py"", line 246, in _read_xlsx
+    df_ = self._parse_df(df, formatting[""date""], ind, formatting[""metrics""])
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/japan.py"", line 275, in _parse_df
+    df_ = df[tuple(ind + index)].stack().reset_index()
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5487, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'Series' object has no attribute 'stack'
+",'Series' object has no attribute 'stack'
+cowidev.vax.batch.jersey,5.42,True,2023-03-10T07:00:12,,
+cowidev.vax.batch.latvia,81.5,True,2023-03-10T07:01:28,,
+cowidev.vax.batch.lithuania,5.33,True,2023-03-10T07:00:12,,
+cowidev.vax.batch.luxembourg,3.15,True,2023-03-10T07:00:10,,
+cowidev.vax.batch.malaysia,0.91,True,2023-03-10T07:00:07,,
+cowidev.vax.batch.malta,1.3,True,2023-03-10T07:00:08,,
+cowidev.vax.batch.netherlands,,,2023-03-10T07:00:06,,
+cowidev.vax.batch.new_zealand,12.91,True,2023-03-10T07:00:19,,
+cowidev.vax.batch.norway,0.48,True,2023-03-10T07:00:07,,
+cowidev.vax.batch.peru,5.01,True,2023-03-10T07:00:11,,
+cowidev.vax.batch.portugal,,,2023-03-10T07:00:06,,
+cowidev.vax.batch.romania,33.54,True,2023-03-10T07:00:40,,
+cowidev.vax.batch.saudi_arabia,10.43,True,2023-03-10T07:00:17,,
+cowidev.vax.batch.singapore,5.19,True,2023-03-10T07:00:12,,
+cowidev.vax.batch.slovakia,61.09,True,2023-03-10T07:01:08,,
+cowidev.vax.batch.slovenia,3.58,True,2023-03-10T07:00:10,,
+cowidev.vax.batch.south_korea,81.48,True,2023-03-10T07:01:28,,
+cowidev.vax.batch.spc,19.51,True,2023-03-10T07:00:27,,
+cowidev.vax.batch.sweden,12.05,True,2023-03-10T07:00:19,,
+cowidev.vax.batch.switzerland,95.64,True,2023-03-10T07:01:43,,
+cowidev.vax.batch.trinidad_and_tobago,3.62,True,2023-03-10T07:00:11,,
+cowidev.vax.batch.ukraine,,,2023-03-10T07:00:10,,
+cowidev.vax.batch.united_kingdom,5.91,False,2023-03-10T07:03:52,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 46, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/united_kingdom.py"", line 122, in main
+    UnitedKingdom().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/united_kingdom.py"", line 110, in export
+    df = df.pipe(self.make_monotonic, max_removed_rows=max_removed_rows_dict[location])
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/utils/base.py"", line 120, in make_monotonic
+    return mkm(
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/utils.py"", line 23, in make_monotonic
+    return make_monotonic_new(df, column_date, column_metrics, max_removed_rows)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/utils.py"", line 94, in make_monotonic_new
+    raise Exception(
+Exception: 1 chunks of lengths 307 have been NaNed for metric total_boosters. That is more than maximum allowed (300) by make_monotonic() - check the data. Check dates ['2023-03-02']
+",1 chunks of lengths 307 have been NaNed for metric total_boosters. That is more than maximum allowed (300) by make_monotonic() - check the data. Check dates ['2023-03-02']
+cowidev.vax.batch.united_states,95.42,True,2023-03-10T07:01:46,,
+cowidev.vax.batch.uruguay,6.88,True,2023-03-10T07:00:17,,
+cowidev.vax.batch.zimbabwe,1.53,True,2023-03-10T07:00:12,,
+cowidev.vax.incremental.africacdc,,,2023-03-10T07:00:11,,
+cowidev.vax.incremental.antigua_barbuda,,,2023-03-10T07:00:11,,
+cowidev.vax.incremental.aruba,2.86,True,2023-03-10T07:00:14,,
+cowidev.vax.incremental.austria,,,2023-03-10T07:00:11,,
+cowidev.vax.incremental.azerbaijan,,,2023-03-10T07:00:11,,
+cowidev.vax.incremental.bahrain,,,2023-03-10T07:00:11,,
+cowidev.vax.incremental.bangladesh,39.46,True,2023-03-10T07:00:51,,
+cowidev.vax.incremental.barbados,,,2023-03-10T07:00:11,,
+cowidev.vax.incremental.brazil,2.01,True,2023-03-10T07:00:13,,
+cowidev.vax.incremental.bulgaria,7.66,True,2023-03-10T07:00:19,,
+cowidev.vax.incremental.china,19.32,True,2023-03-10T07:00:31,,
+cowidev.vax.incremental.costa_rica,,,2023-03-10T07:00:12,,
+cowidev.vax.incremental.croatia,2.46,True,2023-03-10T07:00:14,,
+cowidev.vax.incremental.cuba,7.69,True,2023-03-10T07:00:20,,
+cowidev.vax.incremental.curacao,1.6,True,2023-03-10T07:00:15,,
+cowidev.vax.incremental.cyprus,2.16,True,2023-03-10T07:00:16,,
+cowidev.vax.incremental.dominican_republic,22.62,False,2023-03-10T07:04:15,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 46, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/dominican_republic.py"", line 113, in main
+    DominicanRepublic().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/dominican_republic.py"", line 68, in export
+    data = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/dominican_republic.py"", line 26, in read
+    metrics = self._parse_metrics(driver)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/dominican_republic.py"", line 35, in _parse_metrics
+    metric_candidates = _find_potential_metrics(driver)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/dominican_republic.py"", line 92, in _find_potential_metrics
+    h3 = _find_h3(driver)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/dominican_republic.py"", line 82, in _find_h3
+    raise ValueError(""More than one element found!"")
+ValueError: More than one element found!
+",More than one element found!
+cowidev.vax.incremental.el_salvador,7.93,True,2023-03-10T07:00:23,,
+cowidev.vax.incremental.faeroe_islands,1.1,True,2023-03-10T07:00:16,,
+cowidev.vax.incremental.fiji,0.0,True,2023-03-10T07:00:16,,
+cowidev.vax.incremental.finland,0.8,True,2023-03-10T07:00:16,,
+cowidev.vax.incremental.gabon,,,2023-03-10T07:00:16,,
+cowidev.vax.incremental.georgia,4.89,True,2023-03-10T07:00:21,,
+cowidev.vax.incremental.greenland,1.05,False,2023-03-10T07:04:16,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 46, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/greenland.py"", line 76, in main
+    Greenland().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/greenland.py"", line 63, in export
+    data = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/greenland.py"", line 17, in read
+    data = self._parse_data(soup)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/greenland.py"", line 21, in _parse_data
+    return {**self._parse_data_metrics(soup), **self._parse_data_date(soup)}
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/greenland.py"", line 31, in _parse_data_metrics
+    assert len(counter_1) == len(counter_2) == 1
+AssertionError
+",
+cowidev.vax.incremental.guatemala,,,2023-03-10T07:00:16,,
+cowidev.vax.incremental.guernsey,5.29,True,2023-03-10T07:00:22,,
+cowidev.vax.incremental.hungary,87.01,True,2023-03-10T07:01:43,,
+cowidev.vax.incremental.iceland,1.86,True,2023-03-10T07:00:18,,
+cowidev.vax.incremental.india,5.03,True,2023-03-10T07:00:22,,
+cowidev.vax.incremental.iran,,,2023-03-10T07:00:17,,
+cowidev.vax.incremental.isle_of_man,2.34,True,2023-03-10T07:00:20,,
+cowidev.vax.incremental.jamaica,7.1,True,2023-03-10T07:00:25,,
+cowidev.vax.incremental.kazakhstan,6.02,True,2023-03-10T07:00:25,,
+cowidev.vax.incremental.kosovo,0.21,False,2023-03-10T07:04:16,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 46, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/kosovo.py"", line 82, in main
+    Kosovo().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/kosovo.py"", line 77, in export
+    df = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/kosovo.py"", line 22, in read
+    soup = get_soup(self.source_url, verify=False)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 83, in get_soup
+    response = get_response(source, request_method, use_proxy, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 52, in get_response
+    raise ValueError(
+ValueError: Source https://msh.rks-gov.net/sq/statistikat-covid-19/ not reached! Error code 404 Not Found
+",Source https://msh.rks-gov.net/sq/statistikat-covid-19/ not reached! Error code 404 Not Found
+cowidev.vax.incremental.kyrgyzstan,4.02,True,2023-03-10T07:00:23,,
+cowidev.vax.incremental.laos,5.42,True,2023-03-10T07:00:25,,
+cowidev.vax.incremental.macao,11.66,True,2023-03-10T07:00:32,,
+cowidev.vax.incremental.moldova,,,2023-03-10T07:00:20,,
+cowidev.vax.incremental.monaco,89.77,True,2023-03-10T07:01:50,,
+cowidev.vax.incremental.mongolia,1.07,True,2023-03-10T07:00:22,,
+cowidev.vax.incremental.montenegro,0.78,True,2023-03-10T07:00:21,,
+cowidev.vax.incremental.morocco,,,2023-03-10T07:00:21,,
+cowidev.vax.incremental.myanmar,,,2023-03-10T07:00:21,,
+cowidev.vax.incremental.nepal,,,2023-03-10T07:00:21,,
+cowidev.vax.incremental.north_macedonia,,,2023-03-10T07:00:21,,
+cowidev.vax.incremental.northern_cyprus,4.25,True,2023-03-10T07:00:25,,
+cowidev.vax.incremental.paho,138.77,False,2023-03-10T07:06:35,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 46, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/paho.py"", line 195, in main
+    PAHO().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/paho.py"", line 190, in export
+    df = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/paho.py"", line 37, in read
+    df = self._parse_data(url)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/paho.py"", line 64, in _parse_data
+    filename = self._get_downloaded_filename()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/paho.py"", line 116, in _get_downloaded_filename
+    return max(files, key=os.path.getctime)
+ValueError: max() arg is an empty sequence
+",max() arg is an empty sequence
+cowidev.vax.incremental.pakistan,,,2023-03-10T07:00:21,,
+cowidev.vax.incremental.philippines,,,2023-03-10T07:00:21,,
+cowidev.vax.incremental.poland,1.33,True,2023-03-10T07:00:23,,
+cowidev.vax.incremental.qatar,,,2023-03-10T07:00:22,,
+cowidev.vax.incremental.russia,30.71,True,2023-03-10T07:00:52,,
+cowidev.vax.incremental.saint_lucia,,,2023-03-10T07:00:22,,
+cowidev.vax.incremental.serbia,10.77,True,2023-03-10T07:00:32,,
+cowidev.vax.incremental.south_africa,,,2023-03-10T07:00:22,,
+cowidev.vax.incremental.spain,10.08,True,2023-03-10T07:00:32,,
+cowidev.vax.incremental.sri_lanka,,,2023-03-10T07:00:22,,
+cowidev.vax.incremental.suriname,14.41,True,2023-03-10T07:00:37,,
+cowidev.vax.incremental.taiwan,21.15,True,2023-03-10T07:00:44,,
+cowidev.vax.incremental.thailand,7.07,True,2023-03-10T07:00:30,,
+cowidev.vax.incremental.turkey,12.42,False,2023-03-10T07:06:47,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 46, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/turkey.py"", line 60, in main
+    data = read(source).pipe(pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/turkey.py"", line 19, in read
+    soup = get_soup(source)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 83, in get_soup
+    response = get_response(source, request_method, use_proxy, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 52, in get_response
+    raise ValueError(
+ValueError: Source https://covid19asi.saglik.gov.tr/ not reached! Error code 504 Gateway Timeout
+",Source https://covid19asi.saglik.gov.tr/ not reached! Error code 504 Gateway Timeout
+cowidev.vax.incremental.united_arab_emirates,,,2023-03-10T07:00:25,,
+cowidev.vax.incremental.vietnam,,,2023-03-10T07:00:25,,
+cowidev.vax.incremental.who,47.02,True,2023-03-10T07:01:12,,
+cowidev.vax.incremental.zambia,1.04,True,2023-03-10T07:00:26,,

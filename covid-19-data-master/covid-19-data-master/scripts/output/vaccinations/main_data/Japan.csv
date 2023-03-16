@@ -1,0 +1,733 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Japan,2021-02-17,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,125,125,0,0
+Japan,2021-02-18,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,611,611,0,0
+Japan,2021-02-19,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,5039,5039,0,0
+Japan,2021-02-22,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,11934,11934,0,0
+Japan,2021-02-24,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,17888,17888,0,0
+Japan,2021-02-25,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,21896,21896,0,0
+Japan,2021-02-26,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,28530,28530,0,0
+Japan,2021-03-01,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,31785,31785,0,0
+Japan,2021-03-02,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,34772,34772,0,0
+Japan,2021-03-03,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,37303,37303,0,0
+Japan,2021-03-04,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,39174,39174,0,0
+Japan,2021-03-05,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,46469,46469,0,0
+Japan,2021-03-08,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,70796,70796,0,0
+Japan,2021-03-09,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,107558,107558,0,0
+Japan,2021-03-10,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,148950,148915,35,0
+Japan,2021-03-11,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,181184,180741,443,0
+Japan,2021-03-12,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,230542,227194,3348,0
+Japan,2021-03-15,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,290275,282398,7877,0
+Japan,2021-03-16,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,359191,349844,9347,0
+Japan,2021-03-17,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,437485,423196,14289,0
+Japan,2021-03-18,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,508702,490413,18289,0
+Japan,2021-03-19,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,578835,553454,25381,0
+Japan,2021-03-22,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,652698,623569,29129,0
+Japan,2021-03-23,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,699126,667370,31756,0
+Japan,2021-03-24,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,741180,706101,35079,0
+Japan,2021-03-25,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,775122,737672,37450,0
+Japan,2021-03-26,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,822869,781665,41204,0
+Japan,2021-03-29,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,890662,825704,64958,0
+Japan,2021-03-30,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,949731,852946,96785,0
+Japan,2021-03-31,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,1002739,877159,125580,0
+Japan,2021-04-01,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,1050112,893315,156797,0
+Japan,2021-04-02,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,1096698,913341,183357,0
+Japan,2021-04-05,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,1196884,956638,240246,0
+Japan,2021-04-06,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,1288566,996058,292508,0
+Japan,2021-04-07,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,1393108,1036429,356679,0
+Japan,2021-04-08,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,1487606,1066385,421221,0
+Japan,2021-04-09,Pfizer/BioNTech,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html,1592517,1101698,490819,0
+Japan,2021-04-12,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,1694172,1133267,560905,0
+Japan,2021-04-13,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,1752494,1151499,600995,0
+Japan,2021-04-14,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,1808817,1166395,642422,0
+Japan,2021-04-15,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,1870297,1191892,678405,0
+Japan,2021-04-16,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,1950788,1232392,718396,0
+Japan,2021-04-17,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,1958476,1240080,718396,0
+Japan,2021-04-18,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,1966907,1248511,718396,0
+Japan,2021-04-19,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,2116870,1344167,772703,0
+Japan,2021-04-20,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,2291241,1490741,800500,0
+Japan,2021-04-21,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,2501405,1674209,827196,0
+Japan,2021-04-22,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,2706869,1857818,849051,0
+Japan,2021-04-23,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,2936338,2057604,878734,0
+Japan,2021-04-24,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,2971838,2093104,878734,0
+Japan,2021-04-25,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,2997347,2118613,878734,0
+Japan,2021-04-26,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,3316673,2396288,920385,0
+Japan,2021-04-27,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,3594320,2642830,951490,0
+Japan,2021-04-28,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,3913585,2917827,995758,0
+Japan,2021-04-29,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,3933913,2938155,995758,0
+Japan,2021-04-30,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,4270125,3227127,1042998,0
+Japan,2021-05-01,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,4310673,3267675,1042998,0
+Japan,2021-05-02,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,4338023,3295025,1042998,0
+Japan,2021-05-03,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,4346291,3302492,1043799,0
+Japan,2021-05-04,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,4355534,3311036,1044498,0
+Japan,2021-05-05,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,4366333,3320928,1045405,0
+Japan,2021-05-06,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,4755284,3637719,1117565,0
+Japan,2021-05-07,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,4957981,3785560,1172421,0
+Japan,2021-05-08,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,5028752,3848659,1180093,0
+Japan,2021-05-09,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,5112825,3924504,1188321,0
+Japan,2021-05-10,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,5470995,4185785,1285210,0
+Japan,2021-05-11,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,5818218,4409596,1408622,0
+Japan,2021-05-12,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,6216937,4656002,1560935,0
+Japan,2021-05-13,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,6648261,4909459,1738802,0
+Japan,2021-05-14,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,7078733,5145602,1933131,0
+Japan,2021-05-15,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,7253608,5285478,1968130,0
+Japan,2021-05-16,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,7468183,5475774,1992409,0
+Japan,2021-05-17,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,8081444,5821080,2260364,0
+Japan,2021-05-18,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,8657753,6173604,2484149,0
+Japan,2021-05-19,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,9310819,6575063,2735756,0
+Japan,2021-05-20,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,9856741,6983592,2873149,0
+Japan,2021-05-21,Pfizer/BioNTech,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,10451370,7368279,3083091,0
+Japan,2021-05-22,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,10782516,7656492,3126024,0
+Japan,2021-05-23,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,11138222,7984142,3154080,0
+Japan,2021-05-24,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,11933610,8575362,3358248,0
+Japan,2021-05-25,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,12609958,9188614,3421344,0
+Japan,2021-05-26,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,13347229,9864013,3483216,0
+Japan,2021-05-27,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,14101133,10511646,3589487,0
+Japan,2021-05-28,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,14851783,11137260,3714523,0
+Japan,2021-05-29,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,15390725,11616156,3774569,0
+Japan,2021-05-30,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,15923875,12081497,3842378,0
+Japan,2021-05-31,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,16831539,12752126,4079413,0
+Japan,2021-06-01,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,17772629,13478198,4294431,0
+Japan,2021-06-02,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,18763056,14231172,4531884,0
+Japan,2021-06-03,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,19740640,14977020,4763620,0
+Japan,2021-06-04,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,20693776,15708614,4985162,0
+Japan,2021-06-05,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,21451093,16334582,5116511,0
+Japan,2021-06-06,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,22204292,16904793,5299499,0
+Japan,2021-06-07,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,23315119,17687003,5628116,0
+Japan,2021-06-08,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,24456050,18499337,5956713,0
+Japan,2021-06-09,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,25643599,19293773,6349826,0
+Japan,2021-06-10,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,26799911,20056034,6743877,0
+Japan,2021-06-11,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,27938529,20829201,7109328,0
+Japan,2021-06-12,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,28888999,21500619,7388380,0
+Japan,2021-06-13,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,29818527,22111410,7707117,0
+Japan,2021-06-14,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,31075952,22822446,8253506,0
+Japan,2021-06-15,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,32352511,23535491,8817020,0
+Japan,2021-06-16,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,33665786,24232521,9433265,0
+Japan,2021-06-17,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,34982589,24941187,10041402,0
+Japan,2021-06-18,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,36255892,25632501,10623391,0
+Japan,2021-06-19,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,37379814,26307998,11071816,0
+Japan,2021-06-20,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,38497654,26983927,11513727,0
+Japan,2021-06-21,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,39913382,27765359,12148023,0
+Japan,2021-06-22,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,41371032,28554619,12816413,0
+Japan,2021-06-23,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,42880542,29361699,13518843,0
+Japan,2021-06-24,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,44366404,30140295,14226109,0
+Japan,2021-06-25,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,45853455,30915135,14938320,0
+Japan,2021-06-26,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,47209131,31675252,15533879,0
+Japan,2021-06-27,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,48544712,32462348,16082364,0
+Japan,2021-06-28,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,50088898,33276496,16812402,0
+Japan,2021-06-29,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,51687350,34107084,17580266,0
+Japan,2021-06-30,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,53310270,34973322,18336948,0
+Japan,2021-07-01,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,54723844,35649411,19074433,0
+Japan,2021-07-02,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,56098123,36275911,19822212,0
+Japan,2021-07-03,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,57625178,37168024,20457154,0
+Japan,2021-07-04,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,59036325,38011336,21024989,0
+Japan,2021-07-05,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,60734181,39017876,21716305,0
+Japan,2021-07-06,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,62490477,40062685,22427792,0
+Japan,2021-07-07,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,64232022,41119803,23112219,0
+Japan,2021-07-08,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,65980323,42184940,23795383,0
+Japan,2021-07-09,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,67737568,43256125,24481443,0
+Japan,2021-07-10,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,69442813,44298514,25144299,0
+Japan,2021-07-11,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,70882270,45066080,25816190,0
+Japan,2021-07-12,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,72480839,45939813,26541026,0
+Japan,2021-07-13,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,74103323,46848670,27254653,0
+Japan,2021-07-14,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,75711622,47732725,27978897,0
+Japan,2021-07-15,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,77281941,48600150,28681791,0
+Japan,2021-07-16,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,78876404,49501051,29375353,0
+Japan,2021-07-17,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,80404223,50331644,30072579,0
+Japan,2021-07-18,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,81740401,50948627,30791774,0
+Japan,2021-07-19,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,83015581,51493887,31521694,0
+Japan,2021-07-20,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,84593700,52312087,32281613,0
+Japan,2021-07-21,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,86161495,53061697,33099798,0
+Japan,2021-07-22,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,86832880,53385917,33446963,0
+Japan,2021-07-23,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,87361208,53639363,33721845,0
+Japan,2021-07-24,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,88681675,54106698,34574977,0
+Japan,2021-07-25,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,89892689,54527749,35364940,0
+Japan,2021-07-26,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,91448925,55113896,36335029,0
+Japan,2021-07-27,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,93053892,55740138,37313754,0
+Japan,2021-07-28,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,94671511,56354284,38317227,0
+Japan,2021-07-29,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,96281050,56970338,39310712,0
+Japan,2021-07-30,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,97965684,57617987,40347697,0
+Japan,2021-07-31,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,99612995,58259509,41353486,0
+Japan,2021-08-01,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,100875480,58820685,42054795,0
+Japan,2021-08-02,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,102267026,59391559,42875467,0
+Japan,2021-08-03,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,103727277,59979912,43747365,0
+Japan,2021-08-04,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,105170339,60556174,44614165,0
+Japan,2021-08-05,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,106623368,61120217,45503151,0
+Japan,2021-08-06,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,108153984,61704028,46449956,0
+Japan,2021-08-07,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,109745708,62403954,47341754,0
+Japan,2021-08-08,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,110992984,63014638,47978346,0
+Japan,2021-08-09,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,111382411,63183711,48198700,0
+Japan,2021-08-10,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,112708843,63672973,49035870,0
+Japan,2021-08-11,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,113950006,64171695,49778311,0
+Japan,2021-08-12,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,114880411,64664159,50216252,0
+Japan,2021-08-13,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,115557035,65010092,50546943,0
+Japan,2021-08-14,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,116323814,65364924,50958890,0
+Japan,2021-08-15,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,117073538,65734756,51338782,0
+Japan,2021-08-16,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,118094826,66169818,51925008,0
+Japan,2021-08-17,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,119346343,66717171,52629172,0
+Japan,2021-08-18,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,120608378,67295109,53313269,0
+Japan,2021-08-19,"Moderna, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,121828078,67872128,53955950,0
+Japan,2021-08-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,123140506,68487980,54652526,0
+Japan,2021-08-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,124588151,69209968,55378183,0
+Japan,2021-08-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,125828497,69838179,55990318,0
+Japan,2021-08-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,127030757,70387476,56643281,0
+Japan,2021-08-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,128298984,71000127,57298857,0
+Japan,2021-08-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,129541816,71605467,57936349,0
+Japan,2021-08-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,130716554,72176363,58540191,0
+Japan,2021-08-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,132026987,72818474,59208513,0
+Japan,2021-08-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,133507651,73549402,59958249,0
+Japan,2021-08-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,134740115,74149138,60590977,0
+Japan,2021-08-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,135418674,74539841,60878833,0
+Japan,2021-08-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,136608223,75192349,61415874,0
+Japan,2021-09-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,137752289,75839623,61912666,0
+Japan,2021-09-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,138681203,76262691,62418512,0
+Japan,2021-09-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,139845332,77005141,62840191,0
+Japan,2021-09-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,141259633,77963645,63295988,0
+Japan,2021-09-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,142441769,78742283,63699486,0
+Japan,2021-09-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,143481962,79361817,64120145,0
+Japan,2021-09-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,144644913,79994554,64650359,0
+Japan,2021-09-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,145799899,80594257,65205642,0
+Japan,2021-09-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,146930253,81181060,65749193,0
+Japan,2021-09-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,148196052,81831829,66364223,0
+Japan,2021-09-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,149709782,82619851,67089931,0
+Japan,2021-09-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,150926429,83239945,67686484,0
+Japan,2021-09-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,151957051,83751892,68205159,0
+Japan,2021-09-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,153050256,84289949,68760307,0
+Japan,2021-09-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,154121740,84804892,69316848,0
+Japan,2021-09-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,155183861,85306267,69877594,0
+Japan,2021-09-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,156405175,85884570,70520605,0
+Japan,2021-09-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,157873497,86625138,71248359,0
+Japan,2021-09-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,159020488,87202214,71818274,0
+Japan,2021-09-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,159333837,87358725,71975112,0
+Japan,2021-09-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,160434576,87770482,72664094,0
+Japan,2021-09-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,161512821,88191545,73321276,0
+Japan,2021-09-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,161946558,88386609,73559949,0
+Japan,2021-09-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,163152970,88823464,74329506,0
+Japan,2021-09-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,164672918,89399630,75273288,0
+Japan,2021-09-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,165851287,89847557,76003730,0
+Japan,2021-09-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,166846150,90225194,76620956,0
+Japan,2021-09-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,167877205,90632975,77244230,0
+Japan,2021-09-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,168876041,91037069,77838972,0
+Japan,2021-09-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,169867471,91426461,78441010,0
+Japan,2021-10-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,170950903,91866866,79084037,0
+Japan,2021-10-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,172332773,92465800,79866973,0
+Japan,2021-10-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,173411600,92934843,80476757,0
+Japan,2021-10-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,174276506,93266373,81010133,0
+Japan,2021-10-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,175179960,93612845,81567115,0
+Japan,2021-10-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,176053931,93944448,82109483,0
+Japan,2021-10-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,176911315,94262791,82648524,0
+Japan,2021-10-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,177951892,94640772,83311120,0
+Japan,2021-10-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,179285550,95150017,84135533,0
+Japan,2021-10-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,180266866,95529812,84737054,0
+Japan,2021-10-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,180769553,95815148,84954405,0
+Japan,2021-10-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,181486982,96086135,85400847,0
+Japan,2021-10-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,182068132,96228257,85839875,0
+Japan,2021-10-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,182584831,96491910,86092921,0
+Japan,2021-10-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,183407590,96796724,86610866,0
+Japan,2021-10-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,184467161,97195809,87271352,0
+Japan,2021-10-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,185214836,97445569,87769267,0
+Japan,2021-10-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,185774056,97623318,88150738,0
+Japan,2021-10-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,186368261,97796807,88571454,0
+Japan,2021-10-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,186950609,97962898,88987711,0
+Japan,2021-10-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,187490003,98111894,89378109,0
+Japan,2021-10-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,188186545,98306930,89879615,0
+Japan,2021-10-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,189118790,98573289,90545501,0
+Japan,2021-10-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,189791015,98740613,91050402,0
+Japan,2021-10-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,190256627,98850889,91405738,0
+Japan,2021-10-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,190731318,98964588,91766730,0
+Japan,2021-10-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,191183895,99070628,92113267,0
+Japan,2021-10-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,191621034,99173477,92447557,0
+Japan,2021-10-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,192179520,99305064,92874456,0
+Japan,2021-10-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,192931309,99487284,93444025,0
+Japan,2021-10-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,193458975,99607045,93851930,0
+Japan,2021-11-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,193794013,99664335,94129678,0
+Japan,2021-11-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,194108156,99703078,94405078,0
+Japan,2021-11-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,194207469,99724814,94482655,0
+Japan,2021-11-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,194536387,99779790,94756597,0
+Japan,2021-11-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,194949894,99864553,95085341,0
+Japan,2021-11-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,195505907,99980918,95524989,0
+Japan,2021-11-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,195857540,100054507,95803033,0
+Japan,2021-11-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,196088838,100102847,95985991,0
+Japan,2021-11-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,196316888,100153211,96163677,0
+Japan,2021-11-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,196525134,100187201,96337933,0
+Japan,2021-11-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,196709143,100217829,96491314,0
+Japan,2021-11-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,196982241,100268635,96713606,0
+Japan,2021-11-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,197340930,100336334,97004596,0
+Japan,2021-11-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,197547943,100367238,97180705,0
+Japan,2021-11-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,197694014,100393156,97300858,0
+Japan,2021-11-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,197840496,100418524,97421972,0
+Japan,2021-11-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,197981047,100443480,97537567,0
+Japan,2021-11-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,198111266,100466868,97644398,0
+Japan,2021-11-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,198311181,100509023,97802158,0
+Japan,2021-11-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,198591116,100565003,98026113,0
+Japan,2021-11-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,198749941,100589974,98159967,0
+Japan,2021-11-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,198842988,100612580,98230408,0
+Japan,2021-11-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,198868815,100617565,98251250,0
+Japan,2021-11-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,198940077,100640037,98300040,0
+Japan,2021-11-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,199026569,100660285,98366284,0
+Japan,2021-11-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,199175957,100698642,98477315,0
+Japan,2021-11-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,199384126,100750224,98633902,0
+Japan,2021-11-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,199497629,100770097,98727532,0
+Japan,2021-11-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,199573677,100788460,98785217,0
+Japan,2021-11-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,199653988,100806516,98847472,0
+Japan,2021-12-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,199708071,100822699,98880432,4940
+Japan,2021-12-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,199757114,100837980,98910297,8837
+Japan,2021-12-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,199849765,100867144,98963662,18959
+Japan,2021-12-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,199974145,100911797,99040796,21552
+Japan,2021-12-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200024455,100928012,99074071,22372
+Japan,2021-12-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200074691,100942048,99099939,32704
+Japan,2021-12-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200123268,100953829,99124428,45011
+Japan,2021-12-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200167676,100960669,99148038,58969
+Japan,2021-12-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200210916,100965529,99170096,75291
+Japan,2021-12-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200306120,100973450,99214396,118274
+Japan,2021-12-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200386142,100984476,99276346,125320
+Japan,2021-12-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200416255,100988906,99301254,126095
+Japan,2021-12-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200477015,100993595,99323184,160236
+Japan,2021-12-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200530602,101000918,99330937,198747
+Japan,2021-12-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200610300,101010581,99353157,246562
+Japan,2021-12-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200693661,101020780,99373485,299396
+Japan,2021-12-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200854482,101043730,99415062,395690
+Japan,2021-12-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,200972054,101079198,99473957,418899
+Japan,2021-12-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201011127,101093599,99496018,421510
+Japan,2021-12-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201093853,101100077,99515056,478720
+Japan,2021-12-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201189689,101112549,99533916,543224
+Japan,2021-12-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201292876,101125266,99552715,614895
+Japan,2021-12-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201394687,101135799,99569347,689541
+Japan,2021-12-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201562535,101154239,99601959,806337
+Japan,2021-12-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201686375,101182196,99653601,850578
+Japan,2021-12-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201726434,101193616,99675016,857802
+Japan,2021-12-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201809395,101202521,99691368,915506
+Japan,2021-12-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201901959,101209659,99704341,987959
+Japan,2021-12-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201952828,101212586,99708908,1031334
+Japan,2021-12-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201965967,101213527,99710131,1042309
+Japan,2021-12-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201967244,101213738,99710333,1043173
+Japan,2022-01-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201967584,101213752,99710357,1043475
+Japan,2022-01-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201968513,101213880,99710547,1044086
+Japan,2022-01-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201969694,101213995,99710794,1044905
+Japan,2022-01-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,201991050,101217277,99717296,1056477
+Japan,2022-01-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,202037547,101223267,99727789,1086491
+Japan,2022-01-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,202096975,101229998,99738592,1128385
+Japan,2022-01-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,202246960,101246440,99764036,1236484
+Japan,2022-01-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,202435143,101273598,99804268,1357277
+Japan,2022-01-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,202476215,101284004,99818466,1373745
+Japan,2022-01-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,202485360,101285324,99820779,1379257
+Japan,2022-01-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,202603269,101294299,99836030,1472940
+Japan,2022-01-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,202754784,101303447,99849912,1601425
+Japan,2022-01-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,202905181,101311694,99861095,1732392
+Japan,2022-01-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,203181538,101329100,99881716,1970722
+Japan,2022-01-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,203421687,101356255,99913628,2151804
+Japan,2022-01-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,203480741,101367062,99926725,2186954
+Japan,2022-01-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,203664104,101378099,99937058,2348947
+Japan,2022-01-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,203896384,101389544,99944657,2562183
+Japan,2022-01-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,204151500,101400278,99949948,2801274
+Japan,2022-01-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,204405070,101410633,99953709,3040728
+Japan,2022-01-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,204801262,101422804,99959858,3418600
+Japan,2022-01-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,205122634,101450578,99966856,3705200
+Japan,2022-01-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,205223109,101460604,99970071,3792434
+Japan,2022-01-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,205504084,101471594,99972558,4059932
+Japan,2022-01-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,205833732,101482644,99976796,4374292
+Japan,2022-01-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,206183094,101493048,99982735,4707311
+Japan,2022-01-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,206524056,101502654,99989403,5031999
+Japan,2022-01-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,207009499,101521990,100005570,5481939
+Japan,2022-01-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,207431915,101548244,100033031,5850640
+Japan,2022-01-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,207622283,101557684,100044163,6020436
+Japan,2022-01-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,207977323,101567263,100047000,6363060
+Japan,2022-02-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,208646724,101579736,100054388,7012600
+Japan,2022-02-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,209296037,101586856,100061959,7647222
+Japan,2022-02-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,209953205,101596474,100069443,8287288
+Japan,2022-02-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,210776384,101615103,100085463,9075818
+Japan,2022-02-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,211559535,101640451,100109938,9809146
+Japan,2022-02-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,212071321,101649882,100119752,10301687
+Japan,2022-02-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,212884001,101661660,100129423,11092918
+Japan,2022-02-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,213793993,101671486,100140095,11982412
+Japan,2022-02-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,214689457,101680928,100149880,12858649
+Japan,2022-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,215609423,101689906,100160324,13759193
+Japan,2022-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,216003106,101694226,100163488,14145392
+Japan,2022-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,216945061,101712307,100189757,15042997
+Japan,2022-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,217581742,101719768,100199063,15662911
+Japan,2022-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,218481562,101727819,100209531,16544212
+Japan,2022-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,219482719,101737094,100220436,17525189
+Japan,2022-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,220448548,101746186,100229939,18472423
+Japan,2022-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,221405035,101754725,100238998,19411312
+Japan,2022-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,222531265,101770191,100258609,20502465
+Japan,2022-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,223633711,101790414,100284242,21559055
+Japan,2022-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,224390142,101799041,100293157,22297944
+Japan,2022-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,225339885,101806724,100302908,23230253
+Japan,2022-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,226417009,101815473,100315834,24285702
+Japan,2022-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,226858668,101817921,100318415,24722332
+Japan,2022-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,227835581,101825399,100329415,25680767
+Japan,2022-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,229001102,101837502,100349279,26814321
+Japan,2022-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,230196122,101854477,100375396,27966249
+Japan,2022-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,231019810,101862019,100385539,28772252
+Japan,2022-02-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,231945949,101867614,100397602,29680733
+Japan,2022-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,232939619,101876058,100406769,30656792
+Japan,2022-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,233899668,101883313,100415480,31600875
+Japan,2022-03-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,234857615,101890971,100422955,32543689
+Japan,2022-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,236050004,101905998,100430093,33713913
+Japan,2022-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,237277170,101933558,100449347,34894265
+Japan,2022-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,238086407,101948830,100456272,35681305
+Japan,2022-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,238989116,101961459,100464266,36563391
+Japan,2022-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,239929073,101975677,100472556,37480840
+Japan,2022-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,240823681,101989593,100480876,38353212
+Japan,2022-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,241705553,102004660,100488863,39212030
+Japan,2022-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,242862412,102029694,100502949,40329769
+Japan,2022-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,244064849,102084387,100523391,41457071
+Japan,2022-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,244798480,102108500,100531399,42158581
+Japan,2022-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,245618248,102127846,100538866,42951536
+Japan,2022-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,246480122,102150310,100546942,43782870
+Japan,2022-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,247302462,102169891,100551620,44580951
+Japan,2022-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,248098799,102187573,100558262,45352964
+Japan,2022-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,249211742,102222701,100570189,46418852
+Japan,2022-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,250405408,102293863,100586987,47524558
+Japan,2022-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,251101137,102325720,100594644,48180773
+Japan,2022-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,251305628,102329037,100596032,48380559
+Japan,2022-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,252071782,102352555,100606018,49113209
+Japan,2022-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,252794927,102376517,100613969,49804441
+Japan,2022-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,253505186,102399049,100622630,50483507
+Japan,2022-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,254535879,102440782,100638329,51456768
+Japan,2022-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,255620455,102520508,100666928,52433019
+Japan,2022-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,256204692,102559984,100682286,52962422
+Japan,2022-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,256873594,102584779,100695565,53593250
+Japan,2022-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,257535305,102612743,100710070,54212492
+Japan,2022-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,258126215,102637533,100723837,54764845
+Japan,2022-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,258625326,102656934,100738264,55230128
+Japan,2022-04-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,259275848,102693668,100761477,55820703
+Japan,2022-04-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,260047114,102760990,100812440,56473684
+Japan,2022-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,260404770,102792230,100834864,56777676
+Japan,2022-04-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,260858424,102811458,100853320,57193646
+Japan,2022-04-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,261325928,102831433,100873834,57620661
+Japan,2022-04-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,261758845,102848547,100891243,58019055
+Japan,2022-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,262191795,102862948,100907500,58421347
+Japan,2022-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,262945238,102874297,100940437,59130504
+Japan,2022-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,263810011,102920429,101009119,59880463
+Japan,2022-04-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,264198556,102935692,101037434,60225430
+Japan,2022-04-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,264612679,102947813,101041788,60623078
+Japan,2022-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,265037124,102953570,101062283,61021271
+Japan,2022-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,265439881,102958919,101082924,61398038
+Japan,2022-04-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,265841017,102963959,101102262,61774796
+Japan,2022-04-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,266616703,102984571,101141584,62490548
+Japan,2022-04-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,267492141,103026581,101219183,63246377
+Japan,2022-04-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,267881525,103045398,101255028,63581099
+Japan,2022-04-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,268267652,103058916,101275811,63932925
+Japan,2022-04-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,268660606,103073685,101299467,64287454
+Japan,2022-04-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,269040382,103088404,101321314,64630664
+Japan,2022-04-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,269423957,103101900,101338241,64983816
+Japan,2022-04-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,270181928,103127732,101376243,65677953
+Japan,2022-04-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,271077690,103181832,101449152,66446706
+Japan,2022-04-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,271455475,103201436,101480796,66773243
+Japan,2022-04-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,271827176,103216113,101498768,67112295
+Japan,2022-04-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,272195690,103231398,101517933,67446359
+Japan,2022-04-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,272553564,103244406,101535332,67773826
+Japan,2022-04-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,273042318,103259452,101552844,68230022
+Japan,2022-04-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,273308924,103263807,101557423,68487694
+Japan,2022-04-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,273915925,103297234,101606944,69011747
+Japan,2022-05-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,274095943,103304685,101620695,69170563
+Japan,2022-05-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,274353133,103312012,101632619,69408502
+Japan,2022-05-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,274430856,103313277,101633822,69483757
+Japan,2022-05-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,274483185,103314028,101634860,69534297
+Japan,2022-05-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,274517010,103314587,101635522,69566901
+Japan,2022-05-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,274879902,103331230,101658679,69889993
+Japan,2022-05-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,275335605,103363973,101701799,70269833
+Japan,2022-05-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,275488257,103374781,101719907,70393569
+Japan,2022-05-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,275716896,103385221,101734509,70597166
+Japan,2022-05-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,275956299,103396857,101750363,70809079
+Japan,2022-05-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,276183142,103406154,101765200,71011788
+Japan,2022-05-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,276406205,103414199,101778459,71213547
+Japan,2022-05-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,276906692,103433222,101805538,71667932
+Japan,2022-05-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,277499465,103463876,101860533,72175056
+Japan,2022-05-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,277700065,103472174,101879560,72348331
+Japan,2022-05-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,277904383,103479352,101893562,72531469
+Japan,2022-05-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,278104885,103486692,101908108,72710085
+Japan,2022-05-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,278296140,103493726,101920927,72881487
+Japan,2022-05-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,278484536,103499441,101933471,73051624
+Japan,2022-05-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,278898157,103515331,101942644,73440182
+Japan,2022-05-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,279390086,103538457,101978734,73872895
+Japan,2022-05-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,279531950,103544640,101987963,73999347
+Japan,2022-05-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,279688326,103552188,101995192,74140946
+Japan,2022-05-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,279835958,103559980,101998022,74277956
+Japan,2022-05-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,279978836,103567692,102000855,74410289
+Japan,2022-05-26,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,280125996,103574024,102003248,74548724
+Japan,2022-05-27,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,280485006,103587180,102020389,74877437
+Japan,2022-05-28,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,280920700,103607187,102055860,75257653
+Japan,2022-05-29,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,281053044,103611616,102067238,75374190
+Japan,2022-05-30,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,281181741,103616945,102077898,75486898
+Japan,2022-05-31,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,281306144,103622207,102089175,75594762
+Japan,2022-06-01,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,281395485,103626915,102097618,75670952
+Japan,2022-06-02,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,281483549,103630882,102104576,75748091
+Japan,2022-06-03,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,281727462,103642271,102122982,75962209
+Japan,2022-06-04,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,282023492,103662647,102153910,76206935
+Japan,2022-06-05,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,282094047,103666642,102161573,76265832
+Japan,2022-06-06,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,282183812,103671378,102168255,76344179
+Japan,2022-06-07,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,282272321,103676429,102175106,76420786
+Japan,2022-06-08,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,282355136,103680583,102181529,76493024
+Japan,2022-06-09,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,282435790,103684684,102187073,76564033
+Japan,2022-06-10,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,282658652,103693419,102203397,76761836
+Japan,2022-06-11,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,282926093,103709118,102227563,76989412
+Japan,2022-06-12,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,282989660,103711552,102233794,77044314
+Japan,2022-06-13,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,283070709,103714524,102241139,77115046
+Japan,2022-06-14,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,283151720,103717467,102248727,77185526
+Japan,2022-06-15,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,283229650,103720273,102256006,77253371
+Japan,2022-06-16,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,283305286,103722591,102261904,77320791
+Japan,2022-06-17,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,283516598,103730984,102275371,77510243
+Japan,2022-06-18,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,283756681,103744889,102296960,77714832
+Japan,2022-06-19,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,283814406,103747160,102301397,77765849
+Japan,2022-06-20,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,283901606,103750501,102306656,77844449
+Japan,2022-06-21,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,283994397,103754045,102311865,77928487
+Japan,2022-06-22,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,284088684,103757312,102316901,78014471
+Japan,2022-06-23,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,284181226,103759817,102321158,78100251
+Japan,2022-06-24,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,284412608,103767832,102333710,78311066
+Japan,2022-06-25,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,284678526,103779790,102355799,78542937
+Japan,2022-06-26,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,284745721,103782122,102360217,78603382
+Japan,2022-06-27,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,284870827,103783742,102365084,78722001
+Japan,2022-06-28,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,285009163,103786525,102370276,78852362
+Japan,2022-06-29,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,285142121,103789319,102374808,78977994
+Japan,2022-06-30,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,285270150,103791458,102378733,79099959
+Japan,2022-07-01,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,285557348,103798027,102387453,79371868
+Japan,2022-07-02,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,285839843,103807507,102402978,79629358
+Japan,2022-07-03,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,285928307,103809393,102405310,79713604
+Japan,2022-07-04,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,286191237,103812084,102408181,79970972
+Japan,2022-07-05,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,286470279,103815160,102411096,80244023
+Japan,2022-07-06,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,286740382,103817805,102413967,80508610
+Japan,2022-07-07,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,287029761,103820378,102416400,80792983
+Japan,2022-07-08,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,287516487,103827062,102424895,81264530
+Japan,2022-07-09,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,287979071,103837859,102439629,81701583
+Japan,2022-07-10,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,288140637,103839813,102441827,81858997
+Japan,2022-07-11,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,288548436,103842300,102445233,82260903
+Japan,2022-07-12,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,288998215,103845011,102448798,82704406
+Japan,2022-07-13,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,289429849,103847682,102452058,83130109
+Japan,2022-07-14,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,289866199,103850343,102454629,83561227
+Japan,2022-07-15,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,290530124,103857961,102462647,84209516
+Japan,2022-07-16,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,291211360,103871106,102474737,84865517
+Japan,2022-07-17,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,291522360,103873532,102477298,85171530
+Japan,2022-07-18,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,291625328,103874088,102477549,85273691
+Japan,2022-07-19,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,292205157,103877877,102480729,85846551
+Japan,2022-07-20,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,292798728,103882440,102483748,86432540
+Japan,2022-07-21,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,293367988,103885056,102486179,86996753
+Japan,2022-07-22,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,294184414,103893155,102493248,87798011
+Japan,2022-07-23,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,295014902,103904054,102503573,88607275
+Japan,2022-07-24,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,295454949,103906895,102505715,89042339
+Japan,2022-07-25,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,296078003,103911661,102509193,89657149
+Japan,2022-07-26,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,296761654,103917433,102512744,90331477
+Japan,2022-07-27,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,297413828,103923570,102515952,90974306
+Japan,2022-07-28,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,298062398,103929642,102518830,91613926
+Japan,2022-07-29,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,298950028,103943248,102525968,92480812
+Japan,2022-07-30,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,299852206,103963273,102536967,93351966
+Japan,2022-07-31,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,300302207,103967503,102539035,93795669
+Japan,2022-08-01,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,300884936,103974863,102541622,94368451
+Japan,2022-08-02,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,301543088,103983170,102544393,95015525
+Japan,2022-08-03,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,302186522,103990188,102547047,95649287
+Japan,2022-08-04,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,302814943,103996607,102549761,96268575
+Japan,2022-08-05,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,303723624,104010821,102556799,97156004
+Japan,2022-08-06,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,304628971,104031643,102569043,98028285
+Japan,2022-08-07,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,305053149,104036687,102571359,98445103
+Japan,2022-08-08,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,305686394,104042920,102572982,99070492
+Japan,2022-08-09,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,306372648,104049613,102576654,99746381
+Japan,2022-08-10,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,307074709,104055316,102580898,100438495
+Japan,2022-08-11,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,307282596,104056163,102581496,100644937
+Japan,2022-08-12,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,307867315,104061728,102586914,101218673
+Japan,2022-08-13,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,308185064,104067045,102592776,101525243
+Japan,2022-08-14,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,308329307,104068562,102594635,101666110
+Japan,2022-08-15,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,308538260,104070443,102597037,101870780
+Japan,2022-08-16,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,308939157,104073508,102601335,102264314
+Japan,2022-08-17,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,309463321,104077112,102606716,102779493
+Japan,2022-08-18,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,310023521,104080852,102612520,103330149
+Japan,2022-08-19,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,310860036,104089290,102625197,104145549
+Japan,2022-08-20,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,311673938,104102410,102644834,104926694
+Japan,2022-08-21,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,312059411,104105242,102648882,105305287
+Japan,2022-08-22,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,312611473,104109159,102656261,105846053
+Japan,2022-08-23,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,313212955,104113836,102664706,106434413
+Japan,2022-08-24,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,313776827,104117910,102671486,106987431
+Japan,2022-08-25,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,314313756,104121643,102677743,107514370
+Japan,2022-08-26,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,315123379,104129694,102691898,108301787
+Japan,2022-08-27,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,315872698,104142335,102712572,109017791
+Japan,2022-08-28,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,316201403,104144670,102717384,109339349
+Japan,2022-08-29,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,316686082,104147069,102723541,109815472
+Japan,2022-08-30,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,317216327,104151173,102730140,110335014
+Japan,2022-08-31,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,317682355,104154794,102735367,110792194
+Japan,2022-09-01,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,318032945,104158514,102736709,111137722
+Japan,2022-09-02,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,318599528,104162974,102742788,111693766
+Japan,2022-09-03,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,319105664,104178816,102751548,112175300
+Japan,2022-09-04,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,319276597,104181774,102753097,112341726
+Japan,2022-09-05,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,319600660,104185397,102755135,112660128
+Japan,2022-09-06,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,319940815,104189457,102757891,112993467
+Japan,2022-09-07,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,320265597,104193438,102760925,113311234
+Japan,2022-09-08,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,320553435,104196557,102763780,113593098
+Japan,2022-09-09,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,321035668,104206188,102771851,114057629
+Japan,2022-09-10,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,321470963,104212712,102785047,114473204
+Japan,2022-09-11,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,321596535,104213566,102787351,114595618
+Japan,2022-09-12,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,321860612,104215063,102790634,114854915
+Japan,2022-09-13,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,322141996,104216780,102794439,115130777
+Japan,2022-09-14,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,322393251,104218278,102797908,115377065
+Japan,2022-09-15,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,322615489,104219571,102800959,115594959
+Japan,2022-09-16,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,323000195,104223635,102809245,115967315
+Japan,2022-09-17,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,323337223,104229440,102822831,116284952
+Japan,2022-09-18,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,323413132,104230256,102824670,116358206
+Japan,2022-09-19,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,323430668,104230446,102824969,116375253
+Japan,2022-09-20,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,323631984,104231969,102829126,116570889
+Japan,2022-09-21,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,323827882,104233451,102832798,116761633
+Japan,2022-09-22,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,324033184,104235130,102837326,116960728
+Japan,2022-09-23,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,324101064,104236011,102838573,117026480
+Japan,2022-09-24,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,324353404,104240059,102856022,117257323
+Japan,2022-09-25,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,324442252,104240899,102859391,117341962
+Japan,2022-09-26,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,324615850,104242217,102864034,117509599
+Japan,2022-09-27,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,324802007,104243559,102868674,117689774
+Japan,2022-09-28,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,324984732,104244882,102873165,117866685
+Japan,2022-09-29,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,325153890,104245960,102876827,118031103
+Japan,2022-09-30,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,325452304,104249131,102888714,118314459
+Japan,2022-10-01,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,325652729,104252709,102894513,118505507
+Japan,2022-10-02,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,325718730,104253831,102895222,118569677
+Japan,2022-10-03,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,325837005,104254875,102896528,118685602
+Japan,2022-10-04,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,325967341,104256046,102897975,118813320
+Japan,2022-10-05,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,326091164,104257149,102899203,118934812
+Japan,2022-10-06,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,326212149,104258241,102900386,119053522
+Japan,2022-10-07,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,326468366,104260759,102904169,119303438
+Japan,2022-10-08,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,326780953,104264632,102909830,119606491
+Japan,2022-10-09,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,326897993,104265710,102910780,119721503
+Japan,2022-10-10,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,326930115,104265857,102910945,119753313
+Japan,2022-10-11,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,327106913,104266801,102912260,119927852
+Japan,2022-10-12,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,327280848,104267818,102913524,120099506
+Japan,2022-10-13,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,327447208,104268423,102914665,120264120
+Japan,2022-10-14,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,327786206,104270606,102916607,120598993
+Japan,2022-10-15,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,328194488,104274571,102921201,120998716
+Japan,2022-10-16,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,328354014,104275378,102922072,121156564
+Japan,2022-10-17,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,328565036,104276309,102923217,121365510
+Japan,2022-10-18,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,328787422,104277387,102924444,121585591
+Japan,2022-10-19,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,329002956,104278607,102925738,121798611
+Japan,2022-10-20,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,329210645,104279669,102926726,122004250
+Japan,2022-10-21,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,329622758,104282148,102929653,122410957
+Japan,2022-10-22,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,330144740,104285949,102934248,122924543
+Japan,2022-10-23,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,330350221,104286919,102935758,123127544
+Japan,2022-10-24,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,330583009,104288069,102937127,123357813
+Japan,2022-10-25,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,330835497,104289181,102938580,123607736
+Japan,2022-10-26,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,331088511,104290391,102939984,123858136
+Japan,2022-10-27,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,331344111,104291501,102941402,124111208
+Japan,2022-10-28,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,331832682,104294288,102944667,124593727
+Japan,2022-10-29,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,332431835,104298978,102949341,125183516
+Japan,2022-10-30,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,332692545,104300260,102950574,125441711
+Japan,2022-10-31,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,332979303,104301357,102951149,125726797
+Japan,2022-11-01,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,333331850,104302777,102952043,126077030
+Japan,2022-11-02,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,333757785,104303827,102953055,126500903
+Japan,2022-11-03,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,333955827,104304230,102953312,126698285
+Japan,2022-11-04,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,334566629,104307411,102955762,127303456
+Japan,2022-11-05,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,335287809,104313272,102960179,128014358
+Japan,2022-11-06,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,335642941,104315070,102960984,128366887
+Japan,2022-11-07,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,336084817,104316689,102961978,128806150
+Japan,2022-11-08,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,336579944,104318789,102963096,129298059
+Japan,2022-11-09,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,337080363,104321313,102964336,129794714
+Japan,2022-11-10,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,337588591,104323060,102965575,130299956
+Japan,2022-11-11,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,338381993,104327869,102968303,131085821
+Japan,2022-11-12,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,339282093,104335013,102972399,131974681
+Japan,2022-11-13,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,339767180,104336872,102973508,132456800
+Japan,2022-11-14,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,340328533,104339334,102974666,133014533
+Japan,2022-11-15,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,340954464,104342876,102975897,133635691
+Japan,2022-11-16,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,341586053,104346275,102977194,134262584
+Japan,2022-11-17,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,342205144,104349388,102978314,134877442
+Japan,2022-11-18,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,343129650,104356026,102981053,135792571
+Japan,2022-11-19,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,344113214,104366213,102985962,136761039
+Japan,2022-11-20,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,344662514,104368720,102987330,137306464
+Japan,2022-11-21,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,345306769,104372284,102988561,137945924
+Japan,2022-11-22,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,346123634,104377672,102990107,138755855
+Japan,2022-11-23,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,346460699,104378749,102990493,139091457
+Japan,2022-11-24,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,347154627,104382764,102991385,139780478
+Japan,2022-11-25,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,348161305,104391200,102994710,140775395
+Japan,2022-11-26,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,349209371,104402209,103001025,141806137
+Japan,2022-11-27,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,349791032,104405701,103003082,142382249
+Japan,2022-11-28,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,350485117,104410011,103004869,143070237
+Japan,2022-11-29,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,351257747,104416037,103006998,143834712
+Japan,2022-11-30,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,352001146,104421331,103009690,144570125
+Japan,2022-12-01,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,352708468,104426363,103011210,145270895
+Japan,2022-12-02,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,353735053,104436285,103015280,146283488
+Japan,2022-12-03,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,354774047,104449271,103022094,147302682
+Japan,2022-12-04,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,355317111,104453444,103023928,147839739
+Japan,2022-12-05,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,356026474,104458458,103026227,148541789
+Japan,2022-12-06,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,356821996,104465222,103029447,149327327
+Japan,2022-12-07,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,357593598,104469503,103032482,150091613
+Japan,2022-12-08,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,358335564,104471915,103035299,150828350
+Japan,2022-12-09,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,359433528,104476029,103041399,151916100
+Japan,2022-12-10,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,360502398,104481065,103050838,152970495
+Japan,2022-12-11,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,361047703,104482352,103053135,153512216
+Japan,2022-12-12,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,361768289,104483907,103056080,154228302
+Japan,2022-12-13,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,362563571,104486408,103060391,155016772
+Japan,2022-12-14,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,363323965,104489372,103061785,155772808
+Japan,2022-12-15,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,364046575,104492554,103065136,156488885
+Japan,2022-12-16,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,365123368,104499202,103072922,157551244
+Japan,2022-12-17,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,366165758,104508679,103084119,158572960
+Japan,2022-12-18,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,366688681,104511644,103087434,159089603
+Japan,2022-12-19,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,367352448,104513751,103091356,159747341
+Japan,2022-12-20,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,368086943,104518832,103097023,160471088
+Japan,2022-12-21,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,368777136,104523563,103101868,161151705
+Japan,2022-12-22,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,369425556,104527574,103107091,161790891
+Japan,2022-12-23,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,370300973,104534279,103116592,162650102
+Japan,2022-12-24,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,371068684,104541582,103129039,163398063
+Japan,2022-12-25,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,371410179,104543384,103133075,163733720
+Japan,2022-12-26,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,371956925,104546893,103138579,164271453
+Japan,2022-12-27,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,372491673,104551328,103145482,164794863
+Japan,2022-12-28,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,372872357,104553798,103149519,165169040
+Japan,2022-12-29,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,373025846,104554966,103150992,165319888
+Japan,2022-12-30,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,373064500,104555285,103151693,165357522
+Japan,2022-12-31,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,373069011,104555354,103151847,165361810
+Japan,2023-01-01,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,373069540,104555357,103151849,165362334
+Japan,2023-01-02,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,373072632,104555417,103151912,165365303
+Japan,2023-01-03,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,373076152,104555489,103152008,165368655
+Japan,2023-01-04,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,373176206,104556792,103153703,165465711
+Japan,2023-01-05,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,373346479,104559371,103156698,165630410
+Japan,2023-01-06,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,373700162,104565458,103163853,165970851
+Japan,2023-01-07,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,374087951,104574661,103174431,166338859
+Japan,2023-01-08,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,374208948,104577098,103177341,166454509
+Japan,2023-01-09,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,374239577,104577372,103177597,166484608
+Japan,2023-01-10,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,374544390,104582051,103183264,166779075
+Japan,2023-01-11,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,374863076,104586173,103188297,167088606
+Japan,2023-01-12,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,375156311,104590098,103192403,167373810
+Japan,2023-01-13,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,375641138,104596930,103200067,167844141
+Japan,2023-01-14,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,376112724,104602643,103209049,168301032
+Japan,2023-01-15,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,376246125,104603500,103210883,168431742
+Japan,2023-01-16,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,376529435,104605087,103214540,168709808
+Japan,2023-01-17,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,376828807,104607371,103218882,169002554
+Japan,2023-01-18,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,377097126,104609232,103221860,169266034
+Japan,2023-01-19,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,377332935,104610730,103223674,169498531
+Japan,2023-01-20,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,377741361,104614022,103226214,169901125
+Japan,2023-01-21,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,378122881,104617317,103229242,170276322
+Japan,2023-01-22,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,378224399,104618014,103229753,170376632
+Japan,2023-01-23,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,378433514,104619162,103230683,170583669
+Japan,2023-01-24,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,378648576,104621053,103231842,170795681
+Japan,2023-01-25,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,378829846,104622355,103233389,170974102
+Japan,2023-01-26,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,379011221,104623758,103236029,171151434
+Japan,2023-01-27,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,379336548,104626735,103242086,171467727
+Japan,2023-01-28,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,379653429,104631797,103251830,171769802
+Japan,2023-01-29,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,379733725,104632698,103254394,171846633
+Japan,2023-01-30,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,379885061,104633692,103255350,171996019
+Japan,2023-01-31,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,380043796,104635258,103259861,172148677
+Japan,2023-02-01,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,380145347,104636753,103263567,172245027
+Japan,2023-02-02,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,380234360,104637495,103267066,172329799
+Japan,2023-02-03,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,380407628,104640107,103273743,172493778
+Japan,2023-02-04,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,380594677,104644238,103279405,172671034
+Japan,2023-02-05,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,380629204,104645175,103280166,172703863
+Japan,2023-02-06,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,380714409,104646214,103281649,172786546
+Japan,2023-02-07,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,380808230,104647667,103283812,172876751
+Japan,2023-02-08,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,380889374,104648774,103285685,172954915
+Japan,2023-02-09,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,380964610,104649807,103287097,173027706
+Japan,2023-02-10,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381123866,104651551,103290109,173182206
+Japan,2023-02-11,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381176631,104652349,103291508,173232774
+Japan,2023-02-12,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381202548,104652922,103292232,173257394
+Japan,2023-02-13,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381268054,104653618,103293412,173321024
+Japan,2023-02-14,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381338287,104654575,103295197,173388515
+Japan,2023-02-15,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381400124,104655375,103296691,173448058
+Japan,2023-02-16,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381458771,104656194,103298088,173504489
+Japan,2023-02-17,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381575732,104657871,103301098,173616763
+Japan,2023-02-18,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381716890,104661026,103306838,173749026
+Japan,2023-02-19,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381738923,104661581,103307669,173769673
+Japan,2023-02-20,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381790318,104662214,103308684,173819420
+Japan,2023-02-21,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381848560,104663247,103310377,173874936
+Japan,2023-02-22,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381911850,104664160,103312056,173935634
+Japan,2023-02-23,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,381922015,104664289,103312216,173945510
+Japan,2023-02-24,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,382018839,104666087,103315359,174037393
+Japan,2023-02-25,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,382125760,104668289,103319814,174137657
+Japan,2023-02-26,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,382144389,104668659,103320803,174154927
+Japan,2023-02-27,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,382182688,104669319,103322017,174191352
+Japan,2023-02-28,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,382223530,104669998,103323681,174229851
+Japan,2023-03-01,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,382245729,104670623,103324543,174250563
+Japan,2023-03-02,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,382266750,104671202,103325510,174270038
+Japan,2023-03-03,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,382313906,104672467,103326997,174314442
+Japan,2023-03-04,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,382370156,104674351,103328581,174367224
+Japan,2023-03-05,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,382380699,104674879,103329058,174376762
+Japan,2023-03-06,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,382398456,104675333,103329553,174393570
+Japan,2023-03-07,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,382415648,104675948,103330142,174409558

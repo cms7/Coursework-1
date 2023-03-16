@@ -1,0 +1,3892 @@
+location,date,vaccine,total_vaccinations
+Argentina,2021-01-19,CanSino,1
+Argentina,2021-01-31,CanSino,2
+Argentina,2021-02-05,CanSino,4
+Argentina,2021-03-21,CanSino,5
+Argentina,2021-04-21,CanSino,6
+Argentina,2021-04-22,CanSino,7
+Argentina,2021-05-07,CanSino,8
+Argentina,2021-06-02,CanSino,9
+Argentina,2021-06-09,CanSino,11
+Argentina,2021-06-25,CanSino,12
+Argentina,2021-07-02,CanSino,13
+Argentina,2021-07-20,CanSino,15
+Argentina,2021-08-04,CanSino,17
+Argentina,2021-08-06,CanSino,18
+Argentina,2021-08-12,CanSino,19
+Argentina,2021-09-07,CanSino,67
+Argentina,2021-09-08,CanSino,107
+Argentina,2021-09-09,CanSino,114
+Argentina,2021-09-10,CanSino,118
+Argentina,2021-09-11,CanSino,393
+Argentina,2021-09-12,CanSino,766
+Argentina,2021-09-13,CanSino,14922
+Argentina,2021-09-14,CanSino,16122
+Argentina,2021-09-15,CanSino,17252
+Argentina,2021-09-16,CanSino,18578
+Argentina,2021-09-17,CanSino,27167
+Argentina,2021-09-18,CanSino,27640
+Argentina,2021-09-19,CanSino,27684
+Argentina,2021-09-20,CanSino,30179
+Argentina,2021-09-21,CanSino,32676
+Argentina,2021-09-22,CanSino,35965
+Argentina,2021-09-23,CanSino,39841
+Argentina,2021-09-24,CanSino,44132
+Argentina,2021-09-25,CanSino,46651
+Argentina,2021-09-26,CanSino,47271
+Argentina,2021-09-27,CanSino,52904
+Argentina,2021-09-28,CanSino,58219
+Argentina,2021-09-29,CanSino,62138
+Argentina,2021-09-30,CanSino,65382
+Argentina,2021-10-01,CanSino,69163
+Argentina,2021-10-02,CanSino,70321
+Argentina,2021-10-03,CanSino,70488
+Argentina,2021-10-04,CanSino,73259
+Argentina,2021-10-05,CanSino,76901
+Argentina,2021-10-06,CanSino,80830
+Argentina,2021-10-07,CanSino,83527
+Argentina,2021-10-08,CanSino,84437
+Argentina,2021-10-09,CanSino,85254
+Argentina,2021-10-10,CanSino,85497
+Argentina,2021-10-11,CanSino,85727
+Argentina,2021-10-12,CanSino,87900
+Argentina,2021-10-13,CanSino,90017
+Argentina,2021-10-14,CanSino,92304
+Argentina,2021-10-15,CanSino,94902
+Argentina,2021-10-16,CanSino,95662
+Argentina,2021-10-17,CanSino,95747
+Argentina,2021-10-18,CanSino,98017
+Argentina,2021-10-19,CanSino,100818
+Argentina,2021-10-20,CanSino,103410
+Argentina,2021-10-21,CanSino,106141
+Argentina,2021-10-22,CanSino,108218
+Argentina,2021-10-23,CanSino,108744
+Argentina,2021-10-24,CanSino,108880
+Argentina,2021-10-25,CanSino,110511
+Argentina,2021-10-26,CanSino,112279
+Argentina,2021-10-27,CanSino,114022
+Argentina,2021-10-28,CanSino,115498
+Argentina,2021-10-29,CanSino,117165
+Argentina,2021-10-30,CanSino,117450
+Argentina,2021-10-31,CanSino,117585
+Argentina,2021-11-01,CanSino,119144
+Argentina,2021-11-02,CanSino,120957
+Argentina,2021-11-03,CanSino,122870
+Argentina,2021-11-04,CanSino,124690
+Argentina,2021-11-05,CanSino,126092
+Argentina,2021-11-06,CanSino,126661
+Argentina,2021-11-07,CanSino,126832
+Argentina,2021-11-08,CanSino,128013
+Argentina,2021-11-09,CanSino,129293
+Argentina,2021-11-10,CanSino,130505
+Argentina,2021-11-11,CanSino,131792
+Argentina,2021-11-12,CanSino,132830
+Argentina,2021-11-13,CanSino,133054
+Argentina,2021-11-14,CanSino,133062
+Argentina,2021-11-15,CanSino,133922
+Argentina,2021-11-16,CanSino,134890
+Argentina,2021-11-17,CanSino,135898
+Argentina,2021-11-18,CanSino,136995
+Argentina,2021-11-19,CanSino,138023
+Argentina,2021-11-20,CanSino,138185
+Argentina,2021-11-21,CanSino,138258
+Argentina,2021-11-22,CanSino,138359
+Argentina,2021-11-23,CanSino,139300
+Argentina,2021-11-24,CanSino,140231
+Argentina,2021-11-25,CanSino,141169
+Argentina,2021-11-26,CanSino,142356
+Argentina,2021-11-27,CanSino,142620
+Argentina,2021-11-28,CanSino,142749
+Argentina,2021-11-29,CanSino,144002
+Argentina,2021-11-30,CanSino,145249
+Argentina,2021-12-01,CanSino,146636
+Argentina,2021-12-02,CanSino,148218
+Argentina,2021-12-03,CanSino,149422
+Argentina,2021-12-04,CanSino,149910
+Argentina,2021-12-05,CanSino,150050
+Argentina,2021-12-06,CanSino,151346
+Argentina,2021-12-07,CanSino,152739
+Argentina,2021-12-08,CanSino,153030
+Argentina,2021-12-09,CanSino,155514
+Argentina,2021-12-10,CanSino,159006
+Argentina,2021-12-11,CanSino,162068
+Argentina,2021-12-12,CanSino,162156
+Argentina,2021-12-13,CanSino,166407
+Argentina,2021-12-14,CanSino,169630
+Argentina,2021-12-15,CanSino,171049
+Argentina,2021-12-16,CanSino,172760
+Argentina,2021-12-17,CanSino,174365
+Argentina,2021-12-18,CanSino,174659
+Argentina,2021-12-19,CanSino,174764
+Argentina,2021-12-20,CanSino,176911
+Argentina,2021-12-21,CanSino,179993
+Argentina,2021-12-22,CanSino,182640
+Argentina,2021-12-23,CanSino,184179
+Argentina,2021-12-24,CanSino,184366
+Argentina,2021-12-25,CanSino,184372
+Argentina,2021-12-26,CanSino,184700
+Argentina,2021-12-27,CanSino,188036
+Argentina,2021-12-28,CanSino,192558
+Argentina,2021-12-29,CanSino,199066
+Argentina,2021-12-30,CanSino,205081
+Argentina,2021-12-31,CanSino,205242
+Argentina,2022-01-01,CanSino,205289
+Argentina,2022-01-02,CanSino,206624
+Argentina,2022-01-03,CanSino,217454
+Argentina,2022-01-04,CanSino,226319
+Argentina,2022-01-05,CanSino,235316
+Argentina,2022-01-06,CanSino,243836
+Argentina,2022-01-07,CanSino,252054
+Argentina,2022-01-08,CanSino,255813
+Argentina,2022-01-09,CanSino,258814
+Argentina,2022-01-10,CanSino,265082
+Argentina,2022-01-11,CanSino,271286
+Argentina,2022-01-12,CanSino,279428
+Argentina,2022-01-13,CanSino,287238
+Argentina,2022-01-14,CanSino,296730
+Argentina,2022-01-15,CanSino,298705
+Argentina,2022-01-16,CanSino,299240
+Argentina,2022-01-17,CanSino,307254
+Argentina,2022-01-18,CanSino,314691
+Argentina,2022-01-19,CanSino,321174
+Argentina,2022-01-20,CanSino,331633
+Argentina,2022-01-21,CanSino,346491
+Argentina,2022-01-22,CanSino,352487
+Argentina,2022-01-23,CanSino,358042
+Argentina,2022-01-24,CanSino,372404
+Argentina,2022-01-25,CanSino,385542
+Argentina,2022-01-26,CanSino,397799
+Argentina,2022-01-27,CanSino,410172
+Argentina,2022-01-28,CanSino,424485
+Argentina,2022-01-29,CanSino,428998
+Argentina,2022-01-30,CanSino,431919
+Argentina,2022-01-31,CanSino,442129
+Argentina,2022-02-01,CanSino,452930
+Argentina,2022-02-02,CanSino,460807
+Argentina,2022-02-03,CanSino,467403
+Argentina,2022-02-04,CanSino,474729
+Argentina,2022-02-05,CanSino,476786
+Argentina,2022-02-06,CanSino,477343
+Argentina,2022-02-07,CanSino,484591
+Argentina,2022-02-08,CanSino,491201
+Argentina,2022-02-09,CanSino,498536
+Argentina,2022-02-10,CanSino,504455
+Argentina,2022-02-11,CanSino,510152
+Argentina,2022-02-12,CanSino,511682
+Argentina,2022-02-13,CanSino,512865
+Argentina,2022-02-14,CanSino,518111
+Argentina,2022-02-15,CanSino,523697
+Argentina,2022-02-16,CanSino,529182
+Argentina,2022-02-17,CanSino,534194
+Argentina,2022-02-18,CanSino,538775
+Argentina,2022-02-19,CanSino,539909
+Argentina,2022-02-20,CanSino,540422
+Argentina,2022-02-21,CanSino,545093
+Argentina,2022-02-22,CanSino,550579
+Argentina,2022-02-23,CanSino,555737
+Argentina,2022-02-24,CanSino,561107
+Argentina,2022-02-25,CanSino,566197
+Argentina,2022-02-26,CanSino,567368
+Argentina,2022-02-27,CanSino,568037
+Argentina,2022-02-28,CanSino,568950
+Argentina,2022-03-01,CanSino,569473
+Argentina,2022-03-02,CanSino,573466
+Argentina,2022-03-03,CanSino,577505
+Argentina,2022-03-04,CanSino,580916
+Argentina,2022-03-05,CanSino,581614
+Argentina,2022-03-06,CanSino,581818
+Argentina,2022-03-07,CanSino,584772
+Argentina,2022-03-08,CanSino,586671
+Argentina,2022-03-09,CanSino,589268
+Argentina,2022-03-10,CanSino,591639
+Argentina,2022-03-11,CanSino,593979
+Argentina,2022-03-12,CanSino,594476
+Argentina,2022-03-13,CanSino,594686
+Argentina,2022-03-14,CanSino,597027
+Argentina,2022-03-15,CanSino,599858
+Argentina,2022-03-16,CanSino,602863
+Argentina,2022-03-17,CanSino,605607
+Argentina,2022-03-18,CanSino,608643
+Argentina,2022-03-19,CanSino,609165
+Argentina,2022-03-20,CanSino,609409
+Argentina,2022-03-21,CanSino,612662
+Argentina,2022-03-22,CanSino,615308
+Argentina,2022-03-23,CanSino,618573
+Argentina,2022-03-24,CanSino,618910
+Argentina,2022-03-25,CanSino,621910
+Argentina,2022-03-26,CanSino,622484
+Argentina,2022-03-27,CanSino,622652
+Argentina,2022-03-28,CanSino,624852
+Argentina,2022-03-29,CanSino,626937
+Argentina,2022-03-30,CanSino,628899
+Argentina,2022-03-31,CanSino,631190
+Argentina,2022-04-01,CanSino,633082
+Argentina,2022-04-02,CanSino,633324
+Argentina,2022-04-03,CanSino,633503
+Argentina,2022-04-04,CanSino,635695
+Argentina,2022-04-05,CanSino,638179
+Argentina,2022-04-06,CanSino,640704
+Argentina,2022-04-07,CanSino,643287
+Argentina,2022-04-08,CanSino,645670
+Argentina,2022-04-09,CanSino,646101
+Argentina,2022-04-10,CanSino,646213
+Argentina,2022-04-11,CanSino,649756
+Argentina,2022-04-12,CanSino,652997
+Argentina,2022-04-13,CanSino,656454
+Argentina,2022-04-14,CanSino,657308
+Argentina,2022-04-15,CanSino,657592
+Argentina,2022-04-16,CanSino,658139
+Argentina,2022-04-17,CanSino,658281
+Argentina,2022-04-18,CanSino,663434
+Argentina,2022-04-19,CanSino,669312
+Argentina,2022-04-20,CanSino,676249
+Argentina,2022-04-21,CanSino,683513
+Argentina,2022-04-22,CanSino,690246
+Argentina,2022-04-23,CanSino,692250
+Argentina,2022-04-24,CanSino,692531
+Argentina,2022-04-25,CanSino,699040
+Argentina,2022-04-26,CanSino,705242
+Argentina,2022-04-27,CanSino,710637
+Argentina,2022-04-28,CanSino,717684
+Argentina,2022-04-29,CanSino,723673
+Argentina,2022-04-30,CanSino,724443
+Argentina,2022-05-01,CanSino,724471
+Argentina,2022-05-02,CanSino,729964
+Argentina,2022-05-03,CanSino,736996
+Argentina,2022-05-04,CanSino,746281
+Argentina,2022-05-05,CanSino,753849
+Argentina,2022-05-06,CanSino,756027
+Argentina,2022-05-07,CanSino,756474
+Argentina,2022-05-08,CanSino,756752
+Argentina,2022-05-09,CanSino,759941
+Argentina,2022-05-10,CanSino,763587
+Argentina,2022-05-11,CanSino,767189
+Argentina,2022-05-12,CanSino,771583
+Argentina,2022-05-13,CanSino,776761
+Argentina,2022-05-14,CanSino,777402
+Argentina,2022-05-15,CanSino,777547
+Argentina,2022-05-16,CanSino,782151
+Argentina,2022-05-17,CanSino,788253
+Argentina,2022-05-18,CanSino,788351
+Argentina,2022-05-19,CanSino,794199
+Argentina,2022-05-20,CanSino,798984
+Argentina,2022-05-21,CanSino,799721
+Argentina,2022-05-22,CanSino,799834
+Argentina,2022-05-23,CanSino,804185
+Argentina,2022-05-24,CanSino,808337
+Argentina,2022-05-25,CanSino,808725
+Argentina,2022-05-26,CanSino,812161
+Argentina,2022-05-27,CanSino,817004
+Argentina,2022-05-28,CanSino,819413
+Argentina,2022-05-29,CanSino,819868
+Argentina,2022-05-30,CanSino,823656
+Argentina,2022-05-31,CanSino,828139
+Argentina,2022-06-01,CanSino,833018
+Argentina,2022-06-02,CanSino,839462
+Argentina,2022-06-03,CanSino,845248
+Argentina,2022-06-04,CanSino,846244
+Argentina,2022-06-05,CanSino,846317
+Argentina,2022-06-06,CanSino,852080
+Argentina,2022-06-07,CanSino,856781
+Argentina,2022-06-08,CanSino,861030
+Argentina,2022-06-09,CanSino,865646
+Argentina,2022-06-10,CanSino,869353
+Argentina,2022-06-11,CanSino,870253
+Argentina,2022-06-12,CanSino,870318
+Argentina,2022-06-13,CanSino,874526
+Argentina,2022-06-14,CanSino,879105
+Argentina,2022-06-15,CanSino,883475
+Argentina,2022-06-16,CanSino,887129
+Argentina,2022-06-17,CanSino,887220
+Argentina,2022-06-18,CanSino,887339
+Argentina,2022-06-19,CanSino,887360
+Argentina,2022-06-20,CanSino,887470
+Argentina,2022-06-21,CanSino,890264
+Argentina,2022-06-22,CanSino,892106
+Argentina,2022-06-23,CanSino,894117
+Argentina,2022-06-24,CanSino,896450
+Argentina,2022-06-25,CanSino,896612
+Argentina,2022-06-26,CanSino,896665
+Argentina,2022-06-27,CanSino,897547
+Argentina,2022-06-28,CanSino,899273
+Argentina,2022-06-29,CanSino,900622
+Argentina,2022-06-30,CanSino,901884
+Argentina,2022-07-01,CanSino,903445
+Argentina,2022-07-02,CanSino,903656
+Argentina,2022-07-03,CanSino,903670
+Argentina,2022-07-04,CanSino,905384
+Argentina,2022-07-05,CanSino,907526
+Argentina,2022-07-06,CanSino,909064
+Argentina,2022-07-07,CanSino,910573
+Argentina,2022-07-08,CanSino,912324
+Argentina,2022-07-09,CanSino,912495
+Argentina,2022-07-10,CanSino,912499
+Argentina,2022-07-11,CanSino,913942
+Argentina,2022-07-12,CanSino,915497
+Argentina,2022-07-13,CanSino,916992
+Argentina,2022-07-14,CanSino,918148
+Argentina,2022-07-15,CanSino,919250
+Argentina,2022-07-16,CanSino,919314
+Argentina,2022-07-17,CanSino,919339
+Argentina,2022-07-18,CanSino,920640
+Argentina,2022-07-19,CanSino,921940
+Argentina,2022-07-20,CanSino,923088
+Argentina,2022-07-21,CanSino,924597
+Argentina,2022-07-22,CanSino,926176
+Argentina,2022-07-23,CanSino,926365
+Argentina,2022-07-24,CanSino,926394
+Argentina,2022-07-25,CanSino,927521
+Argentina,2022-07-26,CanSino,928973
+Argentina,2022-07-27,CanSino,930190
+Argentina,2022-07-28,CanSino,931589
+Argentina,2022-07-29,CanSino,933154
+Argentina,2022-07-30,CanSino,933360
+Argentina,2022-07-31,CanSino,933367
+Argentina,2022-08-01,CanSino,934871
+Argentina,2022-08-02,CanSino,936234
+Argentina,2022-08-03,CanSino,937549
+Argentina,2022-08-04,CanSino,938754
+Argentina,2022-08-05,CanSino,940047
+Argentina,2022-08-06,CanSino,940188
+Argentina,2022-08-07,CanSino,940196
+Argentina,2022-08-08,CanSino,941787
+Argentina,2022-08-09,CanSino,943402
+Argentina,2022-08-10,CanSino,945116
+Argentina,2022-08-11,CanSino,946506
+Argentina,2022-08-12,CanSino,947908
+Argentina,2022-08-13,CanSino,948099
+Argentina,2022-08-14,CanSino,948122
+Argentina,2022-08-15,CanSino,948193
+Argentina,2022-08-16,CanSino,949159
+Argentina,2022-08-17,CanSino,950186
+Argentina,2022-08-18,CanSino,951412
+Argentina,2022-08-19,CanSino,952593
+Argentina,2022-08-20,CanSino,952667
+Argentina,2022-08-21,CanSino,952718
+Argentina,2022-08-22,CanSino,953875
+Argentina,2022-08-23,CanSino,955130
+Argentina,2022-08-24,CanSino,956131
+Argentina,2022-08-25,CanSino,957114
+Argentina,2022-08-26,CanSino,958325
+Argentina,2022-08-27,CanSino,958408
+Argentina,2022-08-28,CanSino,958438
+Argentina,2022-08-29,CanSino,959359
+Argentina,2022-08-30,CanSino,960327
+Argentina,2022-08-31,CanSino,961198
+Argentina,2022-09-01,CanSino,962120
+Argentina,2022-09-02,CanSino,962252
+Argentina,2022-09-03,CanSino,962356
+Argentina,2022-09-04,CanSino,962364
+Argentina,2022-09-05,CanSino,963413
+Argentina,2022-09-06,CanSino,964336
+Argentina,2022-09-07,CanSino,965289
+Argentina,2022-09-08,CanSino,966360
+Argentina,2022-09-09,CanSino,967372
+Argentina,2022-09-10,CanSino,967496
+Argentina,2022-09-11,CanSino,967526
+Argentina,2022-09-12,CanSino,968766
+Argentina,2022-09-13,CanSino,969688
+Argentina,2022-09-14,CanSino,970582
+Argentina,2022-09-15,CanSino,971468
+Argentina,2022-09-16,CanSino,972559
+Argentina,2022-09-17,CanSino,972693
+Argentina,2022-09-18,CanSino,972734
+Argentina,2022-09-19,CanSino,973776
+Argentina,2022-09-20,CanSino,974784
+Argentina,2022-09-21,CanSino,975321
+Argentina,2022-09-22,CanSino,976414
+Argentina,2022-09-23,CanSino,977803
+Argentina,2022-09-24,CanSino,977926
+Argentina,2022-09-25,CanSino,977966
+Argentina,2022-09-26,CanSino,978722
+Argentina,2022-09-27,CanSino,979612
+Argentina,2022-09-28,CanSino,980339
+Argentina,2022-09-29,CanSino,981131
+Argentina,2022-09-30,CanSino,982000
+Argentina,2022-10-01,CanSino,982144
+Argentina,2022-10-02,CanSino,982162
+Argentina,2022-10-03,CanSino,983001
+Argentina,2022-10-04,CanSino,983905
+Argentina,2022-10-05,CanSino,984665
+Argentina,2022-10-06,CanSino,985453
+Argentina,2022-10-07,CanSino,985526
+Argentina,2022-10-08,CanSino,985552
+Argentina,2022-10-10,CanSino,985556
+Argentina,2022-10-11,CanSino,985591
+Argentina,2022-10-12,CanSino,985628
+Argentina,2022-10-13,CanSino,985675
+Argentina,2022-10-14,CanSino,985703
+Argentina,2022-10-15,CanSino,985714
+Argentina,2022-10-17,CanSino,985724
+Argentina,2022-10-18,CanSino,985734
+Argentina,2022-10-19,CanSino,985742
+Argentina,2022-10-20,CanSino,985753
+Argentina,2022-10-21,CanSino,985763
+Argentina,2022-10-22,CanSino,985766
+Argentina,2022-10-24,CanSino,985774
+Argentina,2022-10-25,CanSino,985786
+Argentina,2022-10-26,CanSino,985794
+Argentina,2022-10-27,CanSino,985802
+Argentina,2022-10-28,CanSino,985821
+Argentina,2022-10-31,CanSino,985832
+Argentina,2022-11-01,CanSino,985834
+Argentina,2022-11-02,CanSino,985838
+Argentina,2022-11-03,CanSino,985852
+Argentina,2022-11-04,CanSino,985859
+Argentina,2022-11-05,CanSino,985860
+Argentina,2022-11-07,CanSino,985867
+Argentina,2022-11-08,CanSino,985877
+Argentina,2022-11-09,CanSino,985879
+Argentina,2022-11-10,CanSino,985885
+Argentina,2022-11-14,CanSino,985886
+Argentina,2022-11-15,CanSino,985895
+Argentina,2022-11-16,CanSino,985901
+Argentina,2022-11-17,CanSino,985902
+Argentina,2022-11-18,CanSino,985909
+Argentina,2022-11-20,CanSino,985910
+Argentina,2022-11-21,CanSino,985911
+Argentina,2022-11-22,CanSino,985916
+Argentina,2022-11-23,CanSino,985921
+Argentina,2022-11-24,CanSino,985922
+Argentina,2022-11-25,CanSino,985923
+Argentina,2022-11-28,CanSino,985924
+Argentina,2022-11-29,CanSino,985925
+Argentina,2022-11-30,CanSino,985935
+Argentina,2022-12-02,CanSino,985937
+Argentina,2022-12-05,CanSino,985945
+Argentina,2022-12-06,CanSino,985951
+Argentina,2022-12-07,CanSino,985967
+Argentina,2022-12-10,CanSino,985968
+Argentina,2022-12-12,CanSino,985970
+Argentina,2022-12-14,CanSino,985971
+Argentina,2022-12-17,CanSino,985975
+Argentina,2022-12-19,CanSino,985977
+Argentina,2022-12-28,CanSino,985978
+Argentina,2023-01-03,CanSino,985979
+Argentina,2023-01-04,CanSino,985982
+Argentina,2023-01-06,CanSino,985983
+Argentina,2023-01-11,CanSino,985986
+Argentina,2023-01-13,CanSino,985993
+Argentina,2023-01-19,CanSino,985994
+Argentina,2023-01-30,CanSino,985995
+Argentina,2021-01-13,Moderna,1
+Argentina,2021-02-04,Moderna,2
+Argentina,2021-02-09,Moderna,3
+Argentina,2021-02-27,Moderna,4
+Argentina,2021-03-18,Moderna,6
+Argentina,2021-03-27,Moderna,7
+Argentina,2021-04-04,Moderna,8
+Argentina,2021-04-13,Moderna,9
+Argentina,2021-04-21,Moderna,10
+Argentina,2021-05-11,Moderna,11
+Argentina,2021-05-12,Moderna,12
+Argentina,2021-06-09,Moderna,13
+Argentina,2021-06-10,Moderna,14
+Argentina,2021-06-17,Moderna,15
+Argentina,2021-06-18,Moderna,16
+Argentina,2021-06-25,Moderna,17
+Argentina,2021-07-08,Moderna,18
+Argentina,2021-07-09,Moderna,20
+Argentina,2021-07-10,Moderna,24
+Argentina,2021-07-11,Moderna,26
+Argentina,2021-07-19,Moderna,27
+Argentina,2021-07-20,Moderna,39
+Argentina,2021-07-21,Moderna,46
+Argentina,2021-07-22,Moderna,48
+Argentina,2021-07-23,Moderna,51
+Argentina,2021-07-24,Moderna,53
+Argentina,2021-07-25,Moderna,70
+Argentina,2021-07-26,Moderna,74
+Argentina,2021-07-27,Moderna,101
+Argentina,2021-07-28,Moderna,133
+Argentina,2021-07-29,Moderna,148
+Argentina,2021-07-30,Moderna,283
+Argentina,2021-07-31,Moderna,1975
+Argentina,2021-08-01,Moderna,2252
+Argentina,2021-08-02,Moderna,5953
+Argentina,2021-08-03,Moderna,55652
+Argentina,2021-08-04,Moderna,77210
+Argentina,2021-08-05,Moderna,95913
+Argentina,2021-08-06,Moderna,117105
+Argentina,2021-08-07,Moderna,158864
+Argentina,2021-08-08,Moderna,197915
+Argentina,2021-08-09,Moderna,368826
+Argentina,2021-08-10,Moderna,533446
+Argentina,2021-08-11,Moderna,714259
+Argentina,2021-08-12,Moderna,851753
+Argentina,2021-08-13,Moderna,957740
+Argentina,2021-08-14,Moderna,1034183
+Argentina,2021-08-15,Moderna,1072949
+Argentina,2021-08-16,Moderna,1148400
+Argentina,2021-08-17,Moderna,1309396
+Argentina,2021-08-18,Moderna,1468696
+Argentina,2021-08-19,Moderna,1576778
+Argentina,2021-08-20,Moderna,1655163
+Argentina,2021-08-21,Moderna,1678236
+Argentina,2021-08-22,Moderna,1690104
+Argentina,2021-08-23,Moderna,1731311
+Argentina,2021-08-24,Moderna,1768793
+Argentina,2021-08-25,Moderna,1798643
+Argentina,2021-08-26,Moderna,1869205
+Argentina,2021-08-27,Moderna,1927895
+Argentina,2021-08-28,Moderna,1965253
+Argentina,2021-08-29,Moderna,1985250
+Argentina,2021-08-30,Moderna,2034521
+Argentina,2021-08-31,Moderna,2101141
+Argentina,2021-09-01,Moderna,2174180
+Argentina,2021-09-02,Moderna,2237637
+Argentina,2021-09-03,Moderna,2299927
+Argentina,2021-09-04,Moderna,2336412
+Argentina,2021-09-05,Moderna,2353872
+Argentina,2021-09-06,Moderna,2406868
+Argentina,2021-09-07,Moderna,2457451
+Argentina,2021-09-08,Moderna,2497334
+Argentina,2021-09-09,Moderna,2531392
+Argentina,2021-09-10,Moderna,2565896
+Argentina,2021-09-11,Moderna,2577983
+Argentina,2021-09-12,Moderna,2578903
+Argentina,2021-09-13,Moderna,2603536
+Argentina,2021-09-14,Moderna,2650989
+Argentina,2021-09-15,Moderna,2690209
+Argentina,2021-09-16,Moderna,2720344
+Argentina,2021-09-17,Moderna,2741223
+Argentina,2021-09-18,Moderna,2755224
+Argentina,2021-09-19,Moderna,2774027
+Argentina,2021-09-20,Moderna,2793935
+Argentina,2021-09-21,Moderna,2804608
+Argentina,2021-09-22,Moderna,2833328
+Argentina,2021-09-23,Moderna,2913091
+Argentina,2021-09-24,Moderna,2933492
+Argentina,2021-09-25,Moderna,2941099
+Argentina,2021-09-26,Moderna,2946013
+Argentina,2021-09-27,Moderna,2969385
+Argentina,2021-09-28,Moderna,2993281
+Argentina,2021-09-29,Moderna,3014893
+Argentina,2021-09-30,Moderna,3032675
+Argentina,2021-10-01,Moderna,3049889
+Argentina,2021-10-02,Moderna,3055308
+Argentina,2021-10-03,Moderna,3058771
+Argentina,2021-10-04,Moderna,3072364
+Argentina,2021-10-05,Moderna,3088626
+Argentina,2021-10-06,Moderna,3100233
+Argentina,2021-10-07,Moderna,3130493
+Argentina,2021-10-08,Moderna,3136051
+Argentina,2021-10-09,Moderna,3141336
+Argentina,2021-10-10,Moderna,3143893
+Argentina,2021-10-11,Moderna,3147330
+Argentina,2021-10-12,Moderna,3189200
+Argentina,2021-10-13,Moderna,3203807
+Argentina,2021-10-14,Moderna,3212678
+Argentina,2021-10-15,Moderna,3221614
+Argentina,2021-10-16,Moderna,3226399
+Argentina,2021-10-17,Moderna,3229012
+Argentina,2021-10-18,Moderna,3241142
+Argentina,2021-10-19,Moderna,3249514
+Argentina,2021-10-20,Moderna,3257557
+Argentina,2021-10-21,Moderna,3297935
+Argentina,2021-10-22,Moderna,3317549
+Argentina,2021-10-23,Moderna,3323384
+Argentina,2021-10-24,Moderna,3325074
+Argentina,2021-10-25,Moderna,3334414
+Argentina,2021-10-26,Moderna,3342356
+Argentina,2021-10-27,Moderna,3350434
+Argentina,2021-10-28,Moderna,3365359
+Argentina,2021-10-29,Moderna,3379361
+Argentina,2021-10-30,Moderna,3382577
+Argentina,2021-10-31,Moderna,3384963
+Argentina,2021-11-01,Moderna,3392670
+Argentina,2021-11-02,Moderna,3404870
+Argentina,2021-11-03,Moderna,3412593
+Argentina,2021-11-04,Moderna,3420399
+Argentina,2021-11-05,Moderna,3426193
+Argentina,2021-11-06,Moderna,3429805
+Argentina,2021-11-07,Moderna,3430909
+Argentina,2021-11-08,Moderna,3434939
+Argentina,2021-11-09,Moderna,3446685
+Argentina,2021-11-10,Moderna,3452268
+Argentina,2021-11-11,Moderna,3457451
+Argentina,2021-11-12,Moderna,3463417
+Argentina,2021-11-13,Moderna,3466260
+Argentina,2021-11-14,Moderna,3466539
+Argentina,2021-11-15,Moderna,3475963
+Argentina,2021-11-16,Moderna,3482737
+Argentina,2021-11-17,Moderna,3487799
+Argentina,2021-11-18,Moderna,3493333
+Argentina,2021-11-19,Moderna,3498650
+Argentina,2021-11-20,Moderna,3500879
+Argentina,2021-11-21,Moderna,3501672
+Argentina,2021-11-22,Moderna,3502731
+Argentina,2021-11-23,Moderna,3506571
+Argentina,2021-11-24,Moderna,3511082
+Argentina,2021-11-25,Moderna,3514882
+Argentina,2021-11-26,Moderna,3520824
+Argentina,2021-11-27,Moderna,3525335
+Argentina,2021-11-28,Moderna,3527878
+Argentina,2021-11-29,Moderna,3534461
+Argentina,2021-11-30,Moderna,3543763
+Argentina,2021-12-01,Moderna,3544217
+Argentina,2021-12-02,Moderna,3544380
+Argentina,2021-12-03,Moderna,3544473
+Argentina,2021-12-04,Moderna,3544479
+Argentina,2021-12-05,Moderna,3544481
+Argentina,2021-12-06,Moderna,3544531
+Argentina,2021-12-07,Moderna,3544648
+Argentina,2021-12-08,Moderna,3544673
+Argentina,2021-12-09,Moderna,3544800
+Argentina,2021-12-10,Moderna,3544886
+Argentina,2021-12-11,Moderna,3544917
+Argentina,2021-12-12,Moderna,3544941
+Argentina,2021-12-13,Moderna,3544978
+Argentina,2021-12-14,Moderna,3545089
+Argentina,2021-12-15,Moderna,3545208
+Argentina,2021-12-16,Moderna,3545316
+Argentina,2021-12-17,Moderna,3545512
+Argentina,2021-12-18,Moderna,3545552
+Argentina,2021-12-19,Moderna,3545576
+Argentina,2021-12-20,Moderna,3545700
+Argentina,2021-12-21,Moderna,3545799
+Argentina,2021-12-22,Moderna,3545866
+Argentina,2021-12-23,Moderna,3546016
+Argentina,2021-12-24,Moderna,3546025
+Argentina,2021-12-25,Moderna,3546027
+Argentina,2021-12-26,Moderna,3546037
+Argentina,2021-12-27,Moderna,3546229
+Argentina,2021-12-28,Moderna,3546333
+Argentina,2021-12-29,Moderna,3546687
+Argentina,2021-12-30,Moderna,3546933
+Argentina,2021-12-31,Moderna,3546948
+Argentina,2022-01-01,Moderna,3547007
+Argentina,2022-01-02,Moderna,3547046
+Argentina,2022-01-03,Moderna,3547594
+Argentina,2022-01-04,Moderna,3547759
+Argentina,2022-01-05,Moderna,3547964
+Argentina,2022-01-06,Moderna,3548189
+Argentina,2022-01-07,Moderna,3548641
+Argentina,2022-01-08,Moderna,3549295
+Argentina,2022-01-09,Moderna,3550784
+Argentina,2022-01-10,Moderna,3565672
+Argentina,2022-01-11,Moderna,3597087
+Argentina,2022-01-12,Moderna,3642301
+Argentina,2022-01-13,Moderna,3711183
+Argentina,2022-01-14,Moderna,3782089
+Argentina,2022-01-15,Moderna,3807176
+Argentina,2022-01-16,Moderna,3823250
+Argentina,2022-01-17,Moderna,3899855
+Argentina,2022-01-18,Moderna,3980498
+Argentina,2022-01-19,Moderna,4070014
+Argentina,2022-01-20,Moderna,4163124
+Argentina,2022-01-21,Moderna,4258756
+Argentina,2022-01-22,Moderna,4317789
+Argentina,2022-01-23,Moderna,4358428
+Argentina,2022-01-24,Moderna,4456359
+Argentina,2022-01-25,Moderna,4546988
+Argentina,2022-01-26,Moderna,4638602
+Argentina,2022-01-27,Moderna,4725251
+Argentina,2022-01-28,Moderna,4816362
+Argentina,2022-01-29,Moderna,4865119
+Argentina,2022-01-30,Moderna,4893793
+Argentina,2022-01-31,Moderna,5001110
+Argentina,2022-02-01,Moderna,5107234
+Argentina,2022-02-02,Moderna,5199855
+Argentina,2022-02-03,Moderna,5268294
+Argentina,2022-02-04,Moderna,5340505
+Argentina,2022-02-05,Moderna,5374943
+Argentina,2022-02-06,Moderna,5398520
+Argentina,2022-02-07,Moderna,5457829
+Argentina,2022-02-08,Moderna,5512890
+Argentina,2022-02-09,Moderna,5563647
+Argentina,2022-02-10,Moderna,5606609
+Argentina,2022-02-11,Moderna,5645595
+Argentina,2022-02-12,Moderna,5670315
+Argentina,2022-02-13,Moderna,5686575
+Argentina,2022-02-14,Moderna,5731259
+Argentina,2022-02-15,Moderna,5780508
+Argentina,2022-02-16,Moderna,5820188
+Argentina,2022-02-17,Moderna,5854602
+Argentina,2022-02-18,Moderna,5892641
+Argentina,2022-02-19,Moderna,5906196
+Argentina,2022-02-20,Moderna,5913597
+Argentina,2022-02-21,Moderna,5943998
+Argentina,2022-02-22,Moderna,5975263
+Argentina,2022-02-23,Moderna,6008405
+Argentina,2022-02-24,Moderna,6032399
+Argentina,2022-02-25,Moderna,6061257
+Argentina,2022-02-26,Moderna,6071828
+Argentina,2022-02-27,Moderna,6078248
+Argentina,2022-02-28,Moderna,6085024
+Argentina,2022-03-01,Moderna,6092281
+Argentina,2022-03-02,Moderna,6112789
+Argentina,2022-03-03,Moderna,6130083
+Argentina,2022-03-04,Moderna,6148092
+Argentina,2022-03-05,Moderna,6154896
+Argentina,2022-03-06,Moderna,6166299
+Argentina,2022-03-07,Moderna,6190916
+Argentina,2022-03-08,Moderna,6206505
+Argentina,2022-03-09,Moderna,6221724
+Argentina,2022-03-10,Moderna,6236052
+Argentina,2022-03-11,Moderna,6252614
+Argentina,2022-03-12,Moderna,6260767
+Argentina,2022-03-13,Moderna,6265873
+Argentina,2022-03-14,Moderna,6281101
+Argentina,2022-03-15,Moderna,6306016
+Argentina,2022-03-16,Moderna,6326733
+Argentina,2022-03-17,Moderna,6346120
+Argentina,2022-03-18,Moderna,6368586
+Argentina,2022-03-19,Moderna,6386183
+Argentina,2022-03-20,Moderna,6395757
+Argentina,2022-03-21,Moderna,6420191
+Argentina,2022-03-22,Moderna,6443927
+Argentina,2022-03-23,Moderna,6473035
+Argentina,2022-03-24,Moderna,6478939
+Argentina,2022-03-25,Moderna,6505266
+Argentina,2022-03-26,Moderna,6522726
+Argentina,2022-03-27,Moderna,6531736
+Argentina,2022-03-28,Moderna,6559666
+Argentina,2022-03-29,Moderna,6579569
+Argentina,2022-03-30,Moderna,6596395
+Argentina,2022-03-31,Moderna,6612957
+Argentina,2022-04-01,Moderna,6627164
+Argentina,2022-04-02,Moderna,6631240
+Argentina,2022-04-03,Moderna,6633557
+Argentina,2022-04-04,Moderna,6645714
+Argentina,2022-04-05,Moderna,6657567
+Argentina,2022-04-06,Moderna,6667467
+Argentina,2022-04-07,Moderna,6677481
+Argentina,2022-04-08,Moderna,6688699
+Argentina,2022-04-09,Moderna,6693041
+Argentina,2022-04-10,Moderna,6694694
+Argentina,2022-04-11,Moderna,6703220
+Argentina,2022-04-12,Moderna,6712850
+Argentina,2022-04-13,Moderna,6722671
+Argentina,2022-04-14,Moderna,6724733
+Argentina,2022-04-15,Moderna,6726253
+Argentina,2022-04-16,Moderna,6729010
+Argentina,2022-04-17,Moderna,6729456
+Argentina,2022-04-18,Moderna,6740655
+Argentina,2022-04-19,Moderna,6755366
+Argentina,2022-04-20,Moderna,6771517
+Argentina,2022-04-21,Moderna,6789821
+Argentina,2022-04-22,Moderna,6807587
+Argentina,2022-04-23,Moderna,6814298
+Argentina,2022-04-24,Moderna,6816813
+Argentina,2022-04-25,Moderna,6835321
+Argentina,2022-04-26,Moderna,6853110
+Argentina,2022-04-27,Moderna,6873161
+Argentina,2022-04-28,Moderna,6891933
+Argentina,2022-04-29,Moderna,6912179
+Argentina,2022-04-30,Moderna,6918482
+Argentina,2022-05-01,Moderna,6918628
+Argentina,2022-05-02,Moderna,6939579
+Argentina,2022-05-03,Moderna,6970881
+Argentina,2022-05-04,Moderna,7004011
+Argentina,2022-05-05,Moderna,7048561
+Argentina,2022-05-06,Moderna,7099216
+Argentina,2022-05-07,Moderna,7114577
+Argentina,2022-05-08,Moderna,7123201
+Argentina,2022-05-09,Moderna,7171881
+Argentina,2022-05-10,Moderna,7230115
+Argentina,2022-05-11,Moderna,7284053
+Argentina,2022-05-12,Moderna,7342878
+Argentina,2022-05-13,Moderna,7418232
+Argentina,2022-05-14,Moderna,7449900
+Argentina,2022-05-15,Moderna,7465872
+Argentina,2022-05-16,Moderna,7536216
+Argentina,2022-05-17,Moderna,7618133
+Argentina,2022-05-18,Moderna,7619070
+Argentina,2022-05-19,Moderna,7696973
+Argentina,2022-05-20,Moderna,7787143
+Argentina,2022-05-21,Moderna,7844400
+Argentina,2022-05-22,Moderna,7871757
+Argentina,2022-05-23,Moderna,7982368
+Argentina,2022-05-24,Moderna,8085491
+Argentina,2022-05-25,Moderna,8100537
+Argentina,2022-05-26,Moderna,8212849
+Argentina,2022-05-27,Moderna,8339691
+Argentina,2022-05-28,Moderna,8405878
+Argentina,2022-05-29,Moderna,8440321
+Argentina,2022-05-30,Moderna,8556963
+Argentina,2022-05-31,Moderna,8660859
+Argentina,2022-06-01,Moderna,8755180
+Argentina,2022-06-02,Moderna,8856986
+Argentina,2022-06-03,Moderna,8970904
+Argentina,2022-06-04,Moderna,9001161
+Argentina,2022-06-05,Moderna,9016825
+Argentina,2022-06-06,Moderna,9113755
+Argentina,2022-06-07,Moderna,9201376
+Argentina,2022-06-08,Moderna,9295522
+Argentina,2022-06-09,Moderna,9389484
+Argentina,2022-06-10,Moderna,9493716
+Argentina,2022-06-11,Moderna,9523294
+Argentina,2022-06-12,Moderna,9539117
+Argentina,2022-06-13,Moderna,9634273
+Argentina,2022-06-14,Moderna,9735671
+Argentina,2022-06-15,Moderna,9834952
+Argentina,2022-06-16,Moderna,9942044
+Argentina,2022-06-17,Moderna,9958517
+Argentina,2022-06-18,Moderna,9980229
+Argentina,2022-06-19,Moderna,9981326
+Argentina,2022-06-20,Moderna,9996953
+Argentina,2022-06-21,Moderna,10084528
+Argentina,2022-06-22,Moderna,10167221
+Argentina,2022-06-23,Moderna,10245337
+Argentina,2022-06-24,Moderna,10324469
+Argentina,2022-06-25,Moderna,10343261
+Argentina,2022-06-26,Moderna,10355058
+Argentina,2022-06-27,Moderna,10398100
+Argentina,2022-06-28,Moderna,10469796
+Argentina,2022-06-29,Moderna,10539888
+Argentina,2022-06-30,Moderna,10605777
+Argentina,2022-07-01,Moderna,10685048
+Argentina,2022-07-02,Moderna,10705574
+Argentina,2022-07-03,Moderna,10718496
+Argentina,2022-07-04,Moderna,10787082
+Argentina,2022-07-05,Moderna,10858545
+Argentina,2022-07-06,Moderna,10928298
+Argentina,2022-07-07,Moderna,11002369
+Argentina,2022-07-08,Moderna,11076589
+Argentina,2022-07-09,Moderna,11091982
+Argentina,2022-07-10,Moderna,11101968
+Argentina,2022-07-11,Moderna,11163083
+Argentina,2022-07-12,Moderna,11228042
+Argentina,2022-07-13,Moderna,11290449
+Argentina,2022-07-14,Moderna,11351591
+Argentina,2022-07-15,Moderna,11407535
+Argentina,2022-07-16,Moderna,11420705
+Argentina,2022-07-17,Moderna,11429325
+Argentina,2022-07-18,Moderna,11479966
+Argentina,2022-07-19,Moderna,11538685
+Argentina,2022-07-20,Moderna,11588278
+Argentina,2022-07-21,Moderna,11639205
+Argentina,2022-07-22,Moderna,11695112
+Argentina,2022-07-23,Moderna,11706968
+Argentina,2022-07-24,Moderna,11712855
+Argentina,2022-07-25,Moderna,11754541
+Argentina,2022-07-26,Moderna,11804937
+Argentina,2022-07-27,Moderna,11851199
+Argentina,2022-07-28,Moderna,11899940
+Argentina,2022-07-29,Moderna,11955114
+Argentina,2022-07-30,Moderna,11967494
+Argentina,2022-07-31,Moderna,11973574
+Argentina,2022-08-01,Moderna,12012662
+Argentina,2022-08-02,Moderna,12053342
+Argentina,2022-08-03,Moderna,12090113
+Argentina,2022-08-04,Moderna,12125258
+Argentina,2022-08-05,Moderna,12171985
+Argentina,2022-08-06,Moderna,12180506
+Argentina,2022-08-07,Moderna,12184910
+Argentina,2022-08-08,Moderna,12225366
+Argentina,2022-08-09,Moderna,12266065
+Argentina,2022-08-10,Moderna,12307828
+Argentina,2022-08-11,Moderna,12350619
+Argentina,2022-08-12,Moderna,12399202
+Argentina,2022-08-13,Moderna,12409346
+Argentina,2022-08-14,Moderna,12413971
+Argentina,2022-08-15,Moderna,12420041
+Argentina,2022-08-16,Moderna,12458256
+Argentina,2022-08-17,Moderna,12496662
+Argentina,2022-08-18,Moderna,12535588
+Argentina,2022-08-19,Moderna,12573781
+Argentina,2022-08-20,Moderna,12581845
+Argentina,2022-08-21,Moderna,12584694
+Argentina,2022-08-22,Moderna,12619532
+Argentina,2022-08-23,Moderna,12653795
+Argentina,2022-08-24,Moderna,12689426
+Argentina,2022-08-25,Moderna,12719941
+Argentina,2022-08-26,Moderna,12750269
+Argentina,2022-08-27,Moderna,12756123
+Argentina,2022-08-28,Moderna,12758786
+Argentina,2022-08-29,Moderna,12784110
+Argentina,2022-08-30,Moderna,12807632
+Argentina,2022-08-31,Moderna,12830881
+Argentina,2022-09-01,Moderna,12852855
+Argentina,2022-09-02,Moderna,12857636
+Argentina,2022-09-03,Moderna,12862701
+Argentina,2022-09-04,Moderna,12864522
+Argentina,2022-09-05,Moderna,12886821
+Argentina,2022-09-06,Moderna,12910853
+Argentina,2022-09-07,Moderna,12933366
+Argentina,2022-09-08,Moderna,12954785
+Argentina,2022-09-09,Moderna,12977475
+Argentina,2022-09-10,Moderna,12982190
+Argentina,2022-09-11,Moderna,12983845
+Argentina,2022-09-12,Moderna,13003113
+Argentina,2022-09-13,Moderna,13022860
+Argentina,2022-09-14,Moderna,13042163
+Argentina,2022-09-15,Moderna,13060429
+Argentina,2022-09-16,Moderna,13079610
+Argentina,2022-09-17,Moderna,13082887
+Argentina,2022-09-18,Moderna,13084289
+Argentina,2022-09-19,Moderna,13099548
+Argentina,2022-09-20,Moderna,13114899
+Argentina,2022-09-21,Moderna,13127288
+Argentina,2022-09-22,Moderna,13143713
+Argentina,2022-09-23,Moderna,13160514
+Argentina,2022-09-24,Moderna,13163043
+Argentina,2022-09-25,Moderna,13163917
+Argentina,2022-09-26,Moderna,13178289
+Argentina,2022-09-27,Moderna,13191633
+Argentina,2022-09-28,Moderna,13204174
+Argentina,2022-09-29,Moderna,13217288
+Argentina,2022-09-30,Moderna,13230850
+Argentina,2022-10-01,Moderna,13232994
+Argentina,2022-10-02,Moderna,13233577
+Argentina,2022-10-03,Moderna,13245908
+Argentina,2022-10-04,Moderna,13258326
+Argentina,2022-10-05,Moderna,13270458
+Argentina,2022-10-06,Moderna,13284562
+Argentina,2022-10-07,Moderna,13286701
+Argentina,2022-10-08,Moderna,13288288
+Argentina,2022-10-09,Moderna,13289018
+Argentina,2022-10-10,Moderna,13289890
+Argentina,2022-10-11,Moderna,13301012
+Argentina,2022-10-12,Moderna,13312013
+Argentina,2022-10-13,Moderna,13323137
+Argentina,2022-10-14,Moderna,13334509
+Argentina,2022-10-15,Moderna,13336177
+Argentina,2022-10-16,Moderna,13336520
+Argentina,2022-10-17,Moderna,13345637
+Argentina,2022-10-18,Moderna,13356182
+Argentina,2022-10-19,Moderna,13367137
+Argentina,2022-10-20,Moderna,13378841
+Argentina,2022-10-21,Moderna,13391684
+Argentina,2022-10-22,Moderna,13394006
+Argentina,2022-10-23,Moderna,13394886
+Argentina,2022-10-24,Moderna,13404282
+Argentina,2022-10-25,Moderna,13414180
+Argentina,2022-10-26,Moderna,13421611
+Argentina,2022-10-27,Moderna,13430733
+Argentina,2022-10-28,Moderna,13439791
+Argentina,2022-10-29,Moderna,13441005
+Argentina,2022-10-30,Moderna,13441317
+Argentina,2022-10-31,Moderna,13449396
+Argentina,2022-11-01,Moderna,13459262
+Argentina,2022-11-02,Moderna,13470046
+Argentina,2022-11-03,Moderna,13484344
+Argentina,2022-11-04,Moderna,13502368
+Argentina,2022-11-05,Moderna,13505399
+Argentina,2022-11-06,Moderna,13509975
+Argentina,2022-11-07,Moderna,13529398
+Argentina,2022-11-08,Moderna,13548835
+Argentina,2022-11-09,Moderna,13570501
+Argentina,2022-11-10,Moderna,13590260
+Argentina,2022-11-11,Moderna,13612559
+Argentina,2022-11-12,Moderna,13616086
+Argentina,2022-11-13,Moderna,13617244
+Argentina,2022-11-14,Moderna,13638645
+Argentina,2022-11-15,Moderna,13660855
+Argentina,2022-11-16,Moderna,13681138
+Argentina,2022-11-17,Moderna,13699992
+Argentina,2022-11-18,Moderna,13720500
+Argentina,2022-11-19,Moderna,13724167
+Argentina,2022-11-20,Moderna,13724916
+Argentina,2022-11-21,Moderna,13726460
+Argentina,2022-11-22,Moderna,13742359
+Argentina,2022-11-23,Moderna,13763207
+Argentina,2022-11-24,Moderna,13787825
+Argentina,2022-11-25,Moderna,13814975
+Argentina,2022-11-26,Moderna,13818724
+Argentina,2022-11-27,Moderna,13820333
+Argentina,2022-11-28,Moderna,13855079
+Argentina,2022-11-29,Moderna,13906989
+Argentina,2022-11-30,Moderna,13968052
+Argentina,2022-12-01,Moderna,14034182
+Argentina,2022-12-02,Moderna,14111563
+Argentina,2022-12-03,Moderna,14127024
+Argentina,2022-12-04,Moderna,14134013
+Argentina,2022-12-05,Moderna,14229168
+Argentina,2022-12-06,Moderna,14347764
+Argentina,2022-12-07,Moderna,14460377
+Argentina,2022-12-08,Moderna,14478220
+Argentina,2022-12-09,Moderna,14494226
+Argentina,2022-12-10,Moderna,14519180
+Argentina,2022-12-11,Moderna,14522072
+Argentina,2022-12-12,Moderna,14645820
+Argentina,2022-12-13,Moderna,14764357
+Argentina,2022-12-14,Moderna,14889667
+Argentina,2022-12-15,Moderna,15016783
+Argentina,2022-12-16,Moderna,15150484
+Argentina,2022-12-17,Moderna,15177854
+Argentina,2022-12-18,Moderna,15181895
+Argentina,2022-12-19,Moderna,15280947
+Argentina,2022-12-20,Moderna,15317289
+Argentina,2022-12-21,Moderna,15429073
+Argentina,2022-12-22,Moderna,15521238
+Argentina,2022-12-23,Moderna,15550371
+Argentina,2022-12-24,Moderna,15553139
+Argentina,2022-12-25,Moderna,15553482
+Argentina,2022-12-26,Moderna,15662868
+Argentina,2022-12-27,Moderna,15793672
+Argentina,2022-12-28,Moderna,15917273
+Argentina,2022-12-29,Moderna,16014750
+Argentina,2022-12-30,Moderna,16037363
+Argentina,2022-12-31,Moderna,16038201
+Argentina,2023-01-01,Moderna,16038957
+Argentina,2023-01-02,Moderna,16127777
+Argentina,2023-01-03,Moderna,16232012
+Argentina,2023-01-04,Moderna,16345337
+Argentina,2023-01-05,Moderna,16447756
+Argentina,2023-01-06,Moderna,16546448
+Argentina,2023-01-07,Moderna,16562124
+Argentina,2023-01-08,Moderna,16567527
+Argentina,2023-01-09,Moderna,16652903
+Argentina,2023-01-10,Moderna,16737935
+Argentina,2023-01-11,Moderna,16820920
+Argentina,2023-01-12,Moderna,16896608
+Argentina,2023-01-13,Moderna,16970508
+Argentina,2023-01-14,Moderna,16985196
+Argentina,2023-01-15,Moderna,16990388
+Argentina,2023-01-16,Moderna,17046518
+Argentina,2023-01-17,Moderna,17091775
+Argentina,2023-01-18,Moderna,17138401
+Argentina,2023-01-19,Moderna,17170066
+Argentina,2023-01-20,Moderna,17206144
+Argentina,2023-01-21,Moderna,17211786
+Argentina,2023-01-22,Moderna,17213153
+Argentina,2023-01-23,Moderna,17238209
+Argentina,2023-01-24,Moderna,17263338
+Argentina,2023-01-25,Moderna,17286099
+Argentina,2023-01-26,Moderna,17308017
+Argentina,2023-01-27,Moderna,17325326
+Argentina,2023-01-28,Moderna,17327735
+Argentina,2023-01-29,Moderna,17328526
+Argentina,2023-01-30,Moderna,17345220
+Argentina,2023-01-31,Moderna,17361471
+Argentina,2023-02-01,Moderna,17376319
+Argentina,2023-02-02,Moderna,17389170
+Argentina,2023-02-03,Moderna,17401403
+Argentina,2023-02-04,Moderna,17403085
+Argentina,2023-02-05,Moderna,17403661
+Argentina,2023-02-06,Moderna,17412832
+Argentina,2023-02-07,Moderna,17422355
+Argentina,2023-02-08,Moderna,17431842
+Argentina,2023-02-09,Moderna,17440770
+Argentina,2023-02-10,Moderna,17449355
+Argentina,2023-02-11,Moderna,17450558
+Argentina,2023-02-12,Moderna,17450917
+Argentina,2023-02-13,Moderna,17457405
+Argentina,2023-02-14,Moderna,17464863
+Argentina,2023-02-15,Moderna,17473111
+Argentina,2023-02-16,Moderna,17480701
+Argentina,2023-02-17,Moderna,17487731
+Argentina,2023-02-18,Moderna,17488704
+Argentina,2023-02-19,Moderna,17489101
+Argentina,2023-02-20,Moderna,17489531
+Argentina,2023-02-21,Moderna,17489867
+Argentina,2023-02-22,Moderna,17497551
+Argentina,2023-02-23,Moderna,17505373
+Argentina,2023-02-24,Moderna,17514229
+Argentina,2023-02-25,Moderna,17515372
+Argentina,2023-02-26,Moderna,17515608
+Argentina,2023-02-27,Moderna,17522477
+Argentina,2023-02-28,Moderna,17528275
+Argentina,2023-03-01,Moderna,17532112
+Argentina,2023-03-02,Moderna,17536198
+Argentina,2023-03-03,Moderna,17540987
+Argentina,2023-03-04,Moderna,17541950
+Argentina,2023-03-05,Moderna,17542099
+Argentina,2023-03-06,Moderna,17545500
+Argentina,2023-03-07,Moderna,17549289
+Argentina,2023-03-08,Moderna,17551813
+Argentina,2020-12-29,Oxford/AstraZeneca,1
+Argentina,2021-01-01,Oxford/AstraZeneca,3
+Argentina,2021-01-02,Oxford/AstraZeneca,4
+Argentina,2021-01-06,Oxford/AstraZeneca,5
+Argentina,2021-01-07,Oxford/AstraZeneca,9
+Argentina,2021-01-08,Oxford/AstraZeneca,10
+Argentina,2021-01-09,Oxford/AstraZeneca,11
+Argentina,2021-01-11,Oxford/AstraZeneca,12
+Argentina,2021-01-12,Oxford/AstraZeneca,14
+Argentina,2021-01-13,Oxford/AstraZeneca,15
+Argentina,2021-01-21,Oxford/AstraZeneca,20
+Argentina,2021-01-22,Oxford/AstraZeneca,23
+Argentina,2021-01-23,Oxford/AstraZeneca,28
+Argentina,2021-01-24,Oxford/AstraZeneca,29
+Argentina,2021-01-25,Oxford/AstraZeneca,37
+Argentina,2021-01-26,Oxford/AstraZeneca,75
+Argentina,2021-01-27,Oxford/AstraZeneca,77
+Argentina,2021-01-28,Oxford/AstraZeneca,78
+Argentina,2021-01-29,Oxford/AstraZeneca,79
+Argentina,2021-02-01,Oxford/AstraZeneca,98
+Argentina,2021-02-02,Oxford/AstraZeneca,131
+Argentina,2021-02-03,Oxford/AstraZeneca,139
+Argentina,2021-02-04,Oxford/AstraZeneca,144
+Argentina,2021-02-05,Oxford/AstraZeneca,149
+Argentina,2021-02-07,Oxford/AstraZeneca,150
+Argentina,2021-02-08,Oxford/AstraZeneca,152
+Argentina,2021-02-09,Oxford/AstraZeneca,154
+Argentina,2021-02-10,Oxford/AstraZeneca,157
+Argentina,2021-02-11,Oxford/AstraZeneca,160
+Argentina,2021-02-12,Oxford/AstraZeneca,161
+Argentina,2021-02-13,Oxford/AstraZeneca,163
+Argentina,2021-02-16,Oxford/AstraZeneca,175
+Argentina,2021-02-17,Oxford/AstraZeneca,186
+Argentina,2021-02-18,Oxford/AstraZeneca,217
+Argentina,2021-02-19,Oxford/AstraZeneca,407
+Argentina,2021-02-20,Oxford/AstraZeneca,555
+Argentina,2021-02-21,Oxford/AstraZeneca,956
+Argentina,2021-02-22,Oxford/AstraZeneca,23565
+Argentina,2021-02-23,Oxford/AstraZeneca,73775
+Argentina,2021-02-24,Oxford/AstraZeneca,135870
+Argentina,2021-02-25,Oxford/AstraZeneca,189043
+Argentina,2021-02-26,Oxford/AstraZeneca,245114
+Argentina,2021-02-27,Oxford/AstraZeneca,258463
+Argentina,2021-02-28,Oxford/AstraZeneca,263815
+Argentina,2021-03-01,Oxford/AstraZeneca,317150
+Argentina,2021-03-02,Oxford/AstraZeneca,368797
+Argentina,2021-03-03,Oxford/AstraZeneca,404794
+Argentina,2021-03-04,Oxford/AstraZeneca,430521
+Argentina,2021-03-05,Oxford/AstraZeneca,454820
+Argentina,2021-03-06,Oxford/AstraZeneca,462738
+Argentina,2021-03-07,Oxford/AstraZeneca,467714
+Argentina,2021-03-08,Oxford/AstraZeneca,499296
+Argentina,2021-03-09,Oxford/AstraZeneca,515642
+Argentina,2021-03-10,Oxford/AstraZeneca,527731
+Argentina,2021-03-11,Oxford/AstraZeneca,537676
+Argentina,2021-03-12,Oxford/AstraZeneca,545200
+Argentina,2021-03-13,Oxford/AstraZeneca,548179
+Argentina,2021-03-14,Oxford/AstraZeneca,548228
+Argentina,2021-03-15,Oxford/AstraZeneca,554652
+Argentina,2021-03-16,Oxford/AstraZeneca,557779
+Argentina,2021-03-17,Oxford/AstraZeneca,560492
+Argentina,2021-03-18,Oxford/AstraZeneca,562179
+Argentina,2021-03-19,Oxford/AstraZeneca,564028
+Argentina,2021-03-20,Oxford/AstraZeneca,564370
+Argentina,2021-03-21,Oxford/AstraZeneca,564393
+Argentina,2021-03-22,Oxford/AstraZeneca,565865
+Argentina,2021-03-23,Oxford/AstraZeneca,570555
+Argentina,2021-03-24,Oxford/AstraZeneca,571833
+Argentina,2021-03-25,Oxford/AstraZeneca,573187
+Argentina,2021-03-26,Oxford/AstraZeneca,575843
+Argentina,2021-03-27,Oxford/AstraZeneca,576737
+Argentina,2021-03-28,Oxford/AstraZeneca,577644
+Argentina,2021-03-29,Oxford/AstraZeneca,581236
+Argentina,2021-03-30,Oxford/AstraZeneca,584119
+Argentina,2021-03-31,Oxford/AstraZeneca,604067
+Argentina,2021-04-01,Oxford/AstraZeneca,629642
+Argentina,2021-04-02,Oxford/AstraZeneca,642466
+Argentina,2021-04-03,Oxford/AstraZeneca,661109
+Argentina,2021-04-04,Oxford/AstraZeneca,675506
+Argentina,2021-04-05,Oxford/AstraZeneca,709341
+Argentina,2021-04-06,Oxford/AstraZeneca,735805
+Argentina,2021-04-07,Oxford/AstraZeneca,766045
+Argentina,2021-04-08,Oxford/AstraZeneca,790142
+Argentina,2021-04-09,Oxford/AstraZeneca,808497
+Argentina,2021-04-10,Oxford/AstraZeneca,813315
+Argentina,2021-04-11,Oxford/AstraZeneca,814181
+Argentina,2021-04-12,Oxford/AstraZeneca,824097
+Argentina,2021-04-13,Oxford/AstraZeneca,832443
+Argentina,2021-04-14,Oxford/AstraZeneca,838887
+Argentina,2021-04-15,Oxford/AstraZeneca,843087
+Argentina,2021-04-16,Oxford/AstraZeneca,846372
+Argentina,2021-04-17,Oxford/AstraZeneca,847265
+Argentina,2021-04-18,Oxford/AstraZeneca,848540
+Argentina,2021-04-19,Oxford/AstraZeneca,863939
+Argentina,2021-04-20,Oxford/AstraZeneca,916479
+Argentina,2021-04-21,Oxford/AstraZeneca,1036769
+Argentina,2021-04-22,Oxford/AstraZeneca,1154098
+Argentina,2021-04-23,Oxford/AstraZeneca,1272437
+Argentina,2021-04-24,Oxford/AstraZeneca,1326301
+Argentina,2021-04-25,Oxford/AstraZeneca,1358761
+Argentina,2021-04-26,Oxford/AstraZeneca,1431877
+Argentina,2021-04-27,Oxford/AstraZeneca,1491007
+Argentina,2021-04-28,Oxford/AstraZeneca,1543165
+Argentina,2021-04-29,Oxford/AstraZeneca,1581929
+Argentina,2021-04-30,Oxford/AstraZeneca,1612485
+Argentina,2021-05-01,Oxford/AstraZeneca,1617749
+Argentina,2021-05-02,Oxford/AstraZeneca,1624342
+Argentina,2021-05-03,Oxford/AstraZeneca,1647965
+Argentina,2021-05-04,Oxford/AstraZeneca,1671578
+Argentina,2021-05-05,Oxford/AstraZeneca,1696504
+Argentina,2021-05-06,Oxford/AstraZeneca,1714343
+Argentina,2021-05-07,Oxford/AstraZeneca,1728306
+Argentina,2021-05-08,Oxford/AstraZeneca,1732365
+Argentina,2021-05-09,Oxford/AstraZeneca,1734105
+Argentina,2021-05-10,Oxford/AstraZeneca,1744032
+Argentina,2021-05-11,Oxford/AstraZeneca,1752310
+Argentina,2021-05-12,Oxford/AstraZeneca,1758094
+Argentina,2021-05-13,Oxford/AstraZeneca,1763796
+Argentina,2021-05-14,Oxford/AstraZeneca,1773008
+Argentina,2021-05-15,Oxford/AstraZeneca,1776091
+Argentina,2021-05-16,Oxford/AstraZeneca,1777566
+Argentina,2021-05-17,Oxford/AstraZeneca,1784874
+Argentina,2021-05-18,Oxford/AstraZeneca,1794669
+Argentina,2021-05-19,Oxford/AstraZeneca,1802026
+Argentina,2021-05-20,Oxford/AstraZeneca,1812537
+Argentina,2021-05-21,Oxford/AstraZeneca,1821745
+Argentina,2021-05-22,Oxford/AstraZeneca,1823271
+Argentina,2021-05-23,Oxford/AstraZeneca,1823689
+Argentina,2021-05-24,Oxford/AstraZeneca,1824872
+Argentina,2021-05-25,Oxford/AstraZeneca,1846955
+Argentina,2021-05-26,Oxford/AstraZeneca,1873833
+Argentina,2021-05-27,Oxford/AstraZeneca,1919311
+Argentina,2021-05-28,Oxford/AstraZeneca,2011694
+Argentina,2021-05-29,Oxford/AstraZeneca,2121640
+Argentina,2021-05-30,Oxford/AstraZeneca,2180794
+Argentina,2021-05-31,Oxford/AstraZeneca,2308021
+Argentina,2021-06-01,Oxford/AstraZeneca,2457120
+Argentina,2021-06-02,Oxford/AstraZeneca,2620704
+Argentina,2021-06-03,Oxford/AstraZeneca,2843655
+Argentina,2021-06-04,Oxford/AstraZeneca,3148787
+Argentina,2021-06-05,Oxford/AstraZeneca,3426567
+Argentina,2021-06-06,Oxford/AstraZeneca,3614489
+Argentina,2021-06-07,Oxford/AstraZeneca,3894011
+Argentina,2021-06-08,Oxford/AstraZeneca,4171505
+Argentina,2021-06-09,Oxford/AstraZeneca,4430584
+Argentina,2021-06-10,Oxford/AstraZeneca,4654525
+Argentina,2021-06-11,Oxford/AstraZeneca,4838748
+Argentina,2021-06-12,Oxford/AstraZeneca,4904775
+Argentina,2021-06-13,Oxford/AstraZeneca,4949435
+Argentina,2021-06-14,Oxford/AstraZeneca,5076380
+Argentina,2021-06-15,Oxford/AstraZeneca,5205746
+Argentina,2021-06-16,Oxford/AstraZeneca,5391519
+Argentina,2021-06-17,Oxford/AstraZeneca,5620688
+Argentina,2021-06-18,Oxford/AstraZeneca,5945489
+Argentina,2021-06-19,Oxford/AstraZeneca,6132042
+Argentina,2021-06-20,Oxford/AstraZeneca,6210001
+Argentina,2021-06-21,Oxford/AstraZeneca,6348330
+Argentina,2021-06-22,Oxford/AstraZeneca,6575905
+Argentina,2021-06-23,Oxford/AstraZeneca,6769761
+Argentina,2021-06-24,Oxford/AstraZeneca,6944920
+Argentina,2021-06-25,Oxford/AstraZeneca,7164573
+Argentina,2021-06-26,Oxford/AstraZeneca,7357843
+Argentina,2021-06-27,Oxford/AstraZeneca,7457099
+Argentina,2021-06-28,Oxford/AstraZeneca,7622916
+Argentina,2021-06-29,Oxford/AstraZeneca,7800517
+Argentina,2021-06-30,Oxford/AstraZeneca,8007995
+Argentina,2021-07-01,Oxford/AstraZeneca,8321571
+Argentina,2021-07-02,Oxford/AstraZeneca,8589112
+Argentina,2021-07-03,Oxford/AstraZeneca,8753012
+Argentina,2021-07-04,Oxford/AstraZeneca,8868975
+Argentina,2021-07-05,Oxford/AstraZeneca,9129176
+Argentina,2021-07-06,Oxford/AstraZeneca,9365991
+Argentina,2021-07-07,Oxford/AstraZeneca,9592945
+Argentina,2021-07-08,Oxford/AstraZeneca,9725505
+Argentina,2021-07-09,Oxford/AstraZeneca,9788731
+Argentina,2021-07-10,Oxford/AstraZeneca,9860612
+Argentina,2021-07-11,Oxford/AstraZeneca,9912172
+Argentina,2021-07-12,Oxford/AstraZeneca,9999904
+Argentina,2021-07-13,Oxford/AstraZeneca,10079798
+Argentina,2021-07-14,Oxford/AstraZeneca,10148806
+Argentina,2021-07-15,Oxford/AstraZeneca,10210921
+Argentina,2021-07-16,Oxford/AstraZeneca,10263801
+Argentina,2021-07-17,Oxford/AstraZeneca,10304192
+Argentina,2021-07-18,Oxford/AstraZeneca,10346413
+Argentina,2021-07-19,Oxford/AstraZeneca,10427709
+Argentina,2021-07-20,Oxford/AstraZeneca,10496735
+Argentina,2021-07-21,Oxford/AstraZeneca,10563401
+Argentina,2021-07-22,Oxford/AstraZeneca,10625089
+Argentina,2021-07-23,Oxford/AstraZeneca,10699913
+Argentina,2021-07-24,Oxford/AstraZeneca,10760860
+Argentina,2021-07-25,Oxford/AstraZeneca,10772486
+Argentina,2021-07-26,Oxford/AstraZeneca,10876102
+Argentina,2021-07-27,Oxford/AstraZeneca,11046761
+Argentina,2021-07-28,Oxford/AstraZeneca,11206140
+Argentina,2021-07-29,Oxford/AstraZeneca,11325015
+Argentina,2021-07-30,Oxford/AstraZeneca,11436765
+Argentina,2021-07-31,Oxford/AstraZeneca,11498420
+Argentina,2021-08-01,Oxford/AstraZeneca,11527855
+Argentina,2021-08-02,Oxford/AstraZeneca,11615991
+Argentina,2021-08-03,Oxford/AstraZeneca,11749860
+Argentina,2021-08-04,Oxford/AstraZeneca,11892578
+Argentina,2021-08-05,Oxford/AstraZeneca,12061098
+Argentina,2021-08-06,Oxford/AstraZeneca,12216182
+Argentina,2021-08-07,Oxford/AstraZeneca,12298164
+Argentina,2021-08-08,Oxford/AstraZeneca,12320596
+Argentina,2021-08-09,Oxford/AstraZeneca,12436451
+Argentina,2021-08-10,Oxford/AstraZeneca,12545702
+Argentina,2021-08-11,Oxford/AstraZeneca,12686243
+Argentina,2021-08-12,Oxford/AstraZeneca,12823533
+Argentina,2021-08-13,Oxford/AstraZeneca,12945257
+Argentina,2021-08-14,Oxford/AstraZeneca,13034389
+Argentina,2021-08-15,Oxford/AstraZeneca,13122111
+Argentina,2021-08-16,Oxford/AstraZeneca,13150821
+Argentina,2021-08-17,Oxford/AstraZeneca,13217698
+Argentina,2021-08-18,Oxford/AstraZeneca,13291849
+Argentina,2021-08-19,Oxford/AstraZeneca,13404834
+Argentina,2021-08-20,Oxford/AstraZeneca,13555786
+Argentina,2021-08-21,Oxford/AstraZeneca,13681552
+Argentina,2021-08-22,Oxford/AstraZeneca,13768673
+Argentina,2021-08-23,Oxford/AstraZeneca,13899631
+Argentina,2021-08-24,Oxford/AstraZeneca,14047670
+Argentina,2021-08-25,Oxford/AstraZeneca,14210514
+Argentina,2021-08-26,Oxford/AstraZeneca,14360596
+Argentina,2021-08-27,Oxford/AstraZeneca,14506723
+Argentina,2021-08-28,Oxford/AstraZeneca,14560428
+Argentina,2021-08-29,Oxford/AstraZeneca,14593969
+Argentina,2021-08-30,Oxford/AstraZeneca,14716686
+Argentina,2021-08-31,Oxford/AstraZeneca,14837938
+Argentina,2021-09-01,Oxford/AstraZeneca,14948824
+Argentina,2021-09-02,Oxford/AstraZeneca,15029544
+Argentina,2021-09-03,Oxford/AstraZeneca,15110809
+Argentina,2021-09-04,Oxford/AstraZeneca,15169732
+Argentina,2021-09-05,Oxford/AstraZeneca,15230962
+Argentina,2021-09-06,Oxford/AstraZeneca,15394262
+Argentina,2021-09-07,Oxford/AstraZeneca,15578898
+Argentina,2021-09-08,Oxford/AstraZeneca,15720203
+Argentina,2021-09-09,Oxford/AstraZeneca,15858428
+Argentina,2021-09-10,Oxford/AstraZeneca,15949692
+Argentina,2021-09-11,Oxford/AstraZeneca,16071316
+Argentina,2021-09-12,Oxford/AstraZeneca,16075564
+Argentina,2021-09-13,Oxford/AstraZeneca,16242463
+Argentina,2021-09-14,Oxford/AstraZeneca,16368336
+Argentina,2021-09-15,Oxford/AstraZeneca,16414743
+Argentina,2021-09-16,Oxford/AstraZeneca,16594804
+Argentina,2021-09-17,Oxford/AstraZeneca,16708163
+Argentina,2021-09-18,Oxford/AstraZeneca,16735351
+Argentina,2021-09-19,Oxford/AstraZeneca,16805372
+Argentina,2021-09-20,Oxford/AstraZeneca,16856209
+Argentina,2021-09-21,Oxford/AstraZeneca,16892444
+Argentina,2021-09-22,Oxford/AstraZeneca,17049648
+Argentina,2021-09-23,Oxford/AstraZeneca,17086364
+Argentina,2021-09-24,Oxford/AstraZeneca,17211255
+Argentina,2021-09-25,Oxford/AstraZeneca,17235111
+Argentina,2021-09-26,Oxford/AstraZeneca,17275527
+Argentina,2021-09-27,Oxford/AstraZeneca,17380048
+Argentina,2021-09-28,Oxford/AstraZeneca,17480963
+Argentina,2021-09-29,Oxford/AstraZeneca,17552203
+Argentina,2021-09-30,Oxford/AstraZeneca,17632421
+Argentina,2021-10-01,Oxford/AstraZeneca,17774464
+Argentina,2021-10-02,Oxford/AstraZeneca,17875852
+Argentina,2021-10-03,Oxford/AstraZeneca,17942240
+Argentina,2021-10-04,Oxford/AstraZeneca,18001408
+Argentina,2021-10-05,Oxford/AstraZeneca,18065606
+Argentina,2021-10-06,Oxford/AstraZeneca,18150057
+Argentina,2021-10-07,Oxford/AstraZeneca,18250159
+Argentina,2021-10-08,Oxford/AstraZeneca,18301391
+Argentina,2021-10-09,Oxford/AstraZeneca,18343453
+Argentina,2021-10-10,Oxford/AstraZeneca,18367944
+Argentina,2021-10-11,Oxford/AstraZeneca,18389485
+Argentina,2021-10-12,Oxford/AstraZeneca,18430718
+Argentina,2021-10-13,Oxford/AstraZeneca,18469617
+Argentina,2021-10-14,Oxford/AstraZeneca,18511556
+Argentina,2021-10-15,Oxford/AstraZeneca,18547244
+Argentina,2021-10-16,Oxford/AstraZeneca,18561434
+Argentina,2021-10-17,Oxford/AstraZeneca,18566196
+Argentina,2021-10-18,Oxford/AstraZeneca,18592479
+Argentina,2021-10-19,Oxford/AstraZeneca,18625816
+Argentina,2021-10-20,Oxford/AstraZeneca,18658441
+Argentina,2021-10-21,Oxford/AstraZeneca,18692510
+Argentina,2021-10-22,Oxford/AstraZeneca,18723876
+Argentina,2021-10-23,Oxford/AstraZeneca,18738950
+Argentina,2021-10-24,Oxford/AstraZeneca,18745770
+Argentina,2021-10-25,Oxford/AstraZeneca,18786298
+Argentina,2021-10-26,Oxford/AstraZeneca,18816345
+Argentina,2021-10-27,Oxford/AstraZeneca,18848224
+Argentina,2021-10-28,Oxford/AstraZeneca,18892367
+Argentina,2021-10-29,Oxford/AstraZeneca,18944413
+Argentina,2021-10-30,Oxford/AstraZeneca,18973877
+Argentina,2021-10-31,Oxford/AstraZeneca,18987072
+Argentina,2021-11-01,Oxford/AstraZeneca,19039488
+Argentina,2021-11-02,Oxford/AstraZeneca,19105834
+Argentina,2021-11-03,Oxford/AstraZeneca,19170777
+Argentina,2021-11-04,Oxford/AstraZeneca,19223413
+Argentina,2021-11-05,Oxford/AstraZeneca,19291906
+Argentina,2021-11-06,Oxford/AstraZeneca,19322947
+Argentina,2021-11-07,Oxford/AstraZeneca,19342340
+Argentina,2021-11-08,Oxford/AstraZeneca,19402950
+Argentina,2021-11-09,Oxford/AstraZeneca,19476198
+Argentina,2021-11-10,Oxford/AstraZeneca,19646435
+Argentina,2021-11-11,Oxford/AstraZeneca,19825087
+Argentina,2021-11-12,Oxford/AstraZeneca,19984776
+Argentina,2021-11-13,Oxford/AstraZeneca,20081262
+Argentina,2021-11-14,Oxford/AstraZeneca,20083578
+Argentina,2021-11-15,Oxford/AstraZeneca,20174021
+Argentina,2021-11-16,Oxford/AstraZeneca,20268790
+Argentina,2021-11-17,Oxford/AstraZeneca,20363151
+Argentina,2021-11-18,Oxford/AstraZeneca,20455794
+Argentina,2021-11-19,Oxford/AstraZeneca,20544086
+Argentina,2021-11-20,Oxford/AstraZeneca,20599294
+Argentina,2021-11-21,Oxford/AstraZeneca,20625777
+Argentina,2021-11-22,Oxford/AstraZeneca,20655039
+Argentina,2021-11-23,Oxford/AstraZeneca,20745042
+Argentina,2021-11-24,Oxford/AstraZeneca,20841830
+Argentina,2021-11-25,Oxford/AstraZeneca,20939194
+Argentina,2021-11-26,Oxford/AstraZeneca,21044561
+Argentina,2021-11-27,Oxford/AstraZeneca,21096171
+Argentina,2021-11-28,Oxford/AstraZeneca,21123271
+Argentina,2021-11-29,Oxford/AstraZeneca,21244693
+Argentina,2021-11-30,Oxford/AstraZeneca,21373649
+Argentina,2021-12-01,Oxford/AstraZeneca,21541311
+Argentina,2021-12-02,Oxford/AstraZeneca,21695400
+Argentina,2021-12-03,Oxford/AstraZeneca,21804997
+Argentina,2021-12-04,Oxford/AstraZeneca,21871076
+Argentina,2021-12-05,Oxford/AstraZeneca,21900130
+Argentina,2021-12-06,Oxford/AstraZeneca,21993459
+Argentina,2021-12-07,Oxford/AstraZeneca,22093852
+Argentina,2021-12-08,Oxford/AstraZeneca,22144293
+Argentina,2021-12-09,Oxford/AstraZeneca,22260966
+Argentina,2021-12-10,Oxford/AstraZeneca,22379078
+Argentina,2021-12-11,Oxford/AstraZeneca,22438355
+Argentina,2021-12-12,Oxford/AstraZeneca,22488593
+Argentina,2021-12-13,Oxford/AstraZeneca,22625033
+Argentina,2021-12-14,Oxford/AstraZeneca,22762291
+Argentina,2021-12-15,Oxford/AstraZeneca,22955003
+Argentina,2021-12-16,Oxford/AstraZeneca,23129868
+Argentina,2021-12-17,Oxford/AstraZeneca,23284423
+Argentina,2021-12-18,Oxford/AstraZeneca,23349744
+Argentina,2021-12-19,Oxford/AstraZeneca,23390076
+Argentina,2021-12-20,Oxford/AstraZeneca,23534577
+Argentina,2021-12-21,Oxford/AstraZeneca,23664604
+Argentina,2021-12-22,Oxford/AstraZeneca,23779062
+Argentina,2021-12-23,Oxford/AstraZeneca,23864418
+Argentina,2021-12-24,Oxford/AstraZeneca,23868781
+Argentina,2021-12-25,Oxford/AstraZeneca,23869063
+Argentina,2021-12-26,Oxford/AstraZeneca,23888984
+Argentina,2021-12-27,Oxford/AstraZeneca,24034331
+Argentina,2021-12-28,Oxford/AstraZeneca,24216987
+Argentina,2021-12-29,Oxford/AstraZeneca,24375561
+Argentina,2021-12-30,Oxford/AstraZeneca,24502236
+Argentina,2021-12-31,Oxford/AstraZeneca,24513973
+Argentina,2022-01-01,Oxford/AstraZeneca,24516269
+Argentina,2022-01-02,Oxford/AstraZeneca,24546369
+Argentina,2022-01-03,Oxford/AstraZeneca,24672464
+Argentina,2022-01-04,Oxford/AstraZeneca,24806265
+Argentina,2022-01-05,Oxford/AstraZeneca,24920744
+Argentina,2022-01-06,Oxford/AstraZeneca,25024950
+Argentina,2022-01-07,Oxford/AstraZeneca,25123232
+Argentina,2022-01-08,Oxford/AstraZeneca,25160412
+Argentina,2022-01-09,Oxford/AstraZeneca,25182057
+Argentina,2022-01-10,Oxford/AstraZeneca,25260926
+Argentina,2022-01-11,Oxford/AstraZeneca,25333337
+Argentina,2022-01-12,Oxford/AstraZeneca,25393356
+Argentina,2022-01-13,Oxford/AstraZeneca,25443472
+Argentina,2022-01-14,Oxford/AstraZeneca,25480943
+Argentina,2022-01-15,Oxford/AstraZeneca,25489203
+Argentina,2022-01-16,Oxford/AstraZeneca,25493313
+Argentina,2022-01-17,Oxford/AstraZeneca,25517920
+Argentina,2022-01-18,Oxford/AstraZeneca,25541798
+Argentina,2022-01-19,Oxford/AstraZeneca,25561569
+Argentina,2022-01-20,Oxford/AstraZeneca,25578764
+Argentina,2022-01-21,Oxford/AstraZeneca,25594635
+Argentina,2022-01-22,Oxford/AstraZeneca,25598655
+Argentina,2022-01-23,Oxford/AstraZeneca,25599955
+Argentina,2022-01-24,Oxford/AstraZeneca,25612021
+Argentina,2022-01-25,Oxford/AstraZeneca,25624397
+Argentina,2022-01-26,Oxford/AstraZeneca,25633865
+Argentina,2022-01-27,Oxford/AstraZeneca,25643414
+Argentina,2022-01-28,Oxford/AstraZeneca,25653048
+Argentina,2022-01-29,Oxford/AstraZeneca,25655675
+Argentina,2022-01-30,Oxford/AstraZeneca,25656649
+Argentina,2022-01-31,Oxford/AstraZeneca,25664132
+Argentina,2022-02-01,Oxford/AstraZeneca,25671149
+Argentina,2022-02-02,Oxford/AstraZeneca,25678192
+Argentina,2022-02-03,Oxford/AstraZeneca,25683249
+Argentina,2022-02-04,Oxford/AstraZeneca,25688665
+Argentina,2022-02-05,Oxford/AstraZeneca,25690100
+Argentina,2022-02-06,Oxford/AstraZeneca,25690771
+Argentina,2022-02-07,Oxford/AstraZeneca,25695824
+Argentina,2022-02-08,Oxford/AstraZeneca,25701511
+Argentina,2022-02-09,Oxford/AstraZeneca,25706613
+Argentina,2022-02-10,Oxford/AstraZeneca,25711022
+Argentina,2022-02-11,Oxford/AstraZeneca,25715906
+Argentina,2022-02-12,Oxford/AstraZeneca,25716726
+Argentina,2022-02-13,Oxford/AstraZeneca,25717133
+Argentina,2022-02-14,Oxford/AstraZeneca,25720557
+Argentina,2022-02-15,Oxford/AstraZeneca,25724209
+Argentina,2022-02-16,Oxford/AstraZeneca,25727711
+Argentina,2022-02-17,Oxford/AstraZeneca,25731060
+Argentina,2022-02-18,Oxford/AstraZeneca,25734980
+Argentina,2022-02-19,Oxford/AstraZeneca,25735604
+Argentina,2022-02-20,Oxford/AstraZeneca,25735758
+Argentina,2022-02-21,Oxford/AstraZeneca,25738795
+Argentina,2022-02-22,Oxford/AstraZeneca,25742105
+Argentina,2022-02-23,Oxford/AstraZeneca,25745208
+Argentina,2022-02-24,Oxford/AstraZeneca,25747647
+Argentina,2022-02-25,Oxford/AstraZeneca,25750734
+Argentina,2022-02-26,Oxford/AstraZeneca,25751933
+Argentina,2022-02-27,Oxford/AstraZeneca,25751997
+Argentina,2022-02-28,Oxford/AstraZeneca,25752384
+Argentina,2022-03-01,Oxford/AstraZeneca,25753394
+Argentina,2022-03-02,Oxford/AstraZeneca,25760710
+Argentina,2022-03-03,Oxford/AstraZeneca,25767797
+Argentina,2022-03-04,Oxford/AstraZeneca,25775540
+Argentina,2022-03-05,Oxford/AstraZeneca,25781442
+Argentina,2022-03-06,Oxford/AstraZeneca,25786636
+Argentina,2022-03-07,Oxford/AstraZeneca,25807337
+Argentina,2022-03-08,Oxford/AstraZeneca,25826379
+Argentina,2022-03-09,Oxford/AstraZeneca,25844559
+Argentina,2022-03-10,Oxford/AstraZeneca,25861632
+Argentina,2022-03-11,Oxford/AstraZeneca,25880567
+Argentina,2022-03-12,Oxford/AstraZeneca,25888538
+Argentina,2022-03-13,Oxford/AstraZeneca,25891857
+Argentina,2022-03-14,Oxford/AstraZeneca,25907664
+Argentina,2022-03-15,Oxford/AstraZeneca,25924032
+Argentina,2022-03-16,Oxford/AstraZeneca,25941323
+Argentina,2022-03-17,Oxford/AstraZeneca,25957452
+Argentina,2022-03-18,Oxford/AstraZeneca,25975765
+Argentina,2022-03-19,Oxford/AstraZeneca,25981651
+Argentina,2022-03-20,Oxford/AstraZeneca,25982398
+Argentina,2022-03-21,Oxford/AstraZeneca,26001062
+Argentina,2022-03-22,Oxford/AstraZeneca,26017531
+Argentina,2022-03-23,Oxford/AstraZeneca,26033977
+Argentina,2022-03-24,Oxford/AstraZeneca,26035902
+Argentina,2022-03-25,Oxford/AstraZeneca,26054601
+Argentina,2022-03-26,Oxford/AstraZeneca,26059184
+Argentina,2022-03-27,Oxford/AstraZeneca,26060169
+Argentina,2022-03-28,Oxford/AstraZeneca,26078610
+Argentina,2022-03-29,Oxford/AstraZeneca,26092852
+Argentina,2022-03-30,Oxford/AstraZeneca,26107376
+Argentina,2022-03-31,Oxford/AstraZeneca,26125179
+Argentina,2022-04-01,Oxford/AstraZeneca,26134568
+Argentina,2022-04-02,Oxford/AstraZeneca,26135433
+Argentina,2022-04-03,Oxford/AstraZeneca,26135655
+Argentina,2022-04-04,Oxford/AstraZeneca,26143768
+Argentina,2022-04-05,Oxford/AstraZeneca,26154764
+Argentina,2022-04-06,Oxford/AstraZeneca,26164744
+Argentina,2022-04-07,Oxford/AstraZeneca,26174623
+Argentina,2022-04-08,Oxford/AstraZeneca,26186585
+Argentina,2022-04-09,Oxford/AstraZeneca,26189007
+Argentina,2022-04-10,Oxford/AstraZeneca,26189817
+Argentina,2022-04-11,Oxford/AstraZeneca,26199299
+Argentina,2022-04-12,Oxford/AstraZeneca,26209109
+Argentina,2022-04-13,Oxford/AstraZeneca,26219405
+Argentina,2022-04-14,Oxford/AstraZeneca,26220937
+Argentina,2022-04-15,Oxford/AstraZeneca,26221569
+Argentina,2022-04-16,Oxford/AstraZeneca,26223072
+Argentina,2022-04-17,Oxford/AstraZeneca,26223300
+Argentina,2022-04-18,Oxford/AstraZeneca,26235553
+Argentina,2022-04-19,Oxford/AstraZeneca,26251693
+Argentina,2022-04-20,Oxford/AstraZeneca,26271292
+Argentina,2022-04-21,Oxford/AstraZeneca,26287173
+Argentina,2022-04-22,Oxford/AstraZeneca,26306349
+Argentina,2022-04-23,Oxford/AstraZeneca,26310671
+Argentina,2022-04-24,Oxford/AstraZeneca,26311669
+Argentina,2022-04-25,Oxford/AstraZeneca,26330309
+Argentina,2022-04-26,Oxford/AstraZeneca,26345538
+Argentina,2022-04-27,Oxford/AstraZeneca,26359421
+Argentina,2022-04-28,Oxford/AstraZeneca,26378600
+Argentina,2022-04-29,Oxford/AstraZeneca,26400447
+Argentina,2022-04-30,Oxford/AstraZeneca,26406189
+Argentina,2022-05-01,Oxford/AstraZeneca,26406332
+Argentina,2022-05-02,Oxford/AstraZeneca,26417699
+Argentina,2022-05-03,Oxford/AstraZeneca,26427113
+Argentina,2022-05-04,Oxford/AstraZeneca,26436869
+Argentina,2022-05-05,Oxford/AstraZeneca,26447176
+Argentina,2022-05-06,Oxford/AstraZeneca,26457693
+Argentina,2022-05-07,Oxford/AstraZeneca,26463511
+Argentina,2022-05-08,Oxford/AstraZeneca,26466628
+Argentina,2022-05-09,Oxford/AstraZeneca,26482039
+Argentina,2022-05-10,Oxford/AstraZeneca,26496515
+Argentina,2022-05-11,Oxford/AstraZeneca,26508138
+Argentina,2022-05-12,Oxford/AstraZeneca,26517902
+Argentina,2022-05-13,Oxford/AstraZeneca,26529040
+Argentina,2022-05-14,Oxford/AstraZeneca,26532835
+Argentina,2022-05-15,Oxford/AstraZeneca,26533835
+Argentina,2022-05-16,Oxford/AstraZeneca,26542000
+Argentina,2022-05-17,Oxford/AstraZeneca,26553065
+Argentina,2022-05-18,Oxford/AstraZeneca,26553341
+Argentina,2022-05-19,Oxford/AstraZeneca,26566226
+Argentina,2022-05-20,Oxford/AstraZeneca,26577621
+Argentina,2022-05-21,Oxford/AstraZeneca,26583752
+Argentina,2022-05-22,Oxford/AstraZeneca,26586382
+Argentina,2022-05-23,Oxford/AstraZeneca,26599536
+Argentina,2022-05-24,Oxford/AstraZeneca,26613385
+Argentina,2022-05-25,Oxford/AstraZeneca,26618322
+Argentina,2022-05-26,Oxford/AstraZeneca,26631108
+Argentina,2022-05-27,Oxford/AstraZeneca,26642903
+Argentina,2022-05-28,Oxford/AstraZeneca,26648312
+Argentina,2022-05-29,Oxford/AstraZeneca,26651095
+Argentina,2022-05-30,Oxford/AstraZeneca,26663552
+Argentina,2022-05-31,Oxford/AstraZeneca,26674327
+Argentina,2022-06-01,Oxford/AstraZeneca,26679420
+Argentina,2022-06-02,Oxford/AstraZeneca,26685012
+Argentina,2022-06-03,Oxford/AstraZeneca,26691112
+Argentina,2022-06-04,Oxford/AstraZeneca,26692119
+Argentina,2022-06-05,Oxford/AstraZeneca,26692308
+Argentina,2022-06-06,Oxford/AstraZeneca,26696046
+Argentina,2022-06-07,Oxford/AstraZeneca,26700226
+Argentina,2022-06-08,Oxford/AstraZeneca,26703632
+Argentina,2022-06-09,Oxford/AstraZeneca,26706787
+Argentina,2022-06-10,Oxford/AstraZeneca,26710280
+Argentina,2022-06-11,Oxford/AstraZeneca,26710989
+Argentina,2022-06-12,Oxford/AstraZeneca,26711085
+Argentina,2022-06-13,Oxford/AstraZeneca,26713603
+Argentina,2022-06-14,Oxford/AstraZeneca,26716481
+Argentina,2022-06-15,Oxford/AstraZeneca,26719235
+Argentina,2022-06-16,Oxford/AstraZeneca,26722521
+Argentina,2022-06-17,Oxford/AstraZeneca,26722931
+Argentina,2022-06-18,Oxford/AstraZeneca,26723320
+Argentina,2022-06-19,Oxford/AstraZeneca,26723399
+Argentina,2022-06-20,Oxford/AstraZeneca,26723546
+Argentina,2022-06-21,Oxford/AstraZeneca,26726007
+Argentina,2022-06-22,Oxford/AstraZeneca,26728319
+Argentina,2022-06-23,Oxford/AstraZeneca,26734236
+Argentina,2022-06-24,Oxford/AstraZeneca,26741518
+Argentina,2022-06-25,Oxford/AstraZeneca,26745461
+Argentina,2022-06-26,Oxford/AstraZeneca,26748384
+Argentina,2022-06-27,Oxford/AstraZeneca,26753669
+Argentina,2022-06-28,Oxford/AstraZeneca,26759913
+Argentina,2022-06-29,Oxford/AstraZeneca,26766340
+Argentina,2022-06-30,Oxford/AstraZeneca,26776215
+Argentina,2022-07-01,Oxford/AstraZeneca,26776273
+Argentina,2022-07-02,Oxford/AstraZeneca,26776274
+Argentina,2022-07-03,Oxford/AstraZeneca,26776275
+Argentina,2022-07-04,Oxford/AstraZeneca,26776316
+Argentina,2022-07-05,Oxford/AstraZeneca,26776333
+Argentina,2022-07-06,Oxford/AstraZeneca,26776355
+Argentina,2022-07-07,Oxford/AstraZeneca,26776362
+Argentina,2022-07-08,Oxford/AstraZeneca,26776368
+Argentina,2022-07-09,Oxford/AstraZeneca,26776369
+Argentina,2022-07-10,Oxford/AstraZeneca,26776370
+Argentina,2022-07-11,Oxford/AstraZeneca,26776377
+Argentina,2022-07-12,Oxford/AstraZeneca,26776381
+Argentina,2022-07-13,Oxford/AstraZeneca,26776388
+Argentina,2022-07-14,Oxford/AstraZeneca,26776396
+Argentina,2022-07-15,Oxford/AstraZeneca,26776417
+Argentina,2022-07-18,Oxford/AstraZeneca,26776418
+Argentina,2022-07-19,Oxford/AstraZeneca,26776429
+Argentina,2022-07-20,Oxford/AstraZeneca,26776434
+Argentina,2022-07-21,Oxford/AstraZeneca,26776436
+Argentina,2022-07-22,Oxford/AstraZeneca,26776456
+Argentina,2022-07-23,Oxford/AstraZeneca,26776457
+Argentina,2022-07-25,Oxford/AstraZeneca,26776461
+Argentina,2022-07-26,Oxford/AstraZeneca,26776469
+Argentina,2022-07-27,Oxford/AstraZeneca,26776472
+Argentina,2022-07-28,Oxford/AstraZeneca,26776474
+Argentina,2022-07-29,Oxford/AstraZeneca,26776483
+Argentina,2022-07-30,Oxford/AstraZeneca,26776485
+Argentina,2022-07-31,Oxford/AstraZeneca,26776486
+Argentina,2022-08-01,Oxford/AstraZeneca,26776491
+Argentina,2022-08-02,Oxford/AstraZeneca,26776493
+Argentina,2022-08-03,Oxford/AstraZeneca,26776501
+Argentina,2022-08-04,Oxford/AstraZeneca,26776510
+Argentina,2022-08-05,Oxford/AstraZeneca,26776518
+Argentina,2022-08-08,Oxford/AstraZeneca,26776520
+Argentina,2022-08-09,Oxford/AstraZeneca,26776526
+Argentina,2022-08-10,Oxford/AstraZeneca,26776538
+Argentina,2022-08-11,Oxford/AstraZeneca,26776541
+Argentina,2022-08-12,Oxford/AstraZeneca,26776547
+Argentina,2022-08-13,Oxford/AstraZeneca,26776548
+Argentina,2022-08-15,Oxford/AstraZeneca,26776549
+Argentina,2022-08-16,Oxford/AstraZeneca,26776551
+Argentina,2022-08-17,Oxford/AstraZeneca,26776557
+Argentina,2022-08-18,Oxford/AstraZeneca,26776563
+Argentina,2022-08-19,Oxford/AstraZeneca,26776564
+Argentina,2022-08-20,Oxford/AstraZeneca,26776565
+Argentina,2022-08-22,Oxford/AstraZeneca,26776569
+Argentina,2022-08-23,Oxford/AstraZeneca,26776570
+Argentina,2022-08-24,Oxford/AstraZeneca,26776575
+Argentina,2022-08-25,Oxford/AstraZeneca,26776581
+Argentina,2022-08-26,Oxford/AstraZeneca,26776583
+Argentina,2022-08-30,Oxford/AstraZeneca,26776588
+Argentina,2022-08-31,Oxford/AstraZeneca,26776593
+Argentina,2022-09-01,Oxford/AstraZeneca,26776595
+Argentina,2022-09-02,Oxford/AstraZeneca,26776604
+Argentina,2022-09-04,Oxford/AstraZeneca,26776605
+Argentina,2022-09-05,Oxford/AstraZeneca,26776606
+Argentina,2022-09-06,Oxford/AstraZeneca,26776608
+Argentina,2022-09-07,Oxford/AstraZeneca,26776611
+Argentina,2022-09-08,Oxford/AstraZeneca,26776612
+Argentina,2022-09-12,Oxford/AstraZeneca,26776613
+Argentina,2022-09-13,Oxford/AstraZeneca,26776617
+Argentina,2022-09-14,Oxford/AstraZeneca,26776621
+Argentina,2022-09-15,Oxford/AstraZeneca,26776622
+Argentina,2022-09-16,Oxford/AstraZeneca,26776634
+Argentina,2022-09-17,Oxford/AstraZeneca,26776636
+Argentina,2022-09-19,Oxford/AstraZeneca,26776637
+Argentina,2022-09-20,Oxford/AstraZeneca,26776641
+Argentina,2022-09-21,Oxford/AstraZeneca,26776642
+Argentina,2022-09-22,Oxford/AstraZeneca,26776643
+Argentina,2022-09-23,Oxford/AstraZeneca,26776644
+Argentina,2022-09-28,Oxford/AstraZeneca,26776645
+Argentina,2022-09-30,Oxford/AstraZeneca,26776646
+Argentina,2022-10-01,Oxford/AstraZeneca,26776648
+Argentina,2022-10-03,Oxford/AstraZeneca,26776652
+Argentina,2022-10-04,Oxford/AstraZeneca,26776656
+Argentina,2022-10-05,Oxford/AstraZeneca,26776659
+Argentina,2022-10-06,Oxford/AstraZeneca,26776685
+Argentina,2022-10-07,Oxford/AstraZeneca,26776687
+Argentina,2022-10-10,Oxford/AstraZeneca,26776691
+Argentina,2022-10-11,Oxford/AstraZeneca,26776693
+Argentina,2022-10-12,Oxford/AstraZeneca,26776694
+Argentina,2022-10-13,Oxford/AstraZeneca,26776695
+Argentina,2022-10-14,Oxford/AstraZeneca,26776698
+Argentina,2022-10-16,Oxford/AstraZeneca,26776699
+Argentina,2022-10-17,Oxford/AstraZeneca,26776700
+Argentina,2022-10-18,Oxford/AstraZeneca,26776704
+Argentina,2022-10-19,Oxford/AstraZeneca,26776708
+Argentina,2022-10-20,Oxford/AstraZeneca,26776709
+Argentina,2022-10-21,Oxford/AstraZeneca,26776714
+Argentina,2022-10-23,Oxford/AstraZeneca,26776715
+Argentina,2022-10-24,Oxford/AstraZeneca,26776716
+Argentina,2022-10-25,Oxford/AstraZeneca,26776717
+Argentina,2022-10-26,Oxford/AstraZeneca,26776718
+Argentina,2022-10-27,Oxford/AstraZeneca,26776720
+Argentina,2022-10-28,Oxford/AstraZeneca,26776722
+Argentina,2022-10-30,Oxford/AstraZeneca,26776723
+Argentina,2022-10-31,Oxford/AstraZeneca,26776724
+Argentina,2022-11-03,Oxford/AstraZeneca,26776728
+Argentina,2022-11-08,Oxford/AstraZeneca,26776730
+Argentina,2022-11-09,Oxford/AstraZeneca,26776734
+Argentina,2022-11-10,Oxford/AstraZeneca,26776737
+Argentina,2022-11-11,Oxford/AstraZeneca,26776738
+Argentina,2022-11-14,Oxford/AstraZeneca,26776739
+Argentina,2022-11-15,Oxford/AstraZeneca,26776745
+Argentina,2022-11-16,Oxford/AstraZeneca,26776747
+Argentina,2022-11-18,Oxford/AstraZeneca,26776748
+Argentina,2022-11-22,Oxford/AstraZeneca,26776749
+Argentina,2022-11-23,Oxford/AstraZeneca,26776752
+Argentina,2022-11-24,Oxford/AstraZeneca,26776754
+Argentina,2022-11-25,Oxford/AstraZeneca,26776757
+Argentina,2022-11-29,Oxford/AstraZeneca,26776770
+Argentina,2022-11-30,Oxford/AstraZeneca,26776776
+Argentina,2022-12-01,Oxford/AstraZeneca,26776777
+Argentina,2022-12-02,Oxford/AstraZeneca,26776780
+Argentina,2022-12-05,Oxford/AstraZeneca,26776783
+Argentina,2022-12-06,Oxford/AstraZeneca,26776784
+Argentina,2022-12-07,Oxford/AstraZeneca,26776785
+Argentina,2022-12-08,Oxford/AstraZeneca,26776786
+Argentina,2022-12-09,Oxford/AstraZeneca,26776787
+Argentina,2022-12-11,Oxford/AstraZeneca,26776788
+Argentina,2022-12-12,Oxford/AstraZeneca,26776793
+Argentina,2022-12-13,Oxford/AstraZeneca,26776796
+Argentina,2022-12-14,Oxford/AstraZeneca,26776798
+Argentina,2022-12-15,Oxford/AstraZeneca,26776802
+Argentina,2022-12-16,Oxford/AstraZeneca,26776807
+Argentina,2022-12-17,Oxford/AstraZeneca,26776808
+Argentina,2022-12-19,Oxford/AstraZeneca,26776810
+Argentina,2022-12-20,Oxford/AstraZeneca,26776812
+Argentina,2022-12-21,Oxford/AstraZeneca,26776815
+Argentina,2022-12-27,Oxford/AstraZeneca,26776817
+Argentina,2022-12-28,Oxford/AstraZeneca,26776818
+Argentina,2022-12-29,Oxford/AstraZeneca,26776825
+Argentina,2022-12-31,Oxford/AstraZeneca,26776826
+Argentina,2023-01-02,Oxford/AstraZeneca,26776828
+Argentina,2023-01-03,Oxford/AstraZeneca,26776829
+Argentina,2023-01-04,Oxford/AstraZeneca,26776830
+Argentina,2023-01-05,Oxford/AstraZeneca,26776831
+Argentina,2023-01-09,Oxford/AstraZeneca,26776835
+Argentina,2023-01-11,Oxford/AstraZeneca,26776838
+Argentina,2023-01-12,Oxford/AstraZeneca,26776841
+Argentina,2023-01-13,Oxford/AstraZeneca,26776844
+Argentina,2023-01-17,Oxford/AstraZeneca,26776845
+Argentina,2023-01-18,Oxford/AstraZeneca,26776846
+Argentina,2023-01-20,Oxford/AstraZeneca,26776847
+Argentina,2023-01-25,Oxford/AstraZeneca,26776848
+Argentina,2023-01-27,Oxford/AstraZeneca,26776849
+Argentina,2023-01-30,Oxford/AstraZeneca,26776850
+Argentina,2023-02-01,Oxford/AstraZeneca,26776853
+Argentina,2023-02-10,Oxford/AstraZeneca,26776855
+Argentina,2023-02-12,Oxford/AstraZeneca,26776856
+Argentina,2023-02-23,Oxford/AstraZeneca,26776857
+Argentina,2023-02-27,Oxford/AstraZeneca,26776858
+Argentina,2021-01-02,Pfizer/BioNTech,1
+Argentina,2021-01-03,Pfizer/BioNTech,3
+Argentina,2021-01-06,Pfizer/BioNTech,6
+Argentina,2021-01-07,Pfizer/BioNTech,8
+Argentina,2021-01-09,Pfizer/BioNTech,9
+Argentina,2021-01-10,Pfizer/BioNTech,12
+Argentina,2021-01-12,Pfizer/BioNTech,13
+Argentina,2021-01-14,Pfizer/BioNTech,14
+Argentina,2021-01-17,Pfizer/BioNTech,15
+Argentina,2021-01-18,Pfizer/BioNTech,16
+Argentina,2021-02-15,Pfizer/BioNTech,17
+Argentina,2021-02-16,Pfizer/BioNTech,18
+Argentina,2021-02-18,Pfizer/BioNTech,19
+Argentina,2021-03-08,Pfizer/BioNTech,20
+Argentina,2021-03-19,Pfizer/BioNTech,21
+Argentina,2021-03-28,Pfizer/BioNTech,23
+Argentina,2021-03-29,Pfizer/BioNTech,24
+Argentina,2021-03-30,Pfizer/BioNTech,25
+Argentina,2021-04-08,Pfizer/BioNTech,28
+Argentina,2021-04-14,Pfizer/BioNTech,29
+Argentina,2021-04-19,Pfizer/BioNTech,30
+Argentina,2021-04-26,Pfizer/BioNTech,31
+Argentina,2021-04-27,Pfizer/BioNTech,32
+Argentina,2021-04-28,Pfizer/BioNTech,33
+Argentina,2021-05-03,Pfizer/BioNTech,34
+Argentina,2021-05-06,Pfizer/BioNTech,35
+Argentina,2021-05-11,Pfizer/BioNTech,36
+Argentina,2021-05-17,Pfizer/BioNTech,37
+Argentina,2021-05-19,Pfizer/BioNTech,38
+Argentina,2021-05-24,Pfizer/BioNTech,39
+Argentina,2021-05-29,Pfizer/BioNTech,40
+Argentina,2021-06-09,Pfizer/BioNTech,41
+Argentina,2021-06-15,Pfizer/BioNTech,42
+Argentina,2021-06-18,Pfizer/BioNTech,45
+Argentina,2021-06-21,Pfizer/BioNTech,46
+Argentina,2021-06-22,Pfizer/BioNTech,47
+Argentina,2021-06-25,Pfizer/BioNTech,49
+Argentina,2021-06-30,Pfizer/BioNTech,50
+Argentina,2021-07-03,Pfizer/BioNTech,52
+Argentina,2021-07-04,Pfizer/BioNTech,53
+Argentina,2021-07-06,Pfizer/BioNTech,54
+Argentina,2021-07-13,Pfizer/BioNTech,55
+Argentina,2021-07-14,Pfizer/BioNTech,56
+Argentina,2021-07-15,Pfizer/BioNTech,57
+Argentina,2021-07-19,Pfizer/BioNTech,58
+Argentina,2021-08-01,Pfizer/BioNTech,59
+Argentina,2021-08-02,Pfizer/BioNTech,60
+Argentina,2021-08-06,Pfizer/BioNTech,61
+Argentina,2021-08-07,Pfizer/BioNTech,62
+Argentina,2021-08-08,Pfizer/BioNTech,63
+Argentina,2021-08-09,Pfizer/BioNTech,64
+Argentina,2021-08-11,Pfizer/BioNTech,65
+Argentina,2021-08-12,Pfizer/BioNTech,67
+Argentina,2021-08-17,Pfizer/BioNTech,68
+Argentina,2021-08-20,Pfizer/BioNTech,69
+Argentina,2021-08-22,Pfizer/BioNTech,70
+Argentina,2021-08-25,Pfizer/BioNTech,71
+Argentina,2021-08-26,Pfizer/BioNTech,72
+Argentina,2021-08-30,Pfizer/BioNTech,73
+Argentina,2021-09-08,Pfizer/BioNTech,74
+Argentina,2021-09-09,Pfizer/BioNTech,75
+Argentina,2021-09-11,Pfizer/BioNTech,76
+Argentina,2021-09-12,Pfizer/BioNTech,78
+Argentina,2021-09-13,Pfizer/BioNTech,79
+Argentina,2021-09-14,Pfizer/BioNTech,212
+Argentina,2021-09-15,Pfizer/BioNTech,280
+Argentina,2021-09-16,Pfizer/BioNTech,4952
+Argentina,2021-09-17,Pfizer/BioNTech,10110
+Argentina,2021-09-18,Pfizer/BioNTech,18493
+Argentina,2021-09-19,Pfizer/BioNTech,19493
+Argentina,2021-09-20,Pfizer/BioNTech,21903
+Argentina,2021-09-21,Pfizer/BioNTech,23188
+Argentina,2021-09-22,Pfizer/BioNTech,26351
+Argentina,2021-09-23,Pfizer/BioNTech,103883
+Argentina,2021-09-24,Pfizer/BioNTech,128940
+Argentina,2021-09-25,Pfizer/BioNTech,135444
+Argentina,2021-09-26,Pfizer/BioNTech,136776
+Argentina,2021-09-27,Pfizer/BioNTech,144149
+Argentina,2021-09-28,Pfizer/BioNTech,151382
+Argentina,2021-09-29,Pfizer/BioNTech,161074
+Argentina,2021-09-30,Pfizer/BioNTech,187561
+Argentina,2021-10-01,Pfizer/BioNTech,209576
+Argentina,2021-10-02,Pfizer/BioNTech,218078
+Argentina,2021-10-03,Pfizer/BioNTech,224250
+Argentina,2021-10-04,Pfizer/BioNTech,240297
+Argentina,2021-10-05,Pfizer/BioNTech,304000
+Argentina,2021-10-06,Pfizer/BioNTech,328258
+Argentina,2021-10-07,Pfizer/BioNTech,372868
+Argentina,2021-10-08,Pfizer/BioNTech,387853
+Argentina,2021-10-09,Pfizer/BioNTech,391745
+Argentina,2021-10-10,Pfizer/BioNTech,394084
+Argentina,2021-10-11,Pfizer/BioNTech,397972
+Argentina,2021-10-12,Pfizer/BioNTech,434128
+Argentina,2021-10-13,Pfizer/BioNTech,480817
+Argentina,2021-10-14,Pfizer/BioNTech,554099
+Argentina,2021-10-15,Pfizer/BioNTech,644147
+Argentina,2021-10-16,Pfizer/BioNTech,743171
+Argentina,2021-10-17,Pfizer/BioNTech,784788
+Argentina,2021-10-18,Pfizer/BioNTech,999243
+Argentina,2021-10-19,Pfizer/BioNTech,1186868
+Argentina,2021-10-20,Pfizer/BioNTech,1363839
+Argentina,2021-10-21,Pfizer/BioNTech,1506493
+Argentina,2021-10-22,Pfizer/BioNTech,1615412
+Argentina,2021-10-23,Pfizer/BioNTech,1653779
+Argentina,2021-10-24,Pfizer/BioNTech,1667646
+Argentina,2021-10-25,Pfizer/BioNTech,1740296
+Argentina,2021-10-26,Pfizer/BioNTech,1901606
+Argentina,2021-10-27,Pfizer/BioNTech,1982138
+Argentina,2021-10-28,Pfizer/BioNTech,2073327
+Argentina,2021-10-29,Pfizer/BioNTech,2142326
+Argentina,2021-10-30,Pfizer/BioNTech,2170000
+Argentina,2021-10-31,Pfizer/BioNTech,2203736
+Argentina,2021-11-01,Pfizer/BioNTech,2282203
+Argentina,2021-11-02,Pfizer/BioNTech,2349248
+Argentina,2021-11-03,Pfizer/BioNTech,2410183
+Argentina,2021-11-04,Pfizer/BioNTech,2474493
+Argentina,2021-11-05,Pfizer/BioNTech,2537920
+Argentina,2021-11-06,Pfizer/BioNTech,2596316
+Argentina,2021-11-07,Pfizer/BioNTech,2643539
+Argentina,2021-11-08,Pfizer/BioNTech,2703608
+Argentina,2021-11-09,Pfizer/BioNTech,2778207
+Argentina,2021-11-10,Pfizer/BioNTech,2844067
+Argentina,2021-11-11,Pfizer/BioNTech,2907198
+Argentina,2021-11-12,Pfizer/BioNTech,2989431
+Argentina,2021-11-13,Pfizer/BioNTech,3020618
+Argentina,2021-11-14,Pfizer/BioNTech,3022177
+Argentina,2021-11-15,Pfizer/BioNTech,3144348
+Argentina,2021-11-16,Pfizer/BioNTech,3270214
+Argentina,2021-11-17,Pfizer/BioNTech,3394356
+Argentina,2021-11-18,Pfizer/BioNTech,3492119
+Argentina,2021-11-19,Pfizer/BioNTech,3556808
+Argentina,2021-11-20,Pfizer/BioNTech,3582673
+Argentina,2021-11-21,Pfizer/BioNTech,3592761
+Argentina,2021-11-22,Pfizer/BioNTech,3612567
+Argentina,2021-11-23,Pfizer/BioNTech,3691634
+Argentina,2021-11-24,Pfizer/BioNTech,3765881
+Argentina,2021-11-25,Pfizer/BioNTech,3838439
+Argentina,2021-11-26,Pfizer/BioNTech,3909592
+Argentina,2021-11-27,Pfizer/BioNTech,3938250
+Argentina,2021-11-28,Pfizer/BioNTech,3953643
+Argentina,2021-11-29,Pfizer/BioNTech,4010892
+Argentina,2021-11-30,Pfizer/BioNTech,4082841
+Argentina,2021-12-01,Pfizer/BioNTech,4146356
+Argentina,2021-12-02,Pfizer/BioNTech,4216303
+Argentina,2021-12-03,Pfizer/BioNTech,4278663
+Argentina,2021-12-04,Pfizer/BioNTech,4311908
+Argentina,2021-12-05,Pfizer/BioNTech,4333450
+Argentina,2021-12-06,Pfizer/BioNTech,4398720
+Argentina,2021-12-07,Pfizer/BioNTech,4464577
+Argentina,2021-12-08,Pfizer/BioNTech,4497058
+Argentina,2021-12-09,Pfizer/BioNTech,4560481
+Argentina,2021-12-10,Pfizer/BioNTech,4628770
+Argentina,2021-12-11,Pfizer/BioNTech,4663303
+Argentina,2021-12-12,Pfizer/BioNTech,4680743
+Argentina,2021-12-13,Pfizer/BioNTech,4741262
+Argentina,2021-12-14,Pfizer/BioNTech,4809903
+Argentina,2021-12-15,Pfizer/BioNTech,4880435
+Argentina,2021-12-16,Pfizer/BioNTech,4948031
+Argentina,2021-12-17,Pfizer/BioNTech,5016009
+Argentina,2021-12-18,Pfizer/BioNTech,5055894
+Argentina,2021-12-19,Pfizer/BioNTech,5079646
+Argentina,2021-12-20,Pfizer/BioNTech,5173364
+Argentina,2021-12-21,Pfizer/BioNTech,5274555
+Argentina,2021-12-22,Pfizer/BioNTech,5371164
+Argentina,2021-12-23,Pfizer/BioNTech,5440342
+Argentina,2021-12-24,Pfizer/BioNTech,5444478
+Argentina,2021-12-25,Pfizer/BioNTech,5444673
+Argentina,2021-12-26,Pfizer/BioNTech,5459574
+Argentina,2021-12-27,Pfizer/BioNTech,5593901
+Argentina,2021-12-28,Pfizer/BioNTech,5778400
+Argentina,2021-12-29,Pfizer/BioNTech,5962946
+Argentina,2021-12-30,Pfizer/BioNTech,6138655
+Argentina,2021-12-31,Pfizer/BioNTech,6149091
+Argentina,2022-01-01,Pfizer/BioNTech,6150405
+Argentina,2022-01-02,Pfizer/BioNTech,6197299
+Argentina,2022-01-03,Pfizer/BioNTech,6433865
+Argentina,2022-01-04,Pfizer/BioNTech,6700716
+Argentina,2022-01-05,Pfizer/BioNTech,6968759
+Argentina,2022-01-06,Pfizer/BioNTech,7246820
+Argentina,2022-01-07,Pfizer/BioNTech,7526272
+Argentina,2022-01-08,Pfizer/BioNTech,7675032
+Argentina,2022-01-09,Pfizer/BioNTech,7766259
+Argentina,2022-01-10,Pfizer/BioNTech,8017016
+Argentina,2022-01-11,Pfizer/BioNTech,8248393
+Argentina,2022-01-12,Pfizer/BioNTech,8475298
+Argentina,2022-01-13,Pfizer/BioNTech,8674134
+Argentina,2022-01-14,Pfizer/BioNTech,8857910
+Argentina,2022-01-15,Pfizer/BioNTech,8957792
+Argentina,2022-01-16,Pfizer/BioNTech,9032925
+Argentina,2022-01-17,Pfizer/BioNTech,9220570
+Argentina,2022-01-18,Pfizer/BioNTech,9391760
+Argentina,2022-01-19,Pfizer/BioNTech,9538137
+Argentina,2022-01-20,Pfizer/BioNTech,9677335
+Argentina,2022-01-21,Pfizer/BioNTech,9811428
+Argentina,2022-01-22,Pfizer/BioNTech,9868684
+Argentina,2022-01-23,Pfizer/BioNTech,9911927
+Argentina,2022-01-24,Pfizer/BioNTech,10048961
+Argentina,2022-01-25,Pfizer/BioNTech,10179107
+Argentina,2022-01-26,Pfizer/BioNTech,10304265
+Argentina,2022-01-27,Pfizer/BioNTech,10430804
+Argentina,2022-01-28,Pfizer/BioNTech,10557970
+Argentina,2022-01-29,Pfizer/BioNTech,10613657
+Argentina,2022-01-30,Pfizer/BioNTech,10651349
+Argentina,2022-01-31,Pfizer/BioNTech,10779382
+Argentina,2022-02-01,Pfizer/BioNTech,10901647
+Argentina,2022-02-02,Pfizer/BioNTech,11026605
+Argentina,2022-02-03,Pfizer/BioNTech,11150218
+Argentina,2022-02-04,Pfizer/BioNTech,11301291
+Argentina,2022-02-05,Pfizer/BioNTech,11367022
+Argentina,2022-02-06,Pfizer/BioNTech,11411840
+Argentina,2022-02-07,Pfizer/BioNTech,11547025
+Argentina,2022-02-08,Pfizer/BioNTech,11671443
+Argentina,2022-02-09,Pfizer/BioNTech,11837084
+Argentina,2022-02-10,Pfizer/BioNTech,11977124
+Argentina,2022-02-11,Pfizer/BioNTech,12102892
+Argentina,2022-02-12,Pfizer/BioNTech,12166124
+Argentina,2022-02-13,Pfizer/BioNTech,12206253
+Argentina,2022-02-14,Pfizer/BioNTech,12309831
+Argentina,2022-02-15,Pfizer/BioNTech,12405043
+Argentina,2022-02-16,Pfizer/BioNTech,12509589
+Argentina,2022-02-17,Pfizer/BioNTech,12617734
+Argentina,2022-02-18,Pfizer/BioNTech,12727121
+Argentina,2022-02-19,Pfizer/BioNTech,12781291
+Argentina,2022-02-20,Pfizer/BioNTech,12818565
+Argentina,2022-02-21,Pfizer/BioNTech,12931373
+Argentina,2022-02-22,Pfizer/BioNTech,13038897
+Argentina,2022-02-23,Pfizer/BioNTech,13147390
+Argentina,2022-02-24,Pfizer/BioNTech,13240692
+Argentina,2022-02-25,Pfizer/BioNTech,13357109
+Argentina,2022-02-26,Pfizer/BioNTech,13399681
+Argentina,2022-02-27,Pfizer/BioNTech,13421107
+Argentina,2022-02-28,Pfizer/BioNTech,13447716
+Argentina,2022-03-01,Pfizer/BioNTech,13475550
+Argentina,2022-03-02,Pfizer/BioNTech,13555285
+Argentina,2022-03-03,Pfizer/BioNTech,13633840
+Argentina,2022-03-04,Pfizer/BioNTech,13707307
+Argentina,2022-03-05,Pfizer/BioNTech,13744494
+Argentina,2022-03-06,Pfizer/BioNTech,13777837
+Argentina,2022-03-07,Pfizer/BioNTech,13862995
+Argentina,2022-03-08,Pfizer/BioNTech,13916638
+Argentina,2022-03-09,Pfizer/BioNTech,13983846
+Argentina,2022-03-10,Pfizer/BioNTech,14048791
+Argentina,2022-03-11,Pfizer/BioNTech,14119071
+Argentina,2022-03-12,Pfizer/BioNTech,14153074
+Argentina,2022-03-13,Pfizer/BioNTech,14170260
+Argentina,2022-03-14,Pfizer/BioNTech,14226372
+Argentina,2022-03-15,Pfizer/BioNTech,14292189
+Argentina,2022-03-16,Pfizer/BioNTech,14354713
+Argentina,2022-03-17,Pfizer/BioNTech,14416329
+Argentina,2022-03-18,Pfizer/BioNTech,14480511
+Argentina,2022-03-19,Pfizer/BioNTech,14517362
+Argentina,2022-03-20,Pfizer/BioNTech,14535956
+Argentina,2022-03-21,Pfizer/BioNTech,14593513
+Argentina,2022-03-22,Pfizer/BioNTech,14646422
+Argentina,2022-03-23,Pfizer/BioNTech,14700730
+Argentina,2022-03-24,Pfizer/BioNTech,14714392
+Argentina,2022-03-25,Pfizer/BioNTech,14765769
+Argentina,2022-03-26,Pfizer/BioNTech,14786920
+Argentina,2022-03-27,Pfizer/BioNTech,14796665
+Argentina,2022-03-28,Pfizer/BioNTech,14843142
+Argentina,2022-03-29,Pfizer/BioNTech,14891472
+Argentina,2022-03-30,Pfizer/BioNTech,14941796
+Argentina,2022-03-31,Pfizer/BioNTech,14992280
+Argentina,2022-04-01,Pfizer/BioNTech,15045750
+Argentina,2022-04-02,Pfizer/BioNTech,15062669
+Argentina,2022-04-03,Pfizer/BioNTech,15073136
+Argentina,2022-04-04,Pfizer/BioNTech,15120299
+Argentina,2022-04-05,Pfizer/BioNTech,15161959
+Argentina,2022-04-06,Pfizer/BioNTech,15201996
+Argentina,2022-04-07,Pfizer/BioNTech,15239199
+Argentina,2022-04-08,Pfizer/BioNTech,15279859
+Argentina,2022-04-09,Pfizer/BioNTech,15299090
+Argentina,2022-04-10,Pfizer/BioNTech,15307999
+Argentina,2022-04-11,Pfizer/BioNTech,15348434
+Argentina,2022-04-12,Pfizer/BioNTech,15388557
+Argentina,2022-04-13,Pfizer/BioNTech,15432797
+Argentina,2022-04-14,Pfizer/BioNTech,15449223
+Argentina,2022-04-15,Pfizer/BioNTech,15458386
+Argentina,2022-04-16,Pfizer/BioNTech,15475190
+Argentina,2022-04-17,Pfizer/BioNTech,15480974
+Argentina,2022-04-18,Pfizer/BioNTech,15537760
+Argentina,2022-04-19,Pfizer/BioNTech,15595206
+Argentina,2022-04-20,Pfizer/BioNTech,15658340
+Argentina,2022-04-21,Pfizer/BioNTech,15717821
+Argentina,2022-04-22,Pfizer/BioNTech,15782041
+Argentina,2022-04-23,Pfizer/BioNTech,15809561
+Argentina,2022-04-24,Pfizer/BioNTech,15822355
+Argentina,2022-04-25,Pfizer/BioNTech,15888357
+Argentina,2022-04-26,Pfizer/BioNTech,15951210
+Argentina,2022-04-27,Pfizer/BioNTech,16021928
+Argentina,2022-04-28,Pfizer/BioNTech,16100862
+Argentina,2022-04-29,Pfizer/BioNTech,16179597
+Argentina,2022-04-30,Pfizer/BioNTech,16211415
+Argentina,2022-05-01,Pfizer/BioNTech,16212117
+Argentina,2022-05-02,Pfizer/BioNTech,16281129
+Argentina,2022-05-03,Pfizer/BioNTech,16354667
+Argentina,2022-05-04,Pfizer/BioNTech,16426461
+Argentina,2022-05-05,Pfizer/BioNTech,16502376
+Argentina,2022-05-06,Pfizer/BioNTech,16579145
+Argentina,2022-05-07,Pfizer/BioNTech,16611315
+Argentina,2022-05-08,Pfizer/BioNTech,16627852
+Argentina,2022-05-09,Pfizer/BioNTech,16711015
+Argentina,2022-05-10,Pfizer/BioNTech,16805397
+Argentina,2022-05-11,Pfizer/BioNTech,16888765
+Argentina,2022-05-12,Pfizer/BioNTech,16974110
+Argentina,2022-05-13,Pfizer/BioNTech,17077472
+Argentina,2022-05-14,Pfizer/BioNTech,17125144
+Argentina,2022-05-15,Pfizer/BioNTech,17148569
+Argentina,2022-05-16,Pfizer/BioNTech,17235891
+Argentina,2022-05-17,Pfizer/BioNTech,17335785
+Argentina,2022-05-18,Pfizer/BioNTech,17337009
+Argentina,2022-05-19,Pfizer/BioNTech,17431393
+Argentina,2022-05-20,Pfizer/BioNTech,17527349
+Argentina,2022-05-21,Pfizer/BioNTech,17570503
+Argentina,2022-05-22,Pfizer/BioNTech,17590189
+Argentina,2022-05-23,Pfizer/BioNTech,17678345
+Argentina,2022-05-24,Pfizer/BioNTech,17757824
+Argentina,2022-05-25,Pfizer/BioNTech,17771817
+Argentina,2022-05-26,Pfizer/BioNTech,17847587
+Argentina,2022-05-27,Pfizer/BioNTech,17929715
+Argentina,2022-05-28,Pfizer/BioNTech,17965744
+Argentina,2022-05-29,Pfizer/BioNTech,17984770
+Argentina,2022-05-30,Pfizer/BioNTech,18046570
+Argentina,2022-05-31,Pfizer/BioNTech,18111353
+Argentina,2022-06-01,Pfizer/BioNTech,18163703
+Argentina,2022-06-02,Pfizer/BioNTech,18207257
+Argentina,2022-06-03,Pfizer/BioNTech,18253672
+Argentina,2022-06-04,Pfizer/BioNTech,18263316
+Argentina,2022-06-05,Pfizer/BioNTech,18265235
+Argentina,2022-06-06,Pfizer/BioNTech,18299197
+Argentina,2022-06-07,Pfizer/BioNTech,18336572
+Argentina,2022-06-08,Pfizer/BioNTech,18373474
+Argentina,2022-06-09,Pfizer/BioNTech,18407928
+Argentina,2022-06-10,Pfizer/BioNTech,18444623
+Argentina,2022-06-11,Pfizer/BioNTech,18451458
+Argentina,2022-06-12,Pfizer/BioNTech,18452497
+Argentina,2022-06-13,Pfizer/BioNTech,18483600
+Argentina,2022-06-14,Pfizer/BioNTech,18516380
+Argentina,2022-06-15,Pfizer/BioNTech,18550085
+Argentina,2022-06-16,Pfizer/BioNTech,18583510
+Argentina,2022-06-17,Pfizer/BioNTech,18590439
+Argentina,2022-06-18,Pfizer/BioNTech,18594976
+Argentina,2022-06-19,Pfizer/BioNTech,18595191
+Argentina,2022-06-20,Pfizer/BioNTech,18597401
+Argentina,2022-06-21,Pfizer/BioNTech,18616935
+Argentina,2022-06-22,Pfizer/BioNTech,18638537
+Argentina,2022-06-23,Pfizer/BioNTech,18658744
+Argentina,2022-06-24,Pfizer/BioNTech,18684794
+Argentina,2022-06-25,Pfizer/BioNTech,18690803
+Argentina,2022-06-26,Pfizer/BioNTech,18693731
+Argentina,2022-06-27,Pfizer/BioNTech,18709458
+Argentina,2022-06-28,Pfizer/BioNTech,18728409
+Argentina,2022-06-29,Pfizer/BioNTech,18747969
+Argentina,2022-06-30,Pfizer/BioNTech,18768146
+Argentina,2022-07-01,Pfizer/BioNTech,18786045
+Argentina,2022-07-02,Pfizer/BioNTech,18791173
+Argentina,2022-07-03,Pfizer/BioNTech,18792593
+Argentina,2022-07-04,Pfizer/BioNTech,18806690
+Argentina,2022-07-05,Pfizer/BioNTech,18821273
+Argentina,2022-07-06,Pfizer/BioNTech,18835746
+Argentina,2022-07-07,Pfizer/BioNTech,18848511
+Argentina,2022-07-08,Pfizer/BioNTech,18861170
+Argentina,2022-07-09,Pfizer/BioNTech,18864732
+Argentina,2022-07-10,Pfizer/BioNTech,18867424
+Argentina,2022-07-11,Pfizer/BioNTech,18877888
+Argentina,2022-07-12,Pfizer/BioNTech,18888340
+Argentina,2022-07-13,Pfizer/BioNTech,18899003
+Argentina,2022-07-14,Pfizer/BioNTech,18910018
+Argentina,2022-07-15,Pfizer/BioNTech,18919709
+Argentina,2022-07-16,Pfizer/BioNTech,18921569
+Argentina,2022-07-17,Pfizer/BioNTech,18922052
+Argentina,2022-07-18,Pfizer/BioNTech,18932199
+Argentina,2022-07-19,Pfizer/BioNTech,18943004
+Argentina,2022-07-20,Pfizer/BioNTech,18951676
+Argentina,2022-07-21,Pfizer/BioNTech,18961552
+Argentina,2022-07-22,Pfizer/BioNTech,18973508
+Argentina,2022-07-23,Pfizer/BioNTech,18975315
+Argentina,2022-07-24,Pfizer/BioNTech,18975543
+Argentina,2022-07-25,Pfizer/BioNTech,18982595
+Argentina,2022-07-26,Pfizer/BioNTech,18992451
+Argentina,2022-07-27,Pfizer/BioNTech,19002002
+Argentina,2022-07-28,Pfizer/BioNTech,19012768
+Argentina,2022-07-29,Pfizer/BioNTech,19026895
+Argentina,2022-07-30,Pfizer/BioNTech,19029324
+Argentina,2022-07-31,Pfizer/BioNTech,19029880
+Argentina,2022-08-01,Pfizer/BioNTech,19032878
+Argentina,2022-08-02,Pfizer/BioNTech,19035911
+Argentina,2022-08-03,Pfizer/BioNTech,19039508
+Argentina,2022-08-04,Pfizer/BioNTech,19043337
+Argentina,2022-08-05,Pfizer/BioNTech,19048346
+Argentina,2022-08-06,Pfizer/BioNTech,19049290
+Argentina,2022-08-07,Pfizer/BioNTech,19049342
+Argentina,2022-08-08,Pfizer/BioNTech,19052471
+Argentina,2022-08-09,Pfizer/BioNTech,19055694
+Argentina,2022-08-10,Pfizer/BioNTech,19059834
+Argentina,2022-08-11,Pfizer/BioNTech,19063022
+Argentina,2022-08-12,Pfizer/BioNTech,19067395
+Argentina,2022-08-13,Pfizer/BioNTech,19068102
+Argentina,2022-08-14,Pfizer/BioNTech,19068173
+Argentina,2022-08-15,Pfizer/BioNTech,19068308
+Argentina,2022-08-16,Pfizer/BioNTech,19071323
+Argentina,2022-08-17,Pfizer/BioNTech,19074480
+Argentina,2022-08-18,Pfizer/BioNTech,19077858
+Argentina,2022-08-19,Pfizer/BioNTech,19080859
+Argentina,2022-08-20,Pfizer/BioNTech,19081422
+Argentina,2022-08-21,Pfizer/BioNTech,19081567
+Argentina,2022-08-22,Pfizer/BioNTech,19083936
+Argentina,2022-08-23,Pfizer/BioNTech,19086827
+Argentina,2022-08-24,Pfizer/BioNTech,19090035
+Argentina,2022-08-25,Pfizer/BioNTech,19093474
+Argentina,2022-08-26,Pfizer/BioNTech,19098032
+Argentina,2022-08-27,Pfizer/BioNTech,19099224
+Argentina,2022-08-28,Pfizer/BioNTech,19099494
+Argentina,2022-08-29,Pfizer/BioNTech,19102904
+Argentina,2022-08-30,Pfizer/BioNTech,19106589
+Argentina,2022-08-31,Pfizer/BioNTech,19110552
+Argentina,2022-09-01,Pfizer/BioNTech,19112897
+Argentina,2022-09-02,Pfizer/BioNTech,19113656
+Argentina,2022-09-03,Pfizer/BioNTech,19114248
+Argentina,2022-09-04,Pfizer/BioNTech,19114369
+Argentina,2022-09-05,Pfizer/BioNTech,19116912
+Argentina,2022-09-06,Pfizer/BioNTech,19119640
+Argentina,2022-09-07,Pfizer/BioNTech,19122275
+Argentina,2022-09-08,Pfizer/BioNTech,19124831
+Argentina,2022-09-09,Pfizer/BioNTech,19127817
+Argentina,2022-09-10,Pfizer/BioNTech,19128468
+Argentina,2022-09-11,Pfizer/BioNTech,19128581
+Argentina,2022-09-12,Pfizer/BioNTech,19131095
+Argentina,2022-09-13,Pfizer/BioNTech,19133869
+Argentina,2022-09-14,Pfizer/BioNTech,19136691
+Argentina,2022-09-15,Pfizer/BioNTech,19139423
+Argentina,2022-09-16,Pfizer/BioNTech,19142342
+Argentina,2022-09-17,Pfizer/BioNTech,19142910
+Argentina,2022-09-18,Pfizer/BioNTech,19142966
+Argentina,2022-09-19,Pfizer/BioNTech,19145194
+Argentina,2022-09-20,Pfizer/BioNTech,19147692
+Argentina,2022-09-21,Pfizer/BioNTech,19150361
+Argentina,2022-09-22,Pfizer/BioNTech,19154303
+Argentina,2022-09-23,Pfizer/BioNTech,19158139
+Argentina,2022-09-24,Pfizer/BioNTech,19158818
+Argentina,2022-09-25,Pfizer/BioNTech,19159293
+Argentina,2022-09-26,Pfizer/BioNTech,19162307
+Argentina,2022-09-27,Pfizer/BioNTech,19164683
+Argentina,2022-09-28,Pfizer/BioNTech,19166879
+Argentina,2022-09-29,Pfizer/BioNTech,19169597
+Argentina,2022-09-30,Pfizer/BioNTech,19172253
+Argentina,2022-10-01,Pfizer/BioNTech,19172665
+Argentina,2022-10-02,Pfizer/BioNTech,19172790
+Argentina,2022-10-03,Pfizer/BioNTech,19174844
+Argentina,2022-10-04,Pfizer/BioNTech,19176685
+Argentina,2022-10-05,Pfizer/BioNTech,19178744
+Argentina,2022-10-06,Pfizer/BioNTech,19181106
+Argentina,2022-10-07,Pfizer/BioNTech,19181407
+Argentina,2022-10-08,Pfizer/BioNTech,19181614
+Argentina,2022-10-09,Pfizer/BioNTech,19181648
+Argentina,2022-10-10,Pfizer/BioNTech,19181922
+Argentina,2022-10-11,Pfizer/BioNTech,19183944
+Argentina,2022-10-12,Pfizer/BioNTech,19185948
+Argentina,2022-10-13,Pfizer/BioNTech,19187952
+Argentina,2022-10-14,Pfizer/BioNTech,19190090
+Argentina,2022-10-15,Pfizer/BioNTech,19190451
+Argentina,2022-10-16,Pfizer/BioNTech,19190472
+Argentina,2022-10-17,Pfizer/BioNTech,19192446
+Argentina,2022-10-18,Pfizer/BioNTech,19194288
+Argentina,2022-10-19,Pfizer/BioNTech,19196362
+Argentina,2022-10-20,Pfizer/BioNTech,19198230
+Argentina,2022-10-21,Pfizer/BioNTech,19200126
+Argentina,2022-10-22,Pfizer/BioNTech,19200403
+Argentina,2022-10-23,Pfizer/BioNTech,19200426
+Argentina,2022-10-24,Pfizer/BioNTech,19202979
+Argentina,2022-10-25,Pfizer/BioNTech,19205488
+Argentina,2022-10-26,Pfizer/BioNTech,19208300
+Argentina,2022-10-27,Pfizer/BioNTech,19211628
+Argentina,2022-10-28,Pfizer/BioNTech,19214724
+Argentina,2022-10-29,Pfizer/BioNTech,19215128
+Argentina,2022-10-30,Pfizer/BioNTech,19215181
+Argentina,2022-10-31,Pfizer/BioNTech,19218225
+Argentina,2022-11-01,Pfizer/BioNTech,19221289
+Argentina,2022-11-02,Pfizer/BioNTech,19225412
+Argentina,2022-11-03,Pfizer/BioNTech,19230464
+Argentina,2022-11-04,Pfizer/BioNTech,19235828
+Argentina,2022-11-05,Pfizer/BioNTech,19236638
+Argentina,2022-11-06,Pfizer/BioNTech,19236752
+Argentina,2022-11-07,Pfizer/BioNTech,19241059
+Argentina,2022-11-08,Pfizer/BioNTech,19245658
+Argentina,2022-11-09,Pfizer/BioNTech,19250095
+Argentina,2022-11-10,Pfizer/BioNTech,19254924
+Argentina,2022-11-11,Pfizer/BioNTech,19259667
+Argentina,2022-11-12,Pfizer/BioNTech,19260258
+Argentina,2022-11-13,Pfizer/BioNTech,19260351
+Argentina,2022-11-14,Pfizer/BioNTech,19264438
+Argentina,2022-11-15,Pfizer/BioNTech,19268573
+Argentina,2022-11-16,Pfizer/BioNTech,19273398
+Argentina,2022-11-17,Pfizer/BioNTech,19277541
+Argentina,2022-11-18,Pfizer/BioNTech,19281427
+Argentina,2022-11-19,Pfizer/BioNTech,19282077
+Argentina,2022-11-20,Pfizer/BioNTech,19282116
+Argentina,2022-11-21,Pfizer/BioNTech,19282280
+Argentina,2022-11-22,Pfizer/BioNTech,19284596
+Argentina,2022-11-23,Pfizer/BioNTech,19287210
+Argentina,2022-11-24,Pfizer/BioNTech,19290603
+Argentina,2022-11-25,Pfizer/BioNTech,19295008
+Argentina,2022-11-26,Pfizer/BioNTech,19295305
+Argentina,2022-11-27,Pfizer/BioNTech,19295384
+Argentina,2022-11-28,Pfizer/BioNTech,19300754
+Argentina,2022-11-29,Pfizer/BioNTech,19307853
+Argentina,2022-11-30,Pfizer/BioNTech,19315077
+Argentina,2022-12-01,Pfizer/BioNTech,19320813
+Argentina,2022-12-02,Pfizer/BioNTech,19327534
+Argentina,2022-12-03,Pfizer/BioNTech,19328507
+Argentina,2022-12-04,Pfizer/BioNTech,19328591
+Argentina,2022-12-05,Pfizer/BioNTech,19334680
+Argentina,2022-12-06,Pfizer/BioNTech,19341009
+Argentina,2022-12-07,Pfizer/BioNTech,19348101
+Argentina,2022-12-08,Pfizer/BioNTech,19348435
+Argentina,2022-12-09,Pfizer/BioNTech,19348760
+Argentina,2022-12-10,Pfizer/BioNTech,19349258
+Argentina,2022-12-11,Pfizer/BioNTech,19349305
+Argentina,2022-12-12,Pfizer/BioNTech,19354990
+Argentina,2022-12-13,Pfizer/BioNTech,19358208
+Argentina,2022-12-14,Pfizer/BioNTech,19362529
+Argentina,2022-12-15,Pfizer/BioNTech,19366342
+Argentina,2022-12-16,Pfizer/BioNTech,19369285
+Argentina,2022-12-17,Pfizer/BioNTech,19369692
+Argentina,2022-12-18,Pfizer/BioNTech,19369701
+Argentina,2022-12-19,Pfizer/BioNTech,19371279
+Argentina,2022-12-20,Pfizer/BioNTech,19372237
+Argentina,2022-12-21,Pfizer/BioNTech,19374726
+Argentina,2022-12-22,Pfizer/BioNTech,19376652
+Argentina,2022-12-23,Pfizer/BioNTech,19376831
+Argentina,2022-12-24,Pfizer/BioNTech,19376840
+Argentina,2022-12-25,Pfizer/BioNTech,19376843
+Argentina,2022-12-26,Pfizer/BioNTech,19378510
+Argentina,2022-12-27,Pfizer/BioNTech,19381258
+Argentina,2022-12-28,Pfizer/BioNTech,19384112
+Argentina,2022-12-29,Pfizer/BioNTech,19386284
+Argentina,2022-12-30,Pfizer/BioNTech,19386556
+Argentina,2022-12-31,Pfizer/BioNTech,19386572
+Argentina,2023-01-01,Pfizer/BioNTech,19386584
+Argentina,2023-01-02,Pfizer/BioNTech,19387287
+Argentina,2023-01-03,Pfizer/BioNTech,19388981
+Argentina,2023-01-04,Pfizer/BioNTech,19390961
+Argentina,2023-01-05,Pfizer/BioNTech,19392659
+Argentina,2023-01-06,Pfizer/BioNTech,19393999
+Argentina,2023-01-07,Pfizer/BioNTech,19394103
+Argentina,2023-01-08,Pfizer/BioNTech,19394106
+Argentina,2023-01-09,Pfizer/BioNTech,19395301
+Argentina,2023-01-10,Pfizer/BioNTech,19396809
+Argentina,2023-01-11,Pfizer/BioNTech,19400402
+Argentina,2023-01-12,Pfizer/BioNTech,19405547
+Argentina,2023-01-13,Pfizer/BioNTech,19411497
+Argentina,2023-01-14,Pfizer/BioNTech,19412722
+Argentina,2023-01-15,Pfizer/BioNTech,19412875
+Argentina,2023-01-16,Pfizer/BioNTech,19418999
+Argentina,2023-01-17,Pfizer/BioNTech,19426371
+Argentina,2023-01-18,Pfizer/BioNTech,19434101
+Argentina,2023-01-19,Pfizer/BioNTech,19445182
+Argentina,2023-01-20,Pfizer/BioNTech,19457066
+Argentina,2023-01-21,Pfizer/BioNTech,19460586
+Argentina,2023-01-22,Pfizer/BioNTech,19462409
+Argentina,2023-01-23,Pfizer/BioNTech,19476498
+Argentina,2023-01-24,Pfizer/BioNTech,19491873
+Argentina,2023-01-25,Pfizer/BioNTech,19509673
+Argentina,2023-01-26,Pfizer/BioNTech,19528645
+Argentina,2023-01-27,Pfizer/BioNTech,19548776
+Argentina,2023-01-28,Pfizer/BioNTech,19554879
+Argentina,2023-01-29,Pfizer/BioNTech,19558713
+Argentina,2023-01-30,Pfizer/BioNTech,19576239
+Argentina,2023-01-31,Pfizer/BioNTech,19591555
+Argentina,2023-02-01,Pfizer/BioNTech,19610619
+Argentina,2023-02-02,Pfizer/BioNTech,19627943
+Argentina,2023-02-03,Pfizer/BioNTech,19649050
+Argentina,2023-02-04,Pfizer/BioNTech,19654977
+Argentina,2023-02-05,Pfizer/BioNTech,19657415
+Argentina,2023-02-06,Pfizer/BioNTech,19676096
+Argentina,2023-02-07,Pfizer/BioNTech,19694289
+Argentina,2023-02-08,Pfizer/BioNTech,19713198
+Argentina,2023-02-09,Pfizer/BioNTech,19732893
+Argentina,2023-02-10,Pfizer/BioNTech,19753652
+Argentina,2023-02-11,Pfizer/BioNTech,19759407
+Argentina,2023-02-12,Pfizer/BioNTech,19762053
+Argentina,2023-02-13,Pfizer/BioNTech,19776852
+Argentina,2023-02-14,Pfizer/BioNTech,19792934
+Argentina,2023-02-15,Pfizer/BioNTech,19809605
+Argentina,2023-02-16,Pfizer/BioNTech,19826232
+Argentina,2023-02-17,Pfizer/BioNTech,19843596
+Argentina,2023-02-18,Pfizer/BioNTech,19848717
+Argentina,2023-02-19,Pfizer/BioNTech,19850947
+Argentina,2023-02-20,Pfizer/BioNTech,19852852
+Argentina,2023-02-21,Pfizer/BioNTech,19853351
+Argentina,2023-02-22,Pfizer/BioNTech,19868334
+Argentina,2023-02-23,Pfizer/BioNTech,19883074
+Argentina,2023-02-24,Pfizer/BioNTech,19900420
+Argentina,2023-02-25,Pfizer/BioNTech,19904162
+Argentina,2023-02-26,Pfizer/BioNTech,19905586
+Argentina,2023-02-27,Pfizer/BioNTech,19919236
+Argentina,2023-02-28,Pfizer/BioNTech,19931069
+Argentina,2023-03-01,Pfizer/BioNTech,19940332
+Argentina,2023-03-02,Pfizer/BioNTech,19948762
+Argentina,2023-03-03,Pfizer/BioNTech,19957969
+Argentina,2023-03-04,Pfizer/BioNTech,19960042
+Argentina,2023-03-05,Pfizer/BioNTech,19960927
+Argentina,2023-03-06,Pfizer/BioNTech,19967633
+Argentina,2023-03-07,Pfizer/BioNTech,19974237
+Argentina,2023-03-08,Pfizer/BioNTech,19978420
+Argentina,2020-12-29,Sinopharm/Beijing,1
+Argentina,2021-01-05,Sinopharm/Beijing,5
+Argentina,2021-01-06,Sinopharm/Beijing,8
+Argentina,2021-01-07,Sinopharm/Beijing,10
+Argentina,2021-01-09,Sinopharm/Beijing,11
+Argentina,2021-01-10,Sinopharm/Beijing,12
+Argentina,2021-01-11,Sinopharm/Beijing,14
+Argentina,2021-01-12,Sinopharm/Beijing,17
+Argentina,2021-01-13,Sinopharm/Beijing,21
+Argentina,2021-01-14,Sinopharm/Beijing,22
+Argentina,2021-01-19,Sinopharm/Beijing,24
+Argentina,2021-01-21,Sinopharm/Beijing,26
+Argentina,2021-01-22,Sinopharm/Beijing,27
+Argentina,2021-01-26,Sinopharm/Beijing,28
+Argentina,2021-01-31,Sinopharm/Beijing,29
+Argentina,2021-02-01,Sinopharm/Beijing,30
+Argentina,2021-02-03,Sinopharm/Beijing,33
+Argentina,2021-02-04,Sinopharm/Beijing,56
+Argentina,2021-02-05,Sinopharm/Beijing,63
+Argentina,2021-02-06,Sinopharm/Beijing,68
+Argentina,2021-02-07,Sinopharm/Beijing,72
+Argentina,2021-02-08,Sinopharm/Beijing,73
+Argentina,2021-02-09,Sinopharm/Beijing,79
+Argentina,2021-02-10,Sinopharm/Beijing,84
+Argentina,2021-02-11,Sinopharm/Beijing,90
+Argentina,2021-02-12,Sinopharm/Beijing,91
+Argentina,2021-02-13,Sinopharm/Beijing,93
+Argentina,2021-02-14,Sinopharm/Beijing,95
+Argentina,2021-02-15,Sinopharm/Beijing,97
+Argentina,2021-02-16,Sinopharm/Beijing,99
+Argentina,2021-02-17,Sinopharm/Beijing,102
+Argentina,2021-02-18,Sinopharm/Beijing,106
+Argentina,2021-02-19,Sinopharm/Beijing,107
+Argentina,2021-02-20,Sinopharm/Beijing,108
+Argentina,2021-02-23,Sinopharm/Beijing,110
+Argentina,2021-02-24,Sinopharm/Beijing,113
+Argentina,2021-02-25,Sinopharm/Beijing,117
+Argentina,2021-02-26,Sinopharm/Beijing,126
+Argentina,2021-02-27,Sinopharm/Beijing,127
+Argentina,2021-02-28,Sinopharm/Beijing,128
+Argentina,2021-03-01,Sinopharm/Beijing,830
+Argentina,2021-03-02,Sinopharm/Beijing,5795
+Argentina,2021-03-03,Sinopharm/Beijing,23631
+Argentina,2021-03-04,Sinopharm/Beijing,87940
+Argentina,2021-03-05,Sinopharm/Beijing,154459
+Argentina,2021-03-06,Sinopharm/Beijing,196887
+Argentina,2021-03-07,Sinopharm/Beijing,203332
+Argentina,2021-03-08,Sinopharm/Beijing,256284
+Argentina,2021-03-09,Sinopharm/Beijing,319402
+Argentina,2021-03-10,Sinopharm/Beijing,418152
+Argentina,2021-03-11,Sinopharm/Beijing,503047
+Argentina,2021-03-12,Sinopharm/Beijing,564198
+Argentina,2021-03-13,Sinopharm/Beijing,574704
+Argentina,2021-03-14,Sinopharm/Beijing,581362
+Argentina,2021-03-15,Sinopharm/Beijing,621986
+Argentina,2021-03-16,Sinopharm/Beijing,656665
+Argentina,2021-03-17,Sinopharm/Beijing,679645
+Argentina,2021-03-18,Sinopharm/Beijing,701798
+Argentina,2021-03-19,Sinopharm/Beijing,725405
+Argentina,2021-03-20,Sinopharm/Beijing,729344
+Argentina,2021-03-21,Sinopharm/Beijing,729693
+Argentina,2021-03-22,Sinopharm/Beijing,747095
+Argentina,2021-03-23,Sinopharm/Beijing,760655
+Argentina,2021-03-24,Sinopharm/Beijing,763797
+Argentina,2021-03-25,Sinopharm/Beijing,774702
+Argentina,2021-03-26,Sinopharm/Beijing,783879
+Argentina,2021-03-27,Sinopharm/Beijing,786187
+Argentina,2021-03-28,Sinopharm/Beijing,786662
+Argentina,2021-03-29,Sinopharm/Beijing,798169
+Argentina,2021-03-30,Sinopharm/Beijing,808669
+Argentina,2021-03-31,Sinopharm/Beijing,820685
+Argentina,2021-04-01,Sinopharm/Beijing,824448
+Argentina,2021-04-02,Sinopharm/Beijing,826770
+Argentina,2021-04-03,Sinopharm/Beijing,827861
+Argentina,2021-04-04,Sinopharm/Beijing,829525
+Argentina,2021-04-05,Sinopharm/Beijing,858658
+Argentina,2021-04-06,Sinopharm/Beijing,933814
+Argentina,2021-04-07,Sinopharm/Beijing,1052134
+Argentina,2021-04-08,Sinopharm/Beijing,1182442
+Argentina,2021-04-09,Sinopharm/Beijing,1330033
+Argentina,2021-04-10,Sinopharm/Beijing,1384027
+Argentina,2021-04-11,Sinopharm/Beijing,1416884
+Argentina,2021-04-12,Sinopharm/Beijing,1512247
+Argentina,2021-04-13,Sinopharm/Beijing,1594741
+Argentina,2021-04-14,Sinopharm/Beijing,1662127
+Argentina,2021-04-15,Sinopharm/Beijing,1713313
+Argentina,2021-04-16,Sinopharm/Beijing,1759428
+Argentina,2021-04-17,Sinopharm/Beijing,1775546
+Argentina,2021-04-18,Sinopharm/Beijing,1777809
+Argentina,2021-04-19,Sinopharm/Beijing,1802776
+Argentina,2021-04-20,Sinopharm/Beijing,1826819
+Argentina,2021-04-21,Sinopharm/Beijing,1848039
+Argentina,2021-04-22,Sinopharm/Beijing,1863606
+Argentina,2021-04-23,Sinopharm/Beijing,1877708
+Argentina,2021-04-24,Sinopharm/Beijing,1879280
+Argentina,2021-04-25,Sinopharm/Beijing,1879655
+Argentina,2021-04-26,Sinopharm/Beijing,1887224
+Argentina,2021-04-27,Sinopharm/Beijing,1894584
+Argentina,2021-04-28,Sinopharm/Beijing,1922548
+Argentina,2021-04-29,Sinopharm/Beijing,1962680
+Argentina,2021-04-30,Sinopharm/Beijing,1998850
+Argentina,2021-05-01,Sinopharm/Beijing,2002563
+Argentina,2021-05-02,Sinopharm/Beijing,2016695
+Argentina,2021-05-03,Sinopharm/Beijing,2090673
+Argentina,2021-05-04,Sinopharm/Beijing,2184782
+Argentina,2021-05-05,Sinopharm/Beijing,2263380
+Argentina,2021-05-06,Sinopharm/Beijing,2328024
+Argentina,2021-05-07,Sinopharm/Beijing,2424149
+Argentina,2021-05-08,Sinopharm/Beijing,2465771
+Argentina,2021-05-09,Sinopharm/Beijing,2469270
+Argentina,2021-05-10,Sinopharm/Beijing,2533449
+Argentina,2021-05-11,Sinopharm/Beijing,2598303
+Argentina,2021-05-12,Sinopharm/Beijing,2737681
+Argentina,2021-05-13,Sinopharm/Beijing,2886412
+Argentina,2021-05-14,Sinopharm/Beijing,3034779
+Argentina,2021-05-15,Sinopharm/Beijing,3085230
+Argentina,2021-05-16,Sinopharm/Beijing,3128540
+Argentina,2021-05-17,Sinopharm/Beijing,3224295
+Argentina,2021-05-18,Sinopharm/Beijing,3269243
+Argentina,2021-05-19,Sinopharm/Beijing,3302599
+Argentina,2021-05-20,Sinopharm/Beijing,3337883
+Argentina,2021-05-21,Sinopharm/Beijing,3416108
+Argentina,2021-05-22,Sinopharm/Beijing,3460107
+Argentina,2021-05-23,Sinopharm/Beijing,3482987
+Argentina,2021-05-24,Sinopharm/Beijing,3502479
+Argentina,2021-05-25,Sinopharm/Beijing,3505660
+Argentina,2021-05-26,Sinopharm/Beijing,3539248
+Argentina,2021-05-27,Sinopharm/Beijing,3572507
+Argentina,2021-05-28,Sinopharm/Beijing,3601422
+Argentina,2021-05-29,Sinopharm/Beijing,3611329
+Argentina,2021-05-30,Sinopharm/Beijing,3612952
+Argentina,2021-05-31,Sinopharm/Beijing,3629857
+Argentina,2021-06-01,Sinopharm/Beijing,3643417
+Argentina,2021-06-02,Sinopharm/Beijing,3656565
+Argentina,2021-06-03,Sinopharm/Beijing,3668786
+Argentina,2021-06-04,Sinopharm/Beijing,3684650
+Argentina,2021-06-05,Sinopharm/Beijing,3689331
+Argentina,2021-06-06,Sinopharm/Beijing,3691366
+Argentina,2021-06-07,Sinopharm/Beijing,3700736
+Argentina,2021-06-08,Sinopharm/Beijing,3708853
+Argentina,2021-06-09,Sinopharm/Beijing,3715651
+Argentina,2021-06-10,Sinopharm/Beijing,3721707
+Argentina,2021-06-11,Sinopharm/Beijing,3732447
+Argentina,2021-06-12,Sinopharm/Beijing,3744532
+Argentina,2021-06-13,Sinopharm/Beijing,3746358
+Argentina,2021-06-14,Sinopharm/Beijing,3756996
+Argentina,2021-06-15,Sinopharm/Beijing,3762782
+Argentina,2021-06-16,Sinopharm/Beijing,3767596
+Argentina,2021-06-17,Sinopharm/Beijing,3773925
+Argentina,2021-06-18,Sinopharm/Beijing,3779826
+Argentina,2021-06-19,Sinopharm/Beijing,3782397
+Argentina,2021-06-20,Sinopharm/Beijing,3782694
+Argentina,2021-06-21,Sinopharm/Beijing,3783993
+Argentina,2021-06-22,Sinopharm/Beijing,3789943
+Argentina,2021-06-23,Sinopharm/Beijing,3814293
+Argentina,2021-06-24,Sinopharm/Beijing,3887462
+Argentina,2021-06-25,Sinopharm/Beijing,3997341
+Argentina,2021-06-26,Sinopharm/Beijing,4089156
+Argentina,2021-06-27,Sinopharm/Beijing,4147028
+Argentina,2021-06-28,Sinopharm/Beijing,4326507
+Argentina,2021-06-29,Sinopharm/Beijing,4499391
+Argentina,2021-06-30,Sinopharm/Beijing,4650088
+Argentina,2021-07-01,Sinopharm/Beijing,4753080
+Argentina,2021-07-02,Sinopharm/Beijing,4866048
+Argentina,2021-07-03,Sinopharm/Beijing,4939247
+Argentina,2021-07-04,Sinopharm/Beijing,4996445
+Argentina,2021-07-05,Sinopharm/Beijing,5056561
+Argentina,2021-07-06,Sinopharm/Beijing,5118369
+Argentina,2021-07-07,Sinopharm/Beijing,5165346
+Argentina,2021-07-08,Sinopharm/Beijing,5273807
+Argentina,2021-07-09,Sinopharm/Beijing,5385869
+Argentina,2021-07-10,Sinopharm/Beijing,5545472
+Argentina,2021-07-11,Sinopharm/Beijing,5610339
+Argentina,2021-07-12,Sinopharm/Beijing,5788085
+Argentina,2021-07-13,Sinopharm/Beijing,5959167
+Argentina,2021-07-14,Sinopharm/Beijing,6159681
+Argentina,2021-07-15,Sinopharm/Beijing,6374497
+Argentina,2021-07-16,Sinopharm/Beijing,6634510
+Argentina,2021-07-17,Sinopharm/Beijing,6808941
+Argentina,2021-07-18,Sinopharm/Beijing,6896643
+Argentina,2021-07-19,Sinopharm/Beijing,7162853
+Argentina,2021-07-20,Sinopharm/Beijing,7355880
+Argentina,2021-07-21,Sinopharm/Beijing,7620233
+Argentina,2021-07-22,Sinopharm/Beijing,7904578
+Argentina,2021-07-23,Sinopharm/Beijing,8211663
+Argentina,2021-07-24,Sinopharm/Beijing,8371234
+Argentina,2021-07-25,Sinopharm/Beijing,8484760
+Argentina,2021-07-26,Sinopharm/Beijing,8762066
+Argentina,2021-07-27,Sinopharm/Beijing,9004413
+Argentina,2021-07-28,Sinopharm/Beijing,9289605
+Argentina,2021-07-29,Sinopharm/Beijing,9579694
+Argentina,2021-07-30,Sinopharm/Beijing,9880879
+Argentina,2021-07-31,Sinopharm/Beijing,10084947
+Argentina,2021-08-01,Sinopharm/Beijing,10216274
+Argentina,2021-08-02,Sinopharm/Beijing,10529592
+Argentina,2021-08-03,Sinopharm/Beijing,10742263
+Argentina,2021-08-04,Sinopharm/Beijing,10983169
+Argentina,2021-08-05,Sinopharm/Beijing,11212296
+Argentina,2021-08-06,Sinopharm/Beijing,11442693
+Argentina,2021-08-07,Sinopharm/Beijing,11591610
+Argentina,2021-08-08,Sinopharm/Beijing,11688600
+Argentina,2021-08-09,Sinopharm/Beijing,11782675
+Argentina,2021-08-10,Sinopharm/Beijing,11870726
+Argentina,2021-08-11,Sinopharm/Beijing,11952745
+Argentina,2021-08-12,Sinopharm/Beijing,12045726
+Argentina,2021-08-13,Sinopharm/Beijing,12141568
+Argentina,2021-08-14,Sinopharm/Beijing,12176730
+Argentina,2021-08-15,Sinopharm/Beijing,12191280
+Argentina,2021-08-16,Sinopharm/Beijing,12208900
+Argentina,2021-08-17,Sinopharm/Beijing,12281386
+Argentina,2021-08-18,Sinopharm/Beijing,12359638
+Argentina,2021-08-19,Sinopharm/Beijing,12424221
+Argentina,2021-08-20,Sinopharm/Beijing,12487434
+Argentina,2021-08-21,Sinopharm/Beijing,12521778
+Argentina,2021-08-22,Sinopharm/Beijing,12562452
+Argentina,2021-08-23,Sinopharm/Beijing,12704697
+Argentina,2021-08-24,Sinopharm/Beijing,12893152
+Argentina,2021-08-25,Sinopharm/Beijing,13071055
+Argentina,2021-08-26,Sinopharm/Beijing,13239894
+Argentina,2021-08-27,Sinopharm/Beijing,13458561
+Argentina,2021-08-28,Sinopharm/Beijing,13589712
+Argentina,2021-08-29,Sinopharm/Beijing,13672637
+Argentina,2021-08-30,Sinopharm/Beijing,13832852
+Argentina,2021-08-31,Sinopharm/Beijing,13970652
+Argentina,2021-09-01,Sinopharm/Beijing,14122545
+Argentina,2021-09-02,Sinopharm/Beijing,14320113
+Argentina,2021-09-03,Sinopharm/Beijing,14518296
+Argentina,2021-09-04,Sinopharm/Beijing,14650908
+Argentina,2021-09-05,Sinopharm/Beijing,14727394
+Argentina,2021-09-06,Sinopharm/Beijing,14873534
+Argentina,2021-09-07,Sinopharm/Beijing,15018643
+Argentina,2021-09-08,Sinopharm/Beijing,15136284
+Argentina,2021-09-09,Sinopharm/Beijing,15269602
+Argentina,2021-09-10,Sinopharm/Beijing,15413778
+Argentina,2021-09-11,Sinopharm/Beijing,15448787
+Argentina,2021-09-12,Sinopharm/Beijing,15452159
+Argentina,2021-09-13,Sinopharm/Beijing,15511135
+Argentina,2021-09-14,Sinopharm/Beijing,15571682
+Argentina,2021-09-15,Sinopharm/Beijing,15626094
+Argentina,2021-09-16,Sinopharm/Beijing,15675729
+Argentina,2021-09-17,Sinopharm/Beijing,15768749
+Argentina,2021-09-18,Sinopharm/Beijing,15813427
+Argentina,2021-09-19,Sinopharm/Beijing,15845150
+Argentina,2021-09-20,Sinopharm/Beijing,15899474
+Argentina,2021-09-21,Sinopharm/Beijing,15969247
+Argentina,2021-09-22,Sinopharm/Beijing,16050055
+Argentina,2021-09-23,Sinopharm/Beijing,16122725
+Argentina,2021-09-24,Sinopharm/Beijing,16176545
+Argentina,2021-09-25,Sinopharm/Beijing,16244063
+Argentina,2021-09-26,Sinopharm/Beijing,16278484
+Argentina,2021-09-27,Sinopharm/Beijing,16382301
+Argentina,2021-09-28,Sinopharm/Beijing,16484372
+Argentina,2021-09-29,Sinopharm/Beijing,16568796
+Argentina,2021-09-30,Sinopharm/Beijing,16649961
+Argentina,2021-10-01,Sinopharm/Beijing,16697766
+Argentina,2021-10-02,Sinopharm/Beijing,16718140
+Argentina,2021-10-03,Sinopharm/Beijing,16725419
+Argentina,2021-10-04,Sinopharm/Beijing,16808755
+Argentina,2021-10-05,Sinopharm/Beijing,16848149
+Argentina,2021-10-06,Sinopharm/Beijing,16888458
+Argentina,2021-10-07,Sinopharm/Beijing,16924673
+Argentina,2021-10-08,Sinopharm/Beijing,16938424
+Argentina,2021-10-09,Sinopharm/Beijing,16959513
+Argentina,2021-10-10,Sinopharm/Beijing,16979630
+Argentina,2021-10-11,Sinopharm/Beijing,17009312
+Argentina,2021-10-12,Sinopharm/Beijing,17180712
+Argentina,2021-10-13,Sinopharm/Beijing,17398974
+Argentina,2021-10-14,Sinopharm/Beijing,17602434
+Argentina,2021-10-15,Sinopharm/Beijing,17783188
+Argentina,2021-10-16,Sinopharm/Beijing,17837981
+Argentina,2021-10-17,Sinopharm/Beijing,17853345
+Argentina,2021-10-18,Sinopharm/Beijing,17970887
+Argentina,2021-10-19,Sinopharm/Beijing,18109053
+Argentina,2021-10-20,Sinopharm/Beijing,18254082
+Argentina,2021-10-21,Sinopharm/Beijing,18413009
+Argentina,2021-10-22,Sinopharm/Beijing,18670678
+Argentina,2021-10-23,Sinopharm/Beijing,18798775
+Argentina,2021-10-24,Sinopharm/Beijing,18910298
+Argentina,2021-10-25,Sinopharm/Beijing,19095412
+Argentina,2021-10-26,Sinopharm/Beijing,19249444
+Argentina,2021-10-27,Sinopharm/Beijing,19412465
+Argentina,2021-10-28,Sinopharm/Beijing,19569341
+Argentina,2021-10-29,Sinopharm/Beijing,19714296
+Argentina,2021-10-30,Sinopharm/Beijing,19764306
+Argentina,2021-10-31,Sinopharm/Beijing,19854491
+Argentina,2021-11-01,Sinopharm/Beijing,19974542
+Argentina,2021-11-02,Sinopharm/Beijing,20122319
+Argentina,2021-11-03,Sinopharm/Beijing,20312358
+Argentina,2021-11-04,Sinopharm/Beijing,20520177
+Argentina,2021-11-05,Sinopharm/Beijing,20669541
+Argentina,2021-11-06,Sinopharm/Beijing,20733411
+Argentina,2021-11-07,Sinopharm/Beijing,20787933
+Argentina,2021-11-08,Sinopharm/Beijing,20892537
+Argentina,2021-11-09,Sinopharm/Beijing,21062239
+Argentina,2021-11-10,Sinopharm/Beijing,21170156
+Argentina,2021-11-11,Sinopharm/Beijing,21284096
+Argentina,2021-11-12,Sinopharm/Beijing,21410211
+Argentina,2021-11-13,Sinopharm/Beijing,21458405
+Argentina,2021-11-14,Sinopharm/Beijing,21463377
+Argentina,2021-11-15,Sinopharm/Beijing,21561324
+Argentina,2021-11-16,Sinopharm/Beijing,21689911
+Argentina,2021-11-17,Sinopharm/Beijing,21815471
+Argentina,2021-11-18,Sinopharm/Beijing,21965032
+Argentina,2021-11-19,Sinopharm/Beijing,22178769
+Argentina,2021-11-20,Sinopharm/Beijing,22262207
+Argentina,2021-11-21,Sinopharm/Beijing,22315199
+Argentina,2021-11-22,Sinopharm/Beijing,22368296
+Argentina,2021-11-23,Sinopharm/Beijing,22516545
+Argentina,2021-11-24,Sinopharm/Beijing,22670986
+Argentina,2021-11-25,Sinopharm/Beijing,22800686
+Argentina,2021-11-26,Sinopharm/Beijing,22933385
+Argentina,2021-11-27,Sinopharm/Beijing,22996918
+Argentina,2021-11-28,Sinopharm/Beijing,23037064
+Argentina,2021-11-29,Sinopharm/Beijing,23187527
+Argentina,2021-11-30,Sinopharm/Beijing,23322100
+Argentina,2021-12-01,Sinopharm/Beijing,23446538
+Argentina,2021-12-02,Sinopharm/Beijing,23592625
+Argentina,2021-12-03,Sinopharm/Beijing,23710199
+Argentina,2021-12-04,Sinopharm/Beijing,23763565
+Argentina,2021-12-05,Sinopharm/Beijing,23806471
+Argentina,2021-12-06,Sinopharm/Beijing,23939252
+Argentina,2021-12-07,Sinopharm/Beijing,24086390
+Argentina,2021-12-08,Sinopharm/Beijing,24127320
+Argentina,2021-12-09,Sinopharm/Beijing,24224601
+Argentina,2021-12-10,Sinopharm/Beijing,24325076
+Argentina,2021-12-11,Sinopharm/Beijing,24372705
+Argentina,2021-12-12,Sinopharm/Beijing,24393981
+Argentina,2021-12-13,Sinopharm/Beijing,24487742
+Argentina,2021-12-14,Sinopharm/Beijing,24585628
+Argentina,2021-12-15,Sinopharm/Beijing,24670697
+Argentina,2021-12-16,Sinopharm/Beijing,24759126
+Argentina,2021-12-17,Sinopharm/Beijing,24835250
+Argentina,2021-12-18,Sinopharm/Beijing,24877809
+Argentina,2021-12-19,Sinopharm/Beijing,24899272
+Argentina,2021-12-20,Sinopharm/Beijing,24977194
+Argentina,2021-12-21,Sinopharm/Beijing,25066719
+Argentina,2021-12-22,Sinopharm/Beijing,25152496
+Argentina,2021-12-23,Sinopharm/Beijing,25213803
+Argentina,2021-12-24,Sinopharm/Beijing,25216435
+Argentina,2021-12-25,Sinopharm/Beijing,25216639
+Argentina,2021-12-26,Sinopharm/Beijing,25229999
+Argentina,2021-12-27,Sinopharm/Beijing,25334994
+Argentina,2021-12-28,Sinopharm/Beijing,25434522
+Argentina,2021-12-29,Sinopharm/Beijing,25531837
+Argentina,2021-12-30,Sinopharm/Beijing,25612544
+Argentina,2021-12-31,Sinopharm/Beijing,25618083
+Argentina,2022-01-01,Sinopharm/Beijing,25618711
+Argentina,2022-01-02,Sinopharm/Beijing,25635278
+Argentina,2022-01-03,Sinopharm/Beijing,25716253
+Argentina,2022-01-04,Sinopharm/Beijing,25814893
+Argentina,2022-01-05,Sinopharm/Beijing,25921849
+Argentina,2022-01-06,Sinopharm/Beijing,26029315
+Argentina,2022-01-07,Sinopharm/Beijing,26140087
+Argentina,2022-01-08,Sinopharm/Beijing,26183788
+Argentina,2022-01-09,Sinopharm/Beijing,26206725
+Argentina,2022-01-10,Sinopharm/Beijing,26294818
+Argentina,2022-01-11,Sinopharm/Beijing,26376542
+Argentina,2022-01-12,Sinopharm/Beijing,26455044
+Argentina,2022-01-13,Sinopharm/Beijing,26527208
+Argentina,2022-01-14,Sinopharm/Beijing,26589444
+Argentina,2022-01-15,Sinopharm/Beijing,26611905
+Argentina,2022-01-16,Sinopharm/Beijing,26626457
+Argentina,2022-01-17,Sinopharm/Beijing,26688293
+Argentina,2022-01-18,Sinopharm/Beijing,26747610
+Argentina,2022-01-19,Sinopharm/Beijing,26804673
+Argentina,2022-01-20,Sinopharm/Beijing,26863310
+Argentina,2022-01-21,Sinopharm/Beijing,26917222
+Argentina,2022-01-22,Sinopharm/Beijing,26939800
+Argentina,2022-01-23,Sinopharm/Beijing,26953213
+Argentina,2022-01-24,Sinopharm/Beijing,27011195
+Argentina,2022-01-25,Sinopharm/Beijing,27067631
+Argentina,2022-01-26,Sinopharm/Beijing,27123055
+Argentina,2022-01-27,Sinopharm/Beijing,27183896
+Argentina,2022-01-28,Sinopharm/Beijing,27239407
+Argentina,2022-01-29,Sinopharm/Beijing,27259726
+Argentina,2022-01-30,Sinopharm/Beijing,27270922
+Argentina,2022-01-31,Sinopharm/Beijing,27321833
+Argentina,2022-02-01,Sinopharm/Beijing,27370616
+Argentina,2022-02-02,Sinopharm/Beijing,27414984
+Argentina,2022-02-03,Sinopharm/Beijing,27456550
+Argentina,2022-02-04,Sinopharm/Beijing,27500686
+Argentina,2022-02-05,Sinopharm/Beijing,27516342
+Argentina,2022-02-06,Sinopharm/Beijing,27526133
+Argentina,2022-02-07,Sinopharm/Beijing,27570976
+Argentina,2022-02-08,Sinopharm/Beijing,27617217
+Argentina,2022-02-09,Sinopharm/Beijing,27661450
+Argentina,2022-02-10,Sinopharm/Beijing,27705227
+Argentina,2022-02-11,Sinopharm/Beijing,27743501
+Argentina,2022-02-12,Sinopharm/Beijing,27760010
+Argentina,2022-02-13,Sinopharm/Beijing,27769474
+Argentina,2022-02-14,Sinopharm/Beijing,27808247
+Argentina,2022-02-15,Sinopharm/Beijing,27847281
+Argentina,2022-02-16,Sinopharm/Beijing,27886382
+Argentina,2022-02-17,Sinopharm/Beijing,27926797
+Argentina,2022-02-18,Sinopharm/Beijing,27965722
+Argentina,2022-02-19,Sinopharm/Beijing,27977652
+Argentina,2022-02-20,Sinopharm/Beijing,27983236
+Argentina,2022-02-21,Sinopharm/Beijing,28020401
+Argentina,2022-02-22,Sinopharm/Beijing,28061026
+Argentina,2022-02-23,Sinopharm/Beijing,28100367
+Argentina,2022-02-24,Sinopharm/Beijing,28132288
+Argentina,2022-02-25,Sinopharm/Beijing,28169870
+Argentina,2022-02-26,Sinopharm/Beijing,28181361
+Argentina,2022-02-27,Sinopharm/Beijing,28186224
+Argentina,2022-02-28,Sinopharm/Beijing,28193464
+Argentina,2022-03-01,Sinopharm/Beijing,28200498
+Argentina,2022-03-02,Sinopharm/Beijing,28219280
+Argentina,2022-03-03,Sinopharm/Beijing,28236328
+Argentina,2022-03-04,Sinopharm/Beijing,28255031
+Argentina,2022-03-05,Sinopharm/Beijing,28261716
+Argentina,2022-03-06,Sinopharm/Beijing,28264958
+Argentina,2022-03-07,Sinopharm/Beijing,28279245
+Argentina,2022-03-08,Sinopharm/Beijing,28289416
+Argentina,2022-03-09,Sinopharm/Beijing,28300792
+Argentina,2022-03-10,Sinopharm/Beijing,28313900
+Argentina,2022-03-11,Sinopharm/Beijing,28328273
+Argentina,2022-03-12,Sinopharm/Beijing,28333673
+Argentina,2022-03-13,Sinopharm/Beijing,28335658
+Argentina,2022-03-14,Sinopharm/Beijing,28348310
+Argentina,2022-03-15,Sinopharm/Beijing,28361306
+Argentina,2022-03-16,Sinopharm/Beijing,28374049
+Argentina,2022-03-17,Sinopharm/Beijing,28386956
+Argentina,2022-03-18,Sinopharm/Beijing,28399519
+Argentina,2022-03-19,Sinopharm/Beijing,28404561
+Argentina,2022-03-20,Sinopharm/Beijing,28406464
+Argentina,2022-03-21,Sinopharm/Beijing,28416488
+Argentina,2022-03-22,Sinopharm/Beijing,28426672
+Argentina,2022-03-23,Sinopharm/Beijing,28437744
+Argentina,2022-03-24,Sinopharm/Beijing,28439664
+Argentina,2022-03-25,Sinopharm/Beijing,28449944
+Argentina,2022-03-26,Sinopharm/Beijing,28453836
+Argentina,2022-03-27,Sinopharm/Beijing,28455281
+Argentina,2022-03-28,Sinopharm/Beijing,28464810
+Argentina,2022-03-29,Sinopharm/Beijing,28474322
+Argentina,2022-03-30,Sinopharm/Beijing,28482021
+Argentina,2022-03-31,Sinopharm/Beijing,28490834
+Argentina,2022-04-01,Sinopharm/Beijing,28499874
+Argentina,2022-04-02,Sinopharm/Beijing,28502212
+Argentina,2022-04-03,Sinopharm/Beijing,28503658
+Argentina,2022-04-04,Sinopharm/Beijing,28510503
+Argentina,2022-04-05,Sinopharm/Beijing,28518365
+Argentina,2022-04-06,Sinopharm/Beijing,28526162
+Argentina,2022-04-07,Sinopharm/Beijing,28532537
+Argentina,2022-04-08,Sinopharm/Beijing,28539400
+Argentina,2022-04-09,Sinopharm/Beijing,28542006
+Argentina,2022-04-10,Sinopharm/Beijing,28543015
+Argentina,2022-04-11,Sinopharm/Beijing,28548005
+Argentina,2022-04-12,Sinopharm/Beijing,28553778
+Argentina,2022-04-13,Sinopharm/Beijing,28560231
+Argentina,2022-04-14,Sinopharm/Beijing,28561785
+Argentina,2022-04-15,Sinopharm/Beijing,28562532
+Argentina,2022-04-16,Sinopharm/Beijing,28563677
+Argentina,2022-04-17,Sinopharm/Beijing,28564029
+Argentina,2022-04-18,Sinopharm/Beijing,28569406
+Argentina,2022-04-19,Sinopharm/Beijing,28575382
+Argentina,2022-04-20,Sinopharm/Beijing,28581153
+Argentina,2022-04-21,Sinopharm/Beijing,28586548
+Argentina,2022-04-22,Sinopharm/Beijing,28591611
+Argentina,2022-04-23,Sinopharm/Beijing,28593830
+Argentina,2022-04-24,Sinopharm/Beijing,28594740
+Argentina,2022-04-25,Sinopharm/Beijing,28599324
+Argentina,2022-04-26,Sinopharm/Beijing,28604156
+Argentina,2022-04-27,Sinopharm/Beijing,28608670
+Argentina,2022-04-28,Sinopharm/Beijing,28614025
+Argentina,2022-04-29,Sinopharm/Beijing,28619082
+Argentina,2022-04-30,Sinopharm/Beijing,28620853
+Argentina,2022-05-01,Sinopharm/Beijing,28620941
+Argentina,2022-05-02,Sinopharm/Beijing,28624278
+Argentina,2022-05-03,Sinopharm/Beijing,28627687
+Argentina,2022-05-04,Sinopharm/Beijing,28631759
+Argentina,2022-05-05,Sinopharm/Beijing,28644658
+Argentina,2022-05-06,Sinopharm/Beijing,28653979
+Argentina,2022-05-07,Sinopharm/Beijing,28657152
+Argentina,2022-05-08,Sinopharm/Beijing,28658276
+Argentina,2022-05-09,Sinopharm/Beijing,28662992
+Argentina,2022-05-10,Sinopharm/Beijing,28667318
+Argentina,2022-05-11,Sinopharm/Beijing,28671921
+Argentina,2022-05-12,Sinopharm/Beijing,28676139
+Argentina,2022-05-13,Sinopharm/Beijing,28681289
+Argentina,2022-05-14,Sinopharm/Beijing,28683462
+Argentina,2022-05-15,Sinopharm/Beijing,28684359
+Argentina,2022-05-16,Sinopharm/Beijing,28687928
+Argentina,2022-05-17,Sinopharm/Beijing,28691974
+Argentina,2022-05-18,Sinopharm/Beijing,28692067
+Argentina,2022-05-19,Sinopharm/Beijing,28695792
+Argentina,2022-05-20,Sinopharm/Beijing,28700529
+Argentina,2022-05-21,Sinopharm/Beijing,28702866
+Argentina,2022-05-22,Sinopharm/Beijing,28703806
+Argentina,2022-05-23,Sinopharm/Beijing,28707765
+Argentina,2022-05-24,Sinopharm/Beijing,28711933
+Argentina,2022-05-25,Sinopharm/Beijing,28712660
+Argentina,2022-05-26,Sinopharm/Beijing,28716060
+Argentina,2022-05-27,Sinopharm/Beijing,28720387
+Argentina,2022-05-28,Sinopharm/Beijing,28722700
+Argentina,2022-05-29,Sinopharm/Beijing,28723598
+Argentina,2022-05-30,Sinopharm/Beijing,28727259
+Argentina,2022-05-31,Sinopharm/Beijing,28730763
+Argentina,2022-06-01,Sinopharm/Beijing,28733688
+Argentina,2022-06-02,Sinopharm/Beijing,28736822
+Argentina,2022-06-03,Sinopharm/Beijing,28740483
+Argentina,2022-06-04,Sinopharm/Beijing,28741375
+Argentina,2022-06-05,Sinopharm/Beijing,28741644
+Argentina,2022-06-06,Sinopharm/Beijing,28744467
+Argentina,2022-06-07,Sinopharm/Beijing,28747521
+Argentina,2022-06-08,Sinopharm/Beijing,28750709
+Argentina,2022-06-09,Sinopharm/Beijing,28753922
+Argentina,2022-06-10,Sinopharm/Beijing,28757518
+Argentina,2022-06-11,Sinopharm/Beijing,28758248
+Argentina,2022-06-12,Sinopharm/Beijing,28758360
+Argentina,2022-06-13,Sinopharm/Beijing,28761157
+Argentina,2022-06-14,Sinopharm/Beijing,28764235
+Argentina,2022-06-15,Sinopharm/Beijing,28767332
+Argentina,2022-06-16,Sinopharm/Beijing,28770564
+Argentina,2022-06-17,Sinopharm/Beijing,28771007
+Argentina,2022-06-18,Sinopharm/Beijing,28771380
+Argentina,2022-06-19,Sinopharm/Beijing,28771396
+Argentina,2022-06-20,Sinopharm/Beijing,28771590
+Argentina,2022-06-21,Sinopharm/Beijing,28773883
+Argentina,2022-06-22,Sinopharm/Beijing,28776178
+Argentina,2022-06-23,Sinopharm/Beijing,28778541
+Argentina,2022-06-24,Sinopharm/Beijing,28781212
+Argentina,2022-06-25,Sinopharm/Beijing,28781690
+Argentina,2022-06-26,Sinopharm/Beijing,28781898
+Argentina,2022-06-27,Sinopharm/Beijing,28783316
+Argentina,2022-06-28,Sinopharm/Beijing,28785761
+Argentina,2022-06-29,Sinopharm/Beijing,28788291
+Argentina,2022-06-30,Sinopharm/Beijing,28790880
+Argentina,2022-07-01,Sinopharm/Beijing,28793750
+Argentina,2022-07-02,Sinopharm/Beijing,28794102
+Argentina,2022-07-03,Sinopharm/Beijing,28794205
+Argentina,2022-07-04,Sinopharm/Beijing,28796490
+Argentina,2022-07-05,Sinopharm/Beijing,28798638
+Argentina,2022-07-06,Sinopharm/Beijing,28800793
+Argentina,2022-07-07,Sinopharm/Beijing,28802757
+Argentina,2022-07-08,Sinopharm/Beijing,28804713
+Argentina,2022-07-09,Sinopharm/Beijing,28805152
+Argentina,2022-07-10,Sinopharm/Beijing,28805378
+Argentina,2022-07-11,Sinopharm/Beijing,28807122
+Argentina,2022-07-12,Sinopharm/Beijing,28808841
+Argentina,2022-07-13,Sinopharm/Beijing,28810690
+Argentina,2022-07-14,Sinopharm/Beijing,28812561
+Argentina,2022-07-15,Sinopharm/Beijing,28813995
+Argentina,2022-07-16,Sinopharm/Beijing,28814263
+Argentina,2022-07-17,Sinopharm/Beijing,28814406
+Argentina,2022-07-18,Sinopharm/Beijing,28816188
+Argentina,2022-07-19,Sinopharm/Beijing,28818131
+Argentina,2022-07-20,Sinopharm/Beijing,28819991
+Argentina,2022-07-21,Sinopharm/Beijing,28821890
+Argentina,2022-07-22,Sinopharm/Beijing,28824130
+Argentina,2022-07-23,Sinopharm/Beijing,28824426
+Argentina,2022-07-24,Sinopharm/Beijing,28824558
+Argentina,2022-07-25,Sinopharm/Beijing,28825958
+Argentina,2022-07-26,Sinopharm/Beijing,28827953
+Argentina,2022-07-27,Sinopharm/Beijing,28829922
+Argentina,2022-07-28,Sinopharm/Beijing,28831999
+Argentina,2022-07-29,Sinopharm/Beijing,28834604
+Argentina,2022-07-30,Sinopharm/Beijing,28835077
+Argentina,2022-07-31,Sinopharm/Beijing,28835256
+Argentina,2022-08-01,Sinopharm/Beijing,28836873
+Argentina,2022-08-02,Sinopharm/Beijing,28838545
+Argentina,2022-08-03,Sinopharm/Beijing,28840185
+Argentina,2022-08-04,Sinopharm/Beijing,28841665
+Argentina,2022-08-05,Sinopharm/Beijing,28843704
+Argentina,2022-08-06,Sinopharm/Beijing,28844039
+Argentina,2022-08-07,Sinopharm/Beijing,28844235
+Argentina,2022-08-08,Sinopharm/Beijing,28845682
+Argentina,2022-08-09,Sinopharm/Beijing,28847382
+Argentina,2022-08-10,Sinopharm/Beijing,28849177
+Argentina,2022-08-11,Sinopharm/Beijing,28850898
+Argentina,2022-08-12,Sinopharm/Beijing,28852644
+Argentina,2022-08-13,Sinopharm/Beijing,28852928
+Argentina,2022-08-14,Sinopharm/Beijing,28853010
+Argentina,2022-08-15,Sinopharm/Beijing,28853193
+Argentina,2022-08-16,Sinopharm/Beijing,28854594
+Argentina,2022-08-17,Sinopharm/Beijing,28855806
+Argentina,2022-08-18,Sinopharm/Beijing,28857246
+Argentina,2022-08-19,Sinopharm/Beijing,28858698
+Argentina,2022-08-20,Sinopharm/Beijing,28858900
+Argentina,2022-08-21,Sinopharm/Beijing,28858956
+Argentina,2022-08-22,Sinopharm/Beijing,28860188
+Argentina,2022-08-23,Sinopharm/Beijing,28861562
+Argentina,2022-08-24,Sinopharm/Beijing,28863120
+Argentina,2022-08-25,Sinopharm/Beijing,28864799
+Argentina,2022-08-26,Sinopharm/Beijing,28866119
+Argentina,2022-08-27,Sinopharm/Beijing,28866344
+Argentina,2022-08-28,Sinopharm/Beijing,28866447
+Argentina,2022-08-29,Sinopharm/Beijing,28867576
+Argentina,2022-08-30,Sinopharm/Beijing,28868849
+Argentina,2022-08-31,Sinopharm/Beijing,28870275
+Argentina,2022-09-01,Sinopharm/Beijing,28871575
+Argentina,2022-09-02,Sinopharm/Beijing,28871818
+Argentina,2022-09-03,Sinopharm/Beijing,28871977
+Argentina,2022-09-04,Sinopharm/Beijing,28872017
+Argentina,2022-09-05,Sinopharm/Beijing,28873037
+Argentina,2022-09-06,Sinopharm/Beijing,28874289
+Argentina,2022-09-07,Sinopharm/Beijing,28875506
+Argentina,2022-09-08,Sinopharm/Beijing,28876606
+Argentina,2022-09-09,Sinopharm/Beijing,28877793
+Argentina,2022-09-10,Sinopharm/Beijing,28877954
+Argentina,2022-09-11,Sinopharm/Beijing,28877986
+Argentina,2022-09-12,Sinopharm/Beijing,28878971
+Argentina,2022-09-13,Sinopharm/Beijing,28880148
+Argentina,2022-09-14,Sinopharm/Beijing,28881206
+Argentina,2022-09-15,Sinopharm/Beijing,28882350
+Argentina,2022-09-16,Sinopharm/Beijing,28883471
+Argentina,2022-09-17,Sinopharm/Beijing,28883611
+Argentina,2022-09-18,Sinopharm/Beijing,28883641
+Argentina,2022-09-19,Sinopharm/Beijing,28884397
+Argentina,2022-09-20,Sinopharm/Beijing,28885207
+Argentina,2022-09-21,Sinopharm/Beijing,28885809
+Argentina,2022-09-22,Sinopharm/Beijing,28886688
+Argentina,2022-09-23,Sinopharm/Beijing,28887574
+Argentina,2022-09-24,Sinopharm/Beijing,28887684
+Argentina,2022-09-25,Sinopharm/Beijing,28887706
+Argentina,2022-09-26,Sinopharm/Beijing,28888513
+Argentina,2022-09-27,Sinopharm/Beijing,28889416
+Argentina,2022-09-28,Sinopharm/Beijing,28890209
+Argentina,2022-09-29,Sinopharm/Beijing,28891131
+Argentina,2022-09-30,Sinopharm/Beijing,28891962
+Argentina,2022-10-01,Sinopharm/Beijing,28892089
+Argentina,2022-10-02,Sinopharm/Beijing,28892124
+Argentina,2022-10-03,Sinopharm/Beijing,28892978
+Argentina,2022-10-04,Sinopharm/Beijing,28893965
+Argentina,2022-10-05,Sinopharm/Beijing,28894859
+Argentina,2022-10-06,Sinopharm/Beijing,28895795
+Argentina,2022-10-07,Sinopharm/Beijing,28895890
+Argentina,2022-10-08,Sinopharm/Beijing,28895953
+Argentina,2022-10-09,Sinopharm/Beijing,28895975
+Argentina,2022-10-10,Sinopharm/Beijing,28896053
+Argentina,2022-10-11,Sinopharm/Beijing,28896835
+Argentina,2022-10-12,Sinopharm/Beijing,28897633
+Argentina,2022-10-13,Sinopharm/Beijing,28898500
+Argentina,2022-10-14,Sinopharm/Beijing,28899325
+Argentina,2022-10-15,Sinopharm/Beijing,28899406
+Argentina,2022-10-16,Sinopharm/Beijing,28899412
+Argentina,2022-10-17,Sinopharm/Beijing,28900111
+Argentina,2022-10-18,Sinopharm/Beijing,28900875
+Argentina,2022-10-19,Sinopharm/Beijing,28901787
+Argentina,2022-10-20,Sinopharm/Beijing,28902605
+Argentina,2022-10-21,Sinopharm/Beijing,28903530
+Argentina,2022-10-22,Sinopharm/Beijing,28903623
+Argentina,2022-10-23,Sinopharm/Beijing,28903652
+Argentina,2022-10-24,Sinopharm/Beijing,28904368
+Argentina,2022-10-25,Sinopharm/Beijing,28905109
+Argentina,2022-10-26,Sinopharm/Beijing,28905730
+Argentina,2022-10-27,Sinopharm/Beijing,28906576
+Argentina,2022-10-28,Sinopharm/Beijing,28907317
+Argentina,2022-10-29,Sinopharm/Beijing,28907409
+Argentina,2022-10-30,Sinopharm/Beijing,28907417
+Argentina,2022-10-31,Sinopharm/Beijing,28907978
+Argentina,2022-11-01,Sinopharm/Beijing,28908564
+Argentina,2022-11-02,Sinopharm/Beijing,28909123
+Argentina,2022-11-03,Sinopharm/Beijing,28909783
+Argentina,2022-11-04,Sinopharm/Beijing,28910637
+Argentina,2022-11-05,Sinopharm/Beijing,28910745
+Argentina,2022-11-06,Sinopharm/Beijing,28910750
+Argentina,2022-11-07,Sinopharm/Beijing,28911308
+Argentina,2022-11-08,Sinopharm/Beijing,28911953
+Argentina,2022-11-09,Sinopharm/Beijing,28912663
+Argentina,2022-11-10,Sinopharm/Beijing,28913376
+Argentina,2022-11-11,Sinopharm/Beijing,28914115
+Argentina,2022-11-12,Sinopharm/Beijing,28914211
+Argentina,2022-11-13,Sinopharm/Beijing,28914227
+Argentina,2022-11-14,Sinopharm/Beijing,28914772
+Argentina,2022-11-15,Sinopharm/Beijing,28915370
+Argentina,2022-11-16,Sinopharm/Beijing,28915916
+Argentina,2022-11-17,Sinopharm/Beijing,28916420
+Argentina,2022-11-18,Sinopharm/Beijing,28916899
+Argentina,2022-11-19,Sinopharm/Beijing,28916967
+Argentina,2022-11-20,Sinopharm/Beijing,28916977
+Argentina,2022-11-21,Sinopharm/Beijing,28916992
+Argentina,2022-11-22,Sinopharm/Beijing,28917398
+Argentina,2022-11-23,Sinopharm/Beijing,28917857
+Argentina,2022-11-24,Sinopharm/Beijing,28918303
+Argentina,2022-11-25,Sinopharm/Beijing,28918797
+Argentina,2022-11-26,Sinopharm/Beijing,28918826
+Argentina,2022-11-27,Sinopharm/Beijing,28918835
+Argentina,2022-11-28,Sinopharm/Beijing,28919322
+Argentina,2022-11-29,Sinopharm/Beijing,28919880
+Argentina,2022-11-30,Sinopharm/Beijing,28920350
+Argentina,2022-12-01,Sinopharm/Beijing,28920842
+Argentina,2022-12-02,Sinopharm/Beijing,28921299
+Argentina,2022-12-03,Sinopharm/Beijing,28921358
+Argentina,2022-12-04,Sinopharm/Beijing,28921370
+Argentina,2022-12-05,Sinopharm/Beijing,28921848
+Argentina,2022-12-06,Sinopharm/Beijing,28922421
+Argentina,2022-12-07,Sinopharm/Beijing,28923077
+Argentina,2022-12-08,Sinopharm/Beijing,28923137
+Argentina,2022-12-09,Sinopharm/Beijing,28923176
+Argentina,2022-12-10,Sinopharm/Beijing,28923219
+Argentina,2022-12-11,Sinopharm/Beijing,28923229
+Argentina,2022-12-12,Sinopharm/Beijing,28923748
+Argentina,2022-12-13,Sinopharm/Beijing,28924282
+Argentina,2022-12-14,Sinopharm/Beijing,28924821
+Argentina,2022-12-15,Sinopharm/Beijing,28925452
+Argentina,2022-12-16,Sinopharm/Beijing,28926116
+Argentina,2022-12-17,Sinopharm/Beijing,28926208
+Argentina,2022-12-18,Sinopharm/Beijing,28926219
+Argentina,2022-12-19,Sinopharm/Beijing,28926726
+Argentina,2022-12-20,Sinopharm/Beijing,28927006
+Argentina,2022-12-21,Sinopharm/Beijing,28927646
+Argentina,2022-12-22,Sinopharm/Beijing,28928204
+Argentina,2022-12-23,Sinopharm/Beijing,28928311
+Argentina,2022-12-24,Sinopharm/Beijing,28928319
+Argentina,2022-12-26,Sinopharm/Beijing,28928969
+Argentina,2022-12-27,Sinopharm/Beijing,28929698
+Argentina,2022-12-28,Sinopharm/Beijing,28930502
+Argentina,2022-12-29,Sinopharm/Beijing,28931229
+Argentina,2022-12-30,Sinopharm/Beijing,28931334
+Argentina,2022-12-31,Sinopharm/Beijing,28931340
+Argentina,2023-01-01,Sinopharm/Beijing,28931344
+Argentina,2023-01-02,Sinopharm/Beijing,28931879
+Argentina,2023-01-03,Sinopharm/Beijing,28932468
+Argentina,2023-01-04,Sinopharm/Beijing,28933157
+Argentina,2023-01-05,Sinopharm/Beijing,28933814
+Argentina,2023-01-06,Sinopharm/Beijing,28934379
+Argentina,2023-01-07,Sinopharm/Beijing,28934455
+Argentina,2023-01-08,Sinopharm/Beijing,28934472
+Argentina,2023-01-09,Sinopharm/Beijing,28935060
+Argentina,2023-01-10,Sinopharm/Beijing,28935754
+Argentina,2023-01-11,Sinopharm/Beijing,28936376
+Argentina,2023-01-12,Sinopharm/Beijing,28936959
+Argentina,2023-01-13,Sinopharm/Beijing,28937546
+Argentina,2023-01-14,Sinopharm/Beijing,28937616
+Argentina,2023-01-15,Sinopharm/Beijing,28937637
+Argentina,2023-01-16,Sinopharm/Beijing,28938144
+Argentina,2023-01-17,Sinopharm/Beijing,28938699
+Argentina,2023-01-18,Sinopharm/Beijing,28939232
+Argentina,2023-01-19,Sinopharm/Beijing,28939657
+Argentina,2023-01-20,Sinopharm/Beijing,28940162
+Argentina,2023-01-21,Sinopharm/Beijing,28940216
+Argentina,2023-01-22,Sinopharm/Beijing,28940224
+Argentina,2023-01-23,Sinopharm/Beijing,28940659
+Argentina,2023-01-24,Sinopharm/Beijing,28941118
+Argentina,2023-01-25,Sinopharm/Beijing,28941556
+Argentina,2023-01-26,Sinopharm/Beijing,28941975
+Argentina,2023-01-27,Sinopharm/Beijing,28942356
+Argentina,2023-01-28,Sinopharm/Beijing,28942405
+Argentina,2023-01-29,Sinopharm/Beijing,28942418
+Argentina,2023-01-30,Sinopharm/Beijing,28942818
+Argentina,2023-01-31,Sinopharm/Beijing,28943210
+Argentina,2023-02-01,Sinopharm/Beijing,28943585
+Argentina,2023-02-02,Sinopharm/Beijing,28943967
+Argentina,2023-02-03,Sinopharm/Beijing,28944331
+Argentina,2023-02-04,Sinopharm/Beijing,28944400
+Argentina,2023-02-05,Sinopharm/Beijing,28944410
+Argentina,2023-02-06,Sinopharm/Beijing,28944732
+Argentina,2023-02-07,Sinopharm/Beijing,28945121
+Argentina,2023-02-08,Sinopharm/Beijing,28945502
+Argentina,2023-02-09,Sinopharm/Beijing,28945896
+Argentina,2023-02-10,Sinopharm/Beijing,28946285
+Argentina,2023-02-11,Sinopharm/Beijing,28946329
+Argentina,2023-02-12,Sinopharm/Beijing,28946333
+Argentina,2023-02-13,Sinopharm/Beijing,28946662
+Argentina,2023-02-14,Sinopharm/Beijing,28947038
+Argentina,2023-02-15,Sinopharm/Beijing,28947432
+Argentina,2023-02-16,Sinopharm/Beijing,28947828
+Argentina,2023-02-17,Sinopharm/Beijing,28948203
+Argentina,2023-02-18,Sinopharm/Beijing,28948248
+Argentina,2023-02-19,Sinopharm/Beijing,28948260
+Argentina,2023-02-20,Sinopharm/Beijing,28948272
+Argentina,2023-02-21,Sinopharm/Beijing,28948296
+Argentina,2023-02-22,Sinopharm/Beijing,28948702
+Argentina,2023-02-23,Sinopharm/Beijing,28949171
+Argentina,2023-02-24,Sinopharm/Beijing,28949659
+Argentina,2023-02-25,Sinopharm/Beijing,28949700
+Argentina,2023-02-26,Sinopharm/Beijing,28949702
+Argentina,2023-02-27,Sinopharm/Beijing,28950125
+Argentina,2023-02-28,Sinopharm/Beijing,28950464
+Argentina,2023-03-01,Sinopharm/Beijing,28950716
+Argentina,2023-03-02,Sinopharm/Beijing,28950959
+Argentina,2023-03-03,Sinopharm/Beijing,28951180
+Argentina,2023-03-04,Sinopharm/Beijing,28951213
+Argentina,2023-03-05,Sinopharm/Beijing,28951220
+Argentina,2023-03-06,Sinopharm/Beijing,28951385
+Argentina,2023-03-07,Sinopharm/Beijing,28951546
+Argentina,2023-03-08,Sinopharm/Beijing,28951677
+Argentina,2023-02-10,Sputnik Light,5
+Argentina,2023-02-11,Sputnik Light,10
+Argentina,2023-02-13,Sputnik Light,30
+Argentina,2023-02-14,Sputnik Light,65
+Argentina,2023-02-15,Sputnik Light,90
+Argentina,2023-02-16,Sputnik Light,132
+Argentina,2023-02-17,Sputnik Light,167
+Argentina,2023-02-18,Sputnik Light,177
+Argentina,2023-02-19,Sputnik Light,187
+Argentina,2023-02-20,Sputnik Light,214
+Argentina,2023-02-21,Sputnik Light,252
+Argentina,2023-02-22,Sputnik Light,352
+Argentina,2023-02-23,Sputnik Light,499
+Argentina,2023-02-24,Sputnik Light,600
+Argentina,2023-02-25,Sputnik Light,647
+Argentina,2023-02-26,Sputnik Light,662
+Argentina,2023-02-27,Sputnik Light,793
+Argentina,2023-02-28,Sputnik Light,963
+Argentina,2023-03-01,Sputnik Light,1123
+Argentina,2023-03-02,Sputnik Light,1241
+Argentina,2023-03-03,Sputnik Light,1369
+Argentina,2023-03-04,Sputnik Light,1425
+Argentina,2023-03-05,Sputnik Light,1452
+Argentina,2023-03-06,Sputnik Light,1578
+Argentina,2023-03-07,Sputnik Light,1727
+Argentina,2023-03-08,Sputnik Light,1853
+Argentina,2020-12-29,Sputnik V,20491
+Argentina,2020-12-30,Sputnik V,40592
+Argentina,2020-12-31,Sputnik V,43398
+Argentina,2021-01-01,Sputnik V,43525
+Argentina,2021-01-02,Sputnik V,46835
+Argentina,2021-01-03,Sputnik V,47279
+Argentina,2021-01-04,Sputnik V,57740
+Argentina,2021-01-05,Sputnik V,68466
+Argentina,2021-01-06,Sputnik V,78579
+Argentina,2021-01-07,Sputnik V,96804
+Argentina,2021-01-08,Sputnik V,124697
+Argentina,2021-01-09,Sputnik V,134904
+Argentina,2021-01-10,Sputnik V,136079
+Argentina,2021-01-11,Sputnik V,155906
+Argentina,2021-01-12,Sputnik V,175294
+Argentina,2021-01-13,Sputnik V,192065
+Argentina,2021-01-14,Sputnik V,208714
+Argentina,2021-01-15,Sputnik V,226161
+Argentina,2021-01-16,Sputnik V,232046
+Argentina,2021-01-17,Sputnik V,233108
+Argentina,2021-01-18,Sputnik V,242939
+Argentina,2021-01-19,Sputnik V,256192
+Argentina,2021-01-20,Sputnik V,275625
+Argentina,2021-01-21,Sputnik V,289737
+Argentina,2021-01-22,Sputnik V,298955
+Argentina,2021-01-23,Sputnik V,302899
+Argentina,2021-01-24,Sputnik V,303202
+Argentina,2021-01-25,Sputnik V,317412
+Argentina,2021-01-26,Sputnik V,330187
+Argentina,2021-01-27,Sputnik V,340300
+Argentina,2021-01-28,Sputnik V,356349
+Argentina,2021-01-29,Sputnik V,379853
+Argentina,2021-01-30,Sputnik V,389168
+Argentina,2021-01-31,Sputnik V,389791
+Argentina,2021-02-01,Sputnik V,409307
+Argentina,2021-02-02,Sputnik V,433156
+Argentina,2021-02-03,Sputnik V,459769
+Argentina,2021-02-04,Sputnik V,487882
+Argentina,2021-02-05,Sputnik V,520915
+Argentina,2021-02-06,Sputnik V,531841
+Argentina,2021-02-07,Sputnik V,533221
+Argentina,2021-02-08,Sputnik V,556651
+Argentina,2021-02-09,Sputnik V,576845
+Argentina,2021-02-10,Sputnik V,592465
+Argentina,2021-02-11,Sputnik V,610316
+Argentina,2021-02-12,Sputnik V,626158
+Argentina,2021-02-13,Sputnik V,629190
+Argentina,2021-02-14,Sputnik V,629340
+Argentina,2021-02-15,Sputnik V,630655
+Argentina,2021-02-16,Sputnik V,631953
+Argentina,2021-02-17,Sputnik V,656355
+Argentina,2021-02-18,Sputnik V,720166
+Argentina,2021-02-19,Sputnik V,787883
+Argentina,2021-02-20,Sputnik V,820358
+Argentina,2021-02-21,Sputnik V,840139
+Argentina,2021-02-22,Sputnik V,885126
+Argentina,2021-02-23,Sputnik V,921892
+Argentina,2021-02-24,Sputnik V,953653
+Argentina,2021-02-25,Sputnik V,979971
+Argentina,2021-02-26,Sputnik V,1005612
+Argentina,2021-02-27,Sputnik V,1010170
+Argentina,2021-02-28,Sputnik V,1010947
+Argentina,2021-03-01,Sputnik V,1031495
+Argentina,2021-03-02,Sputnik V,1050526
+Argentina,2021-03-03,Sputnik V,1068218
+Argentina,2021-03-04,Sputnik V,1090283
+Argentina,2021-03-05,Sputnik V,1111229
+Argentina,2021-03-06,Sputnik V,1115832
+Argentina,2021-03-07,Sputnik V,1116209
+Argentina,2021-03-08,Sputnik V,1134193
+Argentina,2021-03-09,Sputnik V,1170556
+Argentina,2021-03-10,Sputnik V,1223733
+Argentina,2021-03-11,Sputnik V,1315806
+Argentina,2021-03-12,Sputnik V,1408827
+Argentina,2021-03-13,Sputnik V,1441740
+Argentina,2021-03-14,Sputnik V,1444207
+Argentina,2021-03-15,Sputnik V,1534807
+Argentina,2021-03-16,Sputnik V,1630766
+Argentina,2021-03-17,Sputnik V,1744695
+Argentina,2021-03-18,Sputnik V,1859838
+Argentina,2021-03-19,Sputnik V,1960601
+Argentina,2021-03-20,Sputnik V,2007208
+Argentina,2021-03-21,Sputnik V,2026469
+Argentina,2021-03-22,Sputnik V,2090680
+Argentina,2021-03-23,Sputnik V,2178935
+Argentina,2021-03-24,Sputnik V,2211985
+Argentina,2021-03-25,Sputnik V,2302939
+Argentina,2021-03-26,Sputnik V,2384695
+Argentina,2021-03-27,Sputnik V,2436600
+Argentina,2021-03-28,Sputnik V,2456051
+Argentina,2021-03-29,Sputnik V,2561172
+Argentina,2021-03-30,Sputnik V,2710857
+Argentina,2021-03-31,Sputnik V,2853888
+Argentina,2021-04-01,Sputnik V,2941715
+Argentina,2021-04-02,Sputnik V,2994736
+Argentina,2021-04-03,Sputnik V,3049484
+Argentina,2021-04-04,Sputnik V,3081919
+Argentina,2021-04-05,Sputnik V,3184978
+Argentina,2021-04-06,Sputnik V,3277400
+Argentina,2021-04-07,Sputnik V,3367309
+Argentina,2021-04-08,Sputnik V,3448906
+Argentina,2021-04-09,Sputnik V,3523395
+Argentina,2021-04-10,Sputnik V,3557541
+Argentina,2021-04-11,Sputnik V,3572136
+Argentina,2021-04-12,Sputnik V,3648703
+Argentina,2021-04-13,Sputnik V,3743969
+Argentina,2021-04-14,Sputnik V,3841860
+Argentina,2021-04-15,Sputnik V,3937610
+Argentina,2021-04-16,Sputnik V,4011960
+Argentina,2021-04-17,Sputnik V,4040674
+Argentina,2021-04-18,Sputnik V,4057043
+Argentina,2021-04-19,Sputnik V,4107186
+Argentina,2021-04-20,Sputnik V,4153361
+Argentina,2021-04-21,Sputnik V,4185851
+Argentina,2021-04-22,Sputnik V,4231193
+Argentina,2021-04-23,Sputnik V,4293352
+Argentina,2021-04-24,Sputnik V,4330156
+Argentina,2021-04-25,Sputnik V,4346644
+Argentina,2021-04-26,Sputnik V,4438118
+Argentina,2021-04-27,Sputnik V,4525406
+Argentina,2021-04-28,Sputnik V,4604337
+Argentina,2021-04-29,Sputnik V,4681784
+Argentina,2021-04-30,Sputnik V,4730045
+Argentina,2021-05-01,Sputnik V,4741381
+Argentina,2021-05-02,Sputnik V,4760836
+Argentina,2021-05-03,Sputnik V,4837993
+Argentina,2021-05-04,Sputnik V,4952366
+Argentina,2021-05-05,Sputnik V,5093907
+Argentina,2021-05-06,Sputnik V,5214315
+Argentina,2021-05-07,Sputnik V,5309647
+Argentina,2021-05-08,Sputnik V,5338257
+Argentina,2021-05-09,Sputnik V,5351716
+Argentina,2021-05-10,Sputnik V,5419332
+Argentina,2021-05-11,Sputnik V,5486704
+Argentina,2021-05-12,Sputnik V,5539206
+Argentina,2021-05-13,Sputnik V,5576967
+Argentina,2021-05-14,Sputnik V,5615958
+Argentina,2021-05-15,Sputnik V,5657536
+Argentina,2021-05-16,Sputnik V,5680359
+Argentina,2021-05-17,Sputnik V,5764285
+Argentina,2021-05-18,Sputnik V,5907836
+Argentina,2021-05-19,Sputnik V,6034907
+Argentina,2021-05-20,Sputnik V,6171769
+Argentina,2021-05-21,Sputnik V,6261652
+Argentina,2021-05-22,Sputnik V,6316592
+Argentina,2021-05-23,Sputnik V,6338572
+Argentina,2021-05-24,Sputnik V,6406285
+Argentina,2021-05-25,Sputnik V,6444456
+Argentina,2021-05-26,Sputnik V,6537147
+Argentina,2021-05-27,Sputnik V,6627882
+Argentina,2021-05-28,Sputnik V,6752749
+Argentina,2021-05-29,Sputnik V,6860431
+Argentina,2021-05-30,Sputnik V,6928545
+Argentina,2021-05-31,Sputnik V,7083514
+Argentina,2021-06-01,Sputnik V,7235843
+Argentina,2021-06-02,Sputnik V,7368554
+Argentina,2021-06-03,Sputnik V,7483119
+Argentina,2021-06-04,Sputnik V,7570407
+Argentina,2021-06-05,Sputnik V,7614821
+Argentina,2021-06-06,Sputnik V,7642265
+Argentina,2021-06-07,Sputnik V,7706663
+Argentina,2021-06-08,Sputnik V,7791045
+Argentina,2021-06-09,Sputnik V,7897593
+Argentina,2021-06-10,Sputnik V,8002737
+Argentina,2021-06-11,Sputnik V,8174646
+Argentina,2021-06-12,Sputnik V,8281693
+Argentina,2021-06-13,Sputnik V,8317902
+Argentina,2021-06-14,Sputnik V,8418431
+Argentina,2021-06-15,Sputnik V,8541193
+Argentina,2021-06-16,Sputnik V,8637810
+Argentina,2021-06-17,Sputnik V,8716776
+Argentina,2021-06-18,Sputnik V,8785465
+Argentina,2021-06-19,Sputnik V,8828974
+Argentina,2021-06-20,Sputnik V,8849941
+Argentina,2021-06-21,Sputnik V,8880052
+Argentina,2021-06-22,Sputnik V,8934512
+Argentina,2021-06-23,Sputnik V,8979514
+Argentina,2021-06-24,Sputnik V,9035764
+Argentina,2021-06-25,Sputnik V,9083108
+Argentina,2021-06-26,Sputnik V,9114382
+Argentina,2021-06-27,Sputnik V,9133539
+Argentina,2021-06-28,Sputnik V,9161384
+Argentina,2021-06-29,Sputnik V,9185434
+Argentina,2021-06-30,Sputnik V,9203119
+Argentina,2021-07-01,Sputnik V,9218904
+Argentina,2021-07-02,Sputnik V,9254128
+Argentina,2021-07-03,Sputnik V,9353744
+Argentina,2021-07-04,Sputnik V,9377146
+Argentina,2021-07-05,Sputnik V,9466840
+Argentina,2021-07-06,Sputnik V,9585229
+Argentina,2021-07-07,Sputnik V,9715831
+Argentina,2021-07-08,Sputnik V,9885454
+Argentina,2021-07-09,Sputnik V,10067846
+Argentina,2021-07-10,Sputnik V,10168373
+Argentina,2021-07-11,Sputnik V,10217501
+Argentina,2021-07-12,Sputnik V,10339330
+Argentina,2021-07-13,Sputnik V,10482057
+Argentina,2021-07-14,Sputnik V,10611011
+Argentina,2021-07-15,Sputnik V,10734166
+Argentina,2021-07-16,Sputnik V,10877741
+Argentina,2021-07-17,Sputnik V,10985617
+Argentina,2021-07-18,Sputnik V,11023962
+Argentina,2021-07-19,Sputnik V,11095332
+Argentina,2021-07-20,Sputnik V,11282042
+Argentina,2021-07-21,Sputnik V,11371135
+Argentina,2021-07-22,Sputnik V,11413523
+Argentina,2021-07-23,Sputnik V,11440473
+Argentina,2021-07-24,Sputnik V,11457651
+Argentina,2021-07-25,Sputnik V,11466408
+Argentina,2021-07-26,Sputnik V,11493285
+Argentina,2021-07-27,Sputnik V,11508659
+Argentina,2021-07-28,Sputnik V,11524276
+Argentina,2021-07-29,Sputnik V,11540484
+Argentina,2021-07-30,Sputnik V,11554653
+Argentina,2021-07-31,Sputnik V,11562139
+Argentina,2021-08-01,Sputnik V,11568557
+Argentina,2021-08-02,Sputnik V,11580777
+Argentina,2021-08-03,Sputnik V,11592846
+Argentina,2021-08-04,Sputnik V,11605311
+Argentina,2021-08-05,Sputnik V,11619589
+Argentina,2021-08-06,Sputnik V,11627125
+Argentina,2021-08-07,Sputnik V,11632776
+Argentina,2021-08-08,Sputnik V,11636078
+Argentina,2021-08-09,Sputnik V,11646490
+Argentina,2021-08-10,Sputnik V,11655272
+Argentina,2021-08-11,Sputnik V,11664834
+Argentina,2021-08-12,Sputnik V,11689757
+Argentina,2021-08-13,Sputnik V,11783206
+Argentina,2021-08-14,Sputnik V,11839168
+Argentina,2021-08-15,Sputnik V,11860868
+Argentina,2021-08-16,Sputnik V,11930207
+Argentina,2021-08-17,Sputnik V,12069786
+Argentina,2021-08-18,Sputnik V,12193583
+Argentina,2021-08-19,Sputnik V,12334236
+Argentina,2021-08-20,Sputnik V,12478573
+Argentina,2021-08-21,Sputnik V,12552768
+Argentina,2021-08-22,Sputnik V,12583217
+Argentina,2021-08-23,Sputnik V,12677641
+Argentina,2021-08-24,Sputnik V,12752873
+Argentina,2021-08-25,Sputnik V,12809056
+Argentina,2021-08-26,Sputnik V,12862533
+Argentina,2021-08-27,Sputnik V,12907018
+Argentina,2021-08-28,Sputnik V,12928609
+Argentina,2021-08-29,Sputnik V,12961120
+Argentina,2021-08-30,Sputnik V,13047195
+Argentina,2021-08-31,Sputnik V,13182963
+Argentina,2021-09-01,Sputnik V,13303426
+Argentina,2021-09-02,Sputnik V,13410205
+Argentina,2021-09-03,Sputnik V,13503538
+Argentina,2021-09-04,Sputnik V,13571830
+Argentina,2021-09-05,Sputnik V,13613606
+Argentina,2021-09-06,Sputnik V,13693258
+Argentina,2021-09-07,Sputnik V,13777010
+Argentina,2021-09-08,Sputnik V,13852320
+Argentina,2021-09-09,Sputnik V,13944927
+Argentina,2021-09-10,Sputnik V,14017991
+Argentina,2021-09-11,Sputnik V,14047893
+Argentina,2021-09-12,Sputnik V,14048796
+Argentina,2021-09-13,Sputnik V,14087066
+Argentina,2021-09-14,Sputnik V,14131790
+Argentina,2021-09-15,Sputnik V,14321234
+Argentina,2021-09-16,Sputnik V,14416988
+Argentina,2021-09-17,Sputnik V,14539823
+Argentina,2021-09-18,Sputnik V,14666574
+Argentina,2021-09-19,Sputnik V,14682772
+Argentina,2021-09-20,Sputnik V,14899156
+Argentina,2021-09-21,Sputnik V,15088423
+Argentina,2021-09-22,Sputnik V,15144161
+Argentina,2021-09-23,Sputnik V,15185733
+Argentina,2021-09-24,Sputnik V,15218784
+Argentina,2021-09-25,Sputnik V,15239101
+Argentina,2021-09-26,Sputnik V,15245476
+Argentina,2021-09-27,Sputnik V,15283568
+Argentina,2021-09-28,Sputnik V,15345295
+Argentina,2021-09-29,Sputnik V,15410176
+Argentina,2021-09-30,Sputnik V,15538199
+Argentina,2021-10-01,Sputnik V,15609869
+Argentina,2021-10-02,Sputnik V,15652231
+Argentina,2021-10-03,Sputnik V,15677361
+Argentina,2021-10-04,Sputnik V,15732734
+Argentina,2021-10-05,Sputnik V,15812480
+Argentina,2021-10-06,Sputnik V,15895878
+Argentina,2021-10-07,Sputnik V,15946982
+Argentina,2021-10-08,Sputnik V,15981998
+Argentina,2021-10-09,Sputnik V,16024891
+Argentina,2021-10-10,Sputnik V,16053999
+Argentina,2021-10-11,Sputnik V,16071723
+Argentina,2021-10-12,Sputnik V,16126348
+Argentina,2021-10-13,Sputnik V,16185929
+Argentina,2021-10-14,Sputnik V,16280799
+Argentina,2021-10-15,Sputnik V,16389398
+Argentina,2021-10-16,Sputnik V,16469870
+Argentina,2021-10-17,Sputnik V,16509137
+Argentina,2021-10-18,Sputnik V,16560129
+Argentina,2021-10-19,Sputnik V,16614364
+Argentina,2021-10-20,Sputnik V,16664290
+Argentina,2021-10-21,Sputnik V,16705639
+Argentina,2021-10-22,Sputnik V,16749988
+Argentina,2021-10-23,Sputnik V,16779067
+Argentina,2021-10-24,Sputnik V,16791022
+Argentina,2021-10-25,Sputnik V,16847005
+Argentina,2021-10-26,Sputnik V,16901369
+Argentina,2021-10-27,Sputnik V,16944783
+Argentina,2021-10-28,Sputnik V,16989060
+Argentina,2021-10-29,Sputnik V,17032634
+Argentina,2021-10-30,Sputnik V,17051656
+Argentina,2021-10-31,Sputnik V,17062199
+Argentina,2021-11-01,Sputnik V,17101245
+Argentina,2021-11-02,Sputnik V,17127382
+Argentina,2021-11-03,Sputnik V,17152744
+Argentina,2021-11-04,Sputnik V,17178602
+Argentina,2021-11-05,Sputnik V,17201711
+Argentina,2021-11-06,Sputnik V,17211475
+Argentina,2021-11-07,Sputnik V,17216998
+Argentina,2021-11-08,Sputnik V,17237007
+Argentina,2021-11-09,Sputnik V,17259440
+Argentina,2021-11-10,Sputnik V,17278805
+Argentina,2021-11-11,Sputnik V,17300128
+Argentina,2021-11-12,Sputnik V,17321565
+Argentina,2021-11-13,Sputnik V,17332412
+Argentina,2021-11-14,Sputnik V,17332982
+Argentina,2021-11-15,Sputnik V,17350252
+Argentina,2021-11-16,Sputnik V,17371753
+Argentina,2021-11-17,Sputnik V,17389301
+Argentina,2021-11-18,Sputnik V,17404591
+Argentina,2021-11-19,Sputnik V,17422310
+Argentina,2021-11-20,Sputnik V,17429486
+Argentina,2021-11-21,Sputnik V,17432503
+Argentina,2021-11-22,Sputnik V,17436804
+Argentina,2021-11-23,Sputnik V,17452059
+Argentina,2021-11-24,Sputnik V,17469594
+Argentina,2021-11-25,Sputnik V,17486566
+Argentina,2021-11-26,Sputnik V,17503859
+Argentina,2021-11-27,Sputnik V,17512493
+Argentina,2021-11-28,Sputnik V,17516751
+Argentina,2021-11-29,Sputnik V,17538377
+Argentina,2021-11-30,Sputnik V,17564143
+Argentina,2021-12-01,Sputnik V,17587714
+Argentina,2021-12-02,Sputnik V,17613066
+Argentina,2021-12-03,Sputnik V,17638587
+Argentina,2021-12-04,Sputnik V,17649336
+Argentina,2021-12-05,Sputnik V,17652260
+Argentina,2021-12-06,Sputnik V,17672977
+Argentina,2021-12-07,Sputnik V,17694256
+Argentina,2021-12-08,Sputnik V,17705381
+Argentina,2021-12-09,Sputnik V,17727506
+Argentina,2021-12-10,Sputnik V,17752716
+Argentina,2021-12-11,Sputnik V,17763556
+Argentina,2021-12-12,Sputnik V,17772065
+Argentina,2021-12-13,Sputnik V,17803280
+Argentina,2021-12-14,Sputnik V,17835014
+Argentina,2021-12-15,Sputnik V,17868273
+Argentina,2021-12-16,Sputnik V,17902366
+Argentina,2021-12-17,Sputnik V,17933518
+Argentina,2021-12-18,Sputnik V,17947825
+Argentina,2021-12-19,Sputnik V,17954687
+Argentina,2021-12-20,Sputnik V,17982955
+Argentina,2021-12-21,Sputnik V,18011778
+Argentina,2021-12-22,Sputnik V,18039668
+Argentina,2021-12-23,Sputnik V,18061334
+Argentina,2021-12-24,Sputnik V,18062888
+Argentina,2021-12-25,Sputnik V,18062949
+Argentina,2021-12-26,Sputnik V,18067602
+Argentina,2021-12-27,Sputnik V,18113418
+Argentina,2021-12-28,Sputnik V,18167116
+Argentina,2021-12-29,Sputnik V,18219383
+Argentina,2021-12-30,Sputnik V,18257004
+Argentina,2021-12-31,Sputnik V,18261211
+Argentina,2022-01-01,Sputnik V,18261473
+Argentina,2022-01-02,Sputnik V,18270233
+Argentina,2022-01-03,Sputnik V,18309452
+Argentina,2022-01-04,Sputnik V,18353064
+Argentina,2022-01-05,Sputnik V,18401265
+Argentina,2022-01-06,Sputnik V,18450489
+Argentina,2022-01-07,Sputnik V,18525452
+Argentina,2022-01-08,Sputnik V,18563140
+Argentina,2022-01-09,Sputnik V,18587156
+Argentina,2022-01-10,Sputnik V,18665262
+Argentina,2022-01-11,Sputnik V,18744255
+Argentina,2022-01-12,Sputnik V,18828081
+Argentina,2022-01-13,Sputnik V,18897476
+Argentina,2022-01-14,Sputnik V,18955054
+Argentina,2022-01-15,Sputnik V,18985763
+Argentina,2022-01-16,Sputnik V,19009316
+Argentina,2022-01-17,Sputnik V,19072530
+Argentina,2022-01-18,Sputnik V,19139091
+Argentina,2022-01-19,Sputnik V,19208021
+Argentina,2022-01-20,Sputnik V,19273797
+Argentina,2022-01-21,Sputnik V,19332168
+Argentina,2022-01-22,Sputnik V,19357065
+Argentina,2022-01-23,Sputnik V,19371757
+Argentina,2022-01-24,Sputnik V,19420247
+Argentina,2022-01-25,Sputnik V,19465969
+Argentina,2022-01-26,Sputnik V,19517352
+Argentina,2022-01-27,Sputnik V,19574606
+Argentina,2022-01-28,Sputnik V,19626041
+Argentina,2022-01-29,Sputnik V,19652101
+Argentina,2022-01-30,Sputnik V,19667190
+Argentina,2022-01-31,Sputnik V,19723062
+Argentina,2022-02-01,Sputnik V,19771607
+Argentina,2022-02-02,Sputnik V,19812961
+Argentina,2022-02-03,Sputnik V,19848545
+Argentina,2022-02-04,Sputnik V,19892161
+Argentina,2022-02-05,Sputnik V,19908613
+Argentina,2022-02-06,Sputnik V,19920648
+Argentina,2022-02-07,Sputnik V,19957474
+Argentina,2022-02-08,Sputnik V,19993470
+Argentina,2022-02-09,Sputnik V,20023278
+Argentina,2022-02-10,Sputnik V,20055971
+Argentina,2022-02-11,Sputnik V,20085541
+Argentina,2022-02-12,Sputnik V,20102697
+Argentina,2022-02-13,Sputnik V,20112614
+Argentina,2022-02-14,Sputnik V,20148895
+Argentina,2022-02-15,Sputnik V,20175770
+Argentina,2022-02-16,Sputnik V,20201498
+Argentina,2022-02-17,Sputnik V,20223838
+Argentina,2022-02-18,Sputnik V,20246929
+Argentina,2022-02-19,Sputnik V,20254724
+Argentina,2022-02-20,Sputnik V,20258229
+Argentina,2022-02-21,Sputnik V,20276022
+Argentina,2022-02-22,Sputnik V,20293916
+Argentina,2022-02-23,Sputnik V,20313376
+Argentina,2022-02-24,Sputnik V,20330298
+Argentina,2022-02-25,Sputnik V,20348315
+Argentina,2022-02-26,Sputnik V,20354507
+Argentina,2022-02-27,Sputnik V,20356539
+Argentina,2022-02-28,Sputnik V,20359949
+Argentina,2022-03-01,Sputnik V,20360563
+Argentina,2022-03-02,Sputnik V,20365728
+Argentina,2022-03-03,Sputnik V,20370560
+Argentina,2022-03-04,Sputnik V,20375742
+Argentina,2022-03-05,Sputnik V,20377483
+Argentina,2022-03-06,Sputnik V,20379287
+Argentina,2022-03-07,Sputnik V,20385182
+Argentina,2022-03-08,Sputnik V,20389917
+Argentina,2022-03-09,Sputnik V,20395846
+Argentina,2022-03-10,Sputnik V,20401644
+Argentina,2022-03-11,Sputnik V,20407865
+Argentina,2022-03-12,Sputnik V,20409670
+Argentina,2022-03-13,Sputnik V,20410343
+Argentina,2022-03-14,Sputnik V,20415717
+Argentina,2022-03-15,Sputnik V,20420593
+Argentina,2022-03-16,Sputnik V,20425528
+Argentina,2022-03-17,Sputnik V,20430709
+Argentina,2022-03-18,Sputnik V,20435365
+Argentina,2022-03-19,Sputnik V,20436974
+Argentina,2022-03-20,Sputnik V,20437846
+Argentina,2022-03-21,Sputnik V,20442627
+Argentina,2022-03-22,Sputnik V,20446161
+Argentina,2022-03-23,Sputnik V,20450464
+Argentina,2022-03-24,Sputnik V,20451329
+Argentina,2022-03-25,Sputnik V,20454787
+Argentina,2022-03-26,Sputnik V,20456943
+Argentina,2022-03-27,Sputnik V,20457685
+Argentina,2022-03-28,Sputnik V,20461497
+Argentina,2022-03-29,Sputnik V,20464970
+Argentina,2022-03-30,Sputnik V,20468307
+Argentina,2022-03-31,Sputnik V,20471018
+Argentina,2022-04-01,Sputnik V,20472657
+Argentina,2022-04-02,Sputnik V,20473041
+Argentina,2022-04-03,Sputnik V,20473151
+Argentina,2022-04-04,Sputnik V,20474727
+Argentina,2022-04-05,Sputnik V,20476266
+Argentina,2022-04-06,Sputnik V,20477756
+Argentina,2022-04-07,Sputnik V,20479047
+Argentina,2022-04-08,Sputnik V,20480755
+Argentina,2022-04-09,Sputnik V,20481255
+Argentina,2022-04-10,Sputnik V,20481485
+Argentina,2022-04-11,Sputnik V,20482631
+Argentina,2022-04-12,Sputnik V,20484022
+Argentina,2022-04-13,Sputnik V,20485616
+Argentina,2022-04-14,Sputnik V,20485987
+Argentina,2022-04-15,Sputnik V,20486142
+Argentina,2022-04-16,Sputnik V,20486562
+Argentina,2022-04-17,Sputnik V,20486622
+Argentina,2022-04-18,Sputnik V,20488497
+Argentina,2022-04-19,Sputnik V,20490652
+Argentina,2022-04-20,Sputnik V,20493975
+Argentina,2022-04-21,Sputnik V,20496600
+Argentina,2022-04-22,Sputnik V,20499221
+Argentina,2022-04-23,Sputnik V,20499998
+Argentina,2022-04-24,Sputnik V,20500032
+Argentina,2022-04-25,Sputnik V,20502802
+Argentina,2022-04-26,Sputnik V,20504835
+Argentina,2022-04-27,Sputnik V,20506001
+Argentina,2022-04-28,Sputnik V,20507098
+Argentina,2022-04-29,Sputnik V,20508437
+Argentina,2022-04-30,Sputnik V,20508856
+Argentina,2022-05-01,Sputnik V,20508859
+Argentina,2022-05-02,Sputnik V,20510136
+Argentina,2022-05-03,Sputnik V,20512110
+Argentina,2022-05-04,Sputnik V,20515161
+Argentina,2022-05-05,Sputnik V,20517959
+Argentina,2022-05-06,Sputnik V,20520672
+Argentina,2022-05-07,Sputnik V,20521229
+Argentina,2022-05-08,Sputnik V,20521256
+Argentina,2022-05-09,Sputnik V,20523718
+Argentina,2022-05-10,Sputnik V,20526503
+Argentina,2022-05-11,Sputnik V,20531029
+Argentina,2022-05-12,Sputnik V,20536690
+Argentina,2022-05-13,Sputnik V,20540306
+Argentina,2022-05-14,Sputnik V,20543006
+Argentina,2022-05-15,Sputnik V,20543187
+Argentina,2022-05-16,Sputnik V,20546856
+Argentina,2022-05-17,Sputnik V,20551648
+Argentina,2022-05-18,Sputnik V,20551778
+Argentina,2022-05-19,Sputnik V,20555427
+Argentina,2022-05-20,Sputnik V,20559012
+Argentina,2022-05-21,Sputnik V,20560481
+Argentina,2022-05-22,Sputnik V,20560874
+Argentina,2022-05-23,Sputnik V,20565592
+Argentina,2022-05-24,Sputnik V,20570513
+Argentina,2022-05-25,Sputnik V,20571801
+Argentina,2022-05-26,Sputnik V,20574423
+Argentina,2022-05-27,Sputnik V,20576880
+Argentina,2022-05-28,Sputnik V,20578291
+Argentina,2022-05-29,Sputnik V,20578614
+Argentina,2022-05-30,Sputnik V,20580544
+Argentina,2022-05-31,Sputnik V,20584062
+Argentina,2022-06-01,Sputnik V,20585764
+Argentina,2022-06-02,Sputnik V,20587584
+Argentina,2022-06-03,Sputnik V,20588688
+Argentina,2022-06-04,Sputnik V,20588935
+Argentina,2022-06-05,Sputnik V,20588959
+Argentina,2022-06-06,Sputnik V,20590428
+Argentina,2022-06-07,Sputnik V,20592374
+Argentina,2022-06-08,Sputnik V,20593644
+Argentina,2022-06-09,Sputnik V,20595084
+Argentina,2022-06-10,Sputnik V,20596161
+Argentina,2022-06-11,Sputnik V,20596321
+Argentina,2022-06-12,Sputnik V,20596344
+Argentina,2022-06-13,Sputnik V,20596945
+Argentina,2022-06-14,Sputnik V,20597715
+Argentina,2022-06-15,Sputnik V,20598247
+Argentina,2022-06-16,Sputnik V,20598837
+Argentina,2022-06-17,Sputnik V,20598883
+Argentina,2022-06-18,Sputnik V,20598919
+Argentina,2022-06-19,Sputnik V,20598925
+Argentina,2022-06-20,Sputnik V,20598939
+Argentina,2022-06-21,Sputnik V,20599817
+Argentina,2022-06-22,Sputnik V,20600700
+Argentina,2022-06-23,Sputnik V,20601377
+Argentina,2022-06-24,Sputnik V,20602303
+Argentina,2022-06-25,Sputnik V,20602576
+Argentina,2022-06-26,Sputnik V,20602605
+Argentina,2022-06-27,Sputnik V,20602875
+Argentina,2022-06-28,Sputnik V,20603595
+Argentina,2022-06-29,Sputnik V,20604580
+Argentina,2022-06-30,Sputnik V,20605676
+Argentina,2022-07-01,Sputnik V,20606393
+Argentina,2022-07-02,Sputnik V,20607287
+Argentina,2022-07-03,Sputnik V,20607349
+Argentina,2022-07-04,Sputnik V,20609571
+Argentina,2022-07-05,Sputnik V,20611808
+Argentina,2022-07-06,Sputnik V,20616741
+Argentina,2022-07-07,Sputnik V,20619429
+Argentina,2022-07-08,Sputnik V,20622115
+Argentina,2022-07-09,Sputnik V,20623123
+Argentina,2022-07-10,Sputnik V,20623199
+Argentina,2022-07-11,Sputnik V,20625455
+Argentina,2022-07-12,Sputnik V,20627846
+Argentina,2022-07-13,Sputnik V,20632366
+Argentina,2022-07-14,Sputnik V,20634515
+Argentina,2022-07-15,Sputnik V,20636857
+Argentina,2022-07-16,Sputnik V,20637217
+Argentina,2022-07-17,Sputnik V,20637329
+Argentina,2022-07-18,Sputnik V,20639531
+Argentina,2022-07-19,Sputnik V,20641562
+Argentina,2022-07-20,Sputnik V,20644072
+Argentina,2022-07-21,Sputnik V,20645826
+Argentina,2022-07-22,Sputnik V,20648039
+Argentina,2022-07-23,Sputnik V,20648477
+Argentina,2022-07-24,Sputnik V,20648592
+Argentina,2022-07-25,Sputnik V,20650421
+Argentina,2022-07-26,Sputnik V,20652119
+Argentina,2022-07-27,Sputnik V,20655379
+Argentina,2022-07-28,Sputnik V,20657969
+Argentina,2022-07-29,Sputnik V,20660406
+Argentina,2022-07-30,Sputnik V,20660631
+Argentina,2022-07-31,Sputnik V,20660661
+Argentina,2022-08-01,Sputnik V,20662617
+Argentina,2022-08-02,Sputnik V,20664976
+Argentina,2022-08-03,Sputnik V,20667298
+Argentina,2022-08-04,Sputnik V,20668741
+Argentina,2022-08-05,Sputnik V,20670425
+Argentina,2022-08-06,Sputnik V,20670700
+Argentina,2022-08-07,Sputnik V,20670723
+Argentina,2022-08-08,Sputnik V,20672570
+Argentina,2022-08-09,Sputnik V,20674452
+Argentina,2022-08-10,Sputnik V,20676193
+Argentina,2022-08-11,Sputnik V,20677599
+Argentina,2022-08-12,Sputnik V,20679310
+Argentina,2022-08-13,Sputnik V,20679561
+Argentina,2022-08-14,Sputnik V,20679668
+Argentina,2022-08-15,Sputnik V,20679705
+Argentina,2022-08-16,Sputnik V,20680870
+Argentina,2022-08-17,Sputnik V,20682329
+Argentina,2022-08-18,Sputnik V,20683759
+Argentina,2022-08-19,Sputnik V,20686026
+Argentina,2022-08-20,Sputnik V,20686201
+Argentina,2022-08-21,Sputnik V,20686209
+Argentina,2022-08-22,Sputnik V,20689742
+Argentina,2022-08-23,Sputnik V,20691969
+Argentina,2022-08-24,Sputnik V,20694207
+Argentina,2022-08-25,Sputnik V,20696461
+Argentina,2022-08-26,Sputnik V,20699745
+Argentina,2022-08-27,Sputnik V,20699963
+Argentina,2022-08-28,Sputnik V,20700048
+Argentina,2022-08-29,Sputnik V,20703460
+Argentina,2022-08-30,Sputnik V,20705872
+Argentina,2022-08-31,Sputnik V,20708453
+Argentina,2022-09-01,Sputnik V,20710424
+Argentina,2022-09-02,Sputnik V,20710660
+Argentina,2022-09-03,Sputnik V,20710820
+Argentina,2022-09-04,Sputnik V,20710859
+Argentina,2022-09-05,Sputnik V,20713431
+Argentina,2022-09-06,Sputnik V,20716060
+Argentina,2022-09-07,Sputnik V,20718710
+Argentina,2022-09-08,Sputnik V,20720681
+Argentina,2022-09-09,Sputnik V,20722835
+Argentina,2022-09-10,Sputnik V,20723021
+Argentina,2022-09-11,Sputnik V,20723056
+Argentina,2022-09-12,Sputnik V,20725005
+Argentina,2022-09-13,Sputnik V,20726916
+Argentina,2022-09-14,Sputnik V,20728781
+Argentina,2022-09-15,Sputnik V,20730459
+Argentina,2022-09-16,Sputnik V,20732584
+Argentina,2022-09-17,Sputnik V,20732682
+Argentina,2022-09-18,Sputnik V,20732701
+Argentina,2022-09-19,Sputnik V,20735132
+Argentina,2022-09-20,Sputnik V,20736907
+Argentina,2022-09-21,Sputnik V,20738326
+Argentina,2022-09-22,Sputnik V,20740206
+Argentina,2022-09-23,Sputnik V,20741785
+Argentina,2022-09-24,Sputnik V,20742050
+Argentina,2022-09-25,Sputnik V,20742099
+Argentina,2022-09-26,Sputnik V,20744196
+Argentina,2022-09-27,Sputnik V,20745811
+Argentina,2022-09-28,Sputnik V,20747388
+Argentina,2022-09-29,Sputnik V,20748935
+Argentina,2022-09-30,Sputnik V,20750307
+Argentina,2022-10-01,Sputnik V,20750317
+Argentina,2022-10-03,Sputnik V,20750498
+Argentina,2022-10-04,Sputnik V,20750600
+Argentina,2022-10-05,Sputnik V,20750682
+Argentina,2022-10-06,Sputnik V,20750833
+Argentina,2022-10-10,Sputnik V,20750835
+Argentina,2022-10-11,Sputnik V,20750948
+Argentina,2022-10-12,Sputnik V,20751093
+Argentina,2022-10-13,Sputnik V,20751171
+Argentina,2022-10-14,Sputnik V,20751326
+Argentina,2022-10-17,Sputnik V,20751399
+Argentina,2022-10-18,Sputnik V,20751516
+Argentina,2022-10-19,Sputnik V,20751683
+Argentina,2022-10-20,Sputnik V,20751834
+Argentina,2022-10-21,Sputnik V,20752003
+Argentina,2022-10-22,Sputnik V,20752004
+Argentina,2022-10-24,Sputnik V,20752222
+Argentina,2022-10-25,Sputnik V,20752458
+Argentina,2022-10-26,Sputnik V,20752680
+Argentina,2022-10-27,Sputnik V,20752895
+Argentina,2022-10-28,Sputnik V,20753092
+Argentina,2022-10-29,Sputnik V,20753140
+Argentina,2022-10-30,Sputnik V,20753144
+Argentina,2022-10-31,Sputnik V,20753312
+Argentina,2022-11-01,Sputnik V,20753338
+Argentina,2022-11-02,Sputnik V,20753356
+Argentina,2022-11-03,Sputnik V,20753379
+Argentina,2022-11-04,Sputnik V,20753429
+Argentina,2022-11-05,Sputnik V,20753431
+Argentina,2022-11-07,Sputnik V,20753458
+Argentina,2022-11-08,Sputnik V,20753469
+Argentina,2022-11-09,Sputnik V,20753527
+Argentina,2022-11-10,Sputnik V,20753582
+Argentina,2022-11-11,Sputnik V,20753718
+Argentina,2022-11-12,Sputnik V,20753719
+Argentina,2022-11-14,Sputnik V,20753777
+Argentina,2022-11-15,Sputnik V,20753861
+Argentina,2022-11-16,Sputnik V,20753933
+Argentina,2022-11-17,Sputnik V,20753977
+Argentina,2022-11-18,Sputnik V,20754018
+Argentina,2022-11-22,Sputnik V,20754044
+Argentina,2022-11-23,Sputnik V,20754057
+Argentina,2022-11-24,Sputnik V,20754109
+Argentina,2022-11-25,Sputnik V,20754161
+Argentina,2022-11-26,Sputnik V,20754164
+Argentina,2022-11-28,Sputnik V,20754179
+Argentina,2022-11-29,Sputnik V,20754227
+Argentina,2022-11-30,Sputnik V,20754732
+Argentina,2022-12-01,Sputnik V,20754933
+Argentina,2022-12-02,Sputnik V,20755145
+Argentina,2022-12-05,Sputnik V,20755190
+Argentina,2022-12-06,Sputnik V,20755191
+Argentina,2022-12-09,Sputnik V,20755193
+Argentina,2022-12-12,Sputnik V,20755201
+Argentina,2022-12-15,Sputnik V,20755202
+Argentina,2022-12-26,Sputnik V,20755203
+Argentina,2022-12-27,Sputnik V,20755204
+Argentina,2023-01-09,Sputnik V,20755205
+Argentina,2023-01-24,Sputnik V,20755206
+Argentina,2023-02-01,Sputnik V,20755207
+Argentina,2023-02-07,Sputnik V,20755208
+Argentina,2023-02-15,Sputnik V,20755209
+Argentina,2023-02-17,Sputnik V,20755210
+Argentina,2023-02-23,Sputnik V,20755211
+Argentina,2023-02-24,Sputnik V,20755212
+Argentina,2023-02-27,Sputnik V,20755213
+Argentina,2023-03-01,Sputnik V,20755219
+Argentina,2023-03-02,Sputnik V,20755221
+Argentina,2023-03-06,Sputnik V,20755227
+Argentina,2023-03-07,Sputnik V,20755246
+Argentina,2023-03-08,Sputnik V,20755247

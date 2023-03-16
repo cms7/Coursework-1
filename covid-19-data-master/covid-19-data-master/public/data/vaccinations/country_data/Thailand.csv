@@ -1,0 +1,536 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Thailand,2021-02-27,Sinovac,https://www.bangkokpost.com/thailand/general/2076339/thailand-adds-80-covid-cases-monday,0,0,0,
+Thailand,2021-03-01,Sinovac,https://www.bangkokpost.com/thailand/general/2076339/thailand-adds-80-covid-cases-monday,319,319,0,
+Thailand,2021-03-02,Sinovac,https://thestandard.co/people-who-have-been-vaccinated-against-covid-19-in-thailand/,7262,7262,0,
+Thailand,2021-03-10,Sinovac,https://www.rfa.org/english/news/myanmar/vaccinate-03102021170611.html,33621,33621,0,
+Thailand,2021-03-13,"Oxford/AstraZeneca, Sinovac",https://thethaiger.com/coronavirus/thailands-private-hospitals-planning-to-profit-off-covid-19-vaccine,53842,53842,0,
+Thailand,2021-03-24,"Oxford/AstraZeneca, Sinovac",https://www.archyde.com/update-96188-cumulative-covid-vaccination-new-lot-which-province-get-how-much-check-now/,102050,96188,5862,
+Thailand,2021-03-30,"Oxford/AstraZeneca, Sinovac",https://www.facebook.com/OICDDC/posts/3823323381121560,180477,151413,29064,
+Thailand,2021-04-01,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-02.pdf,204642,167235,37407,
+Thailand,2021-04-02,"Oxford/AstraZeneca, Sinovac",https://www.facebook.com/OICDDC/posts/3837210029732895,231882,189666,42216,
+Thailand,2021-04-03,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-04.pdf,244254,201864,42390,
+Thailand,2021-04-04,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-05.pdf,257484,213948,43536,
+Thailand,2021-04-05,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Dialy%20report%202021-04-06.pdf,294881,247850,47031,
+Thailand,2021-04-06,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Dialy%20report%202021-04-07.pdf,323989,274354,49635,
+Thailand,2021-04-07,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Dialy%20report%202021-04-08.pdf,391752,336808,54944,
+Thailand,2021-04-08,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Dialy%20report%202021-04-09.pdf,466374,405911,60463,
+Thailand,2021-04-09,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Dialy%20report%202021-04-10.pdf,537380,470301,67079,
+Thailand,2021-04-10,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Dialy%20report%202021-04-11.pdf,555396,485957,69439,
+Thailand,2021-04-11,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Dialy%20report%202021-04-12.pdf,570052,498791,71261,
+Thailand,2021-04-12,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Dialy%20report%202021-04-13.pdf,578532,505215,73317,
+Thailand,2021-04-13,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-14.pdf,579305,505744,73561,
+Thailand,2021-04-15,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-16.pdf,586032,510456,75576,
+Thailand,2021-04-16,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-17.pdf,605259,523830,81429,
+Thailand,2021-04-17,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-18.pdf,608521,526706,81815,
+Thailand,2021-04-18,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-19.pdf,618583,535925,82658,
+Thailand,2021-04-19,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-20.pdf,666210,571825,94385,
+Thailand,2021-04-20,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-21.pdf,712610,604947,107663,
+Thailand,2021-04-21,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-22.pdf,864840,746617,118223,
+Thailand,2021-04-22,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-23.pdf,964825,834082,130743,
+Thailand,2021-04-23,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Dialy%20report%202021-2021-04-24.pdf,1095445,934449,160996,
+Thailand,2021-04-24,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-25.pdf,1124153,949124,175029,
+Thailand,2021-04-25,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/daily%20report%202021-04-26.pdf,1149666,972204,177462,
+Thailand,2021-04-26,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-27.pdf,1227032,1012388,214644,
+Thailand,2021-04-27,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-28.pdf,1279713,1038960,240753,
+Thailand,2021-04-28,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-29.pdf,1344646,1059721,284925,
+Thailand,2021-04-29,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-04-30.pdf,1411614,1075756,335858,
+Thailand,2021-04-30,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-01.pdf,1477078,1095230,381848,
+Thailand,2021-05-01,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-02.pdf,1484565,1097862,386703,
+Thailand,2021-05-02,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-03.pdf,1486907,1099460,387447,
+Thailand,2021-05-03,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-04.pdf,1498617,1106071,392546,
+Thailand,2021-05-04,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-04.pdf,1573075,1150564,422511,
+Thailand,2021-05-05,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-06.pdf,1601833,1167719,434114,
+Thailand,2021-05-06,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-07.pdf,1651782,1201258,450524,
+Thailand,2021-05-07,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-08.pdf,1730488,1262703,467785,
+Thailand,2021-05-08,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-09.pdf,1743720,1273666,470054,
+Thailand,2021-05-09,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-10.pdf,1809894,1296440,513454,
+Thailand,2021-05-10,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-11.pdf,1898454,1365992,532462,
+Thailand,2021-05-11,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-12.pdf,1935565,1372013,563552,
+Thailand,2021-05-12,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-13.pdf,2040363,1395130,645233,
+Thailand,2021-05-13,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-14.pdf,2124732,1416732,708300,
+Thailand,2021-05-16,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-17.pdf,2264308,1482702,781606,
+Thailand,2021-05-17,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-18(1).pdf,2340995,1521034,819961,
+Thailand,2021-05-18,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-19.pdf,2445645,1585773,859872,
+Thailand,2021-05-19,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-20.pdf,2540116,1647871,892245,
+Thailand,2021-05-20,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-21.pdf,2648256,1726431,921825,
+Thailand,2021-05-21,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-22.pdf,2811549,1849393,962156,
+Thailand,2021-05-22,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-23.pdf,2865091,1898332,966759,
+Thailand,2021-05-23,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-24.pdf,2910664,1941565,969099,
+Thailand,2021-05-24,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-25.pdf,3024313,2044123,980190,
+Thailand,2021-05-25,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-26.pdf,3147227,2157609,989618,
+Thailand,2021-05-26,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-27.pdf,3208882,2214721,994161,
+Thailand,2021-05-27,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-28.pdf,3347050,2319304,1027746,
+Thailand,2021-05-28,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-29%20.pdf,3504125,2415903,1088222,
+Thailand,2021-05-29,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-30.pdf,3548330,2453807,1094523,
+Thailand,2021-05-30,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-31.pdf,3609882,2498929,1110953,
+Thailand,2021-05-31,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-01.pdf,3664859,2539491,1125368,
+Thailand,2021-06-01,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-02.pdf,3753718,2591372,1162346,
+Thailand,2021-06-03,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-04.pdf,3961589,2727759,1233830,
+Thailand,2021-06-04,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-05.pdf,4142944,2818676,1324268,
+Thailand,2021-06-05,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-06.pdf,4190503,2845287,1345216,
+Thailand,2021-06-06,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-07.pdf,4218094,2855041,1363053,
+Thailand,2021-06-07,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-08.pdf,4634941,3243913,1391028,
+Thailand,2021-06-08,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-09.pdf,5107069,3672372,1434697,
+Thailand,2021-06-09,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-10.pdf,5443743,3966091,1477652,
+Thailand,2021-06-10,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-11v2.pdf,5667058,4143444,1523614,
+Thailand,2021-06-11,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-12.pdf,5975070,4362685,1612835,
+Thailand,2021-06-12,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-13.pdf,6081242,4456786,1624456,
+Thailand,2021-06-13,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-14.pdf,6188124,4531914,1656210,
+Thailand,2021-06-14,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-15.pdf,6511184,4762063,1749121,
+Thailand,2021-06-15,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-16.pdf,6780816,4948227,1832589,
+Thailand,2021-06-16,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-17.pdf,7003783,5114755,1889028,
+Thailand,2021-06-17,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-18.pdf,7219668,5252531,1967137,
+Thailand,2021-06-18,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-19.pdf,7483083,5434119,2048964,
+Thailand,2021-06-19,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-20.pdf,7587178,5486092,2101086,
+Thailand,2021-06-20,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1624263263473.pdf,7679057,5526039,2153018,
+Thailand,2021-06-21,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-22.pdf,7906696,5678848,2227848,
+Thailand,2021-06-22,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-23.pdf,8148335,5844521,2303814,
+Thailand,2021-06-23,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-24.pdf,8400320,6017424,2382896,
+Thailand,2021-06-24,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20Report%202021-06-25.pdf,8657423,6206353,2451070,
+Thailand,2021-06-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-26.pdf,8981478,6435308,2546170,
+Thailand,2021-06-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-27.pdf,9055141,6475826,2579315,
+Thailand,2021-06-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-28.pdf,9147513,6537852,2609661,
+Thailand,2021-06-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-29.pdf,9416972,6721038,2695394,
+Thailand,2021-06-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-06-30.pdf,9672706,6910169,2762537,
+Thailand,2021-06-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-01.pdf,9927698,7110854,2816844,
+Thailand,2021-07-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-02.pdf,10227183,7364585,2862598,
+Thailand,2021-07-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/10/1625377983773.pdf,10572292,7640118,2932174,
+Thailand,2021-07-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-04.pdf,10670897,7721150,2949747,
+Thailand,2021-07-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-05.pdf,10777748,7804654,2973094,
+Thailand,2021-07-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-06.pdf,11058390,8022029,3036361,
+Thailand,2021-07-06,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-07.pdf,11328043,8245297,3082746,
+Thailand,2021-07-07,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-08.pdf,11619618,8494230,3125388,
+Thailand,2021-07-08,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-09.pdf,11975996,8800155,3175841,
+Thailand,2021-07-09,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-10.pdf,12375904,9130526,3245378,
+Thailand,2021-07-10,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-11.pdf,12469188,9213598,3255590,
+Thailand,2021-07-11,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-12.pdf,12569213,9301407,3267806,
+Thailand,2021-07-12,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-13.pdf,12908193,9598949,3309244,
+Thailand,2021-07-13,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-14.pdf,13230681,9888124,3342557,
+Thailand,2021-07-14,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-15.pdf,13533717,10163340,3370377,
+Thailand,2021-07-15,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-16.pdf,13823355,10424355,3398430,
+Thailand,2021-07-16,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Dailr%20report%202021-07-17.pdf,14130489,10697489,3432911,
+Thailand,2021-07-17,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-18.pdf,14223762,10780762,3443330,
+Thailand,2021-07-18,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-19.pdf,14298596,10850099,3448497,
+Thailand,2021-07-19,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-20.pdf,14547244,11067518,3479726,
+Thailand,2021-07-20,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-21.pdf,14805120,11292579,3512541,
+Thailand,2021-07-21,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-22.pdf,15084696,11538866,3545830,
+Thailand,2021-07-22,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-23.pdf,15388939,11805180,3583759,
+Thailand,2021-07-23,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-24.pdf,15741818,12109424,3632394,
+Thailand,2021-07-24,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-25.pdf,15869844,12226845,3642999,
+Thailand,2021-07-25,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-07-26.pdf,15960778,12307788,3652990,
+Thailand,2021-07-26,"Oxford/AstraZeneca, Sinovac",https://twitter.com/ddc_riskcom/status/1419882625611665415,16099670,12429925,3669745,
+Thailand,2021-07-27,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/10/1627527809692.pdf,16427059,12714312,3712747,
+Thailand,2021-07-28,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1627527771518.pdf,16591329,12858570,3732759,
+Thailand,2021-07-29,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1627641127759.pdf,17011477,13225233,3786244,
+Thailand,2021-07-30,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1627802716832.pdf,17491632,13640179,3851453,
+Thailand,2021-07-31,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-01.pdf,17685974,13802916,3883058,
+Thailand,2021-08-01,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-02.pdf,17866526,13955087,3911439,
+Thailand,2021-08-02,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-03.pdf,18198825,14207477,3991348,
+Thailand,2021-08-03,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-04.pdf,18578096,14492385,4085711,
+Thailand,2021-08-04,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-05.pdf,18961703,14783001,4178702,
+Thailand,2021-08-05,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-06.pdf,19632537,15180276,4277071,175190
+Thailand,2021-08-06,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-07.pdf,20280108,15687291,4406723,186094
+Thailand,2021-08-07,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-08.pdf,20478635,15843283,4438168,197184
+Thailand,2021-08-08,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-09.pdf,20669780,15986354,4461861,221565
+Thailand,2021-08-09,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%20%202021-08-10.pdf,21171110,16336743,4566345,268022
+Thailand,2021-08-10,"Oxford/AstraZeneca, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%20%202021-08-11.pdf,21717954,16701428,4692030,324496
+Thailand,2021-08-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%20%202021-08-12.pdf,22288819,17068105,4826641,394073
+Thailand,2021-08-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%20%202021-08-13.pdf,22508659,17239593,4855000,414066
+Thailand,2021-08-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%20%202021-08-14.pdf,23192491,17696114,5033568,462809
+Thailand,2021-08-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%20%202021-08-16.pdf,23592227,17996826,5109476,485925
+Thailand,2021-08-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%20%202021-08-17.pdf,24100631,18370997,5228157,501477
+Thailand,2021-08-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%20%202021-08-18.pdf,24618749,18726405,5381676,510668
+Thailand,2021-08-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%20%202021-08-19.pdf,25167060,19143574,5503882,519604
+Thailand,2021-08-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20Report%202021-08-20.pdf,25818666,19586009,5705200,527457
+Thailand,2021-08-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%20%202021-08-21.pdf,26428101,19973692,5920614,533795
+Thailand,2021-08-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-22.pdf,26832179,20272171,6017820,542188
+Thailand,2021-08-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20Report%202021-08-23.pdf,27038999,20430028,6065003,543968
+Thailand,2021-08-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20Report%202021-08-24.pdf,27612445,20830673,6230511,551261
+Thailand,2021-08-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20Report%202021-08-25.pdf,28197659,21231498,6405537,560624
+Thailand,2021-08-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-26.pdf,28835580,21669955,6596785,568840
+Thailand,2021-08-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-27.pdf,29504769,22070573,6860084,574112
+Thailand,2021-08-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-28.pdf,30420507,22617701,7221368,581438
+Thailand,2021-08-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-29.pdf,30679289,22807078,7287885,584326
+Thailand,2021-08-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-30.pdf,30954477,23018371,7350348,585758
+Thailand,2021-08-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-08-31.pdf,31771819,23401465,7780973,589381
+Thailand,2021-09-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/163048457821.pdf,32600001,23795098,8212750,592153
+Thailand,2021-09-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1630646295635.pdf,33427463,24147532,8684695,595236
+Thailand,2021-09-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/163064643388.pdf,34292537,24542140,9152799,597598
+Thailand,2021-09-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1630842646792.pdf,35218164,24918054,9698842,601268
+Thailand,2021-09-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1630842327231.pdf,35587676,25104942,9879371,603363
+Thailand,2021-09-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1630997946413.pdf,35912894,25234259,10074612,604023
+Thailand,2021-09-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1631019677692.pdf,36635271,25554456,10475325,605490
+Thailand,2021-09-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1631079193994.pdf,37461284,25954106,10900001,607177
+Thailand,2021-09-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1631178023516.pdf,38174738,26292211,11272593,609934
+Thailand,2021-09-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1631279061151.pdf,38873359,26631261,11630996,611102
+Thailand,2021-09-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1631444653613.pdf,39631862,26954546,12063643,613673
+Thailand,2021-09-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1631444800662.pdf,40060467,27194487,12251011,614969
+Thailand,2021-09-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1631510579943.pdf,40276356,27303700,12357581,615075
+Thailand,2021-09-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1631765919516.pdf,40953025,27540743,12795707,616575
+Thailand,2021-09-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1631766046867.pdf,41647101,27769095,13260456,617550
+Thailand,2021-09-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1631872717403.pdf,42477514,28085202,13773184,619128
+Thailand,2021-09-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1631872924976.pdf,43342103,28436015,14285995,620093
+Thailand,2021-09-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1632052738139.pdf,43889427,28611321,14657681,620425
+Thailand,2021-09-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1632052951528.pdf,44485657,28893133,14971317,621207
+Thailand,2021-09-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1632199805591.pdf,44742049,29002572,15118015,621462
+Thailand,2021-09-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1632387105995.pdf,45211101,29201077,15388071,621953
+Thailand,2021-09-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1632387207499.pdf,46023016,29501110,15899158,622748
+Thailand,2021-10-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1633505738993.pdf,55921443,33243525,21162251,1515667
+Thailand,2021-10-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1633505880456.pdf,56656247,33505887,21595916,1554444
+Thailand,2021-10-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/163368646868.pdf,57387052,33774684,22005722,1606646
+Thailand,2021-10-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/16336867817.pdf,58298700,34188488,22460213,1649999
+Thailand,2021-10-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1633939964880.pdf,59308772,34668552,22949256,1690964
+Thailand,2021-10-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1633940103371.pdf,59539624,34782627,23055555,1701442
+Thailand,2021-10-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1634176974145.pdf,60228105,35093892,23400992,1733221
+Thailand,2021-10-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1634177133283.pdf,61033251,35462170,23796497,1774584
+Thailand,2021-10-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1634177368652.pdf,61995809,35895984,24282686,1817139
+Thailand,2021-10-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1634360585337.pdf,62579803,36239806,24502527,1837470
+Thailand,2021-10-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1634360735212.pdf,63614352,36721779,25012380,1880193
+Thailand,2021-10-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1634544966469.pdf,64139022,36955020,25287543,1896459
+Thailand,2021-10-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1634726683371.pdf,65202741,37446713,25825201,1930827
+Thailand,2021-10-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/163472679527.pdf,65677794,37684728,26042573,1950493
+Thailand,2021-10-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1634726989351.pdf,66592321,38137096,26474522,1980703
+Thailand,2021-10-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/163531614187.pdf,67587102,38611193,26959785,2016124
+Thailand,2021-10-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1635316423205.pdf,68503058,39039849,27405800,2057409
+Thailand,2021-10-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1635316704102.pdf,69217162,39358277,27774180,2084705
+Thailand,2021-10-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1635316802390.pdf,69923540,39708520,28106044,2108976
+Thailand,2021-10-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1635316897606.pdf,70279624,39881034,28276165,2122425
+Thailand,2021-10-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1635316989884.pdf,70505802,39999692,28372531,2133579
+Thailand,2021-10-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1635317099750.pdf,71237520,40346281,28713904,2177335
+Thailand,2021-10-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1635319481696.pdf,72049529,40717544,29115651,2216334
+Thailand,2021-10-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1635502921635.pdf,72812483,41075152,29469487,2267844
+Thailand,2021-10-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1635741862137.pdf,73692039,41495703,29881984,2314352
+Thailand,2021-10-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1635742068866.pdf,74694431,41924824,30409329,2360278
+Thailand,2021-10-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1635742829738.pdf,75389558,42247135,30743399,2399024
+Thailand,2021-11-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1635742960121.pdf,75710277,42388465,30911219,2410593
+Thailand,2021-11-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/163593297326.pdf,76226116,42548483,31244587,2433046
+Thailand,2021-11-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1635933297404.pdf,77014092,42815600,31730365,2468127
+Thailand,2021-11-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1636105825575.pdf,77831474,43112788,32223467,2495219
+Thailand,2021-11-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1636105978660.pdf,78656124,43403391,32726021,2526712
+Thailand,2021-11-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1636366253713.pdf,79517972,43694336,33263737,2559899
+Thailand,2021-11-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1636366099702.pdf,80221553,43914118,33719280,2588155
+Thailand,2021-11-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/163636592869.pdf,80499612,43990610,33912537,2596465
+Thailand,2021-11-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1636536146176.pdf,80968807,44116509,34240355,2611943
+Thailand,2021-11-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1636617612305.pdf,81761062,44355673,34760830,2644559
+Thailand,2021-11-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/163672492489.pdf,82532531,44579576,35277108,2675847
+Thailand,2021-11-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1636725088517.pdf,83320621,44809613,35800674,2710334
+Thailand,2021-11-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1637036718660.pdf,84094565,45069302,36281904,2743359
+Thailand,2021-11-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1637037412694.pdf,84467731,45204553,36504141,2759037
+Thailand,2021-11-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1637037567605.pdf,85012905,45374194,36855732,2782979
+Thailand,2021-11-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1637119591756.pdf,85412126,45488767,37114546,2808813
+Thailand,2021-11-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1637131175420.pdf,86071507,45700036,37527295,2844176
+Thailand,2021-11-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1637218430325.pdf,86890826,46005152,37939622,2946052
+Thailand,2021-11-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1637392063699.pdf,88330952,46473004,38836504,3021444
+Thailand,2021-11-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1637635451159.pdf,88803596,46646938,39101640,3055018
+Thailand,2021-11-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1637637687390.pdf,88989235,46718014,39202716,3068505
+Thailand,2021-11-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1637896499486.pdf,89336791,46836876,39403769,3096146
+Thailand,2021-11-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1637896638562.pdf,89894183,47034024,39724270,3135889
+Thailand,2021-11-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1637896759389.pdf,90468955,47233526,40056072,3179357
+Thailand,2021-11-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1637911395624.pdf,90735069,47331644,40202745,3200680
+Thailand,2021-11-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/163817713942.pdf,91658056,47650767,40737473,3269816
+Thailand,2021-11-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1638177332554.pdf,92125296,47847646,40963885,3313765
+Thailand,2021-11-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/vaccine-covid19/getFiles/9/1638177625790.pdf,92360417,47963180,41053644,3343593
+Thailand,2021-12-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,94582481,48840982,42131710,3609789
+Thailand,2021-12-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,95106168,49048099,42370898,3687171
+Thailand,2021-12-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,95727204,49298481,42649918,3778805
+Thailand,2021-12-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,95880526,49368171,42700253,3812102
+Thailand,2021-12-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,96066632,49473972,42733111,3859549
+Thailand,2021-12-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,96155518,49508737,42766958,3879823
+Thailand,2021-12-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,96594138,49664130,42966853,3963155
+Thailand,2021-12-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,97018673,49813716,43142155,4062802
+Thailand,2021-12-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,97522113,49980567,43381279,4160267
+Thailand,2021-12-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,97883818,50088788,43556579,4238451
+Thailand,2021-12-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,97980080,50107715,43592798,4279567
+Thailand,2021-12-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,98048414,50120675,43622643,4305096
+Thailand,2021-12-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,98447784,50234523,43814721,4398540
+Thailand,2021-12-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,98823800,50337400,43972293,4514107
+Thailand,2021-12-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,99252063,50441125,44152623,4658315
+Thailand,2021-12-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,99687596,50544648,44319753,4823195
+Thailand,2021-12-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,100289677,50676622,44546442,5066613
+Thailand,2021-12-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,100468444,50700053,44601352,5167039
+Thailand,2021-12-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,100557955,50712220,44628743,5216992
+Thailand,2021-12-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,100984499,50793694,44779616,5411189
+Thailand,2021-12-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,101437383,50872393,44931528,5633462
+Thailand,2021-12-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,101941875,50957652,45109171,5875052
+Thailand,2021-12-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,102484917,51040374,45302478,6142065
+Thailand,2021-12-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,103134583,51137962,45552103,6444518
+Thailand,2021-12-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,103277215,51150523,45599286,6527406
+Thailand,2021-12-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,103367460,51159316,45626775,6581369
+Thailand,2021-12-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,103878623,51229665,45840911,6808047
+Thailand,2021-12-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,104384337,51298981,46035483,7049873
+Thailand,2021-12-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,104846522,51366425,46209589,7270508
+Thailand,2021-12-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,105145361,51407664,46317067,7420630
+Thailand,2021-12-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,105160269,51410504,46319204,7430561
+Thailand,2022-01-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,105170510,51411912,46320706,7437892
+Thailand,2022-01-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,105185081,51413767,46322320,7448994
+Thailand,2022-01-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,105213013,51416795,46330079,7466139
+Thailand,2022-01-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,105501697,51445669,46445563,7610465
+Thailand,2022-01-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,105935000,51486525,46608783,7839692
+Thailand,2022-01-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,106474266,51536177,46782157,8155932
+Thailand,2022-01-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,107184723,51599728,46981568,8603427
+Thailand,2022-01-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,107345848,51609819,47007723,8728306
+Thailand,2022-01-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,107455519,51616647,47021789,8817083
+Thailand,2022-01-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,107978454,51663833,47155401,9159220
+Thailand,2022-01-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,108524424,51712399,47266331,9545694
+Thailand,2022-01-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,109094520,51763547,47386259,9944714
+Thailand,2022-01-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,109685368,51812348,47511309,10361711
+Thailand,2022-01-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,110455329,51877264,47684571,10893494
+Thailand,2022-01-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,110657929,51890373,47703765,11063791
+Thailand,2022-01-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,110761456,51897072,47714407,11149977
+Thailand,2022-01-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,111219969,51938259,47807581,11474129
+Thailand,2022-01-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,111722635,51980924,47903220,11838491
+Thailand,2022-01-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,112251623,52024526,48003815,12223282
+Thailand,2022-01-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,112825360,52068317,48105963,12651080
+Thailand,2022-01-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,113540477,52122847,48241147,13176483
+Thailand,2022-01-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,113720612,52133848,48255102,13331662
+Thailand,2022-01-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,113830224,52140913,48262542,13426769
+Thailand,2022-01-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,114271003,52175266,48331454,13764283
+Thailand,2022-01-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,114713746,52217579,48401933,14094234
+Thailand,2022-01-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,115151210,52258440,48466597,14426173
+Thailand,2022-01-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,115638778,52298896,48545939,14793943
+Thailand,2022-01-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,116251004,52347407,48653412,15250185
+Thailand,2022-01-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,116400733,52356262,48661581,15382890
+Thailand,2022-01-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,116483524,52360895,48666097,15456532
+Thailand,2022-01-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,116749385,52383190,48710749,15655446
+Thailand,2022-02-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,116977338,52401980,48745817,15829541
+Thailand,2022-02-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,117281006,52433194,48793567,16054245
+Thailand,2022-02-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,117605695,52467840,48847383,16290472
+Thailand,2022-02-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,118071389,52516744,48924090,16630555
+Thailand,2022-02-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,118206561,52527642,48932307,16746612
+Thailand,2022-02-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,118272165,52532520,48936217,16803428
+Thailand,2022-02-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,118552544,52567044,48981893,17003607
+Thailand,2022-02-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,118841228,52603898,49028150,17209180
+Thailand,2022-02-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,119165133,52657025,49073926,17434182
+Thailand,2022-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,119493101,52712844,49121109,17659148
+Thailand,2022-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,119970717,52788690,49194039,17987988
+Thailand,2022-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,120100130,52802698,49202672,18094760
+Thailand,2022-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,120164543,52810016,49207277,18147250
+Thailand,2022-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,120441833,52863245,49247713,18330875
+Thailand,2022-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,120732459,52919200,49284260,18528999
+Thailand,2022-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,120823176,52936344,49292568,18594264
+Thailand,2022-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,121152464,53013711,49343716,18795037
+Thailand,2022-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,121614369,53115968,49417210,19081191
+Thailand,2022-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,121744206,53138896,49426747,19178563
+Thailand,2022-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,121816249,53150698,49432238,19233313
+Thailand,2022-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,122066581,53204923,49465744,19395914
+Thailand,2022-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,122344923,53266216,49507018,19571689
+Thailand,2022-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,122638728,53330626,49549320,19758782
+Thailand,2022-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,122969740,53415056,49590948,19963736
+Thailand,2022-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,123436836,53526128,49648679,20262029
+Thailand,2022-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,123562533,53546134,49657297,20359102
+Thailand,2022-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,123629346,53559859,49661811,20407676
+Thailand,2022-02-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,123840373,53615130,49685222,20540021
+Thailand,2022-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,123999850,53665546,49702406,20631898
+Thailand,2022-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,124187417,53729769,49722040,20735608
+Thailand,2022-03-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,124386717,53813138,49741639,20831940
+Thailand,2022-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,124695615,53923410,49773433,20998772
+Thailand,2022-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,124776595,53938517,49778903,21059175
+Thailand,2022-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,124816308,53947793,49781999,21086516
+Thailand,2022-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,124957916,53991041,49797368,21169507
+Thailand,2022-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,125117530,54046160,49814033,21257337
+Thailand,2022-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,125309448,54122208,49832389,21354851
+Thailand,2022-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,125546527,54229194,49854149,21463184
+Thailand,2022-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,125895211,54376164,49889281,21629766
+Thailand,2022-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,125985736,54402521,49895216,21687999
+Thailand,2022-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,126036736,54419485,49898477,21718774
+Thailand,2022-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,126182558,54479348,49913109,21790101
+Thailand,2022-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,126347633,54543927,49930470,21873236
+Thailand,2022-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,126530094,54619202,49947311,21963581
+Thailand,2022-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,126764643,54719896,49968845,22075902
+Thailand,2022-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,127115806,54856307,50003822,22255677
+Thailand,2022-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,127188357,54870994,50010297,22307066
+Thailand,2022-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,127227567,54878521,50013361,22335685
+Thailand,2022-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,127386581,54929249,50029366,22427966
+Thailand,2022-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,127582363,54992753,50048054,22541556
+Thailand,2022-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,127816849,55071546,50066836,22678467
+Thailand,2022-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,128101004,55163644,50092213,22845147
+Thailand,2022-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,128494221,55268594,50129087,23096540
+Thailand,2022-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,128573882,55284139,50134795,23154948
+Thailand,2022-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,128617064,55292170,50137908,23186986
+Thailand,2022-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,128801783,55341377,50153809,23306597
+Thailand,2022-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,129022347,55401811,50171260,23449276
+Thailand,2022-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,129285438,55467756,50195246,23622436
+Thailand,2022-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,129548423,55532928,50221968,23793527
+Thailand,2022-04-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,129804041,55601332,50256349,23946360
+Thailand,2022-04-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,129865712,55610882,50263096,23991734
+Thailand,2022-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,129897113,55614791,50268562,24013760
+Thailand,2022-04-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,130039721,55648006,50293559,24098156
+Thailand,2022-04-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,130226974,55684751,50322044,24220179
+Thailand,2022-04-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,130278302,55690781,50332068,24255453
+Thailand,2022-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,130517714,55738067,50376566,24403081
+Thailand,2022-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,130839540,55795477,50449261,24594802
+Thailand,2022-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,130896497,55802135,50459782,24634580
+Thailand,2022-04-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,130922684,55804856,50464034,24653794
+Thailand,2022-04-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,131078348,55832133,50498249,24747966
+Thailand,2022-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,131217629,55853481,50524837,24839311
+Thailand,2022-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,131231018,55855041,50526038,24849939
+Thailand,2022-04-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,131242554,55856371,50527046,24859137
+Thailand,2022-04-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,131254582,55857710,50528267,24868605
+Thailand,2022-04-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,131266221,55858624,50530068,24877529
+Thailand,2022-04-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,131278868,55859846,50532930,24886092
+Thailand,2022-04-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,131397309,55877526,50582653,24937130
+Thailand,2022-04-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,131528434,55894512,50629694,25004228
+Thailand,2022-04-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,131664514,55912290,50677720,25074504
+Thailand,2022-04-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,131859548,55942253,50748718,25168577
+Thailand,2022-04-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,132163357,55981581,50857251,25324525
+Thailand,2022-04-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,132231880,55987440,50877057,25367383
+Thailand,2022-04-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,132271068,55991153,50887600,25392315
+Thailand,2022-04-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,132404119,56010045,50931575,25462499
+Thailand,2022-04-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,132554869,56030288,50976793,25547788
+Thailand,2022-04-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,132721642,56051798,51026166,25643678
+Thailand,2022-04-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,132919905,56079053,51095874,25744978
+Thailand,2022-04-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,133204402,56117941,51193617,25892844
+Thailand,2022-04-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,133262106,56124032,51207525,25930549
+Thailand,2022-05-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,133292376,56126997,51215739,25949640
+Thailand,2022-05-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,133377374,56135512,51243119,25998743
+Thailand,2022-05-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,133503911,56148373,51284682,26070856
+Thailand,2022-05-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,133535303,56151314,51292610,26091379
+Thailand,2022-05-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,133719264,56172137,51370880,26176247
+Thailand,2022-05-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,133985597,56204694,51479747,26301156
+Thailand,2022-05-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,134050705,56209797,51497928,26342980
+Thailand,2022-05-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,134100486,56213131,51513368,26373987
+Thailand,2022-05-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,134236369,56229278,51560246,26446845
+Thailand,2022-05-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,134397048,56247713,51612700,26536635
+Thailand,2022-05-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,134578311,56269608,51677299,26631404
+Thailand,2022-05-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,134825634,56298207,51774809,26752618
+Thailand,2022-05-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,134896250,56303793,51792230,26800227
+Thailand,2022-05-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,134948040,56307299,51799841,26840900
+Thailand,2022-05-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,134980903,56309665,51804517,26866721
+Thailand,2022-05-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,135008934,56311757,51809927,26887250
+Thailand,2022-05-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,135144970,56324574,51867059,26953337
+Thailand,2022-05-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,135319680,56341651,51935852,27042177
+Thailand,2022-05-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,135526310,56362425,52019088,27144797
+Thailand,2022-05-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,135830990,56395404,52131655,27303931
+Thailand,2022-05-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,135907055,56400092,52146909,27360054
+Thailand,2022-05-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,135941051,56401990,52151942,27387119
+Thailand,2022-05-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,136051828,56413298,52187883,27450647
+Thailand,2022-05-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,136187991,56427432,52235586,27524973
+Thailand,2022-05-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,136336025,56444939,52284486,27606600
+Thailand,2022-05-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,136505825,56465150,52340400,27700275
+Thailand,2022-05-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,136766863,56495021,52419583,27852259
+Thailand,2022-05-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,136828624,56499365,52431929,27897330
+Thailand,2022-05-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,136861243,56501647,52436458,27923138
+Thailand,2022-05-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,136961835,56512032,52464769,27985034
+Thailand,2022-05-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137076747,56523875,52497704,28055168
+Thailand,2022-06-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137145167,56532428,52515300,28097439
+Thailand,2022-06-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137282183,56548902,52556284,28176997
+Thailand,2022-06-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137317409,56551310,52562689,28203410
+Thailand,2022-06-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137344711,56552763,52566962,28224986
+Thailand,2022-06-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137361677,56553813,52569391,28238473
+Thailand,2022-06-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137424616,56560185,52588735,28275696
+Thailand,2022-06-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137490678,56567850,52604515,28318313
+Thailand,2022-06-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137555321,56574130,52615926,28365265
+Thailand,2022-06-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137629150,56581629,52630189,28417332
+Thailand,2022-06-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137776106,56599345,52661370,28515391
+Thailand,2022-06-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137815554,56601704,52665839,28548011
+Thailand,2022-06-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137827787,56602722,52667874,28557191
+Thailand,2022-06-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137881497,56607656,52678828,28595013
+Thailand,2022-06-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137933537,56613641,52689372,28630524
+Thailand,2022-06-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,137991203,56620419,52701267,28669517
+Thailand,2022-06-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138058073,56628818,52718208,28711047
+Thailand,2022-06-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138193562,56644397,52752472,28796693
+Thailand,2022-06-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138233258,56646432,52756743,28830083
+Thailand,2022-06-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138251875,56647408,52759175,28845292
+Thailand,2022-06-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138306451,56652637,52770577,28883237
+Thailand,2022-06-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138365540,56658673,52782975,28923892
+Thailand,2022-06-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138422591,56664645,52795560,28962386
+Thailand,2022-06-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138491998,56672035,52813037,29006926
+Thailand,2022-06-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138626438,56685947,52845164,29095327
+Thailand,2022-06-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138678279,56688477,52850291,29139511
+Thailand,2022-06-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138703609,56689861,52853014,29160734
+Thailand,2022-06-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138756577,56695501,52862219,29198857
+Thailand,2022-06-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138816020,56700609,52872719,29242692
+Thailand,2022-06-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138888351,56705625,52882307,29300419
+Thailand,2022-06-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,138987149,56712815,52898476,29375858
+Thailand,2022-07-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139095061,56721152,52920113,29453796
+Thailand,2022-07-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139129624,56722829,52923235,29483560
+Thailand,2022-07-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139147965,56723972,52925457,29498536
+Thailand,2022-07-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139188876,56727170,52932815,29528891
+Thailand,2022-07-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139241765,56730878,52941871,29569016
+Thailand,2022-07-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139304433,56735401,52954414,29614618
+Thailand,2022-07-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139379536,56741554,52969812,29668170
+Thailand,2022-07-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139521904,56752535,52993474,29775895
+Thailand,2022-07-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139561689,56754515,52996607,29810567
+Thailand,2022-07-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139585881,56755818,52998760,29831303
+Thailand,2022-07-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139654555,56760357,53006746,29887452
+Thailand,2022-07-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139742325,56765611,53019050,29957664
+Thailand,2022-07-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139772471,56767038,53020837,29984596
+Thailand,2022-07-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139799046,56768039,53022187,30008820
+Thailand,2022-07-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139839091,56769522,53024800,30044769
+Thailand,2022-07-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139869472,56770549,53026647,30072276
+Thailand,2022-07-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139892498,56771663,53028049,30092786
+Thailand,2022-07-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,139953910,56776424,53039181,30138305
+Thailand,2022-07-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140023600,56781983,53052069,30189548
+Thailand,2022-07-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140101380,56789768,53069058,30242554
+Thailand,2022-07-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140184490,56797105,53087665,30299720
+Thailand,2022-07-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140366417,56811414,53126945,30428058
+Thailand,2022-07-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140418589,56813985,53131605,30472999
+Thailand,2022-07-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140450387,56816114,53133878,30500395
+Thailand,2022-07-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140519790,56821012,53144210,30554568
+Thailand,2022-07-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140597947,56826537,53154603,30616807
+Thailand,2022-07-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140701497,56835302,53171082,30695113
+Thailand,2022-07-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140735835,56837688,53173281,30724866
+Thailand,2022-07-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140777025,56839394,53176858,30760773
+Thailand,2022-07-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140812476,56841255,53179588,30791633
+Thailand,2022-07-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140835370,56843259,53181052,30811059
+Thailand,2022-08-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140866551,56845610,53186367,30834574
+Thailand,2022-08-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140905700,56848894,53193180,30863626
+Thailand,2022-08-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,140946594,56852560,53200029,30894005
+Thailand,2022-08-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141002659,56857489,53210521,30934649
+Thailand,2022-08-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141121844,56867876,53235644,31018324
+Thailand,2022-08-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141153241,56869720,53238164,31045357
+Thailand,2022-08-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141170616,56870759,53239522,31060335
+Thailand,2022-08-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141210190,56873703,53245052,31091435
+Thailand,2022-08-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141258490,56877201,53251923,31129366
+Thailand,2022-08-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141302130,56880373,53258443,31163314
+Thailand,2022-08-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141378591,56886296,53270198,31222097
+Thailand,2022-08-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141403180,56887230,53271757,31244193
+Thailand,2022-08-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141424526,56888448,53273427,31262651
+Thailand,2022-08-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141438200,56889295,53274404,31274501
+Thailand,2022-08-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141472269,56892611,53279736,31299922
+Thailand,2022-08-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141502139,56895847,53285183,31321109
+Thailand,2022-08-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141538727,56899076,53292364,31347287
+Thailand,2022-08-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141580873,56902935,53301081,31376857
+Thailand,2022-08-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141677589,56912003,53323067,31442519
+Thailand,2022-08-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141705655,56913948,53325261,31466446
+Thailand,2022-08-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141718448,56914848,53326437,31477163
+Thailand,2022-08-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141746306,56917627,53332001,31496678
+Thailand,2022-08-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141775594,56920667,53336886,31518041
+Thailand,2022-08-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141808575,56924691,53342573,31541311
+Thailand,2022-08-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141844882,56928329,53349669,31566884
+Thailand,2022-08-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141913183,56934865,53362935,31615383
+Thailand,2022-08-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141936591,56936361,53364867,31635363
+Thailand,2022-08-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141950066,56938022,53365941,31646103
+Thailand,2022-08-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,141975762,56940648,53370339,31664775
+Thailand,2022-08-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142000675,56943270,53374934,31682471
+Thailand,2022-08-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142028850,56946090,53379439,31703321
+Thailand,2022-09-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142049142,56948335,53383977,31716830
+Thailand,2022-09-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142091381,56953008,53393757,31744616
+Thailand,2022-09-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142104772,56954051,53395218,31755503
+Thailand,2022-09-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142111763,56954647,53395916,31761200
+Thailand,2022-09-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142127060,56956347,53398846,31771867
+Thailand,2022-09-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142146277,56958336,53402533,31785408
+Thailand,2022-09-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142164845,56960637,53405628,31798580
+Thailand,2022-09-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142185245,56962630,53409390,31813225
+Thailand,2022-09-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142219299,56965915,53415586,31837798
+Thailand,2022-09-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142233383,56966869,53417011,31849503
+Thailand,2022-09-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142241077,56967414,53417869,31855794
+Thailand,2022-09-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142257288,56968947,53420777,31867564
+Thailand,2022-09-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142274274,56970785,53423725,31879764
+Thailand,2022-09-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142295522,56972997,53428768,31893757
+Thailand,2022-09-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142319564,56975549,53433394,31910621
+Thailand,2022-09-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142362064,56979749,53443587,31938728
+Thailand,2022-09-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142379469,56980970,53445200,31953299
+Thailand,2022-09-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142388934,56982011,53445978,31960945
+Thailand,2022-09-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142406566,56983843,53449579,31973144
+Thailand,2022-09-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142427261,56986039,53453703,31987519
+Thailand,2022-09-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142446204,56988076,53457543,32000585
+Thailand,2022-09-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142465933,56990460,53461272,32014201
+Thailand,2022-09-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142505627,56995208,53468476,32041943
+Thailand,2022-09-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142521571,56996136,53469922,32055513
+Thailand,2022-09-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142531823,56996759,53470596,32064468
+Thailand,2022-09-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142545208,56997972,53472773,32074463
+Thailand,2022-09-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142562217,57000009,53475375,32086833
+Thailand,2022-09-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142579421,57001649,53477757,32100015
+Thailand,2022-09-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142600749,57003058,53480720,32116971
+Thailand,2022-09-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://ddc.moph.go.th/covid19-dashboard/,142635014,57005497,53486086,32143431

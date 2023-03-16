@@ -1,0 +1,2446 @@
+entity,indicator,date,value
+Ireland,Daily hospital occupancy,2020-03-07,18.0
+Ireland,Daily hospital occupancy,2020-03-08,17.0
+Ireland,Daily hospital occupancy,2020-03-09,18.0
+Ireland,Daily hospital occupancy,2020-03-10,26.0
+Ireland,Daily hospital occupancy,2020-03-11,32.0
+Ireland,Daily hospital occupancy,2020-03-12,44.0
+Ireland,Daily hospital occupancy,2020-03-13,36.0
+Ireland,Daily hospital occupancy,2020-03-14,38.0
+Ireland,Daily hospital occupancy,2020-03-15,41.0
+Ireland,Daily hospital occupancy,2020-03-16,55.0
+Ireland,Daily hospital occupancy,2020-03-17,61.0
+Ireland,Daily hospital occupancy,2020-03-18,80.0
+Ireland,Daily hospital occupancy,2020-03-19,98.0
+Ireland,Daily hospital occupancy,2020-03-20,133.0
+Ireland,Daily hospital occupancy,2020-03-21,151.0
+Ireland,Daily hospital occupancy,2020-03-22,177.0
+Ireland,Daily hospital occupancy,2020-03-23,218.0
+Ireland,Daily hospital occupancy,2020-03-24,239.0
+Ireland,Daily hospital occupancy,2020-03-25,290.0
+Ireland,Daily hospital occupancy,2020-03-26,331.0
+Ireland,Daily hospital occupancy,2020-03-27,380.0
+Ireland,Daily hospital occupancy,2020-03-28,442.0
+Ireland,Daily hospital occupancy,2020-03-29,513.0
+Ireland,Daily hospital occupancy,2020-03-30,571.0
+Ireland,Daily hospital occupancy,2020-03-31,596.0
+Ireland,Daily hospital occupancy,2020-04-01,656.0
+Ireland,Daily hospital occupancy,2020-04-02,655.0
+Ireland,Daily hospital occupancy,2020-04-03,704.0
+Ireland,Daily hospital occupancy,2020-04-04,738.0
+Ireland,Daily hospital occupancy,2020-04-05,702.0
+Ireland,Daily hospital occupancy,2020-04-06,829.0
+Ireland,Daily hospital occupancy,2020-04-07,828.0
+Ireland,Daily hospital occupancy,2020-04-08,837.0
+Ireland,Daily hospital occupancy,2020-04-09,838.0
+Ireland,Daily hospital occupancy,2020-04-10,825.0
+Ireland,Daily hospital occupancy,2020-04-11,856.0
+Ireland,Daily hospital occupancy,2020-04-12,853.0
+Ireland,Daily hospital occupancy,2020-04-13,868.0
+Ireland,Daily hospital occupancy,2020-04-14,868.0
+Ireland,Daily hospital occupancy,2020-04-15,881.0
+Ireland,Daily hospital occupancy,2020-04-16,856.0
+Ireland,Daily hospital occupancy,2020-04-17,852.0
+Ireland,Daily hospital occupancy,2020-04-18,811.0
+Ireland,Daily hospital occupancy,2020-04-19,816.0
+Ireland,Daily hospital occupancy,2020-04-20,820.0
+Ireland,Daily hospital occupancy,2020-04-21,774.0
+Ireland,Daily hospital occupancy,2020-04-22,778.0
+Ireland,Daily hospital occupancy,2020-04-23,742.0
+Ireland,Daily hospital occupancy,2020-04-24,745.0
+Ireland,Daily hospital occupancy,2020-04-25,736.0
+Ireland,Daily hospital occupancy,2020-04-26,758.0
+Ireland,Daily hospital occupancy,2020-04-27,771.0
+Ireland,Daily hospital occupancy,2020-04-28,753.0
+Ireland,Daily hospital occupancy,2020-04-29,760.0
+Ireland,Daily hospital occupancy,2020-04-30,736.0
+Ireland,Daily hospital occupancy,2020-05-01,740.0
+Ireland,Daily hospital occupancy,2020-05-02,705.0
+Ireland,Daily hospital occupancy,2020-05-03,684.0
+Ireland,Daily hospital occupancy,2020-05-04,672.0
+Ireland,Daily hospital occupancy,2020-05-05,680.0
+Ireland,Daily hospital occupancy,2020-05-06,657.0
+Ireland,Daily hospital occupancy,2020-05-07,614.0
+Ireland,Daily hospital occupancy,2020-05-08,585.0
+Ireland,Daily hospital occupancy,2020-05-09,539.0
+Ireland,Daily hospital occupancy,2020-05-10,539.0
+Ireland,Daily hospital occupancy,2020-05-11,555.0
+Ireland,Daily hospital occupancy,2020-05-12,512.0
+Ireland,Daily hospital occupancy,2020-05-13,486.0
+Ireland,Daily hospital occupancy,2020-05-14,459.0
+Ireland,Daily hospital occupancy,2020-05-15,419.0
+Ireland,Daily hospital occupancy,2020-05-16,386.0
+Ireland,Daily hospital occupancy,2020-05-17,395.0
+Ireland,Daily hospital occupancy,2020-05-18,386.0
+Ireland,Daily hospital occupancy,2020-05-19,368.0
+Ireland,Daily hospital occupancy,2020-05-20,367.0
+Ireland,Daily hospital occupancy,2020-05-21,315.0
+Ireland,Daily hospital occupancy,2020-05-22,316.0
+Ireland,Daily hospital occupancy,2020-05-23,303.0
+Ireland,Daily hospital occupancy,2020-05-24,304.0
+Ireland,Daily hospital occupancy,2020-05-25,305.0
+Ireland,Daily hospital occupancy,2020-05-26,287.0
+Ireland,Daily hospital occupancy,2020-05-27,263.0
+Ireland,Daily hospital occupancy,2020-05-28,231.0
+Ireland,Daily hospital occupancy,2020-05-29,197.0
+Ireland,Daily hospital occupancy,2020-05-30,173.0
+Ireland,Daily hospital occupancy,2020-05-31,184.0
+Ireland,Daily hospital occupancy,2020-06-01,176.0
+Ireland,Daily hospital occupancy,2020-06-02,194.0
+Ireland,Daily hospital occupancy,2020-06-03,166.0
+Ireland,Daily hospital occupancy,2020-06-04,154.0
+Ireland,Daily hospital occupancy,2020-06-05,139.0
+Ireland,Daily hospital occupancy,2020-06-06,122.0
+Ireland,Daily hospital occupancy,2020-06-07,125.0
+Ireland,Daily hospital occupancy,2020-06-08,122.0
+Ireland,Daily hospital occupancy,2020-06-09,110.0
+Ireland,Daily hospital occupancy,2020-06-10,102.0
+Ireland,Daily hospital occupancy,2020-06-11,89.0
+Ireland,Daily hospital occupancy,2020-06-12,79.0
+Ireland,Daily hospital occupancy,2020-06-13,76.0
+Ireland,Daily hospital occupancy,2020-06-14,81.0
+Ireland,Daily hospital occupancy,2020-06-15,78.0
+Ireland,Daily hospital occupancy,2020-06-16,69.0
+Ireland,Daily hospital occupancy,2020-06-17,60.0
+Ireland,Daily hospital occupancy,2020-06-18,48.0
+Ireland,Daily hospital occupancy,2020-06-19,44.0
+Ireland,Daily hospital occupancy,2020-06-20,41.0
+Ireland,Daily hospital occupancy,2020-06-21,41.0
+Ireland,Daily hospital occupancy,2020-06-22,43.0
+Ireland,Daily hospital occupancy,2020-06-23,40.0
+Ireland,Daily hospital occupancy,2020-06-24,37.0
+Ireland,Daily hospital occupancy,2020-06-25,30.0
+Ireland,Daily hospital occupancy,2020-06-26,26.0
+Ireland,Daily hospital occupancy,2020-06-27,22.0
+Ireland,Daily hospital occupancy,2020-06-28,20.0
+Ireland,Daily hospital occupancy,2020-06-29,22.0
+Ireland,Daily hospital occupancy,2020-06-30,21.0
+Ireland,Daily hospital occupancy,2020-07-01,21.0
+Ireland,Daily hospital occupancy,2020-07-02,18.0
+Ireland,Daily hospital occupancy,2020-07-03,20.0
+Ireland,Daily hospital occupancy,2020-07-04,22.0
+Ireland,Daily hospital occupancy,2020-07-05,20.0
+Ireland,Daily hospital occupancy,2020-07-06,19.0
+Ireland,Daily hospital occupancy,2020-07-07,20.0
+Ireland,Daily hospital occupancy,2020-07-08,12.0
+Ireland,Daily hospital occupancy,2020-07-09,13.0
+Ireland,Daily hospital occupancy,2020-07-10,11.0
+Ireland,Daily hospital occupancy,2020-07-11,13.0
+Ireland,Daily hospital occupancy,2020-07-12,12.0
+Ireland,Daily hospital occupancy,2020-07-13,11.0
+Ireland,Daily hospital occupancy,2020-07-14,13.0
+Ireland,Daily hospital occupancy,2020-07-15,12.0
+Ireland,Daily hospital occupancy,2020-07-16,12.0
+Ireland,Daily hospital occupancy,2020-07-17,12.0
+Ireland,Daily hospital occupancy,2020-07-18,10.0
+Ireland,Daily hospital occupancy,2020-07-19,10.0
+Ireland,Daily hospital occupancy,2020-07-20,12.0
+Ireland,Daily hospital occupancy,2020-07-21,13.0
+Ireland,Daily hospital occupancy,2020-07-22,14.0
+Ireland,Daily hospital occupancy,2020-07-23,13.0
+Ireland,Daily hospital occupancy,2020-07-24,11.0
+Ireland,Daily hospital occupancy,2020-07-25,10.0
+Ireland,Daily hospital occupancy,2020-07-26,11.0
+Ireland,Daily hospital occupancy,2020-07-27,11.0
+Ireland,Daily hospital occupancy,2020-07-28,10.0
+Ireland,Daily hospital occupancy,2020-07-29,10.0
+Ireland,Daily hospital occupancy,2020-07-30,6.0
+Ireland,Daily hospital occupancy,2020-07-31,6.0
+Ireland,Daily hospital occupancy,2020-08-01,8.0
+Ireland,Daily hospital occupancy,2020-08-02,10.0
+Ireland,Daily hospital occupancy,2020-08-03,10.0
+Ireland,Daily hospital occupancy,2020-08-04,14.0
+Ireland,Daily hospital occupancy,2020-08-05,17.0
+Ireland,Daily hospital occupancy,2020-08-06,10.0
+Ireland,Daily hospital occupancy,2020-08-07,11.0
+Ireland,Daily hospital occupancy,2020-08-08,12.0
+Ireland,Daily hospital occupancy,2020-08-09,13.0
+Ireland,Daily hospital occupancy,2020-08-10,12.0
+Ireland,Daily hospital occupancy,2020-08-11,14.0
+Ireland,Daily hospital occupancy,2020-08-12,13.0
+Ireland,Daily hospital occupancy,2020-08-13,12.0
+Ireland,Daily hospital occupancy,2020-08-14,11.0
+Ireland,Daily hospital occupancy,2020-08-15,15.0
+Ireland,Daily hospital occupancy,2020-08-16,16.0
+Ireland,Daily hospital occupancy,2020-08-17,21.0
+Ireland,Daily hospital occupancy,2020-08-18,22.0
+Ireland,Daily hospital occupancy,2020-08-19,17.0
+Ireland,Daily hospital occupancy,2020-08-20,16.0
+Ireland,Daily hospital occupancy,2020-08-21,18.0
+Ireland,Daily hospital occupancy,2020-08-22,20.0
+Ireland,Daily hospital occupancy,2020-08-23,21.0
+Ireland,Daily hospital occupancy,2020-08-24,27.0
+Ireland,Daily hospital occupancy,2020-08-25,26.0
+Ireland,Daily hospital occupancy,2020-08-26,26.0
+Ireland,Daily hospital occupancy,2020-08-27,29.0
+Ireland,Daily hospital occupancy,2020-08-28,32.0
+Ireland,Daily hospital occupancy,2020-08-29,30.0
+Ireland,Daily hospital occupancy,2020-08-30,33.0
+Ireland,Daily hospital occupancy,2020-08-31,35.0
+Ireland,Daily hospital occupancy,2020-09-01,36.0
+Ireland,Daily hospital occupancy,2020-09-02,40.0
+Ireland,Daily hospital occupancy,2020-09-03,40.0
+Ireland,Daily hospital occupancy,2020-09-04,44.0
+Ireland,Daily hospital occupancy,2020-09-05,48.0
+Ireland,Daily hospital occupancy,2020-09-06,49.0
+Ireland,Daily hospital occupancy,2020-09-07,49.0
+Ireland,Daily hospital occupancy,2020-09-08,49.0
+Ireland,Daily hospital occupancy,2020-09-09,50.0
+Ireland,Daily hospital occupancy,2020-09-10,49.0
+Ireland,Daily hospital occupancy,2020-09-11,53.0
+Ireland,Daily hospital occupancy,2020-09-12,52.0
+Ireland,Daily hospital occupancy,2020-09-13,54.0
+Ireland,Daily hospital occupancy,2020-09-14,60.0
+Ireland,Daily hospital occupancy,2020-09-15,68.0
+Ireland,Daily hospital occupancy,2020-09-16,65.0
+Ireland,Daily hospital occupancy,2020-09-17,76.0
+Ireland,Daily hospital occupancy,2020-09-18,80.0
+Ireland,Daily hospital occupancy,2020-09-19,74.0
+Ireland,Daily hospital occupancy,2020-09-20,82.0
+Ireland,Daily hospital occupancy,2020-09-21,90.0
+Ireland,Daily hospital occupancy,2020-09-22,94.0
+Ireland,Daily hospital occupancy,2020-09-23,90.0
+Ireland,Daily hospital occupancy,2020-09-24,94.0
+Ireland,Daily hospital occupancy,2020-09-25,100.0
+Ireland,Daily hospital occupancy,2020-09-26,102.0
+Ireland,Daily hospital occupancy,2020-09-27,108.0
+Ireland,Daily hospital occupancy,2020-09-28,111.0
+Ireland,Daily hospital occupancy,2020-09-29,117.0
+Ireland,Daily hospital occupancy,2020-09-30,122.0
+Ireland,Daily hospital occupancy,2020-10-01,122.0
+Ireland,Daily hospital occupancy,2020-10-02,117.0
+Ireland,Daily hospital occupancy,2020-10-03,120.0
+Ireland,Daily hospital occupancy,2020-10-04,134.0
+Ireland,Daily hospital occupancy,2020-10-05,150.0
+Ireland,Daily hospital occupancy,2020-10-06,150.0
+Ireland,Daily hospital occupancy,2020-10-07,156.0
+Ireland,Daily hospital occupancy,2020-10-08,159.0
+Ireland,Daily hospital occupancy,2020-10-09,179.0
+Ireland,Daily hospital occupancy,2020-10-10,194.0
+Ireland,Daily hospital occupancy,2020-10-11,201.0
+Ireland,Daily hospital occupancy,2020-10-12,221.0
+Ireland,Daily hospital occupancy,2020-10-13,240.0
+Ireland,Daily hospital occupancy,2020-10-14,234.0
+Ireland,Daily hospital occupancy,2020-10-15,238.0
+Ireland,Daily hospital occupancy,2020-10-16,244.0
+Ireland,Daily hospital occupancy,2020-10-17,260.0
+Ireland,Daily hospital occupancy,2020-10-18,274.0
+Ireland,Daily hospital occupancy,2020-10-19,298.0
+Ireland,Daily hospital occupancy,2020-10-20,315.0
+Ireland,Daily hospital occupancy,2020-10-21,324.0
+Ireland,Daily hospital occupancy,2020-10-22,310.0
+Ireland,Daily hospital occupancy,2020-10-23,311.0
+Ireland,Daily hospital occupancy,2020-10-24,312.0
+Ireland,Daily hospital occupancy,2020-10-25,319.0
+Ireland,Daily hospital occupancy,2020-10-26,344.0
+Ireland,Daily hospital occupancy,2020-10-27,354.0
+Ireland,Daily hospital occupancy,2020-10-28,327.0
+Ireland,Daily hospital occupancy,2020-10-29,330.0
+Ireland,Daily hospital occupancy,2020-10-30,327.0
+Ireland,Daily hospital occupancy,2020-10-31,322.0
+Ireland,Daily hospital occupancy,2020-11-01,325.0
+Ireland,Daily hospital occupancy,2020-11-02,327.0
+Ireland,Daily hospital occupancy,2020-11-03,306.0
+Ireland,Daily hospital occupancy,2020-11-04,315.0
+Ireland,Daily hospital occupancy,2020-11-05,307.0
+Ireland,Daily hospital occupancy,2020-11-06,295.0
+Ireland,Daily hospital occupancy,2020-11-07,279.0
+Ireland,Daily hospital occupancy,2020-11-08,283.0
+Ireland,Daily hospital occupancy,2020-11-09,291.0
+Ireland,Daily hospital occupancy,2020-11-10,279.0
+Ireland,Daily hospital occupancy,2020-11-11,282.0
+Ireland,Daily hospital occupancy,2020-11-12,285.0
+Ireland,Daily hospital occupancy,2020-11-13,275.0
+Ireland,Daily hospital occupancy,2020-11-14,254.0
+Ireland,Daily hospital occupancy,2020-11-15,254.0
+Ireland,Daily hospital occupancy,2020-11-16,276.0
+Ireland,Daily hospital occupancy,2020-11-17,273.0
+Ireland,Daily hospital occupancy,2020-11-18,274.0
+Ireland,Daily hospital occupancy,2020-11-19,290.0
+Ireland,Daily hospital occupancy,2020-11-20,287.0
+Ireland,Daily hospital occupancy,2020-11-21,275.0
+Ireland,Daily hospital occupancy,2020-11-22,277.0
+Ireland,Daily hospital occupancy,2020-11-23,291.0
+Ireland,Daily hospital occupancy,2020-11-24,291.0
+Ireland,Daily hospital occupancy,2020-11-25,269.0
+Ireland,Daily hospital occupancy,2020-11-26,247.0
+Ireland,Daily hospital occupancy,2020-11-27,253.0
+Ireland,Daily hospital occupancy,2020-11-28,243.0
+Ireland,Daily hospital occupancy,2020-11-29,257.0
+Ireland,Daily hospital occupancy,2020-11-30,259.0
+Ireland,Daily hospital occupancy,2020-12-01,224.0
+Ireland,Daily hospital occupancy,2020-12-02,228.0
+Ireland,Daily hospital occupancy,2020-12-03,234.0
+Ireland,Daily hospital occupancy,2020-12-04,239.0
+Ireland,Daily hospital occupancy,2020-12-05,230.0
+Ireland,Daily hospital occupancy,2020-12-06,233.0
+Ireland,Daily hospital occupancy,2020-12-07,232.0
+Ireland,Daily hospital occupancy,2020-12-08,215.0
+Ireland,Daily hospital occupancy,2020-12-09,215.0
+Ireland,Daily hospital occupancy,2020-12-10,203.0
+Ireland,Daily hospital occupancy,2020-12-11,204.0
+Ireland,Daily hospital occupancy,2020-12-12,190.0
+Ireland,Daily hospital occupancy,2020-12-13,192.0
+Ireland,Daily hospital occupancy,2020-12-14,197.0
+Ireland,Daily hospital occupancy,2020-12-15,198.0
+Ireland,Daily hospital occupancy,2020-12-16,198.0
+Ireland,Daily hospital occupancy,2020-12-17,211.0
+Ireland,Daily hospital occupancy,2020-12-18,206.0
+Ireland,Daily hospital occupancy,2020-12-19,206.0
+Ireland,Daily hospital occupancy,2020-12-20,220.0
+Ireland,Daily hospital occupancy,2020-12-21,235.0
+Ireland,Daily hospital occupancy,2020-12-22,237.0
+Ireland,Daily hospital occupancy,2020-12-23,239.0
+Ireland,Daily hospital occupancy,2020-12-24,255.0
+Ireland,Daily hospital occupancy,2020-12-25,253.0
+Ireland,Daily hospital occupancy,2020-12-26,268.0
+Ireland,Daily hospital occupancy,2020-12-27,321.0
+Ireland,Daily hospital occupancy,2020-12-28,360.0
+Ireland,Daily hospital occupancy,2020-12-29,409.0
+Ireland,Daily hospital occupancy,2020-12-30,454.0
+Ireland,Daily hospital occupancy,2020-12-31,491.0
+Ireland,Daily hospital occupancy,2021-01-01,508.0
+Ireland,Daily hospital occupancy,2021-01-02,581.0
+Ireland,Daily hospital occupancy,2021-01-03,673.0
+Ireland,Daily hospital occupancy,2021-01-04,744.0
+Ireland,Daily hospital occupancy,2021-01-05,817.0
+Ireland,Daily hospital occupancy,2021-01-06,921.0
+Ireland,Daily hospital occupancy,2021-01-07,1022.0
+Ireland,Daily hospital occupancy,2021-01-08,1153.0
+Ireland,Daily hospital occupancy,2021-01-09,1285.0
+Ireland,Daily hospital occupancy,2021-01-10,1426.0
+Ireland,Daily hospital occupancy,2021-01-11,1575.0
+Ireland,Daily hospital occupancy,2021-01-12,1690.0
+Ireland,Daily hospital occupancy,2021-01-13,1750.0
+Ireland,Daily hospital occupancy,2021-01-14,1792.0
+Ireland,Daily hospital occupancy,2021-01-15,1846.0
+Ireland,Daily hospital occupancy,2021-01-16,1848.0
+Ireland,Daily hospital occupancy,2021-01-17,1923.0
+Ireland,Daily hospital occupancy,2021-01-18,2020.0
+Ireland,Daily hospital occupancy,2021-01-19,1954.0
+Ireland,Daily hospital occupancy,2021-01-20,1941.0
+Ireland,Daily hospital occupancy,2021-01-21,1949.0
+Ireland,Daily hospital occupancy,2021-01-22,1969.0
+Ireland,Daily hospital occupancy,2021-01-23,1893.0
+Ireland,Daily hospital occupancy,2021-01-24,1914.0
+Ireland,Daily hospital occupancy,2021-01-25,1948.0
+Ireland,Daily hospital occupancy,2021-01-26,1823.0
+Ireland,Daily hospital occupancy,2021-01-27,1727.0
+Ireland,Daily hospital occupancy,2021-01-28,1620.0
+Ireland,Daily hospital occupancy,2021-01-29,1552.0
+Ireland,Daily hospital occupancy,2021-01-30,1494.0
+Ireland,Daily hospital occupancy,2021-01-31,1515.0
+Ireland,Daily hospital occupancy,2021-02-01,1529.0
+Ireland,Daily hospital occupancy,2021-02-02,1418.0
+Ireland,Daily hospital occupancy,2021-02-03,1366.0
+Ireland,Daily hospital occupancy,2021-02-04,1308.0
+Ireland,Daily hospital occupancy,2021-02-05,1258.0
+Ireland,Daily hospital occupancy,2021-02-06,1199.0
+Ireland,Daily hospital occupancy,2021-02-07,1203.0
+Ireland,Daily hospital occupancy,2021-02-08,1212.0
+Ireland,Daily hospital occupancy,2021-02-09,1104.0
+Ireland,Daily hospital occupancy,2021-02-10,1032.0
+Ireland,Daily hospital occupancy,2021-02-11,984.0
+Ireland,Daily hospital occupancy,2021-02-12,959.0
+Ireland,Daily hospital occupancy,2021-02-13,898.0
+Ireland,Daily hospital occupancy,2021-02-14,899.0
+Ireland,Daily hospital occupancy,2021-02-15,916.0
+Ireland,Daily hospital occupancy,2021-02-16,861.0
+Ireland,Daily hospital occupancy,2021-02-17,831.0
+Ireland,Daily hospital occupancy,2021-02-18,771.0
+Ireland,Daily hospital occupancy,2021-02-19,754.0
+Ireland,Daily hospital occupancy,2021-02-20,719.0
+Ireland,Daily hospital occupancy,2021-02-21,744.0
+Ireland,Daily hospital occupancy,2021-02-22,726.0
+Ireland,Daily hospital occupancy,2021-02-23,693.0
+Ireland,Daily hospital occupancy,2021-02-24,652.0
+Ireland,Daily hospital occupancy,2021-02-25,591.0
+Ireland,Daily hospital occupancy,2021-02-26,574.0
+Ireland,Daily hospital occupancy,2021-02-27,550.0
+Ireland,Daily hospital occupancy,2021-02-28,554.0
+Ireland,Daily hospital occupancy,2021-03-01,540.0
+Ireland,Daily hospital occupancy,2021-03-02,498.0
+Ireland,Daily hospital occupancy,2021-03-03,489.0
+Ireland,Daily hospital occupancy,2021-03-04,460.0
+Ireland,Daily hospital occupancy,2021-03-05,426.0
+Ireland,Daily hospital occupancy,2021-03-06,414.0
+Ireland,Daily hospital occupancy,2021-03-07,423.0
+Ireland,Daily hospital occupancy,2021-03-08,418.0
+Ireland,Daily hospital occupancy,2021-03-09,397.0
+Ireland,Daily hospital occupancy,2021-03-10,370.0
+Ireland,Daily hospital occupancy,2021-03-11,359.0
+Ireland,Daily hospital occupancy,2021-03-12,344.0
+Ireland,Daily hospital occupancy,2021-03-13,340.0
+Ireland,Daily hospital occupancy,2021-03-14,349.0
+Ireland,Daily hospital occupancy,2021-03-15,360.0
+Ireland,Daily hospital occupancy,2021-03-16,355.0
+Ireland,Daily hospital occupancy,2021-03-17,350.0
+Ireland,Daily hospital occupancy,2021-03-18,345.0
+Ireland,Daily hospital occupancy,2021-03-19,336.0
+Ireland,Daily hospital occupancy,2021-03-20,328.0
+Ireland,Daily hospital occupancy,2021-03-21,360.0
+Ireland,Daily hospital occupancy,2021-03-22,359.0
+Ireland,Daily hospital occupancy,2021-03-23,357.0
+Ireland,Daily hospital occupancy,2021-03-24,329.0
+Ireland,Daily hospital occupancy,2021-03-25,312.0
+Ireland,Daily hospital occupancy,2021-03-26,317.0
+Ireland,Daily hospital occupancy,2021-03-27,304.0
+Ireland,Daily hospital occupancy,2021-03-28,322.0
+Ireland,Daily hospital occupancy,2021-03-29,331.0
+Ireland,Daily hospital occupancy,2021-03-30,310.0
+Ireland,Daily hospital occupancy,2021-03-31,297.0
+Ireland,Daily hospital occupancy,2021-04-01,274.0
+Ireland,Daily hospital occupancy,2021-04-02,264.0
+Ireland,Daily hospital occupancy,2021-04-03,242.0
+Ireland,Daily hospital occupancy,2021-04-04,242.0
+Ireland,Daily hospital occupancy,2021-04-05,260.0
+Ireland,Daily hospital occupancy,2021-04-06,261.0
+Ireland,Daily hospital occupancy,2021-04-07,232.0
+Ireland,Daily hospital occupancy,2021-04-08,226.0
+Ireland,Daily hospital occupancy,2021-04-09,212.0
+Ireland,Daily hospital occupancy,2021-04-10,208.0
+Ireland,Daily hospital occupancy,2021-04-11,213.0
+Ireland,Daily hospital occupancy,2021-04-12,227.0
+Ireland,Daily hospital occupancy,2021-04-13,206.0
+Ireland,Daily hospital occupancy,2021-04-14,192.0
+Ireland,Daily hospital occupancy,2021-04-15,184.0
+Ireland,Daily hospital occupancy,2021-04-16,190.0
+Ireland,Daily hospital occupancy,2021-04-17,183.0
+Ireland,Daily hospital occupancy,2021-04-18,181.0
+Ireland,Daily hospital occupancy,2021-04-19,183.0
+Ireland,Daily hospital occupancy,2021-04-20,179.0
+Ireland,Daily hospital occupancy,2021-04-21,182.0
+Ireland,Daily hospital occupancy,2021-04-22,176.0
+Ireland,Daily hospital occupancy,2021-04-23,166.0
+Ireland,Daily hospital occupancy,2021-04-24,162.0
+Ireland,Daily hospital occupancy,2021-04-25,174.0
+Ireland,Daily hospital occupancy,2021-04-26,184.0
+Ireland,Daily hospital occupancy,2021-04-27,153.0
+Ireland,Daily hospital occupancy,2021-04-28,153.0
+Ireland,Daily hospital occupancy,2021-04-29,154.0
+Ireland,Daily hospital occupancy,2021-04-30,139.0
+Ireland,Daily hospital occupancy,2021-05-01,123.0
+Ireland,Daily hospital occupancy,2021-05-02,127.0
+Ireland,Daily hospital occupancy,2021-05-03,129.0
+Ireland,Daily hospital occupancy,2021-05-04,144.0
+Ireland,Daily hospital occupancy,2021-05-05,137.0
+Ireland,Daily hospital occupancy,2021-05-06,131.0
+Ireland,Daily hospital occupancy,2021-05-07,127.0
+Ireland,Daily hospital occupancy,2021-05-08,110.0
+Ireland,Daily hospital occupancy,2021-05-09,116.0
+Ireland,Daily hospital occupancy,2021-05-10,124.0
+Ireland,Daily hospital occupancy,2021-05-11,117.0
+Ireland,Daily hospital occupancy,2021-05-12,109.0
+Ireland,Daily hospital occupancy,2021-05-13,111.0
+Ireland,Daily hospital occupancy,2021-05-17,110.0
+Ireland,Daily hospital occupancy,2021-05-18,102.0
+Ireland,Daily hospital occupancy,2021-05-19,101.0
+Ireland,Daily hospital occupancy,2021-05-20,103.0
+Ireland,Daily hospital occupancy,2021-05-21,107.0
+Ireland,Daily hospital occupancy,2021-05-22,110.0
+Ireland,Daily hospital occupancy,2021-05-23,116.0
+Ireland,Daily hospital occupancy,2021-05-24,127.0
+Ireland,Daily hospital occupancy,2021-05-25,103.0
+Ireland,Daily hospital occupancy,2021-05-26,99.0
+Ireland,Daily hospital occupancy,2021-05-27,101.0
+Ireland,Daily hospital occupancy,2021-05-28,99.0
+Ireland,Daily hospital occupancy,2021-05-29,90.0
+Ireland,Daily hospital occupancy,2021-05-30,99.0
+Ireland,Daily hospital occupancy,2021-05-31,98.0
+Ireland,Daily hospital occupancy,2021-06-01,89.0
+Ireland,Daily hospital occupancy,2021-06-02,93.0
+Ireland,Daily hospital occupancy,2021-06-03,84.0
+Ireland,Daily hospital occupancy,2021-06-04,86.0
+Ireland,Daily hospital occupancy,2021-06-05,74.0
+Ireland,Daily hospital occupancy,2021-06-06,70.0
+Ireland,Daily hospital occupancy,2021-06-07,69.0
+Ireland,Daily hospital occupancy,2021-06-08,77.0
+Ireland,Daily hospital occupancy,2021-06-09,76.0
+Ireland,Daily hospital occupancy,2021-06-10,70.0
+Ireland,Daily hospital occupancy,2021-06-11,60.0
+Ireland,Daily hospital occupancy,2021-06-12,58.0
+Ireland,Daily hospital occupancy,2021-06-13,62.0
+Ireland,Daily hospital occupancy,2021-06-14,67.0
+Ireland,Daily hospital occupancy,2021-06-15,60.0
+Ireland,Daily hospital occupancy,2021-06-16,57.0
+Ireland,Daily hospital occupancy,2021-06-17,54.0
+Ireland,Daily hospital occupancy,2021-06-18,53.0
+Ireland,Daily hospital occupancy,2021-06-19,48.0
+Ireland,Daily hospital occupancy,2021-06-20,49.0
+Ireland,Daily hospital occupancy,2021-06-21,53.0
+Ireland,Daily hospital occupancy,2021-06-22,39.0
+Ireland,Daily hospital occupancy,2021-06-23,41.0
+Ireland,Daily hospital occupancy,2021-06-24,47.0
+Ireland,Daily hospital occupancy,2021-06-25,38.0
+Ireland,Daily hospital occupancy,2021-06-26,43.0
+Ireland,Daily hospital occupancy,2021-06-27,47.0
+Ireland,Daily hospital occupancy,2021-06-28,49.0
+Ireland,Daily hospital occupancy,2021-06-29,46.0
+Ireland,Daily hospital occupancy,2021-06-30,44.0
+Ireland,Daily hospital occupancy,2021-07-01,44.0
+Ireland,Daily hospital occupancy,2021-07-02,46.0
+Ireland,Daily hospital occupancy,2021-07-03,42.0
+Ireland,Daily hospital occupancy,2021-07-04,48.0
+Ireland,Daily hospital occupancy,2021-07-05,51.0
+Ireland,Daily hospital occupancy,2021-07-06,54.0
+Ireland,Daily hospital occupancy,2021-07-07,60.0
+Ireland,Daily hospital occupancy,2021-07-08,58.0
+Ireland,Daily hospital occupancy,2021-07-09,50.0
+Ireland,Daily hospital occupancy,2021-07-10,52.0
+Ireland,Daily hospital occupancy,2021-07-11,58.0
+Ireland,Daily hospital occupancy,2021-07-12,63.0
+Ireland,Daily hospital occupancy,2021-07-13,62.0
+Ireland,Daily hospital occupancy,2021-07-14,73.0
+Ireland,Daily hospital occupancy,2021-07-15,80.0
+Ireland,Daily hospital occupancy,2021-07-16,79.0
+Ireland,Daily hospital occupancy,2021-07-17,78.0
+Ireland,Daily hospital occupancy,2021-07-18,91.0
+Ireland,Daily hospital occupancy,2021-07-19,101.0
+Ireland,Daily hospital occupancy,2021-07-20,89.0
+Ireland,Daily hospital occupancy,2021-07-21,96.0
+Ireland,Daily hospital occupancy,2021-07-22,95.0
+Ireland,Daily hospital occupancy,2021-07-23,106.0
+Ireland,Daily hospital occupancy,2021-07-24,105.0
+Ireland,Daily hospital occupancy,2021-07-25,123.0
+Ireland,Daily hospital occupancy,2021-07-26,141.0
+Ireland,Daily hospital occupancy,2021-07-27,142.0
+Ireland,Daily hospital occupancy,2021-07-28,152.0
+Ireland,Daily hospital occupancy,2021-07-29,162.0
+Ireland,Daily hospital occupancy,2021-07-30,169.0
+Ireland,Daily hospital occupancy,2021-07-31,164.0
+Ireland,Daily hospital occupancy,2021-08-01,163.0
+Ireland,Daily hospital occupancy,2021-08-02,177.0
+Ireland,Daily hospital occupancy,2021-08-03,178.0
+Ireland,Daily hospital occupancy,2021-08-04,187.0
+Ireland,Daily hospital occupancy,2021-08-05,193.0
+Ireland,Daily hospital occupancy,2021-08-06,189.0
+Ireland,Daily hospital occupancy,2021-08-07,198.0
+Ireland,Daily hospital occupancy,2021-08-08,208.0
+Ireland,Daily hospital occupancy,2021-08-09,217.0
+Ireland,Daily hospital occupancy,2021-08-10,206.0
+Ireland,Daily hospital occupancy,2021-08-11,206.0
+Ireland,Daily hospital occupancy,2021-08-12,219.0
+Ireland,Daily hospital occupancy,2021-08-13,221.0
+Ireland,Daily hospital occupancy,2021-08-14,230.0
+Ireland,Daily hospital occupancy,2021-08-15,248.0
+Ireland,Daily hospital occupancy,2021-08-16,262.0
+Ireland,Daily hospital occupancy,2021-08-17,248.0
+Ireland,Daily hospital occupancy,2021-08-18,249.0
+Ireland,Daily hospital occupancy,2021-08-19,244.0
+Ireland,Daily hospital occupancy,2021-08-20,251.0
+Ireland,Daily hospital occupancy,2021-08-21,259.0
+Ireland,Daily hospital occupancy,2021-08-22,314.0
+Ireland,Daily hospital occupancy,2021-08-23,318.0
+Ireland,Daily hospital occupancy,2021-08-24,307.0
+Ireland,Daily hospital occupancy,2021-08-25,323.0
+Ireland,Daily hospital occupancy,2021-08-26,332.0
+Ireland,Daily hospital occupancy,2021-08-27,326.0
+Ireland,Daily hospital occupancy,2021-08-28,324.0
+Ireland,Daily hospital occupancy,2021-08-29,347.0
+Ireland,Daily hospital occupancy,2021-08-30,382.0
+Ireland,Daily hospital occupancy,2021-08-31,355.0
+Ireland,Daily hospital occupancy,2021-09-01,360.0
+Ireland,Daily hospital occupancy,2021-09-02,343.0
+Ireland,Daily hospital occupancy,2021-09-03,353.0
+Ireland,Daily hospital occupancy,2021-09-04,363.0
+Ireland,Daily hospital occupancy,2021-09-05,362.0
+Ireland,Daily hospital occupancy,2021-09-06,384.0
+Ireland,Daily hospital occupancy,2021-09-07,367.0
+Ireland,Daily hospital occupancy,2021-09-08,335.0
+Ireland,Daily hospital occupancy,2021-09-09,331.0
+Ireland,Daily hospital occupancy,2021-09-10,328.0
+Ireland,Daily hospital occupancy,2021-09-11,310.0
+Ireland,Daily hospital occupancy,2021-09-12,315.0
+Ireland,Daily hospital occupancy,2021-09-13,321.0
+Ireland,Daily hospital occupancy,2021-09-14,309.0
+Ireland,Daily hospital occupancy,2021-09-15,292.0
+Ireland,Daily hospital occupancy,2021-09-16,290.0
+Ireland,Daily hospital occupancy,2021-09-17,288.0
+Ireland,Daily hospital occupancy,2021-09-18,261.0
+Ireland,Daily hospital occupancy,2021-09-19,278.0
+Ireland,Daily hospital occupancy,2021-09-20,297.0
+Ireland,Daily hospital occupancy,2021-09-21,286.0
+Ireland,Daily hospital occupancy,2021-09-22,272.0
+Ireland,Daily hospital occupancy,2021-09-23,286.0
+Ireland,Daily hospital occupancy,2021-09-24,297.0
+Ireland,Daily hospital occupancy,2021-09-25,282.0
+Ireland,Daily hospital occupancy,2021-09-26,296.0
+Ireland,Daily hospital occupancy,2021-09-27,310.0
+Ireland,Daily hospital occupancy,2021-09-28,300.0
+Ireland,Daily hospital occupancy,2021-09-29,300.0
+Ireland,Daily hospital occupancy,2021-09-30,297.0
+Ireland,Daily hospital occupancy,2021-10-01,308.0
+Ireland,Daily hospital occupancy,2021-10-02,298.0
+Ireland,Daily hospital occupancy,2021-10-03,319.0
+Ireland,Daily hospital occupancy,2021-10-04,333.0
+Ireland,Daily hospital occupancy,2021-10-05,349.0
+Ireland,Daily hospital occupancy,2021-10-06,343.0
+Ireland,Daily hospital occupancy,2021-10-07,355.0
+Ireland,Daily hospital occupancy,2021-10-08,354.0
+Ireland,Daily hospital occupancy,2021-10-09,353.0
+Ireland,Daily hospital occupancy,2021-10-10,382.0
+Ireland,Daily hospital occupancy,2021-10-11,400.0
+Ireland,Daily hospital occupancy,2021-10-12,402.0
+Ireland,Daily hospital occupancy,2021-10-13,408.0
+Ireland,Daily hospital occupancy,2021-10-14,415.0
+Ireland,Daily hospital occupancy,2021-10-15,413.0
+Ireland,Daily hospital occupancy,2021-10-16,406.0
+Ireland,Daily hospital occupancy,2021-10-17,459.0
+Ireland,Daily hospital occupancy,2021-10-18,484.0
+Ireland,Daily hospital occupancy,2021-10-19,472.0
+Ireland,Daily hospital occupancy,2021-10-20,464.0
+Ireland,Daily hospital occupancy,2021-10-21,448.0
+Ireland,Daily hospital occupancy,2021-10-22,457.0
+Ireland,Daily hospital occupancy,2021-10-23,450.0
+Ireland,Daily hospital occupancy,2021-10-24,471.0
+Ireland,Daily hospital occupancy,2021-10-25,497.0
+Ireland,Daily hospital occupancy,2021-10-26,513.0
+Ireland,Daily hospital occupancy,2021-10-27,503.0
+Ireland,Daily hospital occupancy,2021-10-28,487.0
+Ireland,Daily hospital occupancy,2021-10-29,481.0
+Ireland,Daily hospital occupancy,2021-10-30,470.0
+Ireland,Daily hospital occupancy,2021-10-31,500.0
+Ireland,Daily hospital occupancy,2021-11-01,515.0
+Ireland,Daily hospital occupancy,2021-11-02,493.0
+Ireland,Daily hospital occupancy,2021-11-03,460.0
+Ireland,Daily hospital occupancy,2021-11-04,458.0
+Ireland,Daily hospital occupancy,2021-11-05,464.0
+Ireland,Daily hospital occupancy,2021-11-06,444.0
+Ireland,Daily hospital occupancy,2021-11-07,478.0
+Ireland,Daily hospital occupancy,2021-11-08,498.0
+Ireland,Daily hospital occupancy,2021-11-09,520.0
+Ireland,Daily hospital occupancy,2021-11-10,551.0
+Ireland,Daily hospital occupancy,2021-11-11,543.0
+Ireland,Daily hospital occupancy,2021-11-12,549.0
+Ireland,Daily hospital occupancy,2021-11-13,556.0
+Ireland,Daily hospital occupancy,2021-11-14,582.0
+Ireland,Daily hospital occupancy,2021-11-15,622.0
+Ireland,Daily hospital occupancy,2021-11-16,614.0
+Ireland,Daily hospital occupancy,2021-11-17,634.0
+Ireland,Daily hospital occupancy,2021-11-18,643.0
+Ireland,Daily hospital occupancy,2021-11-19,643.0
+Ireland,Daily hospital occupancy,2021-11-20,640.0
+Ireland,Daily hospital occupancy,2021-11-21,669.0
+Ireland,Daily hospital occupancy,2021-11-22,685.0
+Ireland,Daily hospital occupancy,2021-11-23,638.0
+Ireland,Daily hospital occupancy,2021-11-24,611.0
+Ireland,Daily hospital occupancy,2021-11-25,598.0
+Ireland,Daily hospital occupancy,2021-11-26,572.0
+Ireland,Daily hospital occupancy,2021-11-27,536.0
+Ireland,Daily hospital occupancy,2021-11-28,566.0
+Ireland,Daily hospital occupancy,2021-11-29,579.0
+Ireland,Daily hospital occupancy,2021-11-30,579.0
+Ireland,Daily hospital occupancy,2021-12-01,578.0
+Ireland,Daily hospital occupancy,2021-12-02,545.0
+Ireland,Daily hospital occupancy,2021-12-03,528.0
+Ireland,Daily hospital occupancy,2021-12-04,487.0
+Ireland,Daily hospital occupancy,2021-12-05,503.0
+Ireland,Daily hospital occupancy,2021-12-06,536.0
+Ireland,Daily hospital occupancy,2021-12-07,505.0
+Ireland,Daily hospital occupancy,2021-12-08,543.0
+Ireland,Daily hospital occupancy,2021-12-09,530.0
+Ireland,Daily hospital occupancy,2021-12-10,511.0
+Ireland,Daily hospital occupancy,2021-12-11,481.0
+Ireland,Daily hospital occupancy,2021-12-12,504.0
+Ireland,Daily hospital occupancy,2021-12-13,518.0
+Ireland,Daily hospital occupancy,2021-12-14,493.0
+Ireland,Daily hospital occupancy,2021-12-15,470.0
+Ireland,Daily hospital occupancy,2021-12-16,443.0
+Ireland,Daily hospital occupancy,2021-12-17,420.0
+Ireland,Daily hospital occupancy,2021-12-18,410.0
+Ireland,Daily hospital occupancy,2021-12-19,436.0
+Ireland,Daily hospital occupancy,2021-12-20,467.0
+Ireland,Daily hospital occupancy,2021-12-21,443.0
+Ireland,Daily hospital occupancy,2021-12-22,429.0
+Ireland,Daily hospital occupancy,2021-12-23,390.0
+Ireland,Daily hospital occupancy,2021-12-24,393.0
+Ireland,Daily hospital occupancy,2021-12-25,378.0
+Ireland,Daily hospital occupancy,2021-12-26,426.0
+Ireland,Daily hospital occupancy,2021-12-27,462.0
+Ireland,Daily hospital occupancy,2021-12-28,521.0
+Ireland,Daily hospital occupancy,2021-12-29,568.0
+Ireland,Daily hospital occupancy,2021-12-30,619.0
+Ireland,Daily hospital occupancy,2021-12-31,682.0
+Ireland,Daily hospital occupancy,2022-01-01,656.0
+Ireland,Daily hospital occupancy,2022-01-02,717.0
+Ireland,Daily hospital occupancy,2022-01-03,804.0
+Ireland,Daily hospital occupancy,2022-01-04,884.0
+Ireland,Daily hospital occupancy,2022-01-05,928.0
+Ireland,Daily hospital occupancy,2022-01-06,941.0
+Ireland,Daily hospital occupancy,2022-01-07,936.0
+Ireland,Daily hospital occupancy,2022-01-08,917.0
+Ireland,Daily hospital occupancy,2022-01-09,984.0
+Ireland,Daily hospital occupancy,2022-01-10,1063.0
+Ireland,Daily hospital occupancy,2022-01-11,1062.0
+Ireland,Daily hospital occupancy,2022-01-12,1055.0
+Ireland,Daily hospital occupancy,2022-01-13,1011.0
+Ireland,Daily hospital occupancy,2022-01-14,1020.0
+Ireland,Daily hospital occupancy,2022-01-15,940.0
+Ireland,Daily hospital occupancy,2022-01-16,961.0
+Ireland,Daily hospital occupancy,2022-01-17,1006.0
+Ireland,Daily hospital occupancy,2022-01-18,979.0
+Ireland,Daily hospital occupancy,2022-01-19,911.0
+Ireland,Daily hospital occupancy,2022-01-20,896.0
+Ireland,Daily hospital occupancy,2022-01-21,892.0
+Ireland,Daily hospital occupancy,2022-01-22,836.0
+Ireland,Daily hospital occupancy,2022-01-23,845.0
+Ireland,Daily hospital occupancy,2022-01-24,885.0
+Ireland,Daily hospital occupancy,2022-01-25,824.0
+Ireland,Daily hospital occupancy,2022-01-26,739.0
+Ireland,Daily hospital occupancy,2022-01-27,708.0
+Ireland,Daily hospital occupancy,2022-01-28,707.0
+Ireland,Daily hospital occupancy,2022-01-29,649.0
+Ireland,Daily hospital occupancy,2022-01-30,651.0
+Ireland,Daily hospital occupancy,2022-01-31,692.0
+Ireland,Daily hospital occupancy,2022-02-01,657.0
+Ireland,Daily hospital occupancy,2022-02-02,630.0
+Ireland,Daily hospital occupancy,2022-02-03,609.0
+Ireland,Daily hospital occupancy,2022-02-04,597.0
+Ireland,Daily hospital occupancy,2022-02-05,581.0
+Ireland,Daily hospital occupancy,2022-02-06,615.0
+Ireland,Daily hospital occupancy,2022-02-07,643.0
+Ireland,Daily hospital occupancy,2022-02-08,646.0
+Ireland,Daily hospital occupancy,2022-02-09,627.0
+Ireland,Daily hospital occupancy,2022-02-10,595.0
+Ireland,Daily hospital occupancy,2022-02-11,614.0
+Ireland,Daily hospital occupancy,2022-02-12,579.0
+Ireland,Daily hospital occupancy,2022-02-13,609.0
+Ireland,Daily hospital occupancy,2022-02-14,665.0
+Ireland,Daily hospital occupancy,2022-02-15,637.0
+Ireland,Daily hospital occupancy,2022-02-16,631.0
+Ireland,Daily hospital occupancy,2022-02-17,639.0
+Ireland,Daily hospital occupancy,2022-02-18,591.0
+Ireland,Daily hospital occupancy,2022-02-19,579.0
+Ireland,Daily hospital occupancy,2022-02-20,594.0
+Ireland,Daily hospital occupancy,2022-02-21,636.0
+Ireland,Daily hospital occupancy,2022-02-22,608.0
+Ireland,Daily hospital occupancy,2022-02-23,593.0
+Ireland,Daily hospital occupancy,2022-02-24,611.0
+Ireland,Daily hospital occupancy,2022-02-25,630.0
+Ireland,Daily hospital occupancy,2022-02-26,583.0
+Ireland,Daily hospital occupancy,2022-02-27,603.0
+Ireland,Daily hospital occupancy,2022-02-28,610.0
+Ireland,Daily hospital occupancy,2022-03-01,616.0
+Ireland,Daily hospital occupancy,2022-03-02,653.0
+Ireland,Daily hospital occupancy,2022-03-03,661.0
+Ireland,Daily hospital occupancy,2022-03-04,670.0
+Ireland,Daily hospital occupancy,2022-03-05,673.0
+Ireland,Daily hospital occupancy,2022-03-06,749.0
+Ireland,Daily hospital occupancy,2022-03-07,808.0
+Ireland,Daily hospital occupancy,2022-03-08,803.0
+Ireland,Daily hospital occupancy,2022-03-09,829.0
+Ireland,Daily hospital occupancy,2022-03-10,877.0
+Ireland,Daily hospital occupancy,2022-03-11,907.0
+Ireland,Daily hospital occupancy,2022-03-12,895.0
+Ireland,Daily hospital occupancy,2022-03-13,957.0
+Ireland,Daily hospital occupancy,2022-03-14,1042.0
+Ireland,Daily hospital occupancy,2022-03-15,1047.0
+Ireland,Daily hospital occupancy,2022-03-16,1081.0
+Ireland,Daily hospital occupancy,2022-03-17,1031.0
+Ireland,Daily hospital occupancy,2022-03-18,1074.0
+Ireland,Daily hospital occupancy,2022-03-19,1127.0
+Ireland,Daily hospital occupancy,2022-03-20,1185.0
+Ireland,Daily hospital occupancy,2022-03-21,1308.0
+Ireland,Daily hospital occupancy,2022-03-22,1339.0
+Ireland,Daily hospital occupancy,2022-03-23,1395.0
+Ireland,Daily hospital occupancy,2022-03-24,1425.0
+Ireland,Daily hospital occupancy,2022-03-25,1466.0
+Ireland,Daily hospital occupancy,2022-03-26,1458.0
+Ireland,Daily hospital occupancy,2022-03-27,1569.0
+Ireland,Daily hospital occupancy,2022-03-28,1624.0
+Ireland,Daily hospital occupancy,2022-03-29,1601.0
+Ireland,Daily hospital occupancy,2022-03-30,1610.0
+Ireland,Daily hospital occupancy,2022-03-31,1535.0
+Ireland,Daily hospital occupancy,2022-04-01,1468.0
+Ireland,Daily hospital occupancy,2022-04-02,1415.0
+Ireland,Daily hospital occupancy,2022-04-03,1404.0
+Ireland,Daily hospital occupancy,2022-04-04,1433.0
+Ireland,Daily hospital occupancy,2022-04-05,1360.0
+Ireland,Daily hospital occupancy,2022-04-06,1333.0
+Ireland,Daily hospital occupancy,2022-04-07,1245.0
+Ireland,Daily hospital occupancy,2022-04-08,1182.0
+Ireland,Daily hospital occupancy,2022-04-09,1069.0
+Ireland,Daily hospital occupancy,2022-04-10,1061.0
+Ireland,Daily hospital occupancy,2022-04-11,1081.0
+Ireland,Daily hospital occupancy,2022-04-12,1004.0
+Ireland,Daily hospital occupancy,2022-04-13,933.0
+Ireland,Daily hospital occupancy,2022-04-14,904.0
+Ireland,Daily hospital occupancy,2022-04-15,809.0
+Ireland,Daily hospital occupancy,2022-04-16,735.0
+Ireland,Daily hospital occupancy,2022-04-17,754.0
+Ireland,Daily hospital occupancy,2022-04-18,742.0
+Ireland,Daily hospital occupancy,2022-04-19,750.0
+Ireland,Daily hospital occupancy,2022-04-20,706.0
+Ireland,Daily hospital occupancy,2022-04-21,654.0
+Ireland,Daily hospital occupancy,2022-04-22,599.0
+Ireland,Daily hospital occupancy,2022-04-23,532.0
+Ireland,Daily hospital occupancy,2022-04-24,520.0
+Ireland,Daily hospital occupancy,2022-04-25,535.0
+Ireland,Daily hospital occupancy,2022-04-26,478.0
+Ireland,Daily hospital occupancy,2022-04-27,435.0
+Ireland,Daily hospital occupancy,2022-04-28,412.0
+Ireland,Daily hospital occupancy,2022-04-29,379.0
+Ireland,Daily hospital occupancy,2022-04-30,349.0
+Ireland,Daily hospital occupancy,2022-05-01,353.0
+Ireland,Daily hospital occupancy,2022-05-02,366.0
+Ireland,Daily hospital occupancy,2022-05-03,396.0
+Ireland,Daily hospital occupancy,2022-05-04,347.0
+Ireland,Daily hospital occupancy,2022-05-05,336.0
+Ireland,Daily hospital occupancy,2022-05-06,310.0
+Ireland,Daily hospital occupancy,2022-05-07,281.0
+Ireland,Daily hospital occupancy,2022-05-08,293.0
+Ireland,Daily hospital occupancy,2022-05-09,304.0
+Ireland,Daily hospital occupancy,2022-05-10,268.0
+Ireland,Daily hospital occupancy,2022-05-11,254.0
+Ireland,Daily hospital occupancy,2022-05-12,242.0
+Ireland,Daily hospital occupancy,2022-05-13,235.0
+Ireland,Daily hospital occupancy,2022-05-14,236.0
+Ireland,Daily hospital occupancy,2022-05-15,240.0
+Ireland,Daily hospital occupancy,2022-05-16,255.0
+Ireland,Daily hospital occupancy,2022-05-17,263.0
+Ireland,Daily hospital occupancy,2022-05-18,256.0
+Ireland,Daily hospital occupancy,2022-05-19,241.0
+Ireland,Daily hospital occupancy,2022-05-20,231.0
+Ireland,Daily hospital occupancy,2022-05-21,206.0
+Ireland,Daily hospital occupancy,2022-05-22,214.0
+Ireland,Daily hospital occupancy,2022-05-23,230.0
+Ireland,Daily hospital occupancy,2022-05-24,218.0
+Ireland,Daily hospital occupancy,2022-05-25,191.0
+Ireland,Daily hospital occupancy,2022-05-26,185.0
+Ireland,Daily hospital occupancy,2022-05-27,183.0
+Ireland,Daily hospital occupancy,2022-05-28,167.0
+Ireland,Daily hospital occupancy,2022-05-29,181.0
+Ireland,Daily hospital occupancy,2022-05-30,198.0
+Ireland,Daily hospital occupancy,2022-05-31,180.0
+Ireland,Daily hospital occupancy,2022-06-01,191.0
+Ireland,Daily hospital occupancy,2022-06-02,197.0
+Ireland,Daily hospital occupancy,2022-06-03,210.0
+Ireland,Daily hospital occupancy,2022-06-04,210.0
+Ireland,Daily hospital occupancy,2022-06-05,232.0
+Ireland,Daily hospital occupancy,2022-06-06,256.0
+Ireland,Daily hospital occupancy,2022-06-07,271.0
+Ireland,Daily hospital occupancy,2022-06-08,289.0
+Ireland,Daily hospital occupancy,2022-06-09,311.0
+Ireland,Daily hospital occupancy,2022-06-10,355.0
+Ireland,Daily hospital occupancy,2022-06-11,360.0
+Ireland,Daily hospital occupancy,2022-06-12,397.0
+Ireland,Daily hospital occupancy,2022-06-13,453.0
+Ireland,Daily hospital occupancy,2022-06-14,459.0
+Ireland,Daily hospital occupancy,2022-06-15,477.0
+Ireland,Daily hospital occupancy,2022-06-16,496.0
+Ireland,Daily hospital occupancy,2022-06-17,515.0
+Ireland,Daily hospital occupancy,2022-06-18,537.0
+Ireland,Daily hospital occupancy,2022-06-19,574.0
+Ireland,Daily hospital occupancy,2022-06-20,606.0
+Ireland,Daily hospital occupancy,2022-06-21,627.0
+Ireland,Daily hospital occupancy,2022-06-22,629.0
+Ireland,Daily hospital occupancy,2022-06-23,685.0
+Ireland,Daily hospital occupancy,2022-06-24,697.0
+Ireland,Daily hospital occupancy,2022-06-25,683.0
+Ireland,Daily hospital occupancy,2022-06-26,746.0
+Ireland,Daily hospital occupancy,2022-06-27,765.0
+Ireland,Daily hospital occupancy,2022-06-28,751.0
+Ireland,Daily hospital occupancy,2022-06-29,776.0
+Ireland,Daily hospital occupancy,2022-06-30,798.0
+Ireland,Daily hospital occupancy,2022-07-01,812.0
+Ireland,Daily hospital occupancy,2022-07-02,796.0
+Ireland,Daily hospital occupancy,2022-07-03,826.0
+Ireland,Daily hospital occupancy,2022-07-04,885.0
+Ireland,Daily hospital occupancy,2022-07-05,849.0
+Ireland,Daily hospital occupancy,2022-07-06,906.0
+Ireland,Daily hospital occupancy,2022-07-07,904.0
+Ireland,Daily hospital occupancy,2022-07-08,905.0
+Ireland,Daily hospital occupancy,2022-07-09,947.0
+Ireland,Daily hospital occupancy,2022-07-10,987.0
+Ireland,Daily hospital occupancy,2022-07-11,1055.0
+Ireland,Daily hospital occupancy,2022-07-12,1035.0
+Ireland,Daily hospital occupancy,2022-07-13,1018.0
+Ireland,Daily hospital occupancy,2022-07-14,981.0
+Ireland,Daily hospital occupancy,2022-07-15,943.0
+Ireland,Daily hospital occupancy,2022-07-16,888.0
+Ireland,Daily hospital occupancy,2022-07-17,887.0
+Ireland,Daily hospital occupancy,2022-07-18,903.0
+Ireland,Daily hospital occupancy,2022-07-19,815.0
+Ireland,Daily hospital occupancy,2022-07-20,782.0
+Ireland,Daily hospital occupancy,2022-07-21,740.0
+Ireland,Daily hospital occupancy,2022-07-22,704.0
+Ireland,Daily hospital occupancy,2022-07-23,636.0
+Ireland,Daily hospital occupancy,2022-07-24,631.0
+Ireland,Daily hospital occupancy,2022-07-25,635.0
+Ireland,Daily hospital occupancy,2022-07-26,596.0
+Ireland,Daily hospital occupancy,2022-07-27,551.0
+Ireland,Daily hospital occupancy,2022-07-28,513.0
+Ireland,Daily hospital occupancy,2022-07-29,470.0
+Ireland,Daily hospital occupancy,2022-07-30,411.0
+Ireland,Daily hospital occupancy,2022-07-31,406.0
+Ireland,Daily hospital occupancy,2022-08-01,424.0
+Ireland,Daily hospital occupancy,2022-08-02,435.0
+Ireland,Daily hospital occupancy,2022-08-03,417.0
+Ireland,Daily hospital occupancy,2022-08-04,398.0
+Ireland,Daily hospital occupancy,2022-08-05,380.0
+Ireland,Daily hospital occupancy,2022-08-06,371.0
+Ireland,Daily hospital occupancy,2022-08-07,382.0
+Ireland,Daily hospital occupancy,2022-08-08,384.0
+Ireland,Daily hospital occupancy,2022-08-09,355.0
+Ireland,Daily hospital occupancy,2022-08-10,349.0
+Ireland,Daily hospital occupancy,2022-08-11,352.0
+Ireland,Daily hospital occupancy,2022-08-12,364.0
+Ireland,Daily hospital occupancy,2022-08-13,333.0
+Ireland,Daily hospital occupancy,2022-08-14,337.0
+Ireland,Daily hospital occupancy,2022-08-15,361.0
+Ireland,Daily hospital occupancy,2022-08-16,325.0
+Ireland,Daily hospital occupancy,2022-08-17,307.0
+Ireland,Daily hospital occupancy,2022-08-18,300.0
+Ireland,Daily hospital occupancy,2022-08-19,291.0
+Ireland,Daily hospital occupancy,2022-08-20,285.0
+Ireland,Daily hospital occupancy,2022-08-21,276.0
+Ireland,Daily hospital occupancy,2022-08-22,294.0
+Ireland,Daily hospital occupancy,2022-08-23,275.0
+Ireland,Daily hospital occupancy,2022-08-24,285.0
+Ireland,Daily hospital occupancy,2022-08-25,288.0
+Ireland,Daily hospital occupancy,2022-08-26,257.0
+Ireland,Daily hospital occupancy,2022-08-27,249.0
+Ireland,Daily hospital occupancy,2022-08-28,250.0
+Ireland,Daily hospital occupancy,2022-08-29,268.0
+Ireland,Daily hospital occupancy,2022-08-30,253.0
+Ireland,Daily hospital occupancy,2022-08-31,262.0
+Ireland,Daily hospital occupancy,2022-09-01,267.0
+Ireland,Daily hospital occupancy,2022-09-02,243.0
+Ireland,Daily hospital occupancy,2022-09-03,232.0
+Ireland,Daily hospital occupancy,2022-09-04,236.0
+Ireland,Daily hospital occupancy,2022-09-05,253.0
+Ireland,Daily hospital occupancy,2022-09-06,244.0
+Ireland,Daily hospital occupancy,2022-09-07,243.0
+Ireland,Daily hospital occupancy,2022-09-08,240.0
+Ireland,Daily hospital occupancy,2022-09-09,242.0
+Ireland,Daily hospital occupancy,2022-09-10,238.0
+Ireland,Daily hospital occupancy,2022-09-11,240.0
+Ireland,Daily hospital occupancy,2022-09-12,264.0
+Ireland,Daily hospital occupancy,2022-09-13,257.0
+Ireland,Daily hospital occupancy,2022-09-14,233.0
+Ireland,Daily hospital occupancy,2022-09-15,236.0
+Ireland,Daily hospital occupancy,2022-09-16,251.0
+Ireland,Daily hospital occupancy,2022-09-17,253.0
+Ireland,Daily hospital occupancy,2022-09-18,265.0
+Ireland,Daily hospital occupancy,2022-09-19,284.0
+Ireland,Daily hospital occupancy,2022-09-20,284.0
+Ireland,Daily hospital occupancy,2022-09-21,299.0
+Ireland,Daily hospital occupancy,2022-09-22,290.0
+Ireland,Daily hospital occupancy,2022-09-23,300.0
+Ireland,Daily hospital occupancy,2022-09-24,305.0
+Ireland,Daily hospital occupancy,2022-09-25,318.0
+Ireland,Daily hospital occupancy,2022-09-26,328.0
+Ireland,Daily hospital occupancy,2022-09-27,327.0
+Ireland,Daily hospital occupancy,2022-09-28,329.0
+Ireland,Daily hospital occupancy,2022-09-29,331.0
+Ireland,Daily hospital occupancy,2022-09-30,335.0
+Ireland,Daily hospital occupancy,2022-10-01,354.0
+Ireland,Daily hospital occupancy,2022-10-02,358.0
+Ireland,Daily hospital occupancy,2022-10-03,416.0
+Ireland,Daily hospital occupancy,2022-10-04,409.0
+Ireland,Daily hospital occupancy,2022-10-05,406.0
+Ireland,Daily hospital occupancy,2022-10-06,402.0
+Ireland,Daily hospital occupancy,2022-10-07,421.0
+Ireland,Daily hospital occupancy,2022-10-08,427.0
+Ireland,Daily hospital occupancy,2022-10-09,433.0
+Ireland,Daily hospital occupancy,2022-10-10,464.0
+Ireland,Daily hospital occupancy,2022-10-11,474.0
+Ireland,Daily hospital occupancy,2022-10-12,486.0
+Ireland,Daily hospital occupancy,2022-10-13,459.0
+Ireland,Daily hospital occupancy,2022-10-14,434.0
+Ireland,Daily hospital occupancy,2022-10-15,433.0
+Ireland,Daily hospital occupancy,2022-10-16,446.0
+Ireland,Daily hospital occupancy,2022-10-17,470.0
+Ireland,Daily hospital occupancy,2022-10-18,451.0
+Ireland,Daily hospital occupancy,2022-10-19,442.0
+Ireland,Daily hospital occupancy,2022-10-20,442.0
+Ireland,Daily hospital occupancy,2022-10-21,442.0
+Ireland,Daily hospital occupancy,2022-10-22,433.0
+Ireland,Daily hospital occupancy,2022-10-23,447.0
+Ireland,Daily hospital occupancy,2022-10-24,472.0
+Ireland,Daily hospital occupancy,2022-10-25,446.0
+Ireland,Daily hospital occupancy,2022-10-26,430.0
+Ireland,Daily hospital occupancy,2022-10-27,440.0
+Ireland,Daily hospital occupancy,2022-10-28,420.0
+Ireland,Daily hospital occupancy,2022-10-29,415.0
+Ireland,Daily hospital occupancy,2022-10-30,408.0
+Ireland,Daily hospital occupancy,2022-10-31,418.0
+Ireland,Daily hospital occupancy,2022-11-01,441.0
+Ireland,Daily hospital occupancy,2022-11-02,410.0
+Ireland,Daily hospital occupancy,2022-11-03,394.0
+Ireland,Daily hospital occupancy,2022-11-04,368.0
+Ireland,Daily hospital occupancy,2022-11-05,369.0
+Ireland,Daily hospital occupancy,2022-11-06,364.0
+Ireland,Daily hospital occupancy,2022-11-07,353.0
+Ireland,Daily hospital occupancy,2022-11-08,366.0
+Ireland,Daily hospital occupancy,2022-11-09,339.0
+Ireland,Daily hospital occupancy,2022-11-10,335.0
+Ireland,Daily hospital occupancy,2022-11-11,328.0
+Ireland,Daily hospital occupancy,2022-11-12,300.0
+Ireland,Daily hospital occupancy,2022-11-13,297.0
+Ireland,Daily hospital occupancy,2022-11-14,317.0
+Ireland,Daily hospital occupancy,2022-11-15,317.0
+Ireland,Daily hospital occupancy,2022-11-16,316.0
+Ireland,Daily hospital occupancy,2022-11-17,301.0
+Ireland,Daily hospital occupancy,2022-11-18,298.0
+Ireland,Daily hospital occupancy,2022-11-19,267.0
+Ireland,Daily hospital occupancy,2022-11-20,286.0
+Ireland,Daily hospital occupancy,2022-11-21,304.0
+Ireland,Daily hospital occupancy,2022-11-22,300.0
+Ireland,Daily hospital occupancy,2022-11-23,302.0
+Ireland,Daily hospital occupancy,2022-11-24,303.0
+Ireland,Daily hospital occupancy,2022-11-25,318.0
+Ireland,Daily hospital occupancy,2022-11-26,312.0
+Ireland,Daily hospital occupancy,2022-11-27,342.0
+Ireland,Daily hospital occupancy,2022-11-28,352.0
+Ireland,Daily hospital occupancy,2022-11-29,357.0
+Ireland,Daily hospital occupancy,2022-11-30,341.0
+Ireland,Daily hospital occupancy,2022-12-01,357.0
+Ireland,Daily hospital occupancy,2022-12-02,346.0
+Ireland,Daily hospital occupancy,2022-12-03,334.0
+Ireland,Daily hospital occupancy,2022-12-04,340.0
+Ireland,Daily hospital occupancy,2022-12-05,349.0
+Ireland,Daily hospital occupancy,2022-12-06,359.0
+Ireland,Daily hospital occupancy,2022-12-07,352.0
+Ireland,Daily hospital occupancy,2022-12-08,359.0
+Ireland,Daily hospital occupancy,2022-12-09,351.0
+Ireland,Daily hospital occupancy,2022-12-10,351.0
+Ireland,Daily hospital occupancy,2022-12-11,372.0
+Ireland,Daily hospital occupancy,2022-12-12,421.0
+Ireland,Daily hospital occupancy,2022-12-13,430.0
+Ireland,Daily hospital occupancy,2022-12-14,464.0
+Ireland,Daily hospital occupancy,2022-12-15,489.0
+Ireland,Daily hospital occupancy,2022-12-16,515.0
+Ireland,Daily hospital occupancy,2022-12-17,528.0
+Ireland,Daily hospital occupancy,2022-12-18,557.0
+Ireland,Daily hospital occupancy,2022-12-19,614.0
+Ireland,Daily hospital occupancy,2022-12-20,624.0
+Ireland,Daily hospital occupancy,2022-12-21,625.0
+Ireland,Daily hospital occupancy,2022-12-22,655.0
+Ireland,Daily hospital occupancy,2022-12-23,667.0
+Ireland,Daily hospital occupancy,2022-12-24,626.0
+Ireland,Daily hospital occupancy,2022-12-25,592.0
+Ireland,Daily hospital occupancy,2022-12-26,656.0
+Ireland,Daily hospital occupancy,2022-12-27,703.0
+Ireland,Daily hospital occupancy,2022-12-28,737.0
+Ireland,Daily hospital occupancy,2022-12-29,723.0
+Ireland,Daily hospital occupancy,2022-12-30,670.0
+Ireland,Daily hospital occupancy,2022-12-31,667.0
+Ireland,Daily hospital occupancy,2023-01-01,678.0
+Ireland,Daily hospital occupancy,2023-01-02,692.0
+Ireland,Daily hospital occupancy,2023-01-03,686.0
+Ireland,Daily hospital occupancy,2023-01-04,686.0
+Ireland,Daily hospital occupancy,2023-01-05,657.0
+Ireland,Daily hospital occupancy,2023-01-06,619.0
+Ireland,Daily hospital occupancy,2023-01-07,577.0
+Ireland,Daily hospital occupancy,2023-01-08,611.0
+Ireland,Daily hospital occupancy,2023-01-09,635.0
+Ireland,Daily hospital occupancy,2023-01-10,573.0
+Ireland,Daily hospital occupancy,2023-01-11,545.0
+Ireland,Daily hospital occupancy,2023-01-12,509.0
+Ireland,Daily hospital occupancy,2023-01-13,461.0
+Ireland,Daily hospital occupancy,2023-01-14,431.0
+Ireland,Daily hospital occupancy,2023-01-15,389.0
+Ireland,Daily hospital occupancy,2023-01-16,402.0
+Ireland,Daily hospital occupancy,2023-01-17,370.0
+Ireland,Daily hospital occupancy,2023-01-18,317.0
+Ireland,Daily hospital occupancy,2023-01-19,279.0
+Ireland,Daily hospital occupancy,2023-01-20,271.0
+Ireland,Daily hospital occupancy,2023-01-21,235.0
+Ireland,Daily hospital occupancy,2023-01-22,237.0
+Ireland,Daily hospital occupancy,2023-01-23,253.0
+Ireland,Daily hospital occupancy,2023-01-24,218.0
+Ireland,Daily hospital occupancy,2023-01-25,224.0
+Ireland,Daily hospital occupancy,2023-01-26,215.0
+Ireland,Daily hospital occupancy,2023-01-27,212.0
+Ireland,Daily hospital occupancy,2023-01-28,190.0
+Ireland,Daily hospital occupancy,2023-01-29,194.0
+Ireland,Daily hospital occupancy,2023-01-30,214.0
+Ireland,Daily hospital occupancy,2023-01-31,190.0
+Ireland,Daily hospital occupancy,2023-02-01,175.0
+Ireland,Daily hospital occupancy,2023-02-02,160.0
+Ireland,Daily hospital occupancy,2023-02-03,158.0
+Ireland,Daily hospital occupancy,2023-02-04,151.0
+Ireland,Daily hospital occupancy,2023-02-05,163.0
+Ireland,Daily hospital occupancy,2023-02-06,167.0
+Ireland,Daily hospital occupancy,2023-02-07,178.0
+Ireland,Daily hospital occupancy,2023-02-08,177.0
+Ireland,Daily hospital occupancy,2023-02-09,171.0
+Ireland,Daily hospital occupancy,2023-02-10,170.0
+Ireland,Daily hospital occupancy,2023-02-11,161.0
+Ireland,Daily hospital occupancy,2023-02-12,172.0
+Ireland,Daily hospital occupancy,2023-02-13,183.0
+Ireland,Daily hospital occupancy,2023-02-14,166.0
+Ireland,Daily hospital occupancy,2023-02-15,169.0
+Ireland,Daily hospital occupancy,2023-02-16,159.0
+Ireland,Daily hospital occupancy,2023-02-17,169.0
+Ireland,Daily hospital occupancy,2023-02-18,167.0
+Ireland,Daily hospital occupancy,2023-02-19,174.0
+Ireland,Daily hospital occupancy,2023-02-20,185.0
+Ireland,Daily hospital occupancy,2023-02-21,171.0
+Ireland,Daily hospital occupancy,2023-02-22,163.0
+Ireland,Daily hospital occupancy,2023-02-23,163.0
+Ireland,Daily hospital occupancy,2023-02-24,152.0
+Ireland,Daily hospital occupancy,2023-02-25,142.0
+Ireland,Daily ICU occupancy,2020-03-27,68.0
+Ireland,Daily ICU occupancy,2020-03-28,80.0
+Ireland,Daily ICU occupancy,2020-03-29,96.0
+Ireland,Daily ICU occupancy,2020-03-30,107.0
+Ireland,Daily ICU occupancy,2020-03-31,120.0
+Ireland,Daily ICU occupancy,2020-04-01,128.0
+Ireland,Daily ICU occupancy,2020-04-02,132.0
+Ireland,Daily ICU occupancy,2020-04-03,137.0
+Ireland,Daily ICU occupancy,2020-04-04,140.0
+Ireland,Daily ICU occupancy,2020-04-05,139.0
+Ireland,Daily ICU occupancy,2020-04-06,144.0
+Ireland,Daily ICU occupancy,2020-04-07,143.0
+Ireland,Daily ICU occupancy,2020-04-08,146.0
+Ireland,Daily ICU occupancy,2020-04-09,151.0
+Ireland,Daily ICU occupancy,2020-04-10,155.0
+Ireland,Daily ICU occupancy,2020-04-11,155.0
+Ireland,Daily ICU occupancy,2020-04-12,148.0
+Ireland,Daily ICU occupancy,2020-04-13,143.0
+Ireland,Daily ICU occupancy,2020-04-14,149.0
+Ireland,Daily ICU occupancy,2020-04-15,140.0
+Ireland,Daily ICU occupancy,2020-04-16,142.0
+Ireland,Daily ICU occupancy,2020-04-17,137.0
+Ireland,Daily ICU occupancy,2020-04-18,134.0
+Ireland,Daily ICU occupancy,2020-04-19,133.0
+Ireland,Daily ICU occupancy,2020-04-20,139.0
+Ireland,Daily ICU occupancy,2020-04-21,133.0
+Ireland,Daily ICU occupancy,2020-04-22,131.0
+Ireland,Daily ICU occupancy,2020-04-23,123.0
+Ireland,Daily ICU occupancy,2020-04-24,118.0
+Ireland,Daily ICU occupancy,2020-04-25,123.0
+Ireland,Daily ICU occupancy,2020-04-26,120.0
+Ireland,Daily ICU occupancy,2020-04-27,117.0
+Ireland,Daily ICU occupancy,2020-04-28,113.0
+Ireland,Daily ICU occupancy,2020-04-29,103.0
+Ireland,Daily ICU occupancy,2020-04-30,106.0
+Ireland,Daily ICU occupancy,2020-05-01,99.0
+Ireland,Daily ICU occupancy,2020-05-02,99.0
+Ireland,Daily ICU occupancy,2020-05-03,93.0
+Ireland,Daily ICU occupancy,2020-05-04,91.0
+Ireland,Daily ICU occupancy,2020-05-05,90.0
+Ireland,Daily ICU occupancy,2020-05-06,82.0
+Ireland,Daily ICU occupancy,2020-05-07,76.0
+Ireland,Daily ICU occupancy,2020-05-08,72.0
+Ireland,Daily ICU occupancy,2020-05-09,72.0
+Ireland,Daily ICU occupancy,2020-05-10,72.0
+Ireland,Daily ICU occupancy,2020-05-11,69.0
+Ireland,Daily ICU occupancy,2020-05-12,67.0
+Ireland,Daily ICU occupancy,2020-05-13,62.0
+Ireland,Daily ICU occupancy,2020-05-14,59.0
+Ireland,Daily ICU occupancy,2020-05-15,56.0
+Ireland,Daily ICU occupancy,2020-05-16,54.0
+Ireland,Daily ICU occupancy,2020-05-17,51.0
+Ireland,Daily ICU occupancy,2020-05-18,55.0
+Ireland,Daily ICU occupancy,2020-05-19,54.0
+Ireland,Daily ICU occupancy,2020-05-20,49.0
+Ireland,Daily ICU occupancy,2020-05-21,52.0
+Ireland,Daily ICU occupancy,2020-05-22,49.0
+Ireland,Daily ICU occupancy,2020-05-23,51.0
+Ireland,Daily ICU occupancy,2020-05-24,49.0
+Ireland,Daily ICU occupancy,2020-05-25,48.0
+Ireland,Daily ICU occupancy,2020-05-26,48.0
+Ireland,Daily ICU occupancy,2020-05-27,48.0
+Ireland,Daily ICU occupancy,2020-05-28,45.0
+Ireland,Daily ICU occupancy,2020-05-29,42.0
+Ireland,Daily ICU occupancy,2020-05-30,36.0
+Ireland,Daily ICU occupancy,2020-05-31,36.0
+Ireland,Daily ICU occupancy,2020-06-01,37.0
+Ireland,Daily ICU occupancy,2020-06-02,36.0
+Ireland,Daily ICU occupancy,2020-06-03,37.0
+Ireland,Daily ICU occupancy,2020-06-04,36.0
+Ireland,Daily ICU occupancy,2020-06-05,37.0
+Ireland,Daily ICU occupancy,2020-06-06,36.0
+Ireland,Daily ICU occupancy,2020-06-07,34.0
+Ireland,Daily ICU occupancy,2020-06-08,34.0
+Ireland,Daily ICU occupancy,2020-06-09,35.0
+Ireland,Daily ICU occupancy,2020-06-10,29.0
+Ireland,Daily ICU occupancy,2020-06-11,27.0
+Ireland,Daily ICU occupancy,2020-06-12,27.0
+Ireland,Daily ICU occupancy,2020-06-14,27.0
+Ireland,Daily ICU occupancy,2020-06-15,24.0
+Ireland,Daily ICU occupancy,2020-06-16,20.0
+Ireland,Daily ICU occupancy,2020-06-17,21.0
+Ireland,Daily ICU occupancy,2020-06-18,21.0
+Ireland,Daily ICU occupancy,2020-06-19,16.0
+Ireland,Daily ICU occupancy,2020-06-20,17.0
+Ireland,Daily ICU occupancy,2020-06-21,16.0
+Ireland,Daily ICU occupancy,2020-06-22,16.0
+Ireland,Daily ICU occupancy,2020-06-23,11.0
+Ireland,Daily ICU occupancy,2020-06-24,9.0
+Ireland,Daily ICU occupancy,2020-06-25,12.0
+Ireland,Daily ICU occupancy,2020-06-26,12.0
+Ireland,Daily ICU occupancy,2020-06-27,11.0
+Ireland,Daily ICU occupancy,2020-06-28,11.0
+Ireland,Daily ICU occupancy,2020-06-29,12.0
+Ireland,Daily ICU occupancy,2020-06-30,13.0
+Ireland,Daily ICU occupancy,2020-07-01,12.0
+Ireland,Daily ICU occupancy,2020-07-02,10.0
+Ireland,Daily ICU occupancy,2020-07-03,10.0
+Ireland,Daily ICU occupancy,2020-07-04,11.0
+Ireland,Daily ICU occupancy,2020-07-05,10.0
+Ireland,Daily ICU occupancy,2020-07-06,10.0
+Ireland,Daily ICU occupancy,2020-07-07,9.0
+Ireland,Daily ICU occupancy,2020-07-08,9.0
+Ireland,Daily ICU occupancy,2020-07-09,9.0
+Ireland,Daily ICU occupancy,2020-07-10,9.0
+Ireland,Daily ICU occupancy,2020-07-11,10.0
+Ireland,Daily ICU occupancy,2020-07-12,11.0
+Ireland,Daily ICU occupancy,2020-07-13,10.0
+Ireland,Daily ICU occupancy,2020-07-14,10.0
+Ireland,Daily ICU occupancy,2020-07-15,8.0
+Ireland,Daily ICU occupancy,2020-07-16,8.0
+Ireland,Daily ICU occupancy,2020-07-17,8.0
+Ireland,Daily ICU occupancy,2020-07-18,8.0
+Ireland,Daily ICU occupancy,2020-07-19,9.0
+Ireland,Daily ICU occupancy,2020-07-20,8.0
+Ireland,Daily ICU occupancy,2020-07-21,7.0
+Ireland,Daily ICU occupancy,2020-07-22,6.0
+Ireland,Daily ICU occupancy,2020-07-23,6.0
+Ireland,Daily ICU occupancy,2020-07-24,5.0
+Ireland,Daily ICU occupancy,2020-07-25,5.0
+Ireland,Daily ICU occupancy,2020-07-26,5.0
+Ireland,Daily ICU occupancy,2020-07-27,6.0
+Ireland,Daily ICU occupancy,2020-07-28,6.0
+Ireland,Daily ICU occupancy,2020-07-29,4.0
+Ireland,Daily ICU occupancy,2020-07-30,4.0
+Ireland,Daily ICU occupancy,2020-07-31,4.0
+Ireland,Daily ICU occupancy,2020-08-01,4.0
+Ireland,Daily ICU occupancy,2020-08-02,4.0
+Ireland,Daily ICU occupancy,2020-08-03,5.0
+Ireland,Daily ICU occupancy,2020-08-04,5.0
+Ireland,Daily ICU occupancy,2020-08-05,6.0
+Ireland,Daily ICU occupancy,2020-08-06,5.0
+Ireland,Daily ICU occupancy,2020-08-07,5.0
+Ireland,Daily ICU occupancy,2020-08-08,6.0
+Ireland,Daily ICU occupancy,2020-08-09,6.0
+Ireland,Daily ICU occupancy,2020-08-10,7.0
+Ireland,Daily ICU occupancy,2020-08-11,5.0
+Ireland,Daily ICU occupancy,2020-08-12,6.0
+Ireland,Daily ICU occupancy,2020-08-13,6.0
+Ireland,Daily ICU occupancy,2020-08-14,8.0
+Ireland,Daily ICU occupancy,2020-08-15,8.0
+Ireland,Daily ICU occupancy,2020-08-16,8.0
+Ireland,Daily ICU occupancy,2020-08-17,8.0
+Ireland,Daily ICU occupancy,2020-08-18,7.0
+Ireland,Daily ICU occupancy,2020-08-19,6.0
+Ireland,Daily ICU occupancy,2020-08-20,6.0
+Ireland,Daily ICU occupancy,2020-08-21,6.0
+Ireland,Daily ICU occupancy,2020-08-22,6.0
+Ireland,Daily ICU occupancy,2020-08-23,6.0
+Ireland,Daily ICU occupancy,2020-08-24,5.0
+Ireland,Daily ICU occupancy,2020-08-25,4.0
+Ireland,Daily ICU occupancy,2020-08-26,4.0
+Ireland,Daily ICU occupancy,2020-08-27,5.0
+Ireland,Daily ICU occupancy,2020-08-28,5.0
+Ireland,Daily ICU occupancy,2020-08-29,5.0
+Ireland,Daily ICU occupancy,2020-08-30,5.0
+Ireland,Daily ICU occupancy,2020-08-31,6.0
+Ireland,Daily ICU occupancy,2020-09-01,6.0
+Ireland,Daily ICU occupancy,2020-09-02,6.0
+Ireland,Daily ICU occupancy,2020-09-03,7.0
+Ireland,Daily ICU occupancy,2020-09-04,7.0
+Ireland,Daily ICU occupancy,2020-09-05,7.0
+Ireland,Daily ICU occupancy,2020-09-06,6.0
+Ireland,Daily ICU occupancy,2020-09-07,6.0
+Ireland,Daily ICU occupancy,2020-09-08,6.0
+Ireland,Daily ICU occupancy,2020-09-09,6.0
+Ireland,Daily ICU occupancy,2020-09-10,7.0
+Ireland,Daily ICU occupancy,2020-09-11,7.0
+Ireland,Daily ICU occupancy,2020-09-12,9.0
+Ireland,Daily ICU occupancy,2020-09-13,10.0
+Ireland,Daily ICU occupancy,2020-09-14,11.0
+Ireland,Daily ICU occupancy,2020-09-15,13.0
+Ireland,Daily ICU occupancy,2020-09-16,14.0
+Ireland,Daily ICU occupancy,2020-09-17,14.0
+Ireland,Daily ICU occupancy,2020-09-18,15.0
+Ireland,Daily ICU occupancy,2020-09-19,16.0
+Ireland,Daily ICU occupancy,2020-09-20,16.0
+Ireland,Daily ICU occupancy,2020-09-21,17.0
+Ireland,Daily ICU occupancy,2020-09-22,16.0
+Ireland,Daily ICU occupancy,2020-09-23,17.0
+Ireland,Daily ICU occupancy,2020-09-24,16.0
+Ireland,Daily ICU occupancy,2020-09-25,17.0
+Ireland,Daily ICU occupancy,2020-09-26,18.0
+Ireland,Daily ICU occupancy,2020-09-27,17.0
+Ireland,Daily ICU occupancy,2020-09-28,17.0
+Ireland,Daily ICU occupancy,2020-09-29,18.0
+Ireland,Daily ICU occupancy,2020-09-30,22.0
+Ireland,Daily ICU occupancy,2020-10-01,20.0
+Ireland,Daily ICU occupancy,2020-10-02,21.0
+Ireland,Daily ICU occupancy,2020-10-03,20.0
+Ireland,Daily ICU occupancy,2020-10-04,21.0
+Ireland,Daily ICU occupancy,2020-10-05,23.0
+Ireland,Daily ICU occupancy,2020-10-06,24.0
+Ireland,Daily ICU occupancy,2020-10-07,27.0
+Ireland,Daily ICU occupancy,2020-10-08,25.0
+Ireland,Daily ICU occupancy,2020-10-09,31.0
+Ireland,Daily ICU occupancy,2020-10-10,30.0
+Ireland,Daily ICU occupancy,2020-10-11,30.0
+Ireland,Daily ICU occupancy,2020-10-12,32.0
+Ireland,Daily ICU occupancy,2020-10-13,31.0
+Ireland,Daily ICU occupancy,2020-10-14,30.0
+Ireland,Daily ICU occupancy,2020-10-15,29.0
+Ireland,Daily ICU occupancy,2020-10-16,30.0
+Ireland,Daily ICU occupancy,2020-10-17,30.0
+Ireland,Daily ICU occupancy,2020-10-18,31.0
+Ireland,Daily ICU occupancy,2020-10-19,32.0
+Ireland,Daily ICU occupancy,2020-10-20,34.0
+Ireland,Daily ICU occupancy,2020-10-21,35.0
+Ireland,Daily ICU occupancy,2020-10-22,37.0
+Ireland,Daily ICU occupancy,2020-10-23,38.0
+Ireland,Daily ICU occupancy,2020-10-24,37.0
+Ireland,Daily ICU occupancy,2020-10-25,39.0
+Ireland,Daily ICU occupancy,2020-10-26,38.0
+Ireland,Daily ICU occupancy,2020-10-27,38.0
+Ireland,Daily ICU occupancy,2020-10-28,40.0
+Ireland,Daily ICU occupancy,2020-10-29,43.0
+Ireland,Daily ICU occupancy,2020-10-30,42.0
+Ireland,Daily ICU occupancy,2020-10-31,44.0
+Ireland,Daily ICU occupancy,2020-11-01,44.0
+Ireland,Daily ICU occupancy,2020-11-02,44.0
+Ireland,Daily ICU occupancy,2020-11-03,43.0
+Ireland,Daily ICU occupancy,2020-11-04,40.0
+Ireland,Daily ICU occupancy,2020-11-05,38.0
+Ireland,Daily ICU occupancy,2020-11-06,37.0
+Ireland,Daily ICU occupancy,2020-11-07,40.0
+Ireland,Daily ICU occupancy,2020-11-08,40.0
+Ireland,Daily ICU occupancy,2020-11-09,41.0
+Ireland,Daily ICU occupancy,2020-11-10,40.0
+Ireland,Daily ICU occupancy,2020-11-11,39.0
+Ireland,Daily ICU occupancy,2020-11-12,38.0
+Ireland,Daily ICU occupancy,2020-11-13,33.0
+Ireland,Daily ICU occupancy,2020-11-14,33.0
+Ireland,Daily ICU occupancy,2020-11-15,30.0
+Ireland,Daily ICU occupancy,2020-11-16,34.0
+Ireland,Daily ICU occupancy,2020-11-17,34.0
+Ireland,Daily ICU occupancy,2020-11-18,33.0
+Ireland,Daily ICU occupancy,2020-11-19,32.0
+Ireland,Daily ICU occupancy,2020-11-20,33.0
+Ireland,Daily ICU occupancy,2020-11-21,32.0
+Ireland,Daily ICU occupancy,2020-11-22,31.0
+Ireland,Daily ICU occupancy,2020-11-23,33.0
+Ireland,Daily ICU occupancy,2020-11-24,37.0
+Ireland,Daily ICU occupancy,2020-11-25,36.0
+Ireland,Daily ICU occupancy,2020-11-26,36.0
+Ireland,Daily ICU occupancy,2020-11-27,34.0
+Ireland,Daily ICU occupancy,2020-11-28,31.0
+Ireland,Daily ICU occupancy,2020-11-29,30.0
+Ireland,Daily ICU occupancy,2020-11-30,30.0
+Ireland,Daily ICU occupancy,2020-12-01,31.0
+Ireland,Daily ICU occupancy,2020-12-02,31.0
+Ireland,Daily ICU occupancy,2020-12-03,32.0
+Ireland,Daily ICU occupancy,2020-12-04,29.0
+Ireland,Daily ICU occupancy,2020-12-05,28.0
+Ireland,Daily ICU occupancy,2020-12-06,28.0
+Ireland,Daily ICU occupancy,2020-12-07,28.0
+Ireland,Daily ICU occupancy,2020-12-08,32.0
+Ireland,Daily ICU occupancy,2020-12-09,37.0
+Ireland,Daily ICU occupancy,2020-12-10,36.0
+Ireland,Daily ICU occupancy,2020-12-11,35.0
+Ireland,Daily ICU occupancy,2020-12-12,32.0
+Ireland,Daily ICU occupancy,2020-12-13,31.0
+Ireland,Daily ICU occupancy,2020-12-14,34.0
+Ireland,Daily ICU occupancy,2020-12-15,32.0
+Ireland,Daily ICU occupancy,2020-12-16,28.0
+Ireland,Daily ICU occupancy,2020-12-17,30.0
+Ireland,Daily ICU occupancy,2020-12-18,31.0
+Ireland,Daily ICU occupancy,2020-12-19,29.0
+Ireland,Daily ICU occupancy,2020-12-20,29.0
+Ireland,Daily ICU occupancy,2020-12-21,30.0
+Ireland,Daily ICU occupancy,2020-12-22,28.0
+Ireland,Daily ICU occupancy,2020-12-23,25.0
+Ireland,Daily ICU occupancy,2020-12-24,22.0
+Ireland,Daily ICU occupancy,2020-12-25,25.0
+Ireland,Daily ICU occupancy,2020-12-26,23.0
+Ireland,Daily ICU occupancy,2020-12-27,27.0
+Ireland,Daily ICU occupancy,2020-12-28,30.0
+Ireland,Daily ICU occupancy,2020-12-29,34.0
+Ireland,Daily ICU occupancy,2020-12-30,39.0
+Ireland,Daily ICU occupancy,2020-12-31,42.0
+Ireland,Daily ICU occupancy,2021-01-01,50.0
+Ireland,Daily ICU occupancy,2021-01-02,56.0
+Ireland,Daily ICU occupancy,2021-01-03,65.0
+Ireland,Daily ICU occupancy,2021-01-04,73.0
+Ireland,Daily ICU occupancy,2021-01-05,76.0
+Ireland,Daily ICU occupancy,2021-01-06,89.0
+Ireland,Daily ICU occupancy,2021-01-07,101.0
+Ireland,Daily ICU occupancy,2021-01-08,107.0
+Ireland,Daily ICU occupancy,2021-01-09,121.0
+Ireland,Daily ICU occupancy,2021-01-10,128.0
+Ireland,Daily ICU occupancy,2021-01-11,144.0
+Ireland,Daily ICU occupancy,2021-01-12,160.0
+Ireland,Daily ICU occupancy,2021-01-13,176.0
+Ireland,Daily ICU occupancy,2021-01-14,173.0
+Ireland,Daily ICU occupancy,2021-01-15,187.0
+Ireland,Daily ICU occupancy,2021-01-16,191.0
+Ireland,Daily ICU occupancy,2021-01-17,196.0
+Ireland,Daily ICU occupancy,2021-01-18,199.0
+Ireland,Daily ICU occupancy,2021-01-19,209.0
+Ireland,Daily ICU occupancy,2021-01-20,210.0
+Ireland,Daily ICU occupancy,2021-01-21,214.0
+Ireland,Daily ICU occupancy,2021-01-22,218.0
+Ireland,Daily ICU occupancy,2021-01-23,216.0
+Ireland,Daily ICU occupancy,2021-01-24,221.0
+Ireland,Daily ICU occupancy,2021-01-25,218.0
+Ireland,Daily ICU occupancy,2021-01-26,216.0
+Ireland,Daily ICU occupancy,2021-01-27,212.0
+Ireland,Daily ICU occupancy,2021-01-28,214.0
+Ireland,Daily ICU occupancy,2021-01-29,211.0
+Ireland,Daily ICU occupancy,2021-01-30,213.0
+Ireland,Daily ICU occupancy,2021-01-31,211.0
+Ireland,Daily ICU occupancy,2021-02-01,207.0
+Ireland,Daily ICU occupancy,2021-02-02,207.0
+Ireland,Daily ICU occupancy,2021-02-03,202.0
+Ireland,Daily ICU occupancy,2021-02-04,187.0
+Ireland,Daily ICU occupancy,2021-02-05,181.0
+Ireland,Daily ICU occupancy,2021-02-06,180.0
+Ireland,Daily ICU occupancy,2021-02-07,179.0
+Ireland,Daily ICU occupancy,2021-02-08,175.0
+Ireland,Daily ICU occupancy,2021-02-09,178.0
+Ireland,Daily ICU occupancy,2021-02-10,170.0
+Ireland,Daily ICU occupancy,2021-02-11,170.0
+Ireland,Daily ICU occupancy,2021-02-12,173.0
+Ireland,Daily ICU occupancy,2021-02-13,170.0
+Ireland,Daily ICU occupancy,2021-02-14,160.0
+Ireland,Daily ICU occupancy,2021-02-15,158.0
+Ireland,Daily ICU occupancy,2021-02-16,155.0
+Ireland,Daily ICU occupancy,2021-02-17,154.0
+Ireland,Daily ICU occupancy,2021-02-18,151.0
+Ireland,Daily ICU occupancy,2021-02-19,153.0
+Ireland,Daily ICU occupancy,2021-02-20,149.0
+Ireland,Daily ICU occupancy,2021-02-21,151.0
+Ireland,Daily ICU occupancy,2021-02-22,156.0
+Ireland,Daily ICU occupancy,2021-02-23,151.0
+Ireland,Daily ICU occupancy,2021-02-24,136.0
+Ireland,Daily ICU occupancy,2021-02-25,141.0
+Ireland,Daily ICU occupancy,2021-02-26,136.0
+Ireland,Daily ICU occupancy,2021-02-27,134.0
+Ireland,Daily ICU occupancy,2021-02-28,134.0
+Ireland,Daily ICU occupancy,2021-03-01,117.0
+Ireland,Daily ICU occupancy,2021-03-02,115.0
+Ireland,Daily ICU occupancy,2021-03-03,110.0
+Ireland,Daily ICU occupancy,2021-03-04,105.0
+Ireland,Daily ICU occupancy,2021-03-05,100.0
+Ireland,Daily ICU occupancy,2021-03-06,103.0
+Ireland,Daily ICU occupancy,2021-03-07,103.0
+Ireland,Daily ICU occupancy,2021-03-08,101.0
+Ireland,Daily ICU occupancy,2021-03-09,93.0
+Ireland,Daily ICU occupancy,2021-03-10,92.0
+Ireland,Daily ICU occupancy,2021-03-11,87.0
+Ireland,Daily ICU occupancy,2021-03-12,86.0
+Ireland,Daily ICU occupancy,2021-03-13,85.0
+Ireland,Daily ICU occupancy,2021-03-14,86.0
+Ireland,Daily ICU occupancy,2021-03-15,85.0
+Ireland,Daily ICU occupancy,2021-03-16,85.0
+Ireland,Daily ICU occupancy,2021-03-17,82.0
+Ireland,Daily ICU occupancy,2021-03-18,83.0
+Ireland,Daily ICU occupancy,2021-03-19,87.0
+Ireland,Daily ICU occupancy,2021-03-20,83.0
+Ireland,Daily ICU occupancy,2021-03-21,80.0
+Ireland,Daily ICU occupancy,2021-03-22,80.0
+Ireland,Daily ICU occupancy,2021-03-23,76.0
+Ireland,Daily ICU occupancy,2021-03-24,75.0
+Ireland,Daily ICU occupancy,2021-03-25,75.0
+Ireland,Daily ICU occupancy,2021-03-26,66.0
+Ireland,Daily ICU occupancy,2021-03-27,65.0
+Ireland,Daily ICU occupancy,2021-03-28,68.0
+Ireland,Daily ICU occupancy,2021-03-29,70.0
+Ireland,Daily ICU occupancy,2021-03-30,65.0
+Ireland,Daily ICU occupancy,2021-03-31,64.0
+Ireland,Daily ICU occupancy,2021-04-01,63.0
+Ireland,Daily ICU occupancy,2021-04-02,62.0
+Ireland,Daily ICU occupancy,2021-04-03,65.0
+Ireland,Daily ICU occupancy,2021-04-04,58.0
+Ireland,Daily ICU occupancy,2021-04-05,58.0
+Ireland,Daily ICU occupancy,2021-04-06,60.0
+Ireland,Daily ICU occupancy,2021-04-07,56.0
+Ireland,Daily ICU occupancy,2021-04-08,55.0
+Ireland,Daily ICU occupancy,2021-04-09,53.0
+Ireland,Daily ICU occupancy,2021-04-10,52.0
+Ireland,Daily ICU occupancy,2021-04-11,53.0
+Ireland,Daily ICU occupancy,2021-04-12,50.0
+Ireland,Daily ICU occupancy,2021-04-13,48.0
+Ireland,Daily ICU occupancy,2021-04-14,49.0
+Ireland,Daily ICU occupancy,2021-04-15,51.0
+Ireland,Daily ICU occupancy,2021-04-16,53.0
+Ireland,Daily ICU occupancy,2021-04-17,50.0
+Ireland,Daily ICU occupancy,2021-04-18,47.0
+Ireland,Daily ICU occupancy,2021-04-19,50.0
+Ireland,Daily ICU occupancy,2021-04-20,48.0
+Ireland,Daily ICU occupancy,2021-04-21,47.0
+Ireland,Daily ICU occupancy,2021-04-22,48.0
+Ireland,Daily ICU occupancy,2021-04-23,48.0
+Ireland,Daily ICU occupancy,2021-04-24,46.0
+Ireland,Daily ICU occupancy,2021-04-25,45.0
+Ireland,Daily ICU occupancy,2021-04-26,46.0
+Ireland,Daily ICU occupancy,2021-04-27,47.0
+Ireland,Daily ICU occupancy,2021-04-28,45.0
+Ireland,Daily ICU occupancy,2021-04-29,44.0
+Ireland,Daily ICU occupancy,2021-04-30,44.0
+Ireland,Daily ICU occupancy,2021-05-01,41.0
+Ireland,Daily ICU occupancy,2021-05-02,41.0
+Ireland,Daily ICU occupancy,2021-05-03,40.0
+Ireland,Daily ICU occupancy,2021-05-04,41.0
+Ireland,Daily ICU occupancy,2021-05-05,37.0
+Ireland,Daily ICU occupancy,2021-05-06,36.0
+Ireland,Daily ICU occupancy,2021-05-07,34.0
+Ireland,Daily ICU occupancy,2021-05-08,33.0
+Ireland,Daily ICU occupancy,2021-05-09,31.0
+Ireland,Daily ICU occupancy,2021-05-10,31.0
+Ireland,Daily ICU occupancy,2021-05-11,34.0
+Ireland,Daily ICU occupancy,2021-05-12,34.0
+Ireland,Daily ICU occupancy,2021-05-13,36.0
+Ireland,Daily ICU occupancy,2021-05-14,39.0
+Ireland,Daily ICU occupancy,2021-05-15,40.0
+Ireland,Daily ICU occupancy,2021-05-16,42.0
+Ireland,Daily ICU occupancy,2021-05-17,42.0
+Ireland,Daily ICU occupancy,2021-05-18,39.0
+Ireland,Daily ICU occupancy,2021-05-19,38.0
+Ireland,Daily ICU occupancy,2021-05-20,38.0
+Ireland,Daily ICU occupancy,2021-05-21,38.0
+Ireland,Daily ICU occupancy,2021-05-22,42.0
+Ireland,Daily ICU occupancy,2021-05-23,43.0
+Ireland,Daily ICU occupancy,2021-05-24,44.0
+Ireland,Daily ICU occupancy,2021-05-25,41.0
+Ireland,Daily ICU occupancy,2021-05-26,41.0
+Ireland,Daily ICU occupancy,2021-05-27,39.0
+Ireland,Daily ICU occupancy,2021-05-28,38.0
+Ireland,Daily ICU occupancy,2021-05-29,35.0
+Ireland,Daily ICU occupancy,2021-05-30,35.0
+Ireland,Daily ICU occupancy,2021-05-31,35.0
+Ireland,Daily ICU occupancy,2021-06-01,34.0
+Ireland,Daily ICU occupancy,2021-06-02,34.0
+Ireland,Daily ICU occupancy,2021-06-03,30.0
+Ireland,Daily ICU occupancy,2021-06-04,28.0
+Ireland,Daily ICU occupancy,2021-06-05,29.0
+Ireland,Daily ICU occupancy,2021-06-06,27.0
+Ireland,Daily ICU occupancy,2021-06-07,26.0
+Ireland,Daily ICU occupancy,2021-06-08,27.0
+Ireland,Daily ICU occupancy,2021-06-09,27.0
+Ireland,Daily ICU occupancy,2021-06-10,23.0
+Ireland,Daily ICU occupancy,2021-06-11,23.0
+Ireland,Daily ICU occupancy,2021-06-12,22.0
+Ireland,Daily ICU occupancy,2021-06-13,22.0
+Ireland,Daily ICU occupancy,2021-06-14,23.0
+Ireland,Daily ICU occupancy,2021-06-15,23.0
+Ireland,Daily ICU occupancy,2021-06-16,19.0
+Ireland,Daily ICU occupancy,2021-06-17,18.0
+Ireland,Daily ICU occupancy,2021-06-18,15.0
+Ireland,Daily ICU occupancy,2021-06-19,14.0
+Ireland,Daily ICU occupancy,2021-06-20,15.0
+Ireland,Daily ICU occupancy,2021-06-21,13.0
+Ireland,Daily ICU occupancy,2021-06-22,13.0
+Ireland,Daily ICU occupancy,2021-06-23,13.0
+Ireland,Daily ICU occupancy,2021-06-24,13.0
+Ireland,Daily ICU occupancy,2021-06-25,13.0
+Ireland,Daily ICU occupancy,2021-06-26,13.0
+Ireland,Daily ICU occupancy,2021-06-27,15.0
+Ireland,Daily ICU occupancy,2021-06-28,16.0
+Ireland,Daily ICU occupancy,2021-06-29,16.0
+Ireland,Daily ICU occupancy,2021-06-30,14.0
+Ireland,Daily ICU occupancy,2021-07-01,14.0
+Ireland,Daily ICU occupancy,2021-07-02,14.0
+Ireland,Daily ICU occupancy,2021-07-03,14.0
+Ireland,Daily ICU occupancy,2021-07-04,14.0
+Ireland,Daily ICU occupancy,2021-07-05,14.0
+Ireland,Daily ICU occupancy,2021-07-06,16.0
+Ireland,Daily ICU occupancy,2021-07-07,17.0
+Ireland,Daily ICU occupancy,2021-07-08,17.0
+Ireland,Daily ICU occupancy,2021-07-09,15.0
+Ireland,Daily ICU occupancy,2021-07-10,16.0
+Ireland,Daily ICU occupancy,2021-07-11,16.0
+Ireland,Daily ICU occupancy,2021-07-12,16.0
+Ireland,Daily ICU occupancy,2021-07-13,17.0
+Ireland,Daily ICU occupancy,2021-07-14,20.0
+Ireland,Daily ICU occupancy,2021-07-15,22.0
+Ireland,Daily ICU occupancy,2021-07-16,23.0
+Ireland,Daily ICU occupancy,2021-07-17,22.0
+Ireland,Daily ICU occupancy,2021-07-18,22.0
+Ireland,Daily ICU occupancy,2021-07-19,20.0
+Ireland,Daily ICU occupancy,2021-07-20,21.0
+Ireland,Daily ICU occupancy,2021-07-21,22.0
+Ireland,Daily ICU occupancy,2021-07-22,23.0
+Ireland,Daily ICU occupancy,2021-07-23,22.0
+Ireland,Daily ICU occupancy,2021-07-24,21.0
+Ireland,Daily ICU occupancy,2021-07-25,22.0
+Ireland,Daily ICU occupancy,2021-07-26,25.0
+Ireland,Daily ICU occupancy,2021-07-27,27.0
+Ireland,Daily ICU occupancy,2021-07-28,26.0
+Ireland,Daily ICU occupancy,2021-07-29,26.0
+Ireland,Daily ICU occupancy,2021-07-30,23.0
+Ireland,Daily ICU occupancy,2021-07-31,26.0
+Ireland,Daily ICU occupancy,2021-08-01,26.0
+Ireland,Daily ICU occupancy,2021-08-02,27.0
+Ireland,Daily ICU occupancy,2021-08-03,29.0
+Ireland,Daily ICU occupancy,2021-08-04,30.0
+Ireland,Daily ICU occupancy,2021-08-05,28.0
+Ireland,Daily ICU occupancy,2021-08-06,30.0
+Ireland,Daily ICU occupancy,2021-08-07,33.0
+Ireland,Daily ICU occupancy,2021-08-08,31.0
+Ireland,Daily ICU occupancy,2021-08-09,34.0
+Ireland,Daily ICU occupancy,2021-08-10,33.0
+Ireland,Daily ICU occupancy,2021-08-11,36.0
+Ireland,Daily ICU occupancy,2021-08-12,37.0
+Ireland,Daily ICU occupancy,2021-08-13,43.0
+Ireland,Daily ICU occupancy,2021-08-14,43.0
+Ireland,Daily ICU occupancy,2021-08-15,48.0
+Ireland,Daily ICU occupancy,2021-08-16,51.0
+Ireland,Daily ICU occupancy,2021-08-17,54.0
+Ireland,Daily ICU occupancy,2021-08-18,54.0
+Ireland,Daily ICU occupancy,2021-08-19,52.0
+Ireland,Daily ICU occupancy,2021-08-20,52.0
+Ireland,Daily ICU occupancy,2021-08-21,54.0
+Ireland,Daily ICU occupancy,2021-08-22,59.0
+Ireland,Daily ICU occupancy,2021-08-23,60.0
+Ireland,Daily ICU occupancy,2021-08-24,55.0
+Ireland,Daily ICU occupancy,2021-08-25,56.0
+Ireland,Daily ICU occupancy,2021-08-26,61.0
+Ireland,Daily ICU occupancy,2021-08-27,59.0
+Ireland,Daily ICU occupancy,2021-08-28,61.0
+Ireland,Daily ICU occupancy,2021-08-29,60.0
+Ireland,Daily ICU occupancy,2021-08-30,61.0
+Ireland,Daily ICU occupancy,2021-08-31,54.0
+Ireland,Daily ICU occupancy,2021-09-01,56.0
+Ireland,Daily ICU occupancy,2021-09-02,59.0
+Ireland,Daily ICU occupancy,2021-09-03,55.0
+Ireland,Daily ICU occupancy,2021-09-04,52.0
+Ireland,Daily ICU occupancy,2021-09-05,59.0
+Ireland,Daily ICU occupancy,2021-09-06,59.0
+Ireland,Daily ICU occupancy,2021-09-07,59.0
+Ireland,Daily ICU occupancy,2021-09-08,56.0
+Ireland,Daily ICU occupancy,2021-09-09,54.0
+Ireland,Daily ICU occupancy,2021-09-10,59.0
+Ireland,Daily ICU occupancy,2021-09-11,58.0
+Ireland,Daily ICU occupancy,2021-09-12,59.0
+Ireland,Daily ICU occupancy,2021-09-13,58.0
+Ireland,Daily ICU occupancy,2021-09-14,60.0
+Ireland,Daily ICU occupancy,2021-09-15,65.0
+Ireland,Daily ICU occupancy,2021-09-16,67.0
+Ireland,Daily ICU occupancy,2021-09-17,73.0
+Ireland,Daily ICU occupancy,2021-09-18,66.0
+Ireland,Daily ICU occupancy,2021-09-19,63.0
+Ireland,Daily ICU occupancy,2021-09-20,65.0
+Ireland,Daily ICU occupancy,2021-09-21,63.0
+Ireland,Daily ICU occupancy,2021-09-22,63.0
+Ireland,Daily ICU occupancy,2021-09-23,59.0
+Ireland,Daily ICU occupancy,2021-09-24,61.0
+Ireland,Daily ICU occupancy,2021-09-25,65.0
+Ireland,Daily ICU occupancy,2021-09-26,65.0
+Ireland,Daily ICU occupancy,2021-09-27,66.0
+Ireland,Daily ICU occupancy,2021-09-28,63.0
+Ireland,Daily ICU occupancy,2021-09-29,60.0
+Ireland,Daily ICU occupancy,2021-09-30,59.0
+Ireland,Daily ICU occupancy,2021-10-01,59.0
+Ireland,Daily ICU occupancy,2021-10-02,56.0
+Ireland,Daily ICU occupancy,2021-10-03,60.0
+Ireland,Daily ICU occupancy,2021-10-04,64.0
+Ireland,Daily ICU occupancy,2021-10-05,65.0
+Ireland,Daily ICU occupancy,2021-10-06,70.0
+Ireland,Daily ICU occupancy,2021-10-07,69.0
+Ireland,Daily ICU occupancy,2021-10-08,73.0
+Ireland,Daily ICU occupancy,2021-10-09,74.0
+Ireland,Daily ICU occupancy,2021-10-10,74.0
+Ireland,Daily ICU occupancy,2021-10-11,75.0
+Ireland,Daily ICU occupancy,2021-10-12,73.0
+Ireland,Daily ICU occupancy,2021-10-13,69.0
+Ireland,Daily ICU occupancy,2021-10-14,70.0
+Ireland,Daily ICU occupancy,2021-10-15,73.0
+Ireland,Daily ICU occupancy,2021-10-16,71.0
+Ireland,Daily ICU occupancy,2021-10-17,74.0
+Ireland,Daily ICU occupancy,2021-10-18,73.0
+Ireland,Daily ICU occupancy,2021-10-19,74.0
+Ireland,Daily ICU occupancy,2021-10-20,86.0
+Ireland,Daily ICU occupancy,2021-10-21,88.0
+Ireland,Daily ICU occupancy,2021-10-22,90.0
+Ireland,Daily ICU occupancy,2021-10-23,93.0
+Ireland,Daily ICU occupancy,2021-10-24,97.0
+Ireland,Daily ICU occupancy,2021-10-25,99.0
+Ireland,Daily ICU occupancy,2021-10-26,97.0
+Ireland,Daily ICU occupancy,2021-10-27,101.0
+Ireland,Daily ICU occupancy,2021-10-28,99.0
+Ireland,Daily ICU occupancy,2021-10-29,97.0
+Ireland,Daily ICU occupancy,2021-10-30,92.0
+Ireland,Daily ICU occupancy,2021-10-31,93.0
+Ireland,Daily ICU occupancy,2021-11-01,91.0
+Ireland,Daily ICU occupancy,2021-11-02,90.0
+Ireland,Daily ICU occupancy,2021-11-03,86.0
+Ireland,Daily ICU occupancy,2021-11-04,90.0
+Ireland,Daily ICU occupancy,2021-11-05,76.0
+Ireland,Daily ICU occupancy,2021-11-06,74.0
+Ireland,Daily ICU occupancy,2021-11-07,75.0
+Ireland,Daily ICU occupancy,2021-11-08,78.0
+Ireland,Daily ICU occupancy,2021-11-09,83.0
+Ireland,Daily ICU occupancy,2021-11-10,89.0
+Ireland,Daily ICU occupancy,2021-11-11,97.0
+Ireland,Daily ICU occupancy,2021-11-12,96.0
+Ireland,Daily ICU occupancy,2021-11-13,107.0
+Ireland,Daily ICU occupancy,2021-11-14,106.0
+Ireland,Daily ICU occupancy,2021-11-15,117.0
+Ireland,Daily ICU occupancy,2021-11-16,114.0
+Ireland,Daily ICU occupancy,2021-11-17,119.0
+Ireland,Daily ICU occupancy,2021-11-18,118.0
+Ireland,Daily ICU occupancy,2021-11-19,118.0
+Ireland,Daily ICU occupancy,2021-11-20,121.0
+Ireland,Daily ICU occupancy,2021-11-21,125.0
+Ireland,Daily ICU occupancy,2021-11-22,126.0
+Ireland,Daily ICU occupancy,2021-11-23,130.0
+Ireland,Daily ICU occupancy,2021-11-24,132.0
+Ireland,Daily ICU occupancy,2021-11-25,126.0
+Ireland,Daily ICU occupancy,2021-11-26,118.0
+Ireland,Daily ICU occupancy,2021-11-27,121.0
+Ireland,Daily ICU occupancy,2021-11-28,117.0
+Ireland,Daily ICU occupancy,2021-11-29,115.0
+Ireland,Daily ICU occupancy,2021-11-30,122.0
+Ireland,Daily ICU occupancy,2021-12-01,117.0
+Ireland,Daily ICU occupancy,2021-12-02,117.0
+Ireland,Daily ICU occupancy,2021-12-03,110.0
+Ireland,Daily ICU occupancy,2021-12-04,114.0
+Ireland,Daily ICU occupancy,2021-12-05,110.0
+Ireland,Daily ICU occupancy,2021-12-06,110.0
+Ireland,Daily ICU occupancy,2021-12-07,117.0
+Ireland,Daily ICU occupancy,2021-12-08,118.0
+Ireland,Daily ICU occupancy,2021-12-09,115.0
+Ireland,Daily ICU occupancy,2021-12-10,110.0
+Ireland,Daily ICU occupancy,2021-12-11,111.0
+Ireland,Daily ICU occupancy,2021-12-12,109.0
+Ireland,Daily ICU occupancy,2021-12-13,108.0
+Ireland,Daily ICU occupancy,2021-12-14,109.0
+Ireland,Daily ICU occupancy,2021-12-15,105.0
+Ireland,Daily ICU occupancy,2021-12-16,108.0
+Ireland,Daily ICU occupancy,2021-12-17,105.0
+Ireland,Daily ICU occupancy,2021-12-18,107.0
+Ireland,Daily ICU occupancy,2021-12-19,107.0
+Ireland,Daily ICU occupancy,2021-12-20,104.0
+Ireland,Daily ICU occupancy,2021-12-21,102.0
+Ireland,Daily ICU occupancy,2021-12-22,100.0
+Ireland,Daily ICU occupancy,2021-12-23,98.0
+Ireland,Daily ICU occupancy,2021-12-24,89.0
+Ireland,Daily ICU occupancy,2021-12-25,87.0
+Ireland,Daily ICU occupancy,2021-12-26,91.0
+Ireland,Daily ICU occupancy,2021-12-27,91.0
+Ireland,Daily ICU occupancy,2021-12-28,92.0
+Ireland,Daily ICU occupancy,2021-12-29,93.0
+Ireland,Daily ICU occupancy,2021-12-30,88.0
+Ireland,Daily ICU occupancy,2021-12-31,86.0
+Ireland,Daily ICU occupancy,2022-01-01,85.0
+Ireland,Daily ICU occupancy,2022-01-02,87.0
+Ireland,Daily ICU occupancy,2022-01-03,93.0
+Ireland,Daily ICU occupancy,2022-01-04,90.0
+Ireland,Daily ICU occupancy,2022-01-05,94.0
+Ireland,Daily ICU occupancy,2022-01-06,90.0
+Ireland,Daily ICU occupancy,2022-01-07,84.0
+Ireland,Daily ICU occupancy,2022-01-08,83.0
+Ireland,Daily ICU occupancy,2022-01-09,83.0
+Ireland,Daily ICU occupancy,2022-01-10,89.0
+Ireland,Daily ICU occupancy,2022-01-11,92.0
+Ireland,Daily ICU occupancy,2022-01-12,92.0
+Ireland,Daily ICU occupancy,2022-01-13,92.0
+Ireland,Daily ICU occupancy,2022-01-14,83.0
+Ireland,Daily ICU occupancy,2022-01-15,89.0
+Ireland,Daily ICU occupancy,2022-01-16,88.0
+Ireland,Daily ICU occupancy,2022-01-17,97.0
+Ireland,Daily ICU occupancy,2022-01-18,93.0
+Ireland,Daily ICU occupancy,2022-01-19,90.0
+Ireland,Daily ICU occupancy,2022-01-20,90.0
+Ireland,Daily ICU occupancy,2022-01-21,88.0
+Ireland,Daily ICU occupancy,2022-01-22,78.0
+Ireland,Daily ICU occupancy,2022-01-23,79.0
+Ireland,Daily ICU occupancy,2022-01-24,76.0
+Ireland,Daily ICU occupancy,2022-01-25,79.0
+Ireland,Daily ICU occupancy,2022-01-26,74.0
+Ireland,Daily ICU occupancy,2022-01-27,71.0
+Ireland,Daily ICU occupancy,2022-01-28,69.0
+Ireland,Daily ICU occupancy,2022-01-29,66.0
+Ireland,Daily ICU occupancy,2022-01-30,74.0
+Ireland,Daily ICU occupancy,2022-01-31,75.0
+Ireland,Daily ICU occupancy,2022-02-01,66.0
+Ireland,Daily ICU occupancy,2022-02-02,65.0
+Ireland,Daily ICU occupancy,2022-02-03,63.0
+Ireland,Daily ICU occupancy,2022-02-04,66.0
+Ireland,Daily ICU occupancy,2022-02-05,67.0
+Ireland,Daily ICU occupancy,2022-02-06,73.0
+Ireland,Daily ICU occupancy,2022-02-07,76.0
+Ireland,Daily ICU occupancy,2022-02-08,72.0
+Ireland,Daily ICU occupancy,2022-02-09,68.0
+Ireland,Daily ICU occupancy,2022-02-10,63.0
+Ireland,Daily ICU occupancy,2022-02-11,64.0
+Ireland,Daily ICU occupancy,2022-02-12,62.0
+Ireland,Daily ICU occupancy,2022-02-13,65.0
+Ireland,Daily ICU occupancy,2022-02-14,67.0
+Ireland,Daily ICU occupancy,2022-02-15,63.0
+Ireland,Daily ICU occupancy,2022-02-16,62.0
+Ireland,Daily ICU occupancy,2022-02-17,58.0
+Ireland,Daily ICU occupancy,2022-02-18,57.0
+Ireland,Daily ICU occupancy,2022-02-19,55.0
+Ireland,Daily ICU occupancy,2022-02-20,52.0
+Ireland,Daily ICU occupancy,2022-02-21,53.0
+Ireland,Daily ICU occupancy,2022-02-22,54.0
+Ireland,Daily ICU occupancy,2022-02-23,54.0
+Ireland,Daily ICU occupancy,2022-02-24,55.0
+Ireland,Daily ICU occupancy,2022-02-25,53.0
+Ireland,Daily ICU occupancy,2022-02-26,49.0
+Ireland,Daily ICU occupancy,2022-02-27,48.0
+Ireland,Daily ICU occupancy,2022-02-28,47.0
+Ireland,Daily ICU occupancy,2022-03-01,48.0
+Ireland,Daily ICU occupancy,2022-03-02,46.0
+Ireland,Daily ICU occupancy,2022-03-03,46.0
+Ireland,Daily ICU occupancy,2022-03-04,43.0
+Ireland,Daily ICU occupancy,2022-03-05,43.0
+Ireland,Daily ICU occupancy,2022-03-06,45.0
+Ireland,Daily ICU occupancy,2022-03-07,47.0
+Ireland,Daily ICU occupancy,2022-03-08,51.0
+Ireland,Daily ICU occupancy,2022-03-09,47.0
+Ireland,Daily ICU occupancy,2022-03-10,41.0
+Ireland,Daily ICU occupancy,2022-03-11,37.0
+Ireland,Daily ICU occupancy,2022-03-12,41.0
+Ireland,Daily ICU occupancy,2022-03-13,41.0
+Ireland,Daily ICU occupancy,2022-03-14,42.0
+Ireland,Daily ICU occupancy,2022-03-15,42.0
+Ireland,Daily ICU occupancy,2022-03-16,44.0
+Ireland,Daily ICU occupancy,2022-03-17,46.0
+Ireland,Daily ICU occupancy,2022-03-18,48.0
+Ireland,Daily ICU occupancy,2022-03-19,52.0
+Ireland,Daily ICU occupancy,2022-03-20,49.0
+Ireland,Daily ICU occupancy,2022-03-21,49.0
+Ireland,Daily ICU occupancy,2022-03-22,61.0
+Ireland,Daily ICU occupancy,2022-03-23,55.0
+Ireland,Daily ICU occupancy,2022-03-24,53.0
+Ireland,Daily ICU occupancy,2022-03-25,55.0
+Ireland,Daily ICU occupancy,2022-03-26,51.0
+Ireland,Daily ICU occupancy,2022-03-27,52.0
+Ireland,Daily ICU occupancy,2022-03-28,54.0
+Ireland,Daily ICU occupancy,2022-03-29,50.0
+Ireland,Daily ICU occupancy,2022-03-30,49.0
+Ireland,Daily ICU occupancy,2022-03-31,58.0
+Ireland,Daily ICU occupancy,2022-04-01,59.0
+Ireland,Daily ICU occupancy,2022-04-02,52.0
+Ireland,Daily ICU occupancy,2022-04-03,57.0
+Ireland,Daily ICU occupancy,2022-04-04,59.0
+Ireland,Daily ICU occupancy,2022-04-05,54.0
+Ireland,Daily ICU occupancy,2022-04-06,58.0
+Ireland,Daily ICU occupancy,2022-04-07,56.0
+Ireland,Daily ICU occupancy,2022-04-08,58.0
+Ireland,Daily ICU occupancy,2022-04-09,52.0
+Ireland,Daily ICU occupancy,2022-04-10,56.0
+Ireland,Daily ICU occupancy,2022-04-11,55.0
+Ireland,Daily ICU occupancy,2022-04-12,53.0
+Ireland,Daily ICU occupancy,2022-04-13,58.0
+Ireland,Daily ICU occupancy,2022-04-14,57.0
+Ireland,Daily ICU occupancy,2022-04-15,53.0
+Ireland,Daily ICU occupancy,2022-04-16,50.0
+Ireland,Daily ICU occupancy,2022-04-17,45.0
+Ireland,Daily ICU occupancy,2022-04-18,48.0
+Ireland,Daily ICU occupancy,2022-04-19,44.0
+Ireland,Daily ICU occupancy,2022-04-20,42.0
+Ireland,Daily ICU occupancy,2022-04-21,37.0
+Ireland,Daily ICU occupancy,2022-04-22,39.0
+Ireland,Daily ICU occupancy,2022-04-23,44.0
+Ireland,Daily ICU occupancy,2022-04-24,41.0
+Ireland,Daily ICU occupancy,2022-04-25,43.0
+Ireland,Daily ICU occupancy,2022-04-26,33.0
+Ireland,Daily ICU occupancy,2022-04-27,38.0
+Ireland,Daily ICU occupancy,2022-04-28,36.0
+Ireland,Daily ICU occupancy,2022-04-29,39.0
+Ireland,Daily ICU occupancy,2022-04-30,37.0
+Ireland,Daily ICU occupancy,2022-05-01,38.0
+Ireland,Daily ICU occupancy,2022-05-02,41.0
+Ireland,Daily ICU occupancy,2022-05-03,39.0
+Ireland,Daily ICU occupancy,2022-05-04,36.0
+Ireland,Daily ICU occupancy,2022-05-05,37.0
+Ireland,Daily ICU occupancy,2022-05-06,35.0
+Ireland,Daily ICU occupancy,2022-05-07,30.0
+Ireland,Daily ICU occupancy,2022-05-08,29.0
+Ireland,Daily ICU occupancy,2022-05-09,28.0
+Ireland,Daily ICU occupancy,2022-05-10,32.0
+Ireland,Daily ICU occupancy,2022-05-11,30.0
+Ireland,Daily ICU occupancy,2022-05-12,28.0
+Ireland,Daily ICU occupancy,2022-05-13,28.0
+Ireland,Daily ICU occupancy,2022-05-14,26.0
+Ireland,Daily ICU occupancy,2022-05-15,27.0
+Ireland,Daily ICU occupancy,2022-05-16,29.0
+Ireland,Daily ICU occupancy,2022-05-17,26.0
+Ireland,Daily ICU occupancy,2022-05-18,24.0
+Ireland,Daily ICU occupancy,2022-05-19,23.0
+Ireland,Daily ICU occupancy,2022-05-20,22.0
+Ireland,Daily ICU occupancy,2022-05-21,25.0
+Ireland,Daily ICU occupancy,2022-05-22,25.0
+Ireland,Daily ICU occupancy,2022-05-23,28.0
+Ireland,Daily ICU occupancy,2022-05-24,29.0
+Ireland,Daily ICU occupancy,2022-05-25,26.0
+Ireland,Daily ICU occupancy,2022-05-26,24.0
+Ireland,Daily ICU occupancy,2022-05-27,20.0
+Ireland,Daily ICU occupancy,2022-05-28,20.0
+Ireland,Daily ICU occupancy,2022-05-29,18.0
+Ireland,Daily ICU occupancy,2022-05-30,24.0
+Ireland,Daily ICU occupancy,2022-05-31,22.0
+Ireland,Daily ICU occupancy,2022-06-01,18.0
+Ireland,Daily ICU occupancy,2022-06-02,20.0
+Ireland,Daily ICU occupancy,2022-06-03,22.0
+Ireland,Daily ICU occupancy,2022-06-04,21.0
+Ireland,Daily ICU occupancy,2022-06-05,21.0
+Ireland,Daily ICU occupancy,2022-06-06,23.0
+Ireland,Daily ICU occupancy,2022-06-07,26.0
+Ireland,Daily ICU occupancy,2022-06-08,27.0
+Ireland,Daily ICU occupancy,2022-06-09,24.0
+Ireland,Daily ICU occupancy,2022-06-10,22.0
+Ireland,Daily ICU occupancy,2022-06-11,23.0
+Ireland,Daily ICU occupancy,2022-06-12,24.0
+Ireland,Daily ICU occupancy,2022-06-13,22.0
+Ireland,Daily ICU occupancy,2022-06-14,23.0
+Ireland,Daily ICU occupancy,2022-06-15,26.0
+Ireland,Daily ICU occupancy,2022-06-16,25.0
+Ireland,Daily ICU occupancy,2022-06-17,28.0
+Ireland,Daily ICU occupancy,2022-06-18,27.0
+Ireland,Daily ICU occupancy,2022-06-19,23.0
+Ireland,Daily ICU occupancy,2022-06-20,23.0
+Ireland,Daily ICU occupancy,2022-06-21,25.0
+Ireland,Daily ICU occupancy,2022-06-22,24.0
+Ireland,Daily ICU occupancy,2022-06-23,20.0
+Ireland,Daily ICU occupancy,2022-06-24,21.0
+Ireland,Daily ICU occupancy,2022-06-25,29.0
+Ireland,Daily ICU occupancy,2022-06-26,31.0
+Ireland,Daily ICU occupancy,2022-06-27,35.0
+Ireland,Daily ICU occupancy,2022-06-28,28.0
+Ireland,Daily ICU occupancy,2022-06-29,31.0
+Ireland,Daily ICU occupancy,2022-06-30,33.0
+Ireland,Daily ICU occupancy,2022-07-01,32.0
+Ireland,Daily ICU occupancy,2022-07-02,33.0
+Ireland,Daily ICU occupancy,2022-07-03,32.0
+Ireland,Daily ICU occupancy,2022-07-04,33.0
+Ireland,Daily ICU occupancy,2022-07-05,32.0
+Ireland,Daily ICU occupancy,2022-07-06,37.0
+Ireland,Daily ICU occupancy,2022-07-07,36.0
+Ireland,Daily ICU occupancy,2022-07-08,35.0
+Ireland,Daily ICU occupancy,2022-07-09,34.0
+Ireland,Daily ICU occupancy,2022-07-10,38.0
+Ireland,Daily ICU occupancy,2022-07-11,40.0
+Ireland,Daily ICU occupancy,2022-07-12,46.0
+Ireland,Daily ICU occupancy,2022-07-13,45.0
+Ireland,Daily ICU occupancy,2022-07-14,43.0
+Ireland,Daily ICU occupancy,2022-07-15,35.0
+Ireland,Daily ICU occupancy,2022-07-16,39.0
+Ireland,Daily ICU occupancy,2022-07-17,37.0
+Ireland,Daily ICU occupancy,2022-07-18,39.0
+Ireland,Daily ICU occupancy,2022-07-19,35.0
+Ireland,Daily ICU occupancy,2022-07-20,41.0
+Ireland,Daily ICU occupancy,2022-07-21,42.0
+Ireland,Daily ICU occupancy,2022-07-22,38.0
+Ireland,Daily ICU occupancy,2022-07-23,39.0
+Ireland,Daily ICU occupancy,2022-07-24,39.0
+Ireland,Daily ICU occupancy,2022-07-25,39.0
+Ireland,Daily ICU occupancy,2022-07-26,35.0
+Ireland,Daily ICU occupancy,2022-07-27,34.0
+Ireland,Daily ICU occupancy,2022-07-28,33.0
+Ireland,Daily ICU occupancy,2022-07-29,30.0
+Ireland,Daily ICU occupancy,2022-07-30,29.0
+Ireland,Daily ICU occupancy,2022-07-31,26.0
+Ireland,Daily ICU occupancy,2022-08-01,29.0
+Ireland,Daily ICU occupancy,2022-08-02,27.0
+Ireland,Daily ICU occupancy,2022-08-03,29.0
+Ireland,Daily ICU occupancy,2022-08-04,30.0
+Ireland,Daily ICU occupancy,2022-08-05,34.0
+Ireland,Daily ICU occupancy,2022-08-06,32.0
+Ireland,Daily ICU occupancy,2022-08-07,31.0
+Ireland,Daily ICU occupancy,2022-08-08,32.0
+Ireland,Daily ICU occupancy,2022-08-09,28.0
+Ireland,Daily ICU occupancy,2022-08-10,26.0
+Ireland,Daily ICU occupancy,2022-08-11,24.0
+Ireland,Daily ICU occupancy,2022-08-12,20.0
+Ireland,Daily ICU occupancy,2022-08-13,21.0
+Ireland,Daily ICU occupancy,2022-08-14,18.0
+Ireland,Daily ICU occupancy,2022-08-15,18.0
+Ireland,Daily ICU occupancy,2022-08-16,16.0
+Ireland,Daily ICU occupancy,2022-08-17,17.0
+Ireland,Daily ICU occupancy,2022-08-18,20.0
+Ireland,Daily ICU occupancy,2022-08-19,19.0
+Ireland,Daily ICU occupancy,2022-08-20,17.0
+Ireland,Daily ICU occupancy,2022-08-21,18.0
+Ireland,Daily ICU occupancy,2022-08-22,20.0
+Ireland,Daily ICU occupancy,2022-08-23,17.0
+Ireland,Daily ICU occupancy,2022-08-24,17.0
+Ireland,Daily ICU occupancy,2022-08-25,15.0
+Ireland,Daily ICU occupancy,2022-08-26,15.0
+Ireland,Daily ICU occupancy,2022-08-27,17.0
+Ireland,Daily ICU occupancy,2022-08-28,16.0
+Ireland,Daily ICU occupancy,2022-08-29,15.0
+Ireland,Daily ICU occupancy,2022-08-30,14.0
+Ireland,Daily ICU occupancy,2022-08-31,15.0
+Ireland,Daily ICU occupancy,2022-09-01,9.0
+Ireland,Daily ICU occupancy,2022-09-02,8.0
+Ireland,Daily ICU occupancy,2022-09-03,6.0
+Ireland,Daily ICU occupancy,2022-09-04,7.0
+Ireland,Daily ICU occupancy,2022-09-05,8.0
+Ireland,Daily ICU occupancy,2022-09-06,9.0
+Ireland,Daily ICU occupancy,2022-09-07,12.0
+Ireland,Daily ICU occupancy,2022-09-08,11.0
+Ireland,Daily ICU occupancy,2022-09-09,10.0
+Ireland,Daily ICU occupancy,2022-09-10,10.0
+Ireland,Daily ICU occupancy,2022-09-11,11.0
+Ireland,Daily ICU occupancy,2022-09-12,13.0
+Ireland,Daily ICU occupancy,2022-09-13,13.0
+Ireland,Daily ICU occupancy,2022-09-14,13.0
+Ireland,Daily ICU occupancy,2022-09-15,14.0
+Ireland,Daily ICU occupancy,2022-09-16,13.0
+Ireland,Daily ICU occupancy,2022-09-17,12.0
+Ireland,Daily ICU occupancy,2022-09-18,12.0
+Ireland,Daily ICU occupancy,2022-09-19,12.0
+Ireland,Daily ICU occupancy,2022-09-20,12.0
+Ireland,Daily ICU occupancy,2022-09-22,11.0
+Ireland,Daily ICU occupancy,2022-09-23,12.0
+Ireland,Daily ICU occupancy,2022-09-24,13.0
+Ireland,Daily ICU occupancy,2022-09-25,15.0
+Ireland,Daily ICU occupancy,2022-09-26,16.0
+Ireland,Daily ICU occupancy,2022-09-27,15.0
+Ireland,Daily ICU occupancy,2022-09-28,15.0
+Ireland,Daily ICU occupancy,2022-09-29,13.0
+Ireland,Daily ICU occupancy,2022-09-30,14.0
+Ireland,Daily ICU occupancy,2022-10-01,13.0
+Ireland,Daily ICU occupancy,2022-10-02,12.0
+Ireland,Daily ICU occupancy,2022-10-03,9.0
+Ireland,Daily ICU occupancy,2022-10-04,10.0
+Ireland,Daily ICU occupancy,2022-10-05,10.0
+Ireland,Daily ICU occupancy,2022-10-06,8.0
+Ireland,Daily ICU occupancy,2022-10-07,7.0
+Ireland,Daily ICU occupancy,2022-10-08,8.0
+Ireland,Daily ICU occupancy,2022-10-09,11.0
+Ireland,Daily ICU occupancy,2022-10-10,13.0
+Ireland,Daily ICU occupancy,2022-10-11,13.0
+Ireland,Daily ICU occupancy,2022-10-12,13.0
+Ireland,Daily ICU occupancy,2022-10-13,15.0
+Ireland,Daily ICU occupancy,2022-10-14,14.0
+Ireland,Daily ICU occupancy,2022-10-15,11.0
+Ireland,Daily ICU occupancy,2022-10-16,15.0
+Ireland,Daily ICU occupancy,2022-10-17,16.0
+Ireland,Daily ICU occupancy,2022-10-18,16.0
+Ireland,Daily ICU occupancy,2022-10-19,17.0
+Ireland,Daily ICU occupancy,2022-10-20,17.0
+Ireland,Daily ICU occupancy,2022-10-21,16.0
+Ireland,Daily ICU occupancy,2022-10-22,15.0
+Ireland,Daily ICU occupancy,2022-10-23,18.0
+Ireland,Daily ICU occupancy,2022-10-24,19.0
+Ireland,Daily ICU occupancy,2022-10-25,18.0
+Ireland,Daily ICU occupancy,2022-10-26,25.0
+Ireland,Daily ICU occupancy,2022-10-27,22.0
+Ireland,Daily ICU occupancy,2022-10-28,20.0
+Ireland,Daily ICU occupancy,2022-10-29,15.0
+Ireland,Daily ICU occupancy,2022-10-30,14.0
+Ireland,Daily ICU occupancy,2022-10-31,16.0
+Ireland,Daily ICU occupancy,2022-11-01,14.0
+Ireland,Daily ICU occupancy,2022-11-02,12.0
+Ireland,Daily ICU occupancy,2022-11-03,17.0
+Ireland,Daily ICU occupancy,2022-11-04,15.0
+Ireland,Daily ICU occupancy,2022-11-05,14.0
+Ireland,Daily ICU occupancy,2022-11-06,16.0
+Ireland,Daily ICU occupancy,2022-11-07,15.0
+Ireland,Daily ICU occupancy,2022-11-08,17.0
+Ireland,Daily ICU occupancy,2022-11-09,14.0
+Ireland,Daily ICU occupancy,2022-11-10,16.0
+Ireland,Daily ICU occupancy,2022-11-11,17.0
+Ireland,Daily ICU occupancy,2022-11-12,13.0
+Ireland,Daily ICU occupancy,2022-11-13,11.0
+Ireland,Daily ICU occupancy,2022-11-14,12.0
+Ireland,Daily ICU occupancy,2022-11-15,16.0
+Ireland,Daily ICU occupancy,2022-11-16,11.0
+Ireland,Daily ICU occupancy,2022-11-17,11.0
+Ireland,Daily ICU occupancy,2022-11-18,7.0
+Ireland,Daily ICU occupancy,2022-11-19,8.0
+Ireland,Daily ICU occupancy,2022-11-20,8.0
+Ireland,Daily ICU occupancy,2022-11-21,11.0
+Ireland,Daily ICU occupancy,2022-11-22,12.0
+Ireland,Daily ICU occupancy,2022-11-23,10.0
+Ireland,Daily ICU occupancy,2022-11-24,8.0
+Ireland,Daily ICU occupancy,2022-11-25,11.0
+Ireland,Daily ICU occupancy,2022-11-26,11.0
+Ireland,Daily ICU occupancy,2022-11-27,11.0
+Ireland,Daily ICU occupancy,2022-11-28,14.0
+Ireland,Daily ICU occupancy,2022-11-29,12.0
+Ireland,Daily ICU occupancy,2022-11-30,15.0
+Ireland,Daily ICU occupancy,2022-12-01,17.0
+Ireland,Daily ICU occupancy,2022-12-02,14.0
+Ireland,Daily ICU occupancy,2022-12-03,11.0
+Ireland,Daily ICU occupancy,2022-12-04,9.0
+Ireland,Daily ICU occupancy,2022-12-05,10.0
+Ireland,Daily ICU occupancy,2022-12-06,10.0
+Ireland,Daily ICU occupancy,2022-12-07,12.0
+Ireland,Daily ICU occupancy,2022-12-08,11.0
+Ireland,Daily ICU occupancy,2022-12-09,10.0
+Ireland,Daily ICU occupancy,2022-12-10,6.0
+Ireland,Daily ICU occupancy,2022-12-11,6.0
+Ireland,Daily ICU occupancy,2022-12-12,10.0
+Ireland,Daily ICU occupancy,2022-12-13,11.0
+Ireland,Daily ICU occupancy,2022-12-14,10.0
+Ireland,Daily ICU occupancy,2022-12-15,11.0
+Ireland,Daily ICU occupancy,2022-12-16,9.0
+Ireland,Daily ICU occupancy,2022-12-17,10.0
+Ireland,Daily ICU occupancy,2022-12-18,12.0
+Ireland,Daily ICU occupancy,2022-12-19,12.0
+Ireland,Daily ICU occupancy,2022-12-20,17.0
+Ireland,Daily ICU occupancy,2022-12-21,19.0
+Ireland,Daily ICU occupancy,2022-12-22,26.0
+Ireland,Daily ICU occupancy,2022-12-23,32.0
+Ireland,Daily ICU occupancy,2022-12-24,33.0
+Ireland,Daily ICU occupancy,2022-12-25,31.0
+Ireland,Daily ICU occupancy,2022-12-26,29.0
+Ireland,Daily ICU occupancy,2022-12-27,32.0
+Ireland,Daily ICU occupancy,2022-12-28,35.0
+Ireland,Daily ICU occupancy,2022-12-29,38.0
+Ireland,Daily ICU occupancy,2022-12-30,29.0
+Ireland,Daily ICU occupancy,2022-12-31,28.0
+Ireland,Daily ICU occupancy,2023-01-01,29.0
+Ireland,Daily ICU occupancy,2023-01-02,25.0
+Ireland,Daily ICU occupancy,2023-01-03,28.0
+Ireland,Daily ICU occupancy,2023-01-04,27.0
+Ireland,Daily ICU occupancy,2023-01-05,34.0
+Ireland,Daily ICU occupancy,2023-01-06,36.0
+Ireland,Daily ICU occupancy,2023-01-07,37.0
+Ireland,Daily ICU occupancy,2023-01-08,35.0
+Ireland,Daily ICU occupancy,2023-01-09,36.0
+Ireland,Daily ICU occupancy,2023-01-10,35.0
+Ireland,Daily ICU occupancy,2023-01-11,35.0
+Ireland,Daily ICU occupancy,2023-01-12,33.0
+Ireland,Daily ICU occupancy,2023-01-13,29.0
+Ireland,Daily ICU occupancy,2023-01-14,29.0
+Ireland,Daily ICU occupancy,2023-01-15,29.0
+Ireland,Daily ICU occupancy,2023-01-16,29.0
+Ireland,Daily ICU occupancy,2023-01-17,27.0
+Ireland,Daily ICU occupancy,2023-01-18,22.0
+Ireland,Daily ICU occupancy,2023-01-19,22.0
+Ireland,Daily ICU occupancy,2023-01-20,22.0
+Ireland,Daily ICU occupancy,2023-01-21,23.0
+Ireland,Daily ICU occupancy,2023-01-22,21.0
+Ireland,Daily ICU occupancy,2023-01-23,21.0
+Ireland,Daily ICU occupancy,2023-01-24,25.0
+Ireland,Daily ICU occupancy,2023-01-25,25.0
+Ireland,Daily ICU occupancy,2023-01-26,27.0
+Ireland,Daily ICU occupancy,2023-01-27,27.0
+Ireland,Daily ICU occupancy,2023-01-28,27.0
+Ireland,Daily ICU occupancy,2023-01-29,25.0
+Ireland,Daily ICU occupancy,2023-01-30,26.0
+Ireland,Daily ICU occupancy,2023-01-31,27.0
+Ireland,Daily ICU occupancy,2023-02-01,26.0
+Ireland,Daily ICU occupancy,2023-02-02,24.0
+Ireland,Daily ICU occupancy,2023-02-03,21.0
+Ireland,Daily ICU occupancy,2023-02-04,22.0
+Ireland,Daily ICU occupancy,2023-02-05,23.0
+Ireland,Daily ICU occupancy,2023-02-06,22.0
+Ireland,Daily ICU occupancy,2023-02-07,22.0
+Ireland,Daily ICU occupancy,2023-02-08,23.0
+Ireland,Daily ICU occupancy,2023-02-09,22.0
+Ireland,Daily ICU occupancy,2023-02-10,18.0
+Ireland,Daily ICU occupancy,2023-02-11,18.0
+Ireland,Daily ICU occupancy,2023-02-12,18.0
+Ireland,Daily ICU occupancy,2023-02-13,18.0
+Ireland,Daily ICU occupancy,2023-02-14,17.0
+Ireland,Daily ICU occupancy,2023-02-15,18.0
+Ireland,Daily ICU occupancy,2023-02-16,22.0
+Ireland,Daily ICU occupancy,2023-02-17,21.0
+Ireland,Daily ICU occupancy,2023-02-18,20.0
+Ireland,Daily ICU occupancy,2023-02-19,17.0
+Ireland,Daily ICU occupancy,2023-02-20,18.0
+Ireland,Daily ICU occupancy,2023-02-21,14.0
+Ireland,Daily ICU occupancy,2023-02-22,13.0
+Ireland,Daily ICU occupancy,2023-02-23,11.0
+Ireland,Daily ICU occupancy,2023-02-24,11.0
+Ireland,Daily ICU occupancy,2023-02-25,14.0
+Ireland,Daily ICU occupancy,2023-02-26,16.0
+Ireland,Weekly new hospital admissions,2020-04-26,306.02253070316664
+Ireland,Weekly new ICU admissions,2020-04-26,45.15086518571311
+Ireland,Weekly new hospital admissions,2020-05-03,261.875018077136
+Ireland,Weekly new hospital admissions,2020-05-10,162.54311466856723
+Ireland,Weekly new hospital admissions,2020-05-17,109.365429005394
+Ireland,Weekly new ICU admissions,2020-05-17,19.063698633967757
+Ireland,Weekly new hospital admissions,2020-05-24,97.3251982892038
+Ireland,Weekly new ICU admissions,2020-05-24,10.033525596825132
+Ireland,Weekly new hospital admissions,2020-05-31,58.19444846158579
+Ireland,Weekly new ICU admissions,2020-05-31,15.0502883952377
+Ireland,Weekly new hospital admissions,2020-06-07,25.08381399206284
+Ireland,Weekly new ICU admissions,2020-06-07,3.010057679047537
+Ireland,Weekly new hospital admissions,2020-06-14,30.100576790475404
+Ireland,Weekly new hospital admissions,2020-06-21,13.043583275872674
+Ireland,Weekly new ICU admissions,2020-06-21,14.046935835555187
+Ireland,Weekly new hospital admissions,2020-06-28,13.043583275872674
+Ireland,Weekly new ICU admissions,2020-06-28,4.013410238730054
+Ireland,Weekly new hospital admissions,2020-07-05,9.030173037142621
+Ireland,Weekly new ICU admissions,2020-07-05,6.0201153580950795
+Ireland,Weekly new hospital admissions,2020-07-12,4.013410238730054
+Ireland,Weekly new ICU admissions,2020-07-12,1.0033525596825124
+Ireland,Weekly new hospital admissions,2020-07-19,7.023467917777593
+Ireland,Weekly new ICU admissions,2020-07-19,2.0067051193650247
+Ireland,Weekly new hospital admissions,2020-07-26,14.046935835555187
+Ireland,Weekly new ICU admissions,2020-07-26,3.010057679047537
+Ireland,Weekly new hospital admissions,2020-08-02,8.026820477460108
+Ireland,Weekly new ICU admissions,2020-08-02,1.0033525596825124
+Ireland,Weekly new hospital admissions,2020-08-09,13.043583275872674
+Ireland,Weekly new ICU admissions,2020-08-09,1.0033525596825124
+Ireland,Weekly new hospital admissions,2020-08-16,17.05699351460273
+Ireland,Weekly new ICU admissions,2020-08-16,0.0
+Ireland,Weekly new hospital admissions,2020-08-23,10.033525596825132
+Ireland,Weekly new ICU admissions,2020-08-23,2.0067051193650247
+Ireland,Weekly new hospital admissions,2020-08-30,31.103929350157923
+Ireland,Weekly new ICU admissions,2020-08-30,2.0067051193650247
+Ireland,Weekly new hospital admissions,2020-09-06,32.10728190984043
+Ireland,Weekly new ICU admissions,2020-09-06,1.0033525596825124
+Ireland,Weekly new hospital admissions,2020-09-13,35.11733958888797
+Ireland,Weekly new ICU admissions,2020-09-13,0.0
+Ireland,Weekly new hospital admissions,2020-09-20,55.18439078253825
+Ireland,Weekly new ICU admissions,2020-09-20,6.0201153580950795
+Ireland,Weekly new hospital admissions,2020-09-27,56.18774334222075
+Ireland,Weekly new ICU admissions,2020-09-27,4.013410238730054
+Ireland,Weekly new hospital admissions,2020-10-04,85.28496757301365
+Ireland,Weekly new ICU admissions,2020-10-04,9.030173037142621
+Ireland,Weekly new hospital admissions,2020-10-11,130.43583275872678
+Ireland,Weekly new ICU admissions,2020-10-11,4.013410238730054
+Ireland,Weekly new hospital admissions,2020-10-18,120.40230716190162
+Ireland,Weekly new ICU admissions,2020-10-18,9.030173037142621
+Ireland,Weekly new hospital admissions,2020-10-25,179.6001081831699
+Ireland,Weekly new ICU admissions,2020-10-25,12.040230716190162
+Ireland,Weekly new hospital admissions,2020-11-01,124.41571740063169
+Ireland,Weekly new ICU admissions,2020-11-01,10.033525596825132
+Ireland,Weekly new hospital admissions,2020-11-08,141.47271091523442
+Ireland,Weekly new ICU admissions,2020-11-08,19.063698633967757
+Ireland,Weekly new hospital admissions,2020-11-15,148.496178833012
+Ireland,Weekly new ICU admissions,2020-11-15,16.053640954920215
+Ireland,Weekly new hospital admissions,2020-11-22,139.4660057958694
+Ireland,Weekly new ICU admissions,2020-11-22,10.033525596825132
+Ireland,Weekly new hospital admissions,2020-11-29,113.37883924412404
+Ireland,Weekly new ICU admissions,2020-11-29,5.016762798412566
+Ireland,Weekly new hospital admissions,2020-12-06,102.34196108761637
+Ireland,Weekly new ICU admissions,2020-12-06,10.033525596825132
+Ireland,Weekly new hospital admissions,2020-12-13,81.27155733428361
+Ireland,Weekly new ICU admissions,2020-12-13,11.036878156507644
+Ireland,Weekly new hospital admissions,2020-12-20,128.42912763936172
+Ireland,Weekly new ICU admissions,2020-12-20,18.060346074285242
+Ireland,Weekly new hospital admissions,2020-12-27,185.62022354126503
+Ireland,Weekly new ICU admissions,2020-12-27,16.053640954920215
+Ireland,Weekly new hospital admissions,2021-01-03,478.599170968559
+Ireland,Weekly new ICU admissions,2021-01-03,15.0502883952377
+Ireland,Weekly new hospital admissions,2021-01-10,865.8932590060092
+Ireland,Weekly new ICU admissions,2021-01-10,29.097224230792897
+Ireland,Weekly new hospital admissions,2021-01-17,1077.6006490990196
+Ireland,Weekly new ICU admissions,2021-01-17,59.1978010212683
+Ireland,Weekly new hospital admissions,2021-01-24,724.4205480907748
+Ireland,Weekly new ICU admissions,2021-01-24,66.22126893904588
+Ireland,Weekly new hospital admissions,2021-01-31,552.8472603850649
+Ireland,Weekly new ICU admissions,2021-01-31,67.2246214987284
+Ireland,Weekly new hospital admissions,2021-02-07,416.3913122682431
+Ireland,Weekly new ICU admissions,2021-02-07,54.18103822285573
+Ireland,Weekly new hospital admissions,2021-02-14,309.0325883822142
+Ireland,Weekly new ICU admissions,2021-02-14,47.15757030507813
+Ireland,Weekly new hospital admissions,2021-02-21,316.0560562999917
+Ireland,Weekly new ICU admissions,2021-02-21,38.127397267935514
+Ireland,Weekly new hospital admissions,2021-02-28,195.65374913809015
+Ireland,Weekly new ICU admissions,2021-02-28,32.10728190984043
+Ireland,Weekly new hospital admissions,2021-03-07,167.55987746697974
+Ireland,Weekly new ICU admissions,2021-03-07,34.11398702920546
+Ireland,Weekly new hospital admissions,2021-03-14,155.5196467507896
+Ireland,Weekly new ICU admissions,2021-03-14,28.093871671110378
+Ireland,Weekly new hospital admissions,2021-03-21,193.64704401872513
+Ireland,Weekly new ICU admissions,2021-03-21,24.080461432380325
+Ireland,Weekly new hospital admissions,2021-03-28,145.48612115396446
+Ireland,Weekly new ICU admissions,2021-03-28,21.070403753332783
+Ireland,Weekly new hospital admissions,2021-04-04,118.3956020425366
+Ireland,Weekly new ICU admissions,2021-04-04,26.087166551745348
+Ireland,Weekly new hospital admissions,2021-04-11,81.27155733428361
+Ireland,Weekly new ICU admissions,2021-04-11,15.0502883952377
+Ireland,Weekly new hospital admissions,2021-04-18,93.31178805047377
+Ireland,Weekly new ICU admissions,2021-04-18,18.060346074285242
+Ireland,Weekly new hospital admissions,2021-04-25,102.34196108761637
+Ireland,Weekly new ICU admissions,2021-04-25,16.053640954920215
+Ireland,Weekly new hospital admissions,2021-05-02,78.26149965523605
+Ireland,Weekly new ICU admissions,2021-05-02,14.046935835555187
+Ireland,Weekly new hospital admissions,2021-05-09,84.28161501333113
+Ireland,Weekly new ICU admissions,2021-05-09,9.030173037142621
+Ireland,Weekly new ICU admissions,2021-05-16,4.013410238730054
+Ireland,Weekly new hospital admissions,2021-05-23,88.2950252520612
+Ireland,Weekly new ICU admissions,2021-05-23,7.023467917777593
+Ireland,Weekly new hospital admissions,2021-05-30,71.23803173745846
+Ireland,Weekly new ICU admissions,2021-05-30,15.0502883952377
+Ireland,Weekly new hospital admissions,2021-06-06,65.21791637936339
+Ireland,Weekly new ICU admissions,2021-06-06,14.046935835555187
+Ireland,Weekly new hospital admissions,2021-06-13,50.16762798412568
+Ireland,Weekly new ICU admissions,2021-06-13,8.026820477460108
+Ireland,Weekly new hospital admissions,2021-06-20,49.16427542444317
+Ireland,Weekly new ICU admissions,2021-06-20,8.026820477460108
+Ireland,Weekly new hospital admissions,2021-06-27,43.14416006634808
+Ireland,Weekly new ICU admissions,2021-06-27,3.010057679047537
+Ireland,Weekly new hospital admissions,2021-07-04,56.18774334222075
+Ireland,Weekly new ICU admissions,2021-07-04,4.013410238730054
+Ireland,Weekly new hospital admissions,2021-07-11,60.20115358095082
+Ireland,Weekly new ICU admissions,2021-07-11,2.0067051193650247
+Ireland,Weekly new hospital admissions,2021-07-18,112.37548668444151
+Ireland,Weekly new ICU admissions,2021-07-18,4.013410238730054
+Ireland,Weekly new hospital admissions,2021-07-25,141.47271091523442
+Ireland,Weekly new ICU admissions,2021-07-25,11.036878156507644
+Ireland,Weekly new hospital admissions,2021-08-01,186.62357610094753
+Ireland,Weekly new ICU admissions,2021-08-01,11.036878156507644
+Ireland,Weekly new hospital admissions,2021-08-08,172.5766402653923
+Ireland,Weekly new ICU admissions,2021-08-08,9.030173037142621
+Ireland,Weekly new hospital admissions,2021-08-15,233.78114640602564
+Ireland,Weekly new ICU admissions,2021-08-15,14.046935835555187
+Ireland,Weekly new hospital admissions,2021-08-22,276.92530647237373
+Ireland,Weekly new ICU admissions,2021-08-22,16.053640954920215
+Ireland,Weekly new hospital admissions,2021-08-29,315.0527037403093
+Ireland,Weekly new ICU admissions,2021-08-29,29.097224230792897
+Ireland,Weekly new hospital admissions,2021-09-05,292.978947427294
+Ireland,Weekly new ICU admissions,2021-09-05,26.087166551745348
+Ireland,Weekly new hospital admissions,2021-09-12,271.90854367396116
+Ireland,Weekly new ICU admissions,2021-09-12,27.090519111427867
+Ireland,Weekly new hospital admissions,2021-09-19,240.80461432380324
+Ireland,Weekly new ICU admissions,2021-09-19,18.060346074285242
+Ireland,Weekly new hospital admissions,2021-09-26,265.8884283158661
+Ireland,Weekly new ICU admissions,2021-09-26,22.0737563130153
+Ireland,Weekly new hospital admissions,2021-10-03,257.861607838406
+Ireland,Weekly new ICU admissions,2021-10-03,24.080461432380325
+Ireland,Weekly new hospital admissions,2021-10-10,317.05940885967425
+Ireland,Weekly new ICU admissions,2021-10-10,21.070403753332783
+Ireland,Weekly new hospital admissions,2021-10-17,386.2907354777677
+Ireland,Weekly new ICU admissions,2021-10-17,27.090519111427867
+Ireland,Weekly new hospital admissions,2021-10-24,357.1935112469748
+Ireland,Weekly new ICU admissions,2021-10-24,13.043583275872674
+Ireland,Weekly new hospital admissions,2021-10-31,406.357786671418
+Ireland,Weekly new ICU admissions,2021-10-31,39.130749827618025
+Ireland,Weekly new hospital admissions,2021-11-07,373.24715220189506
+Ireland,Weekly new ICU admissions,2021-11-07,34.11398702920546
+Ireland,Weekly new hospital admissions,2021-11-14,509.7031003187169
+Ireland,Weekly new ICU admissions,2021-11-14,20.067051193650272
+Ireland,Weekly new hospital admissions,2021-11-21,548.8338501463348
+Ireland,Weekly new ICU admissions,2021-11-21,32.10728190984043
+Ireland,Weekly new hospital admissions,2021-11-28,442.4784788199884
+Ireland,Weekly new ICU admissions,2021-11-28,42.140807506665574
+Ireland,Weekly new hospital admissions,2021-12-05,475.58911328951143
+Ireland,Weekly new ICU admissions,2021-12-05,33.11063446952295
+Ireland,Weekly new hospital admissions,2021-12-12,437.46171602157585
+Ireland,Weekly new ICU admissions,2021-12-12,37.124044708253
+Ireland,Weekly new hospital admissions,2021-12-19,332.10969725491196
+Ireland,Weekly new ICU admissions,2021-12-19,34.11398702920546
+Ireland,Weekly new hospital admissions,2021-12-26,428.43154298443324
+Ireland,Weekly new ICU admissions,2021-12-26,36.12069214857049
+Ireland,Weekly new hospital admissions,2022-01-02,811.7122207831534
+Ireland,Weekly new ICU admissions,2022-01-02,27.090519111427867
+Ireland,Weekly new hospital admissions,2022-01-09,1025.426315995529
+Ireland,Weekly new ICU admissions,2022-01-09,38.127397267935514
+Ireland,Weekly new hospital admissions,2022-01-16,977.2653931307682
+Ireland,Weekly new ICU admissions,2022-01-16,39.130749827618025
+Ireland,Weekly new hospital admissions,2022-01-23,774.5881760749005
+Ireland,Weekly new ICU admissions,2022-01-23,38.127397267935514
+Ireland,Weekly new hospital admissions,2022-01-30,639.1355805177611
+Ireland,Weekly new ICU admissions,2022-01-30,23.07710887269781
+Ireland,Weekly new hospital admissions,2022-02-06,642.1456381968087
+Ireland,Weekly new ICU admissions,2022-02-06,29.097224230792897
+Ireland,Weekly new hospital admissions,2022-02-13,641.1422856371262
+Ireland,Weekly new ICU admissions,2022-02-13,23.07710887269781
+Ireland,Weekly new hospital admissions,2022-02-20,617.0618242047458
+Ireland,Weekly new ICU admissions,2022-02-20,25.08381399206284
+Ireland,Weekly new hospital admissions,2022-02-27,610.0383562869682
+Ireland,Weekly new ICU admissions,2022-02-27,18.060346074285242
+Ireland,Weekly new hospital admissions,2022-03-06,721.4104904117272
+Ireland,Weekly new ICU admissions,2022-03-06,17.05699351460273
+Ireland,Weekly new hospital admissions,2022-03-13,940.1413484225152
+Ireland,Weekly new ICU admissions,2022-03-13,22.0737563130153
+Ireland,Weekly new hospital admissions,2022-03-20,1127.7682770831452
+Ireland,Weekly new ICU admissions,2022-03-20,23.07710887269781
+Ireland,Weekly new hospital admissions,2022-03-27,1500.012076725358
+Ireland,Weekly new ICU admissions,2022-03-27,31.103929350157923
+Ireland,Weekly new hospital admissions,2022-04-03,1209.039834417429
+Ireland,Weekly new ICU admissions,2022-04-03,42.140807506665574
+Ireland,Weekly new hospital admissions,2022-04-10,967.231867533943
+Ireland,Weekly new ICU admissions,2022-04-10,35.11733958888797
+Ireland,Weekly new hospital admissions,2022-04-17,756.5278300006153
+Ireland,Weekly new ICU admissions,2022-04-17,34.11398702920546
+Ireland,Weekly new hospital admissions,2022-04-24,526.7600938333196
+Ireland,Weekly new ICU admissions,2022-04-24,26.087166551745348
+Ireland,Weekly new hospital admissions,2022-05-01,403.3477289923704
+Ireland,Weekly new ICU admissions,2022-05-01,20.067051193650272
+Ireland,Weekly new hospital admissions,2022-05-08,352.17674844856225
+Ireland,Weekly new ICU admissions,2022-05-08,17.05699351460273
+Ireland,Weekly new hospital admissions,2022-05-15,289.96888974824645
+Ireland,Weekly new ICU admissions,2022-05-15,10.033525596825132
+Ireland,Weekly new hospital admissions,2022-05-22,244.8180245625333
+Ireland,Weekly new ICU admissions,2022-05-22,11.036878156507644
+Ireland,Weekly new hospital admissions,2022-05-29,246.82472968189833
+Ireland,Weekly new ICU admissions,2022-05-29,12.040230716190162
+Ireland,Weekly new hospital admissions,2022-06-05,297.9957102257065
+Ireland,Weekly new ICU admissions,2022-06-05,7.023467917777593
+Ireland,Weekly new hospital admissions,2022-06-12,425.4214853053858
+Ireland,Weekly new ICU admissions,2022-06-12,13.043583275872674
+Ireland,Weekly new hospital admissions,2022-06-19,554.85396550443
+Ireland,Weekly new ICU admissions,2022-06-19,13.043583275872674
+Ireland,Weekly new hospital admissions,2022-06-26,713.3836699342672
+Ireland,Weekly new ICU admissions,2022-06-26,17.05699351460273
+Ireland,Weekly new hospital admissions,2022-07-03,825.7591566187086
+Ireland,Weekly new ICU admissions,2022-07-03,27.090519111427867
+Ireland,Weekly new hospital admissions,2022-07-10,1012.3827327196564
+Ireland,Weekly new ICU admissions,2022-07-10,24.080461432380325
+Ireland,Weekly new hospital admissions,2022-07-17,837.7993873348988
+Ireland,Weekly new ICU admissions,2022-07-17,40.134102387300544
+Ireland,Weekly new hospital admissions,2022-07-24,694.3199713002995
+Ireland,Weekly new ICU admissions,2022-07-24,20.067051193650272
+Ireland,Weekly new hospital admissions,2022-07-31,422.41142762633814
+Ireland,Weekly new ICU admissions,2022-07-31,27.090519111427867
+Ireland,Weekly new hospital admissions,2022-08-07,412.3779020295131
+Ireland,Weekly new ICU admissions,2022-08-07,10.033525596825132
+Ireland,Weekly new hospital admissions,2022-08-14,365.2203317244349
+Ireland,Weekly new ICU admissions,2022-08-14,16.053640954920215
+Ireland,Weekly new hospital admissions,2022-08-21,303.01247302411906
+Ireland,Weekly new ICU admissions,2022-08-21,9.030173037142621
+Ireland,Weekly new ICU admissions,2020-04-05,4.013410238730054
+Ireland,Weekly new hospital admissions,2020-04-12,493.64945936379667
+Ireland,Weekly new ICU admissions,2020-04-12,47.15757030507813
+Ireland,Weekly new hospital admissions,2020-04-19,349.1666907695147
+Ireland,Weekly new ICU admissions,2020-04-19,59.1978010212683
+Ireland,Weekly new hospital admissions,2022-08-28,286.9588320691989
+Ireland,Weekly new ICU admissions,2022-08-28,10.033525596825132
+Ireland,Weekly new hospital admissions,2022-09-04,273.9152487933262
+Ireland,Weekly new ICU admissions,2022-09-04,15.0502883952377
+Ireland,Weekly new hospital admissions,2022-09-11,272.91189623364374
+Ireland,Weekly new ICU admissions,2022-09-11,5.016762798412566
+Ireland,Weekly new hospital admissions,2022-09-18,244.8180245625333
+Ireland,Weekly new ICU admissions,2022-09-18,4.013410238730054
+Ireland,Weekly new hospital admissions,2022-09-25,321.07281909840435
+Ireland,Weekly new hospital admissions,2022-10-02,364.2169791647524
+Ireland,Weekly new ICU admissions,2022-10-02,7.023467917777593
+Ireland,Weekly new hospital admissions,2022-10-09,446.4918890587186
+Ireland,Weekly new ICU admissions,2022-10-09,6.0201153580950795
+Ireland,Weekly new hospital admissions,2022-10-16,425.4214853053858
+Ireland,Weekly new ICU admissions,2022-10-16,9.030173037142621
+Ireland,Weekly new hospital admissions,2022-10-23,448.4985941780835
+Ireland,Weekly new ICU admissions,2022-10-23,11.036878156507644
+Ireland,Weekly new hospital admissions,2022-10-30,358.19686380665735
+Ireland,Weekly new ICU admissions,2022-10-30,20.067051193650272
+Ireland,Weekly new hospital admissions,2022-11-06,332.10969725491196
+Ireland,Weekly new ICU admissions,2022-11-06,14.046935835555187
+Ireland,Weekly new hospital admissions,2022-11-13,344.1499279711022
+Ireland,Weekly new ICU admissions,2022-11-13,11.036878156507644
+Ireland,Weekly new hospital admissions,2022-11-20,307.0258832628491
+Ireland,Weekly new ICU admissions,2022-11-20,15.0502883952377
+Ireland,Weekly new hospital admissions,2022-11-27,345.1532805307846
+Ireland,Weekly new ICU admissions,2022-11-27,8.026820477460108
+Ireland,Weekly new hospital admissions,2022-12-04,365.2203317244349
+Ireland,Weekly new ICU admissions,2022-12-04,11.036878156507644
+Ireland,Weekly new hospital admissions,2022-12-11,385.2873829180852
+Ireland,Weekly new ICU admissions,2022-12-11,12.040230716190162
+Ireland,Weekly new hospital admissions,2022-12-18,640.1389330774435
+Ireland,Weekly new ICU admissions,2022-12-18,6.0201153580950795
+Ireland,Weekly new hospital admissions,2022-12-25,735.4574262472825
+Ireland,Weekly new ICU admissions,2022-12-25,15.0502883952377
+Ireland,Weekly new hospital admissions,2023-01-01,651.1758112339513
+Ireland,Weekly new ICU admissions,2023-01-01,15.0502883952377
+Ireland,Weekly new hospital admissions,2023-01-08,677.2629777856965
+Ireland,Weekly new ICU admissions,2023-01-08,17.05699351460273
+Ireland,Weekly new hospital admissions,2023-01-15,370.2370945228475
+Ireland,Weekly new ICU admissions,2023-01-15,18.060346074285242
+Ireland,Weekly new hospital admissions,2023-01-22,258.86496039808844
+Ireland,Weekly new ICU admissions,2023-01-22,14.046935835555187
+Ireland,Weekly new hospital admissions,2023-01-29,237.79455664475572
+Ireland,Weekly new ICU admissions,2023-01-29,7.023467917777593
+Ireland,Weekly new hospital admissions,2023-02-05,194.6503965784076
+Ireland,Weekly new ICU admissions,2023-02-05,8.026820477460108
+Ireland,Weekly new hospital admissions,2023-02-12,215.72080033174043
+Ireland,Weekly new ICU admissions,2023-02-12,7.023467917777593
+Ireland,Weekly new hospital admissions,2023-02-19,203.68056961555027
+Ireland,Weekly new ICU admissions,2023-02-19,7.023467917777593
+Ireland,Weekly new ICU admissions,2023-02-26,6.0201153580950795

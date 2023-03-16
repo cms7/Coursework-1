@@ -1,0 +1,387 @@
+<!doctype html>
+<html>
+  <!--Set title of HTML File-->
+  <head>
+    <meta charset="utf-8">
+    <title id="title">Coursework 1 - Covid-19 Data</title>
+  </head>
+
+  <!--Load in scripts-->
+  <script src="https://d3js.org/d3.v7.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+  <link rel = "stylesheet" href = "Coursework1.css">
+
+  <!--Organise the DOM-->
+  <div id="containerDiv">    
+    <h1>Covid-19 Data Visualisation (Cases, Deaths, Vaccinations, Tests)</h1>
+    <h3 id="description">Use the select button to view data from specific country and hover over countries in choropleth to see data </h3>
+    <select id="selectButton"></select>
+    <div id="graph" width = "1536" height = "650" pointer-events="visible"></div>
+    <svg id="map" width = "1536" height = "650" pointer-events="visible"></svg>
+    <div id="footer"><h4>Data Provided by Our World in Data - https://github.com/owid/covid-19-data/tree/master/public/data</h4></div>
+  </div>
+
+
+  <script>
+
+  covidData = d3.csv("../data/owid-covid-data.csv");
+
+    // set the dimensions and margins of the graph
+  const margin = {top: 10, right: 30, bottom: 50, left: 60},
+      barwidth = 501 - margin.left - margin.right,
+      barheight = 400 - margin.top - margin.bottom;
+
+  // append the svg object to the body of the page
+  const bar = d3.select("#graph")
+    .append("svg")
+      .attr("width", barwidth + margin.left + margin.right)
+      .attr("height", barheight + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform", `translate(${margin.left}, ${margin.top})`);
+
+  //Read the data
+  covidData.then( function(data) {
+
+      // List of groups (here I have one group per column)
+      const allGroup = new Set(data.map(d => d.location))
+
+      // add the options to the button
+      d3.select("#selectButton")
+        .selectAll('myOptions')
+        .data(allGroup)
+        .enter()
+        .append('option')
+        .text(function (d) { return d; }) // text showed in the menu
+        .attr("value", function (d) { return d; }) // corresponding value returned by the button
+
+      // colour scale for country
+      const myColor = d3.scaleOrdinal()
+        .domain(allGroup)
+        .range(d3.schemeReds[4]);
+
+      function dateFormat(d){
+        const xdate = d3.timeParse("%Y-%m-%d")(d.date)
+        return xdate
+      }
+  
+      // Add X axis --> it is a date format
+      const x = d3.scaleTime()
+        .domain(d3.extent(data, function(d) { 
+          return dateFormat(d); 
+        }))
+        .range([ 0, barwidth ]);
+
+        bar.append("g")
+        .attr("transform", `translate(0, ${barheight})`)
+        .call(d3.axisBottom(x).ticks(7));
+
+        bar.append("text")      // text label for the x axis
+        .attr("x", 180 )
+        .attr("y",  375 )
+        .style("text-anchor", "middle")
+        .text("Date");
+
+      // Add Y axis
+      const y = d3.scaleLinear()
+        .domain([0, d3.max(data, function(d) { return +d.total_deaths_per_million; })])
+        .range([ barheight, 0 ]);
+        bar.append("g")
+        .call(d3.axisLeft(y));
+
+        bar.append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("y", 0 - margin.left)
+        .attr("x",0 - (180))
+        .attr("dy", "1em")
+        .style("text-anchor", "middle")
+        .text("Total deaths per million");
+
+      // initialize line with first group of country
+      const line = bar
+        .append('g')
+        .append("path")
+          .datum(data.filter(function(d){return d.location=="Afghanistan"}))
+          .attr("d", d3.line()
+            .x(function(d) { return x(dateFormat(d)) })
+            .y(function(d) { return y(+d.total_deaths_per_million) })
+          )
+          .attr("stroke", function(d){ return myColor("valueA") })
+          .style("stroke-width", 4)
+          .style("fill", "none")
+
+      // update the chart to chosen country
+      function update(selectedGroup) {
+        // find data for that country 
+        const dataFilter = data.filter(function(d){return d.location==selectedGroup})
+        // feed data into x and y 
+        line.datum(dataFilter)
+            .transition()
+            .duration(1000)
+            .attr("d", d3.line()
+              .x(function(d) { return x(dateFormat(d)) })
+              .y(function(d) { return y(+d.total_deaths_per_million) })
+            )
+            .attr("stroke", function(d){ return myColor(selectedGroup) })
+
+        lin.datum(dataFilter)
+            .transition()
+            .duration(1000)
+            .attr("d", d3.line()
+              .x(function(d) { return x(dateFormat(d)) })
+              .y(function(d) { return y(+d.total_vaccinations_per_hundred) })
+            )
+            .attr("stroke", function(d){ return myColor(selectedGroup) })
+
+        li.datum(dataFilter)
+            .transition()
+            .duration(1000)
+            .attr("d", d3.line()
+              .x(function(d) { return x(dateFormat(d)) })
+              .y(function(d) { return y(+d.total_tests_per_thousand) })
+            )
+            .attr("stroke", function(d){ return myColor(selectedGroup) })
+
+        
+      }
+
+      // When the button is changed update chart 
+      d3.select("#selectButton").on("change", function(event,d) {
+          // identify selected country
+          const selectedOption = d3.select(this).property("value")
+          // use update chart with selected country
+          update(selectedOption)
+      })
+
+      const scatter = d3.select("#graph")
+        .append("svg")
+        .attr("width", barwidth + margin.left + margin.right)
+        .attr("height", barheight + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+          const xScatter = d3.scaleTime()
+        .domain(d3.extent(data, function(d) { 
+          return dateFormat(d); 
+        }))
+        .range([ 0, barwidth ]);
+
+        scatter.append("g")
+        .attr("transform", `translate(0, ${barheight})`)
+        .call(d3.axisBottom(xScatter).ticks(7));
+
+        scatter.append("text")      // text label for the x axis
+        .attr("x", 180 )
+        .attr("y",  375 )
+        .style("text-anchor", "middle")
+        .text("Date");
+
+      // Add Y axis
+      const yScatter = d3.scaleLinear()
+        .domain([0, 100])
+        .range([ barheight, 0 ]);
+        scatter.append("g")
+        .call(d3.axisLeft(yScatter));
+
+        scatter.append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("y", 0 - margin.left)
+        .attr("x",0 - (180))
+        .attr("dy", "1em")
+        .style("text-anchor", "middle")
+        .text("Total Vaccinations per Hundred");
+
+        const lin = scatter
+        .append('g')
+        .append("path")
+          .datum(data.filter(function(d){return d.location=="Afghanistan"}))
+          .attr("d", d3.line()
+            .x(function(d) { return x(dateFormat(d)) })
+            .y(function(d) { return y(+d.total_vaccinations_per_hundred) })
+          )
+          .attr("stroke", function(d){ return myColor("valueA") })
+          .style("stroke-width", 4)
+          .style("fill", "none")
+
+    const chart = d3.select("#graph")
+        .append("svg")
+        .attr("width", barwidth + margin.left + margin.right)
+        .attr("height", barheight + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+      const xChart = d3.scaleTime()
+        .domain(d3.extent(data, function(d) { 
+          return dateFormat(d); 
+        }))
+        .range([ 0, barwidth ]);
+
+        chart.append("g")
+        .attr("transform", `translate(0, ${barheight})`)
+        .call(d3.axisBottom(xChart).ticks(7));
+
+        chart.append("text")      // text label for the x axis
+        .attr("x", 180 )
+        .attr("y",  375 )
+        .style("text-anchor", "middle")
+        .text("Date");
+
+      // Add Y axis
+      const yChart = d3.scaleLinear()
+        .domain([0, d3.max(data, function(d) { return +d.total_tests_per_thousand; })])
+        .range([ barheight, 0 ]);
+        
+      chart.append("g")
+        .call(d3.axisLeft(yChart));
+
+        chart.append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("y", 0 - margin.left)
+        .attr("x",0 - (180))
+        .attr("dy", "1em")
+        .style("text-anchor", "middle")
+        .text("Total Tests per Thousand");
+
+        const li = chart
+        .append('g')
+        .append("path")
+          .datum(data.filter(function(d){return d.location=="Afghanistan"}))
+          .attr("d", d3.line()
+            .x(function(d) { return x(dateFormat(d)) })
+            .y(function(d) { return y(+d.total_tests_per_thousand) })
+          )
+          .attr("stroke", function(d){ return myColor("valueA") })
+          .style("stroke-width", 4)
+          .style("fill", "none")
+
+  })
+
+  
+          
+  // create a choropleth 
+
+  //load in data 
+    mapData = d3.json("../data/atlas.json");
+
+    //create svg and append to map
+    const svg = d3.select("#map"),
+      width = +svg.attr("width"),
+      height = +svg.attr("height");
+
+      // configure speed of animations
+      const config = {
+            speed: 0.005,
+            verticalTilted: -10,
+            horizontalTilted: 0
+        }
+
+      // Drawing Ocean on Map
+      svg.append('circle')
+        .attr('cx', width/2 +19)
+        .attr('cy', height/2+21)
+        .attr('r', 250)
+        .attr('stroke', 'black')
+        .attr('fill', '#bcddf5');
+
+      // Map and projection
+      const projection = d3.geoOrthographic()
+        .scale(250)
+        .center([0,0])
+        .clipAngle(90)
+        .rotate(0,0)
+        .translate([width / 2, height / 2])
+
+      const path = d3.geoPath().projection(projection);
+
+      // call rotate function to spin globe
+      Rotate();
+
+      // Data and color scale
+      const data = new Map();
+      const colorScale = d3.scaleThreshold()
+        .domain([0,100,1000,10000,50000,100000,250000,500000])
+        .range(d3.schemeReds[8]);
+
+      // create legend for choropleth
+      var legend = d3.legendColor().scale(colorScale).labelFormat(d3.format(".0f")).title("Total Cases Per Million");
+
+      // Load external data and boot
+      Promise.all([ mapData, d3.csv("../data/owid-covid-data.csv", function(d) {
+          data.set(d.iso_code,d.total_cases_per_million)
+      })])
+          .then(function(loadData){
+          let topo = loadData[0];
+          console.log(loadData)
+
+          let mouseOver = function(d) {
+
+          // highlight country on mouseover
+          d3.selectAll(".Country")
+            .transition()
+            .duration(200)
+            .style("opacity", 0.5)
+          d3.select(this)
+            .transition()
+            .duration(200)
+            .style("opacity", 1)
+            .style("stroke", "black");
+          }
+
+          // return to normal on mouseleave
+          let mouseLeave = function(d) {
+            d3.selectAll(".Country")
+              .transition()
+              .duration(200)
+              .style("opacity", .8)
+            d3.select(this)
+              .transition()
+              .duration(200)
+              .style("stroke", "transparent");   
+          }
+
+        // Draw the map
+        d3.select("#map")
+        .append("g")
+          .attr("transform","translate(20,20)").call(legend)
+          .selectAll("path")
+          .data(topo.features)
+          .enter()
+          .append("path")
+            // draw each country
+            .attr("d", d3.geoPath().projection(projection))
+            // set the color of each country
+            .attr("fill", function (d) {
+              d.total = data.get(d.id) || 0;
+              return colorScale(d.total);
+            })
+            .style("stroke", "transparent")
+            .attr("class", function(d){ return "Country" } )
+            .style("opacity", .8)
+            .on("mouseover", mouseOver)
+            .on("mouseleave", mouseLeave)
+            .append('title')
+            .text(d=> {
+            // base case 
+            if(d.total == 0){
+              return d.properties.name + "- No data availible from this country"
+            }
+              else {
+                return d.properties.name + "- confirmed total cases per million: " + d.total 
+              }
+            })
+        })
+
+        // function rotates the globe using a timer which updates poisiton
+        function Rotate() {
+            d3.timer(function (elapsed) {
+                  projection.rotate(
+                    [config.speed*elapsed-120, 
+                    config.verticalTilted, 
+                    config.horizontalTilted]);
+                    svg.selectAll("path").attr("d", path);
+                });
+              }
+
+
+  </script>
